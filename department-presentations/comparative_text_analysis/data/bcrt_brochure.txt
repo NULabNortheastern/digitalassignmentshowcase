@@ -1,0 +1,266 @@
+BUILDING
+
+CLIMATE RESILIENT
+TRANSPORTATION
+
+CLIMATE CHANGE ALREADY DISRUPTING
+U.S. TRANSPORTATION
+State and regional transportation agencies across the
+country are facing extreme weather events that damage
+roads and bridges and cost large sums to repair, not to
+mention the cost to the economy from disrupted travel.
+Extreme weather events—including heat waves, drought,
+tropical storms, high winds, storm surges and heavy
+downpours—are becoming more frequent and severe as
+the climate changes.
+
+FHWA IS RESPONDING
+These climate risks threaten the considerable federal
+investment in transportation infrastructure and FHWA is
+responding:
+• 	FHWA issued an order committing the agency to
+integrating climate risk considerations into the delivery
+and stewardship of FHWA programs.
+•	Climate adaptation activities are eligible for FHWA
+funding, including vulnerability assessments and design
+and construction of projects or features to protect assets
+from damage associated with climate change.
+•	FHWA’s updated emergency relief program guidance
+reflects climate resilience.
+•	Transportation law passed in 2012 requires states to
+develop risk-based asset management plans and to
+consider alternatives for facilities repeatedly needing
+repair or replacement with federal funding.
+
+•	FHWA developed tools and guidance for systematic
+consideration of climate risks at transportation system
+and project levels.
+
+WHAT CAN TRANSPORTATION AGENCIES
+DO TO BUILD RESILIENCE?
+Know your vulnerabilities
+Departments of transportation (DOTs), metropolitan planning
+organizations (MPOs), and others can begin with a vulnerability
+assessment for their area using FHWA’s Vulnerability
+Assessment Framework, a guidebook and online resource
+detailing key steps and in-practice examples. Based on
+the experience of pilot projects and other work, each step
+of the framework has tools, case studies, videos and other
+resources associated with it. For instance, FHWA’s Climate
+Data Processing Tool processes publicly available, but large
+and unwieldy data sets into local temperature and precipitation
+projections tailored to transportation practitioners.
+Using the FHWA framework and climate data from its local
+university, the Washington State Department of Transportation
+(WSDOT) held workshops with maintenance and engineering
+staff in all regions of the state. WSDOT asked participants,
+“What keeps you up at night?” and “What happens if the
+climate-related conditions get worse?” The DOT leveraged
+local staff knowledge and GIS overlays of climate and asset
+management data to develop a map showing road segments
+at high, medium, and low vulnerability.
+
+MN DOT
+
+North Coast Land Conservancy.
+
+As part of an FHWA pilot, Minnesota DOT assessed vulnerability
+to climate change in two districts and analyzed adaptation options
+for two facilities at high risk of flash flooding.
+
+Oregon purchased land and removed a levee to allow flood water to
+flow onto a natural floodplain. This protected the highway from flooding
+and provided habitat. Oregon DOT is now conducting an FHWA-funded
+pilot analyzing protection options for other vulnerable sites.
+
+C L I M AT E
+CHANGE
+
+Transportation Agencies Using FHWA
+Resources to Build Resilience
+FHWA partnered with 22 climate resilience pilots in
+two rounds as well as four cooperative projects in the
+Gulf Coast, Northeast, Southeast, and New Mexico.
+These 26 projects are shown in the map below. In
+total, at FHWA’s latest count, 24 state DOTs and 30
+MPOs have conducted vulnerability assessments of
+the highway system to address climate change and
+extreme weather events.
+
+IOWA DOT
+
+State DOT Pilot
+
+Iowa DOT and local universities used global climate models
+and the state’s hydrological model to project future flood
+frequencies and identify bridge and roadway vulnerabilities in
+two river basins. Iowa plans to integrate the information into
+its real-time warning system to protect the traveling public.
+The results of the pilot may also influence guidelines for the
+design of bridges and culverts on Iowa’s primary highways.
+
+MPO Pilot
+Cooperative Projects
+
+FHWA
+In Albuquerque, New Mexico, FHWA partnered with the
+MPO on a scenario planning process to assess the impact
+of growth scenarios on climate resilience and mitigation,
+along with other community goals. The project analyzed how
+different scenarios performed on development in wildfire risk
+areas, development in flood risk areas, water consumption,
+and emissions levels. During stakeholder workshops,
+participants discussed policies that would help achieve
+a preferred scenario for the 2040 metropolitan
+transportation plan.
+
+San Francisco’s Metropolitan Transportation Commission
+(MTC) analyzed options for protecting transportation
+infrastructure, including an artificial dune or living levee
+north of the Bay Bridge touchdown to protect the bridge.
+
+In Texas, increases in heat waves, wildfires, and
+droughts threaten transportation. The MPO for Austin,
+TX identified areas where clay soils shrink during heat
+waves and drought, cracking pavements.
+
+EPA
+
+CAMPO
+2
+
+M
+
+MA DOT
+
+PANYNJ
+
+The Massachusetts Department of Transportation developed
+high resolution computer modeling of coastal storm
+inundation and risks to the Central Artery highway tunnel
+system in Boston.
+
+New Jersey’s 2011 climate pilot analysis of which roads could flood
+with higher sea levels and storm surge was unfortunately validated
+when Superstorm Sandy hit in October 2012. Following the storm,
+FHWA partnered with the tri-state region on a multi-jurisdictional
+vulnerability assessment and analysis of adaptation solutions for
+particularly vulnerable assets, such as the Hugh L. Carey Tunnel
+and NJ 7. Photo shows flood protection installed by the Port
+Authority of NY and NJ.
+
+Nashville MTA
+Tennessee DOT conducted a multimodal vulnerability assessment
+for the state, obtaining key information for asset management.
+Landslides, tornados, and river flooding (such as that shown above
+in 2010), are risks.
+
+Phase I of the U.S. DOT Gulf Coast Study, completed in
+2008, found that with four feet of sea level rise, 27% of
+the Gulf Coast region’s major highways, 9% of rail lines,
+and 72% of ports would be inundated. Gulf Coast Phase
+II focused in-depth on Mobile, Alabama and developed
+nationally applicable tools.
+
+FHWA
+
+Maryland DOT used FHWA’s Vulnerability Assessment
+Scoring Tool to prioritize climate risks to bridges, culverts,
+and road segments in two counties particularly exposed to
+sea level rise and storm surge.
+
+MD DOT
+3
+
+Use the transportation planning process
+
+Agencies can prioritize “no regrets” actions that improve
+resilience of assets to existing stressors, have co-benefits, or
+cost little relative to the overall value of the asset. They can
+build flexibility into designs to allow for changes in the future
+given inevitable uncertainty regarding future emissions levels
+and precise timing and severity of impacts. For example,
+agencies can design flood walls that can be heightened in the
+future with minimum additional expense.
+
+The metropolitan and statewide transportation planning
+process provides key opportunities for taking climate
+change into account. Resilience and sustainability should
+be considered early during decision-making at the systemwide level, when options and priorities are considered for
+transportation investments to meet multiple community
+goals. FHWA’s report, Integrating Climate Change into the
+Transportation Planning Process, provides more information.
+
+FHWA’s updated Hydraulic Engineering Circular (HEC) 25:
+Highways in the Coastal Environment, includes guidance
+on estimating future sea levels and storm surges along with
+designing protection measures such as revetments, beach
+nourishment, and bridge deck elevation. FHWA is also updating
+engineering guidance on riverine areas and hydrology. Finally,
+FHWA is conducting research to better pinpoint projections
+for the input variables transportation engineers need when
+designing infrastructure, including precipitation patterns, geohazards, and watershed sensitivity.
+Operations and maintenance
+
+Rob Kafalenos
+
+Operations and maintenance strategies can also lessen
+climate impacts on transportation. Examples include
+more frequent cleaning of storm-drains, improved plans
+for weather emergencies, closures and rerouting, traveler
+information systems, debris removal, early warning
+systems, prepositioning materials, damage repairs, and
+performance monitoring. See FHWA’s white paper on this
+topic and primer for more information.
+
+FHWA staff inspects a culvert in Mobile, Alabama. The culvert meets state
+standards under current conditions, but would be overtopped by a 25-yr
+rainfall under wetter climate change projections, flooding the road and the
+nearby Interstate highway. Using the 11-Step process, FHWA found that
+to avoid flooding, the DOT could widen the culvert by adding an additional
+cell to each side ($1.7 million cost, $6 million benefit). Alternatively, the DOT
+could replace the existing culvert with the largest crossing that will fit within the
+available space ($2.5 million cost, $6.5 million benefit).
+
+Incorporate climate risks into design and asset
+management
+Transportation agencies can consider climate change
+impacts when planning new assets or rehabilitating existing
+assets, especially as part of strategic asset management
+efforts. Risk-based asset management serves as a climate
+adaptation strategy by providing a platform for inventorying
+assets, evaluating risks to those assets, and prioritizing
+capital improvements.
+
+CO DOT
+
+Agencies can use FHWA’s 11-step process for engineering
+transportation assets to be more resilient to climate
+impacts. Developed under Phase II of the Gulf Coast
+Study, the process includes consideration of multiple
+alternatives and cost benefit analysis. FHWA is now adding
+to this work by developing specific recommendations and
+approaches based on a cross-cutting analysis of a diverse
+set of transportation assets nation-wide.
+
+Using FHWA Emergency Relief (ER) funds, Colorado DOT rebuilt this
+roadway damaged by 2013 flooding to be more resilient to future floods
+by shifting the road a few feet further from the river, and using grouted
+riprap and native vegetation to stabilize the riverbank. Betterments
+involving added protective features are eligible for FHWA ER funds
+if economically justified. In addition, repaired facilities may be built
+to current design standards (which may be more resilient), without
+being considered a betterment. Finally, states may use their regularly
+apportioned Federal-aid funds for incremental costs.
+
+FHWA will continue partnering with federal, state and local agencies on the shared goal of a transportation system
+that provides safe mobility under current and future conditions, supporting the nation’s economy and quality of life.
+LEARN MORE
+FHWA’s climate change website offers publications, policies, guidance, webinar recordings, and tools for assessing vulnerabilities and
+building resilience.
+http://www.fhwa.dot.gov/environment/climate_change/adaptation/
+Contact: Michael Culp, Sustainable Transport and Climate Change Team Leader, michael.culp@dot.gov, 202-366-9229
+
+4
+
+

@@ -21,24 +21,23 @@ This module will demonstrate how to create a corpus of texts to be used for comp
 
 ## Learning Objectives
 - Important definitions, such as corpus, research method, computational text analysis, and more
-- The ethical implications for creating a corpus
+- The ethical implications of creating a corpus
 - A step-by-step process for building a corpus that can be used for this project and future projects
 - Computational text analysis tools
 
 ## Documents for Module
 
-Handouts
+### Handouts
 
-Day 1 handout
+[Day 1 handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/textanalysis/Lewis-IncarcerationArchives/day1-corpus_building_handout.pdf)
 
 Day 2 handout
 
-Slides/Jupyter Notebook
+### Slides
 
-Day 1 slides
+[Day 1 slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/textanalysis/Lewis-IncarcerationArchives/day1-corpus_building_slides.pdf)
 
 Day 2 slides
 
-Data and Data Documentation
-
-Day 1 data
+### Data
+[Day 1 data](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/textanalysis/Lewis-IncarcerationArchives/data)

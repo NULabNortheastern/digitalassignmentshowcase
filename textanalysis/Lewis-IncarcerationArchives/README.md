@@ -1,10 +1,9 @@
 # Corpus Building and Computational Text Analysis
-
-## Text Analysis
-	How to create a corpus (of texts): tools and methodologies (Day I)
-		Part I: Questions involved in creating a corpus 
-		Part II: How to create a corpus 
-	How to analyze data using Voyant (Day II)
+This module will go over: 
+- How to create a corpus (of texts): tools and methodologies (Day I)
+	- Part I: Questions involved in creating a corpus 
+	- Part II: How to create a corpus
+- How to analyze a corpus using Voyant, Storybench, and other web-broswer tools (Day II)
 
 ## Individual Class Info
 ENGL 3370: Writing Cultures

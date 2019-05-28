@@ -4,6 +4,8 @@ This module will go over:
 	- Part I: Questions involved in creating a corpus 
 	- Part II: How to create a corpus
 - How to analyze a corpus using Voyant, Storybench, and other web-broswer tools (Day II)
+	- Part I: Show how to use tools and explain some of the background
+	- Part II: Have students use tools to analyze their corpora
 
 ## Individual Class Info
 ENGL 3370: Writing Cultures

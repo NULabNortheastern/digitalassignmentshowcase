@@ -11,8 +11,8 @@ If you are a Northeastern faculty member interested in working with the Digital 
 - Sarah Connell, Digital Teaching Integration Co-Director. sa.connell [at] northeastern [dot] edu
 - Laura Nelson, Digital Teaching Integration Co-Director. l.nelson [at] northeastern [dot] edu
 - Cara Marta Messina, Digital Teaching Integration Assistant Director. messina.c [at] husky [dot] neu [dot] edu
-- Molly Nebiolo, Digital Teaching Integration Research Fellows. nebiolo.m [at] husky [dot] neu [dot] edu
-- Garrett Morrow, Digital Teaching Integration Research Fellows. morrow.g [at] husky [dot] neu [dot] edu
+- Molly Nebiolo, Digital Teaching Integration Research Fellow. nebiolo.m [at] husky [dot] neu [dot] edu
+- Garrett Morrow, Digital Teaching Integration Research Fellow. morrow.g [at] husky [dot] neu [dot] edu
 
 
 # Contributors

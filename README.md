@@ -1,8 +1,8 @@
 # Digital Assignment Showcase
 
-This repository holds the materials for the Digital Teaching Integration initiative, led by the NULab for Texts, Maps, and Networks at Northeastern University. The goal of the Digital Teaching Integration is to integrate digital methods into courses in a way that mirrors the themes of the course and can enhance digital literacies. 
+The goal of the Digital Teaching Integration is to integrate digital methods into courses in a way that mirrors the themes of the course and can enhance digital literacies.  All of the work put into each module or workshop is posted here, including copies of the slides, handouts, examples and activities used in each class.
 
-Each folder contains the materials for the different courses and is labeled by the theme of the material. For example, the "Introduction to Computational Social Science" folder contains classroom materials used in a Sociology course, introduction to research methods. This ReadMe will contain basic information about what materials be found in each folder, in what settings it might be useful, and what tools/expertises may be needed.
+This repository is organized by course, not by digital tool or skill. For example, the "Introduction to Computational Social Science" folder contains classroom materials used in a Sociology course, introduction to research methods. This ReadMe will contain basic information about what materials be found in each folder, in what settings it might be useful, and what tools/expertises may be needed.
 
 # Contact Information
 

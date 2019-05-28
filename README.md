@@ -4,8 +4,6 @@ This repository holds the materials for the Digital Teaching Integration initiat
 
 Each folder contains the materials for the different courses and is labeled by the theme of the material. For example, the "Introduction to Computational Social Science" folder contains classroom materials used in a Sociology course, introduction to research methods. This ReadMe will contain basic information about what materials be found in each folder, in what settings it might be useful, and what tools/expertises may be needed.
 
-These resources and materials have been created by Sarah Connell, Cara Marta Messina, Laura Nelson, and Alexis Yohros.
-
 # Contact Information
 
 If you are a Northeastern faculty member interested in working with the Digital Teaching Integration team, please reach out to us via email:
@@ -15,3 +13,7 @@ If you are a Northeastern faculty member interested in working with the Digital 
 - Cara Marta Messina, Digital Teaching Integration Assistant Director. messina.c [at] husky [dot] neu [dot] edu
 - Molly Nebiolo, Digital Teaching Integration Research Fellows. nebiolo.m [at] husky [dot] neu [dot] edu
 - Garrett Morrow, Digital Teaching Integration Research Fellows. morrow.g [at] husky [dot] neu [dot] edu
+
+
+# Contributors
+These resources and materials have been created by Sarah Connell, Cara Marta Messina, Laura Nelson, Alexis Yohros, Molly Nebiolo, and Garrett Morrow. 

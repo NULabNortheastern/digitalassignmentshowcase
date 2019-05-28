@@ -15,7 +15,6 @@ Summer I 2019<br>
 Number of students: 12<br>
 Time: MTWR, 1:30–3:10pm<br>
 Location: 100 Hastings Hall<br>
-Notes from Consultation with Rachel
 
 ## Summary of Module
 This module will demonstrate how to create a corpus of texts to be used for computational text analysis. It is a two-day workshop module. The first day will go over the basics of research methods, the process of building a corpus, and discussion questions based on an example corpus. For the second day, the students will bring in the beginnings of their corpora and use the example corpus and their own corpus to begin practicing computational text analysis using digital technologies like Voyant, SameDiff, sentiment analysis tools, and more. 

@@ -8,6 +8,7 @@
 
 ## Individual Class Info
 ENGL 3370: Writing Cultures
+
 Rachel Lewis
 Summer I 2019
 Number of students: 12

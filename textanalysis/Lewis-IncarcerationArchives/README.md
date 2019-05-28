@@ -8,12 +8,13 @@
 
 ## Individual Class Info
 ENGL 3370: Writing Cultures
-
+<br>
 Rachel Lewis
-Summer I 2019
-Number of students: 12
-Time: MTWR, 1:30–3:10pm
-Location: 100 Hastings Hall
+<br>
+Summer I 2019<br>
+Number of students: 12<br>
+Time: MTWR, 1:30–3:10pm<br>
+Location: 100 Hastings Hall<br>
 Notes from Consultation with Rachel
 
 ## Summary of Module

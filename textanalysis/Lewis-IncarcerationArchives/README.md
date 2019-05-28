@@ -42,4 +42,4 @@ This module will demonstrate how to create a corpus of texts to be used for comp
 [Day 2 slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/textanalysis/Lewis-IncarcerationArchives/day2-text_analysis_presentation.pdf)
 
 ### Data
-[Day 1 data](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/textanalysis/Lewis-IncarcerationArchives/data)
+[Data for both days](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/textanalysis/Lewis-IncarcerationArchives/data)

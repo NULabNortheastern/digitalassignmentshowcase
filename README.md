@@ -1,6 +1,6 @@
 # Digital Assignment Showcase
 
-The goal of the Digital Teaching Integration is to integrate digital methods into courses in a way that mirrors the themes of the course and can enhance digital literacies.  All of the work put into each module or workshop is posted here, including copies of the slides, handouts, examples and activities used in each class.
+The goal of the Digital Teaching Integration Initiative is to integrate digital methods into courses in a way that mirrors the themes of the course and can enhance digital literacies.  All of the work put into each module or workshop is posted here, including copies of the slides, handouts, examples and activities used in each class.
 
 This repository is organized by course, not by digital tool or skill. For example, the "Introduction to Computational Social Science" folder contains classroom materials used in a Sociology course, introduction to research methods. This ReadMe will contain basic information about what materials be found in each folder, in what settings it might be useful, and what tools/expertises may be needed.
 

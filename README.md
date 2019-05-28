@@ -10,6 +10,8 @@ These resources and materials have been created by Sarah Connell, Cara Marta Mes
 
 If you are a Northeastern faculty member interested in working with the Digital Teaching Integration team, please reach out to us via email:
 
-- Cara Marta Messina, NULab Coordinator. messina.c [at] husky [dot] neu [dot] edu
-- Alexis Yohros, Digital Teaching Integration Research assistant. yohros.a [at] husky [dot] neu [dot] edu
-- Sarah Connell, NULab Assistant Director. sa.connell [at] northeastern [dot] edu
+- Sarah Connell, Digital Teaching Integration Co-Director. sa.connell [at] northeastern [dot] edu
+- Laura Nelson, Digital Teaching Integration Co-Director. l.nelson [at] northeastern [dot] edu
+- Cara Marta Messina, Digital Teaching Integration Assistant Director. messina.c [at] husky [dot] neu [dot] edu
+- Molly Nebiolo, Digital Teaching Integration Research Fellows. nebiolo.m [at] husky [dot] neu [dot] edu
+- Garrett Morrow, Digital Teaching Integration Research Fellows. morrow.g [at] husky [dot] neu [dot] edu

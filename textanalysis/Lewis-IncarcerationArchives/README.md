@@ -24,7 +24,7 @@ This module will demonstrate how to create a corpus of texts to be used for comp
 - Describe ethical implications of creating a corpus
 - Follow a step-by-step process for building a corpus that can be used for this project and future projects
 - Use computational text analysis web-browser tools, such as Voyant and Storybench
-- Create visualizations and explain results from comptuational text analysis tools
+- Create visualizations and explain results from computational text analysis tools
 
 ## Documents for Module
 

@@ -39,5 +39,5 @@ The [“Boston Playground” StoryMap](https://uploads.knightlab.com/storymapjs/
 ### Sample Data
 In the sample data are a [series of images of Boston playgrounds](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/mapping/science_of_play-summer2019-mann/data) and a [document with a list of playgrounds, their locations, descriptions from websites, and the image sources](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/science_of_play-summer2019-mann/data/parks_locations_and_descriptions.pdf).
 
-##DTI Consultants
+## DTI Consultants
 Created by Molly Nebiolo and Cara Marta Messina

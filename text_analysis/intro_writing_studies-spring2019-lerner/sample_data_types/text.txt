@@ -1,0 +1,5 @@
+Hello! This is a txt file! We know what a txt file is because it ends with .txt and, as you can see, this is a bunch of text that is NOT formatted. 
+
+This is different from a .docx or .doc file because .doc/.docx typically have formatting. We all know the typical Times New Roman 12 point font! 
+
+.txt files are often used for data collection and data manipulation. For example, when you see "word clouds," the input data is typically in .txt format (or copy and pasted into unformatted text)

@@ -29,19 +29,15 @@ This module will go over components of storytelling and how these components may
 
 ## Documents for Module
 
-### Handouts
+### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/science_of_play-summer2019-mann/handout.pdf)
 
-[Day 1 handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/textanalysis/Lewis-IncarcerationArchives/day1-corpus_building_handout.pdf)
-
-### Slides
-
-[Day 1 slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/textanalysis/Lewis-IncarcerationArchives/day1-corpus_building_slides.pdf)
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/science_of_play-summer2019-mann/presentation.pdf)
 
 ### Sample Map
 The [“Boston Playground” StoryMap](https://uploads.knightlab.com/storymapjs/cb6cc275d5edffc5016e0757d6c37d3d/boston-playgrounds)
 
 ### Sample Data
-In the sample data are a series of images of Boston playgrounds and a document with a list of playgrounds, their locations, descriptions from websites, and the image sources.
+In the sample data are a [series of images of Boston playgrounds](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/mapping/science_of_play-summer2019-mann/data) and a [document with a list of playgrounds, their locations, descriptions from websites, and the image sources](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/science_of_play-summer2019-mann/data/parks_locations_and_descriptions.pdf).
 
 ##DTI Consultants
 Created by Molly Nebiolo and Cara Marta Messina

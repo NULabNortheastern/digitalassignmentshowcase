@@ -1,5 +1,3 @@
-!!! save as README.md in the correct module folder!!!
-
 # Name of Digital Proficiency
 The name of the overall digital proficiency and the basic breakdown of what this module will cover.
 

@@ -9,7 +9,7 @@ Instructor Name: Kirsten Rodine-Hardy
 Fall 2018
 <br>
 Number of students:<br>
-POLS 2239: 40 students
+POLS 2239: 40 students<br>
 POLS 3405: 40 students
 <br>
 Date and Time: 

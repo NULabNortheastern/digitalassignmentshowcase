@@ -3,12 +3,15 @@
 ## Individual Class Info
 EESH 2000 Co-op Course, English and Political Science
 <br>
-Lisa Doherty
+Name of Instructor: Lisa Doherty
 <br>
 Fall 2018 and Spring 2019
 <br>
 Number of students:<br>Fall: 19 students<br>Spring: 19 students
 <br>
+Date and Time: 
+<br>
+Location: <br>
 
 ## Summary of Module
 This module is an introduction to using Excel; including basic terminology, navigating the software, and basic functions.

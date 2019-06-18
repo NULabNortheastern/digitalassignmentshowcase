@@ -19,7 +19,7 @@ Spring 2019
 This module will show students what STATA is and how the program works. Students will have the opportunity to play around with STATA using a test dataset and they will learn briefly about similar programs to STATA.  
 
 ## Learning Objectives
-- Understand what STATA is
+- Understand what you are able to do using STATA
 - Learn the basics of STATA
 - Use STATA on a test data set
 - Learn why STATA is useful for econometrics

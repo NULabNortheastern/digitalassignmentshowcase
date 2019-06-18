@@ -3,13 +3,15 @@
 ## Individual Class Info
 POLS 3409 Global Governance
 <br>
-Denise Garcia
+Instructor Name: Denise Garcia
 <br>
 Spring 2019
 <br>
 Number of students: 21
 <br>
-
+Date and Time: 
+<br>
+Location: <br>
 
 ## Summary of Module
 This module demonstrates how to use excel to retrieve and clean data from the United Nations Sustainable Goals database.

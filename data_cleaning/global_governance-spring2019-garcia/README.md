@@ -38,6 +38,6 @@ Sample data includes selected datasets from the UN Sustainable Goals on poverty 
 [Sample UN Sustainable Goals Data](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/data_cleaning/global_governance-spring2019-garcia/data)
 
 ## DTI Consultants
-Created by 
-[Alexis Yohros](Yohros.a@husky.neu.edu)
+Created by<br>
+[Alexis Yohros](Yohros.a@husky.neu.edu)<br>
 [Sarah Connell](sa.connell@northeastern.edu)

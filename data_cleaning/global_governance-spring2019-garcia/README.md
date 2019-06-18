@@ -34,7 +34,7 @@ Students will also learn how to use excel to filter, sort, and clean the data th
 [UN Data Collection and Cleaning](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_cleaning/global_governance-spring2019-garcia/Denise_PP.pdf)
 
 ### Data
-Sample data includes selected datasets from the UN Sustainable Goals on poverty and human trafficking.
+Sample data includes selected datasets from the UN Sustainable Goals on poverty and human trafficking.<br>
 [Sample UN Sustainable Goals Data](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/data_cleaning/global_governance-spring2019-garcia/data)
 
 ## DTI Consultants

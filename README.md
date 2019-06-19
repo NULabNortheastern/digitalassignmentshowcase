@@ -2,7 +2,7 @@
 
 The goal of the Digital Teaching Integration Initiative is to integrate digital methods into courses in a way that mirrors the themes of the course and can enhance digital literacies.  All of the work put into each module or workshop is posted here, including copies of the slides, handouts, examples and activities used in each class.
 
-This repository is organized by course, not by digital tool or skill. For example, the "Introduction to Computational Social Science" folder contains classroom materials used in a Sociology course, introduction to research methods. This ReadMe will contain basic information about what materials be found in each folder, in what settings it might be useful, and what tools/expertises may be needed.
+This repository is organized by digital tool and within each parent section you will find subfolders organized by course. For example, if you want to check out course modules made for working with text analysis, click on the "text_analysis" folder and you will find the various classes that have used a text analysis module, like an Introduction to Writing Studies course offered Spring 2019 with Professor Lerner ("intro_writing_studies-spring2019-lerner"). Each course folder has a README.md containing basic information about that specific course and the materials for that particular module. 
 
 # Contact Information
 

@@ -46,11 +46,10 @@ In this module the students will learn the basics of using Twitter data. Student
 [What Can we Learn From Twitter? (Prepared for Professor Kirsten Rodine-Hardy)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/twitter/campaign_strategy-fall2018-panagopoulos/PoliticalScience_Twitter_KirstenModule_FilledIn.ipynb)
 
 ### Data
-A bit of documentation about the data
 [Images used in Jupyter Notebooks](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/twitter/campaign_strategy-fall2018-panagopoulos/images)
 
 ## DTI Consultants
 Created by:<br>
-[Cara Messina](messina.c@husky.neu.edu)
-[Alexis Yohros](yohros.a@husky.neu.edu)
+[Cara Messina](messina.c@husky.neu.edu)<br>
+[Alexis Yohros](yohros.a@husky.neu.edu)<br>
 [Laura Nelson](l.nelson@northeastern.edu)

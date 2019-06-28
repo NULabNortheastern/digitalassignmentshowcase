@@ -48,7 +48,7 @@ This module provides students with a video showing them how to use browser text 
 
 ### Text analysis
 
-[Text analysis video](GitHub link)
+[Text analysis video]( https://youtu.be/4PTI1jmt25M)
 
 [Video script with timestamps](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/advanced_business_writing-summer2019-white/text_analysis_script.pdf)
 

@@ -4,41 +4,46 @@ This presenetaion shows the basics for using WordPress and how to create a digit
 Day 1:
 - Introduction to WordPress
 - WordPress for building a digital archive
+- Feminist practices for collaboration
 
 Day 2:
-- Workshopping colaborative WordPress pages
+- Workshopping collaborative WordPress pages
 - Introducing other archival approaches (KnightLab Timeline; KnightLab StoryMaps)
 
 ## Individual Class Info
-Course number and name
+Feminist Resistance (cross listed in WGSS, History, Sociology)
 <br>
-Instructor name
+Suzanna Walters
 <br>
-Semester and Year
+Spring 2019
 <br>
-Number of students: 
+Number of students: 19
 <br>
-Date and Time: 
+Date and Time: Mondays and Wednesdays 2:50-4:30
 <br>
-Location: <br>
+Location: 301 Meserve Hall<br>
 
 ## Summary of Module
-This module will go over x, y, and z
+This module will go over the process for creating a collaborative digital archive using WordPress. Because of the nature of the course, this module incldues discussions about and tips for collaborative feminist practices. 
 
 ## Learning Goals
-- The general “why” and “what”
-- Overarching themes/ideas/broad skill-sets students will take away
+- Understand feminist collaborative practices
+- Understand choices to be made when creating digital archives
+- Understand the basics and complexities of WordPress
+- Understand intellectual property rights and where archival materials belong
 
 ## Learning Objectives
-Specific skills that the students will have developed by the end of the module. As specific as possible: e.g., they will be able to explain three concepts that can make or break a WordPress site. 
+- Create a collaborative WordPress
+- Use basic WordPress functions, like pages, posts, tagging, themes, and widgets 
+- Articulate particular choices made when building the digital archival project
 
 ## Documents for Module
 
 ### Day 1
-[Presentation]()
+[Presentation](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/digital_archives/feminist_resistance-spring2019-walters/day1-presentation.pdf)
 
 ### Day 2
-[Digital Archive Resources](
+[Digital Archive Resources](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/digital_archives/feminist_resistance-spring2019-walters/day2-handout.pdf)
 
 ## DTI Consultants
 Created by Cara Marta Messina

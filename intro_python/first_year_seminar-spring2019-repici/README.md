@@ -46,5 +46,16 @@ This module will go over the basics of ethical data collection and analysis as w
 ### Data
 Data [(.csv file)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_python/first_year_seminar-spring2019-repici/education_dataset.csv) collected from the National Center for Education Statistics, United States Department of Education. [Available here](http://nces.ed.gov/ecls/kindergarten.asp)
 
+The comma separated file has five variables (columns):
+
+- reading_score = READING IRT SCALE SCORE
+- math_score = MATH IRT SCALE SCORE
+- knowledge_score = GENERAL KNOWLEDGE IRT SCALE SCORE
+- p2income = TOTAL HOUSEHOLD INCOME
+- incomecat = INCOME CATEGORES
+	- 1 = low income: < $40,000
+	- 2 = mid income
+	- 3 = high income: >= $70,000
+
 ## DTI Consultants
 Created by Laura Nelson and Alexis Yohros

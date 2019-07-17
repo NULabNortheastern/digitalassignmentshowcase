@@ -8,7 +8,7 @@ Day 1:
 
 Day 2:
 - Workshopping collaborative WordPress pages
-- Introducing other archival approaches (KnightLab Timeline; KnightLab StoryMaps)
+- Introducing other archival approaches (Knight Lab's Timeline and StoryMaps)
 
 ## Individual Class Info
 Feminist Resistance (cross listed in WGSS, History, Sociology)
@@ -24,7 +24,7 @@ Date and Time: Mondays and Wednesdays 2:50-4:30
 Location: 301 Meserve Hall<br>
 
 ## Summary of Module
-This module will go over the process for creating a collaborative digital archive using WordPress. Because of the nature of the course, this module incldues discussions about and tips for collaborative feminist practices. 
+This module will go over the process for creating a collaborative digital archive using WordPress. Because of the nature of the course, this module incldues discussions about and tips for collaborative feminist practices. The second day of the course mainly revists important WordPess functions and introduces Knight Lab's StoryMaps and Timeline, while the rest of the time is dedicated to workshopping students' collaborative WordPress sites and answering questions. 
 
 ## Learning Goals
 - Understand feminist collaborative practices

@@ -2,17 +2,37 @@
 
 The goal of the Digital Teaching Integration Initiative is to integrate digital methods into courses in a way that mirrors the themes of the course and can enhance digital literacies.  All of the work put into each module or workshop is posted here, including copies of the slides, handouts, examples and activities used in each class.
 
-This repository is organized by digital tool and within each parent section you will find subfolders organized by course. For example, if you want to check out course modules made for working with text analysis, click on the "text_analysis" folder and you will find the various classes that have used a text analysis module, like an Introduction to Writing Studies course offered Spring 2019 with Professor Lerner ("intro_writing_studies-spring2019-lerner"). Each course folder has a README.md containing basic information about that specific course and the materials for that particular module. 
+This repository is organized by digital tool and within each parent section you will find subfolders organized by course. For example, if you want to check out course modules made for working with text analysis, click on the "text_analysis" folder and you will find the various classes that have used a text analysis module, like an Introduction to Writing Studies course offered Spring 2019 with Professor Lerner ("intro_writing_studies-spring2019-lerner"). Each course folder has a README.md containing basic information about that specific course and the materials for that particular module.
+
+# Quick Links
+
+If you are interested in modules about...
+<br>
+<br>
+-Text Analysis, [click here](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/text_analysis)
+<br>
+<br>
+-Computational Social Sciences, [click here](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/intro_computational_social_sciences)
+<br>
+<br>
+-Data Visualization, [click here](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/data_visualization)
+<br>
+<br>
+-Introduction to Python, [click here](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/intro_python)
+<br>
+<br>
+Scroll up to the folders for a comprehensive list of modules, grouped by digital tool or skill. 
+<br>
 
 # Contact Information
 
 If you are a Northeastern faculty member interested in working with the Digital Teaching Integration team, please reach out to us via email:
 
-- Sarah Connell, Digital Teaching Integration Co-Director. sa.connell [at] northeastern [dot] edu
-- Laura Nelson, Digital Teaching Integration Co-Director. l.nelson [at] northeastern [dot] edu
-- Cara Marta Messina, Digital Teaching Integration Assistant Director. messina.c [at] husky [dot] neu [dot] edu
-- Molly Nebiolo, Digital Teaching Integration Research Fellow. nebiolo.m [at] husky [dot] neu [dot] edu
-- Garrett Morrow, Digital Teaching Integration Research Fellow. morrow.g [at] husky [dot] neu [dot] edu
+- Sarah Connell, Digital Teaching Integration Co-Director. sa [dot] connell [at] northeastern [dot] edu
+- Laura Nelson, Digital Teaching Integration Co-Director. l [dot] nelson [at] northeastern [dot] edu
+- Cara Marta Messina, Digital Teaching Integration Assistant Director. messina [dot] c [at] husky [dot] neu [dot] edu
+- Molly Nebiolo, Digital Teaching Integration Research Fellow. nebiolo[dot] m [at] husky [dot] neu [dot] edu
+- Garrett Morrow, Digital Teaching Integration Research Fellow. morrow [dot] g [at] husky [dot] neu [dot] edu
 
 
 # Contributors

@@ -15,7 +15,7 @@ Time: MW: 2:50<br>
 Location: Snell 009<br>
 
 ## Summary of Module
-This module will demonstrate how to use computational text analysis web browser tools. This is the second half of the assignment. Find the first assignment, using Excel to track reflections, here. The students will bring in the beginnings of their corpora (their Excel documents) and use the example corpus and their own corpus to begin practicing computational text analysis using digital technologies like Voyant, SameDiff, sentiment analysis tools, and more. 
+This module will demonstrate how to use computational text analysis web browser tools. This is the second half of the assignment. Find the first assignment, [using Excel to track reflections, here](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/intro_excel/fyw-spring2019-lewis). The students will bring in the beginnings of their corpora (their Excel documents) and use the example corpus and their own corpus to begin practicing computational text analysis using digital technologies like Voyant, SameDiff, sentiment analysis tools, and more. 
 
 ## Learning Objectives
 - Use computational text analysis web-browser tools, such as Voyant and Storybench

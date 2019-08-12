@@ -31,9 +31,9 @@ This module will introduce what “big data” and the ethical questions that su
 
 ## Documents for Module
 
-### ["Adopt or Not?" Activity Handout]
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_ethics/soc_research_methods-fall2019-marshall/slides.pdf)
 
-### [Slides]
+### ["Adopt or Not?" Activity Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_ethics/soc_research_methods-fall2019-marshall/handout-Adopt_or_Not.pdf)
 
 ## DTI Consultants
 Created by Cara Marta Messina

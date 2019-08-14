@@ -32,9 +32,9 @@ This module will introduce ethics, including what big data is and how it works, 
 
 ## Documents for Module
 
-### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_ethics/intro_to_fyw-fall2019-garneau/slides.pdf)
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_ethics/research_methods-fall2019-denver/slides.pdf)
 
-### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_ethics/intro_to_fyw-fall2019-garneau/handout.pdf)
+### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_ethics/research_methods-fall2019-denver/handout.pdf)
 
 ## DTI Consultants
 Created by Cara Marta Messina

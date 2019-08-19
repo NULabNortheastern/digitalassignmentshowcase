@@ -31,9 +31,9 @@ This module will go over the basics of Audacity. The second portion of this modu
 
 ## Documents for Module
 
-### Slide
+### [Slide](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/social_policy-fall2019-mann/slides.pdf) 
 
-### Handout
+### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/social_policy-fall2019-mann/handout.pdf)
 
 ## DTI Consultants
 Created by Molly Nebiolo

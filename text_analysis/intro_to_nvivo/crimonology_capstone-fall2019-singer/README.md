@@ -35,6 +35,7 @@ This module will go over the basics of how to install NVivo and use the software
 ### Handouts
 
 [Downloading NVivo with Northeastern's ITS License](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/intro_to_nvivo/crimonology_capstone-fall2019-singer/handout-installingNVivo.pdf)
+<br>
 [NVivo Basics](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/intro_to_nvivo/crimonology_capstone-fall2019-singer/handout-UsingNVivoBasics.pdf) 
 
 ### Slides

@@ -1,7 +1,7 @@
 # Spatial Analysis and Visualization using Tableau
-Spatial analysis & visualization
-Part 1: Introduction to Tableau
-Part 2: Tableau workshop
+Spatial analysis & visualization<br>
+Part 1: Introduction to Tableau<br>
+Part 2: Tableau workshop<br>
 
 ## Individual Class Info
 CRIM 4940 Race, Crime, and Criminal Justice

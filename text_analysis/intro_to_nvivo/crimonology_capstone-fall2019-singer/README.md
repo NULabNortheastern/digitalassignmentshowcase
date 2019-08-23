@@ -40,7 +40,9 @@ This module will go over the basics of how to install NVivo and use the software
 
 ### Slides
 
-[Day 1 Slides](GitHub link)
+[Day 1 Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/intro_to_nvivo/crimonology_capstone-fall2019-singer/slides-day1.pdf)
+
+[Day 2 Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/intro_to_nvivo/crimonology_capstone-fall2019-singer/slides-day2.pdf)
 
 ### Data
 Documents (one primary source document and two secondary sources) provided by Simon Singer and emailed to the class.

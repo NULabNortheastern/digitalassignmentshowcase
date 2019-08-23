@@ -5,13 +5,13 @@ POLS 3409 Global Governance
 <br>
 Instructor Name: Denise Garcia
 <br>
-Spring 2019
+Fall 2019
 <br>
-Number of students: 21
+Number of students: 30
 <br>
-Date and Time: 
+Date and Time: MWR 4:35-5:40
 <br>
-Location: <br>
+Location: Shillman Hall 210 <br>
 
 ## Summary of Module
 This module demonstrates how to use excel to retrieve and clean data from the United Nations Sustainable Goals database.
@@ -28,16 +28,16 @@ Students will also learn how to use excel to filter, sort, and clean the data th
 
 ### Handouts
 
-[Data Cleaning in Excel](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_cleaning/global_governance-spring2019-garcia/Data%20Cleaning%20in%20Excel.pdf)
+[Data Cleaning in Excel](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_cleaning/global_governance-fall2019-garcia/Data%20Cleaning%20in%20Excel.pdf)
 
 
 ### Slides
 
-[UN Data Collection and Cleaning](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_cleaning/global_governance-spring2019-garcia/Denise_PP.pdf)
+[UN Data Collection and Cleaning](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/global_governance-fall2019-garcia/Denise_PP.pdf)
 
 ### Data
 Sample data includes selected datasets from the UN Sustainable Goals on poverty and human trafficking.<br>
-[Sample UN Sustainable Goals Data](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/data_cleaning/global_governance-spring2019-garcia/data)
+[Sample UN Sustainable Goals Data](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/mapping/global_governance-fall2019-garcia/data)
 
 ## DTI Consultants
 Created by<br>

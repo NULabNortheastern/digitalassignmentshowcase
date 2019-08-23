@@ -12,7 +12,7 @@ Fall 2019
 <br>
 Number of Students: 25
 <br>
-Time: MWR 11:35am–12:35pm
+Time: MWR 11:35amâ€“12:35pm
 <br>
 Location: Snell Library 031<br>
 
@@ -30,18 +30,18 @@ Students will learn how to use spatial data in a powerful mapping software to pr
 
 ## Documents for Module
 
-### Handouts
-
-[Handout name](GitHub link)
-
-
 ### Slides
 
-[Slides name](GitHub link)
+[Mapping with Tableau](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/race_crime_criminal_justice-fall2019-ramiro/Tableau_Mapping/Mapping_with_Tableau.pdf)
+
+[Tableau Workshop](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/race_crime_criminal_justice-fall2019-ramiro/Tableau_Mapping/Tableau_Workshop.pdf)
+
+### Sample Images
+
 
 ### Data
-A bit of documentation about the data
-[Data name](GitHub link)
+Please see Professor Ramiro Martinez for data information.
 
 ## DTI Consultants
-Created by 
+Created by:<br>
+[Garrett Morrow](morrow.g@husky.neu.edu)

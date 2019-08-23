@@ -30,6 +30,10 @@ Students will learn how to use spatial data in a powerful mapping software to pr
 
 ## Documents for Module
 
+### Handouts
+
+[Installing Tableau](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/race_crime_criminal_justice-fall2019-ramiro/Handouts/Installing_Tableau_Handout.pdf)
+
 ### Slides
 
 [Mapping with Tableau](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/race_crime_criminal_justice-fall2019-ramiro/Tableau_Mapping/Mapping_with_Tableau.pdf)
@@ -38,6 +42,9 @@ Students will learn how to use spatial data in a powerful mapping software to pr
 
 ### Sample Images
 
+[Sample: Homicides Over Time Graph](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/race_crime_criminal_justice-fall2019-ramiro/Sample_Images/Tableau_Murders_Over_Time_Graph.png)
+
+[Sample: Homicides Over Time Map](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/race_crime_criminal_justice-fall2019-ramiro/Sample_Images/Tableau_Presentation_Export.jpg)
 
 ### Data
 Please see Professor Ramiro Martinez for data information.

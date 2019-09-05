@@ -38,10 +38,14 @@ This module will go over the basics of using R to analyze data, with a focus on 
   
 ## Documents
 
-* Intro_to_R.pdf: a PDF containing all of the R code covered in the module, with text descriptions, for easier downloading and printing. For use as reference for students as they write their own code.
-* Intro_to_R.html: the same as the PDF file with the same name, for easier viewing in the browswer. For use as reference for students as they write their own code.
-* data/inequality_data_1976.csv: in the data folder is a csv file (comma separated) containing data for use in the module.
-* Intro_to_R.ipynb: an empy Jupyter notebook with the R kernal, for the live-coding demo.
+* Intro\_to_R.pdf: a PDF containing all of the R code covered in the module, with text descriptions, for easier downloading and printing. For use as reference for students as they write their own code.
+* Intro\_to_R.html: the same as the PDF file with the same name, for easier viewing in the browswer. For use as reference for students as they write their own code.
+* Intro\_to_R.Rmd: the R markdown file that produces the .pdf and .html files above. Can be used to modify those two files.
+* Intro\_to_R.ipynb: an empy Jupyter notebook with the R kernal, for the live-coding demo.
+
+## Data
+
+* data/inequality\_data_1976.csv: in the data folder is a csv file (comma separated) containing data for use in the module.
 
 ## Lesson Outline
 

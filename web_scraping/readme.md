@@ -18,5 +18,5 @@ Students will learn the purpose and methods for using APIs to retrieve data from
 
 ## DTI Consultants
 Created by:<br>
-[Garrett Morrow](morrow.g@husky.neu.edu)<br>
+Garrett Morrow<br>
 DTI Research Fellow

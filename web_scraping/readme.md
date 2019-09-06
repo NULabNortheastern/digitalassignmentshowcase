@@ -11,7 +11,7 @@ Students will learn the purpose and methods for using APIs to retrieve data from
 
 ## Documents for Module
 ### Slides & Jupyter Notebooks
-[API for Web-Scraping (Introduction](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/web_scraping/Presentation/API_Module_Presentation.pdf)<br>
+[API for Web-Scraping Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/web_scraping/Presentation/API_Module_Presentation.pdf)<br>
 [Federal Bureau of Investigations API (Jupyter Notebook)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/web_scraping/FBI_API/FBI_API_Module.ipynb)<br>
 [Fedreal Elections Commission API (Jupyter Notebook)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/web_scraping/FEC_API/FEC_API_Module.ipynb)<br>
 [The New York Times API (Jupyter Notebook)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/web_scraping/NYTimes_API/NYTimes_API_Module.ipynb)<br>

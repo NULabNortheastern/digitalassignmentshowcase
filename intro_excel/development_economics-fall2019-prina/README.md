@@ -41,6 +41,7 @@ This module is an introduction to using Excel, including basic terminology, navi
 
 ### Data
 This Excel data has been provided by Silvia Prina specifically to have students practice using Excel
+<br/>
 [Excel Data](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_excel/development_economics-fall2019-prina/data.xlsx)
 
 ## DTI Consultants

@@ -4,7 +4,7 @@ This module will introduce students to Excel for statistical analysis.
 ## Individual Class Info
 ECON 1291 Development Economics
 <br>
-Silvia Print
+Silvia Prina
 <br>
 Fall 2019
 <br>
@@ -31,16 +31,17 @@ This module is an introduction to using Excel, including basic terminology, navi
 
 ### Handouts
 
-[Handout name](GitHub link)
+[Installing Excel and Using Northeastern University's License](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_excel/development_economics-fall2019-prina/handout-install_excel.pdf)
+<br/>
+[Excel basics](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_excel/development_economics-fall2019-prina/handout-excel_basics.pdf)
 
+### Presentation Materials
 
-### Slides
-
-[Slides name](GitHub link)
+[Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_excel/development_economics-fall2019-prina/slides.pdf)
 
 ### Data
-A bit of documentation about the data
-[Data name](GitHub link)
+This Excel data has been provided by Silvia Prina specifically to have students practice using Excel
+[Excel Data](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_excel/development_economics-fall2019-prina/data.xlsx)
 
 ## DTI Consultants
 Created by Cara Marta Messina and Garrett Morrow

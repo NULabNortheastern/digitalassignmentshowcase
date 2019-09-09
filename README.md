@@ -24,6 +24,9 @@ If you are interested in modules about...
 Scroll up to the folders for a comprehensive list of modules, grouped by digital tool or skill. 
 <br>
 
+# Fall 2019 Office Hours
+The Digital Teaching Integration office hours will be held from <strong>1–3PM in 401 Nightingale Hall</strong>. Students learning new tools such as NVivo, R, Python, and text analysis tools are welcome to drop in. Instructors are also welcome to drop by and ask questions.
+
 # Contact Information
 
 If you are a Northeastern faculty member interested in working with the Digital Teaching Integration team, please reach out to us via email:

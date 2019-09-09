@@ -31,8 +31,10 @@ If you are a Northeastern faculty member interested in working with the Digital 
 - Sarah Connell, Digital Teaching Integration Co-Director. sa [dot] connell [at] northeastern [dot] edu
 - Laura Nelson, Digital Teaching Integration Co-Director. l [dot] nelson [at] northeastern [dot] edu
 - Cara Marta Messina, Digital Teaching Integration Assistant Director. messina [dot] c [at] husky [dot] neu [dot] edu
-- Garrett Morrow, Digital Teaching Integration Research Fellow. morrow [dot] g [at] husky [dot] neu [dot] edu
+- Garrett Morrow, NULab Research Fellow. morrow [dot] g [at] husky [dot] neu [dot] edu
+- Laura Johnson, NULab Coordinator. johnson [dot] lau [at] husky [dot] neu [dot] edu
+- Jeff Sternberg, NULab Research Fellow, sternberg [dot] je [at] husky [dot] neu [dot] edu
 
 
 # Contributors
-These resources and materials have been created by Sarah Connell, Cara Marta Messina, Laura Nelson, Alexis Yohros, Molly Nebiolo, and Garrett Morrow. 
+These resources and materials have been created by Sarah Connell, Cara Marta Messina, Laura Nelson, Alexis Yohros, Molly Nebiolo, Garrett Morrow, Laura Johnson, and Jeffrey Sternberg. 

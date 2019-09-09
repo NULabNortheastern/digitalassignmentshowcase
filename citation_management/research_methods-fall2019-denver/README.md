@@ -30,7 +30,9 @@ This module introduces Zotero, a citation management software, including how to 
 
 ## Documents for Module
 
-### [Introduction to Zotero Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/citation_management/global_justice-spring2019-parekh/Introduction%20to%20Zotero.pdf)
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/citation_management/research_methods-fall2019-denver/handout.pdf)
+
+### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/citation_management/research_methods-fall2019-denver/handout.pdf)
 
 ### Readings Used
 The readings used in this activity are provided by Megan Denver

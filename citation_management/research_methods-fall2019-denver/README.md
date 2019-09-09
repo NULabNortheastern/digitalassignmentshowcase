@@ -13,8 +13,6 @@ Date and Time: Wednesday, September 25 from 10:30-11:35
 <br>
 Location: Churchill Hall 200
 
-<br>
-
 ## Summary of Module
 This module introduces Zotero, a citation management software, including how to use Zotero, its different features, and how it can be effective for research. 
 

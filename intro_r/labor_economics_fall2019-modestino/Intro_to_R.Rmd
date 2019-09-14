@@ -1,27 +1,36 @@
 ---
 title: "Introduction to R for Statistics"
 output:
+  pdf_document: default
+  html_notebook: default
   html_document:
     df_print: paged
-  html_notebook: default
-  pdf_document: default
 ---
 
-### Text and code written by Laura K. Nelson
+### Text and code written by Laura K. Nelson (l.nelson@northeastern.edu)
 
-**DTI Office Hours**  
 
-Cara Messina  
-Tuesdays: 1pm - 3pm  
+**Digital Teaching Intiative Office Hours** 
+
+Website: https://web.northeastern.edu/nulab/teaching/digital-teaching-integration/
+
+
+Cara Messina |
+messina.c@husky.neu.edu | 
+Tuesdays: 1pm - 3pm |  
 401 Nightingale Hall  
    
-Taylor Braswell  
-Thursdays: 1pm - 3pm  
+Taylor Braswell |
+braswell.t@husky.neu.edu |
+Thursdays: 1pm - 3pm |  
 964 Renaissance Park  
 
 
 
 ## Introduction
+
+Module URL: https://notebooks.azure.com/lknelson/projects/introR
+
 R is an incredibly powerful *scripting* language for doing statistical analysis. It's like *Stata* in many ways. Like Stata, it's a logical language, as opposed to a natural language. Natural languages, such as English, carry with them ambiguities: e.g., *Fruit flies like a banana*. Logical languages can not contain any ambiguities. They have a strict and limited *vocabulary* and *syntax*. Like Stata, when writing R code you use the allowed vocabulary and proper syntax to write lines of instructions for the computer to carry out. If you don't use the allowed vocabulary, or the proper syntax, the computer will not understand your instruction and it will give you an **Errror** message. When you get an error message don't panic! Instead, treat it as the beginning of a puzzle, where you have to search through the clues (in the error message) to figure out where you deviated from the allowed vocab and syntax.
 
 Unlike Stata, R is *open source*. It's free, and developers are free to modify and release code based on the R language for use by the community. This is one of the reasons why it is becoming the preferred language for statistics in many disciplines.

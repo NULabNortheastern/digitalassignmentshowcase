@@ -10,7 +10,7 @@ Fall 2019
 <br>
 Number of students: 25
 <br>
-Date and Time: September 19, 10:30-11:35
+Date and Time: September 18, 10:30-11:35
 <br>
 Location: Churchill Hall 200
  <br>

@@ -28,16 +28,19 @@ Students will also learn how to use excel to filter, sort, and clean the data th
 
 ### Handouts
 
-[Data Cleaning in Excel](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_cleaning/global_governance-fall2019-garcia/Data%20Cleaning%20in%20Excel.pdf)
-
+[Installing Excel for Northeastern students](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/global_governance-fall2019-garcia/handout-install_excel.pdf)
+<br>
+[Data Preparation in Excel](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/global_governance-fall2019-garcia/handout-data_prep_excel.pdf)
 
 ### Slides
 
-[UN Data Collection and Cleaning](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/global_governance-fall2019-garcia/Denise_PP.pdf)
+[Data Collection and Preparing for Mapping](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/global_governance-fall2019-garcia/slides.pdf)
 
 ### Data
-Sample data includes selected datasets from the UN Sustainable Goals on poverty and human trafficking.<br>
-[Sample UN Sustainable Goals Data](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/mapping/global_governance-fall2019-garcia/data)
+Selected datasets collected from:
+- the [UN Sustainable Goals](https://unstats.un.org/sdgs/indicators/database) – specifically data from goals 1 and 16
+- the [Humanitarian Data Exchange](https://data.humdata.org/) 
+
 
 ## DTI Consultants
 Created by<br>

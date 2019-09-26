@@ -17,12 +17,14 @@ Location: Shillman Hall 210 <br>
 This module demonstrates how to use excel to retrieve and clean data from the United Nations Sustainable Goals database.
 
 ## Learning Goals
-- Learn how to retrieve UN Sustainable Goals data.
-- Understand how to use Excel to clean the data and prepare the data for analysis.
+- Know places from where to collect data and how to read certain data
+- Understand how to collect, store, and clean data in Excel
+- Apply this method to the UN Sustainable Development Goals data 
+- Prepare the UN SDG data for GIS mapping 
 
 ## Learning Objectives
-Students will be able to understand how to download specific datasets from the internet. 
-Students will also learn how to use excel to filter, sort, and clean the data they have downloaded for use in analysis tools.
+- Understand how to download specific datasets from the internet, specifically the UN Sustainable Goals database
+- Learn how to use excel to filter, sort, and clean the data they have downloaded for use in analysis tools.
 
 ## Documents for Module
 

@@ -45,4 +45,5 @@ Selected datasets collected from:
 ## DTI Consultants
 Created by<br>
 [Alexis Yohros](Yohros.a@husky.neu.edu)<br>
-[Sarah Connell](sa.connell@northeastern.edu)
+[Sarah Connell](sa.connell@northeastern.edu)<br>
+[Cara Marta Messina](messina.c@husky.neu.edu)

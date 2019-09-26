@@ -1,4 +1,4 @@
-# Data Retrieval and Cleaning
+# Data Retrieval and Preparation in Excel for Mapping
 
 ## Individual Class Info
 POLS 3409 Global Governance

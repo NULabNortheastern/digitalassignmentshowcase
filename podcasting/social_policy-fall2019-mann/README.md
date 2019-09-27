@@ -33,9 +33,11 @@ This module will go over the basics of Audacity. The second portion of this modu
 
 ## Documents for Module
 
-### [Slide](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/social_policy-fall2019-mann/slides.pdf)
+[Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/social_policy-fall2019-mann/slides.pdf)
 
-### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/social_policy-fall2019-mann/handout.pdf)
+[Install Audacity Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/social_policy-fall2019-mann/handout-install_audacity.pdf)
+
+[Introduction to Audacity Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/social_policy-fall2019-mann/handout-intro_to_audacity.pdf)
 
 ## DTI Consultants
 Created by Molly Nebiolo, Laura Johnson, and Cara Marta Messina

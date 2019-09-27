@@ -1,5 +1,5 @@
 # Data Ethics: Big Data, Algorithmic Bias, and Research Ethics 
-This module will discuss data ethics, particularly around big data, algorithmic bias, and research guidelines. It includes the classifier activity "Is It a Plant?"
+This module will discuss data ethics, particularly around big data, algorithmic bias, and research guidelines.
 
 ## Individual Class Info
 CRIM 3600 Research Methods
@@ -10,13 +10,13 @@ Fall 2019
 <br>
 Number of students: 25
 <br>
-Date and Time: September 19, 10:30-11:35
+Date and Time: September 18, 10:30-11:35
 <br>
 Location: Churchill Hall 200
  <br>
 
 ## Summary of Module
-This module will introduce ethics, including what big data is and how it works, algorithmic bias, and questions and guidelines for ethical research. Big data is the collection of mass amounts of data and the quick analysis of this data to categorize and re-categorize patterns of behavior. In order to introduce algorithms, this module uses the mini in-class activity “Is it a Plant?” Algorithmic bias explores how these algorithms can reinforce implicit and potentially harmful biases, including biases in the data used and collected for algorithms, the choices made in algorithm creation, and the impact. Particularly, this module looks at algorithms in the criminal justice system, including recidivism algorithms. Finally, this module will then move to discussing how implicit biases may exist in 
+This module will introduce ethics, including what big data is and how it works, algorithmic bias, and questions and guidelines for ethical research. Big data is the collection of mass amounts of data and the quick analysis of this data to categorize and re-categorize patterns of behavior. Particularly, this module looks at algorithms in the criminal justice system, including recidivism algorithms. Finally, this module will then move to discussing how implicit biases may exist in our own research practices and questions we can ask to combat these. 
 
 ## Learning Goals
 - Understand the ways in which technologies reflect cultural, social, and political biases. 

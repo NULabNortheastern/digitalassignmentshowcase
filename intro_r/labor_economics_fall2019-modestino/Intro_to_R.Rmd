@@ -1,13 +1,35 @@
 ---
 title: "Introduction to R for Statistics"
 output:
+  pdf_document: default
+  html_notebook: default
   html_document:
     df_print: paged
-  html_notebook: default
-  pdf_document: default
 ---
 
-### Text and code written by Laura K. Nelson
+### Text and code written by Laura K. Nelson (l.nelson@northeastern.edu)
+
+
+**Digital Teaching Intiative Office Hours** 
+
+Website: https://web.northeastern.edu/nulab/teaching/digital-teaching-integration/
+
+
+Cara Messina |
+messina.c@husky.neu.edu | 
+Tuesdays: 1pm - 3pm |  
+401 Nightingale Hall  
+   
+Taylor Braswell |
+braswell.t@husky.neu.edu |
+Thursdays: 1pm - 3pm |  
+964 Renaissance Park  
+
+
+
+## Introduction
+
+Module URL: https://notebooks.azure.com/lknelson/projects/introR
 
 R is an incredibly powerful *scripting* language for doing statistical analysis. It's like *Stata* in many ways. Like Stata, it's a logical language, as opposed to a natural language. Natural languages, such as English, carry with them ambiguities: e.g., *Fruit flies like a banana*. Logical languages can not contain any ambiguities. They have a strict and limited *vocabulary* and *syntax*. Like Stata, when writing R code you use the allowed vocabulary and proper syntax to write lines of instructions for the computer to carry out. If you don't use the allowed vocabulary, or the proper syntax, the computer will not understand your instruction and it will give you an **Errror** message. When you get an error message don't panic! Instead, treat it as the beginning of a puzzle, where you have to search through the clues (in the error message) to figure out where you deviated from the allowed vocab and syntax.
 
@@ -18,7 +40,7 @@ Should you choose R or Stata when doing statistics? Stata is a fantastic languag
 A quick note to acknowledge that we will be covering A LOT of material today. Your primary goal should be to understand the logic of R and a high-level understanding of how R code runs. Some of the details may move past too quickly. That's OK. You'll have this document to reference as you come back to R on your own. Some extra resources for you and additional opportunities to learn:
 
 * At the bottom of this document there is a *Glossary* of operators and functions. If you forget what a function does, refer to the glossary. 
-* The DTI will also be holding office hours throughout the semester if you get stuck at any time. 
+* The DTI will also be holding office hours throughout the semester if you get stuck at any time (see top of page for times). 
 * We will come back to class in November to check in with your progress.
 
 In sum, embrace this opportunity to learn with an open mind, and forgive yourself (and others) when things get frustrating. No one would expect you to run a marathon the first time you try running. The same, of course, goes for coding. 

@@ -36,7 +36,7 @@ This module goes over computational text analysis for a corpus of texts. The mod
 
 ### Slide
 
-### Data
+### [Data](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/text_analysis/polisci_research_methods-spring2019-rodine-hardy/data)
 Data are a corpus of plain text files of political party platforms from 2000–2016. collected from [The American Presidency Project](https://www.presidency.ucsb.edu/documents/presidential-documents-archive-guidebook/national-political-party-platforms ) out of UC Santa Barbara. 
 
 ## DTI Consultants

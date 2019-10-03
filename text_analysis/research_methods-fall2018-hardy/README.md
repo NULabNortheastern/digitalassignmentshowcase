@@ -35,7 +35,7 @@ Students will be able to use specific methods and tools for computational text a
 
 ### Slides
 
-[Slides name](GitHub link)
+[Slides name](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/research_methods-fall2018-hardy/IntroTextAnalysis.pdf)
 
 ## DTI Consultants
 Created by:<br>

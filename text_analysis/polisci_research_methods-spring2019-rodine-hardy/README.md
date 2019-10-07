@@ -40,6 +40,6 @@ Data are a corpus of plain text files of political party platforms from 2000–2
 
 ## DTI Consultants
 Created by:<br>
-[Cara Messina](messina.c@husky.neu.edu)<br>
+[Cara Marta Messina](messina.c@husky.neu.edu)<br>
 [Alexis Yohros](Yohros.a@husky.neu.edu)<br>
 [Sarah Connell](sa.connell@northeastern.edu)

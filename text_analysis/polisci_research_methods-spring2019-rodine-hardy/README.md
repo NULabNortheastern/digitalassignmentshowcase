@@ -29,12 +29,11 @@ This module goes over computational text analysis for a corpus of texts. The mod
 - Learn steps for best practices when doing web-based computational text analysis 
 - Use web-based computational text analysis programs, such as Voyant
 
-
 ## Documents for Module
 
-### Handout
+### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/polisci_research_methods-spring2019-rodine-hardy/handout.pdf)
 
-### Slide
+### [Slide](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/polisci_research_methods-spring2019-rodine-hardy/slides.pdf)
 
 ### [Data](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/text_analysis/polisci_research_methods-spring2019-rodine-hardy/data)
 Data are a corpus of plain text files of political party platforms from 2000–2016. collected from [The American Presidency Project](https://www.presidency.ucsb.edu/documents/presidential-documents-archive-guidebook/national-political-party-platforms ) out of UC Santa Barbara. 

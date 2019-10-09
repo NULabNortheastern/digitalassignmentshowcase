@@ -21,7 +21,7 @@ The second part will ask students to choose one person to interview, transcribe 
 
 ## Learning Goals
 - Understand how to formulate different types of research questions, from open-ended to likert scale
-- Understand how to formulate different types of research questions, from open-ended to likert scale
+- Understand how to use Google Forms to collaboratively create a survey and view/analyze the results
 - Understand how to do follow-up questions for more interesting answers
 
 ## Learning Objectives
@@ -31,13 +31,16 @@ The second part will ask students to choose one person to interview, transcribe 
 
 ## Documents for Module
 
+### Assignment Breakdown
+[Assignment breakdown created by Ineke Marshall](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_analysis/soc_research_methods-fall2019-marshall/assignment_breakdown.pdf)
+
 ### Slides
-[Intro to Survey Analysis]( )
+[Intro to Survey Analysis](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_analysis/soc_research_methods-fall2019-marshall/slides-intro_to_surveys.pdf)
 <br/>
 Intro to NVivo for Qualitative Coding (upcoming)
 
 ### Handouts
-[Intro to Survey Analysis]
+[Intro to Survey Analysis](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_analysis/soc_research_methods-fall2019-marshall/handout-intro_to_surveys.pdf)
 <br/>
 Intro to NVivo for Qualitative Coding (upcoming) 
 

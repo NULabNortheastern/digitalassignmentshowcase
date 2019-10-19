@@ -33,7 +33,9 @@ This module will go over the basics of Audacity. The second portion of this modu
 
 ## Documents for Module
 
-[Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/social_policy-fall2019-mann/slides.pdf)
+[Day 1 Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/social_policy-fall2019-mann/slides-day1.pdf)
+
+[Day 2 Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/social_policy-fall2019-mann/slides-day2.pdf)
 
 [Install Audacity Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/social_policy-fall2019-mann/handout-install_audacity.pdf)
 

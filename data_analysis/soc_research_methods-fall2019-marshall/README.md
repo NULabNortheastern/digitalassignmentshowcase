@@ -61,6 +61,7 @@ Intro to NVivo for Qualitative Coding
 [Sample Survey](http://bit.ly/dti-marshall-food-survey)
 <br/>
 [Sample Transcript 1]
+<br/>
 [Sample Transcript 2]
 
 ## DTI Consultants

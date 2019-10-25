@@ -43,26 +43,28 @@ The second day of the module will ask students to choose one person to interview
 ## Documents for Module
 
 ### Assignment Breakdown
-[Day 1: Survey assignment breakdown created by Ineke Marshall](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_analysis/soc_research_methods-fall2019-marshall/assignment_breakdown.pdf)
+[Day 1: Survey assignment breakdown created by Ineke Marshall](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_analysis/soc_research_methods-fall2019-marshall/day1-survey-analysis/assignment_breakdown.pdf)
 <br/>
 [Day 2: NVivo assignment breakdown created by Ineke Marshall]
 
 ### Slides
 [Day 1: Intro to Survey Analysis](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_analysis/soc_research_methods-fall2019-marshall/slides-intro_to_surveys.pdf)
 <br/>
-[Day 2: Intro to NVivo for Qualitative Coding]
+[Day 2: Intro to NVivo for Qualitative Coding](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_analysis/soc_research_methods-fall2019-marshall/day2-NVivo/slides-NVivo.pdf)
 
 ### Handouts
 [Day 1: Intro to Survey Analysis](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_analysis/soc_research_methods-fall2019-marshall/handout-intro_to_surveys.pdf)
 <br/>
-Intro to NVivo for Qualitative Coding
+[Day 2: Installing NVivo](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_analysis/soc_research_methods-fall2019-marshall/day2-NVivo/handout-installingNVivo.pdf)
+<br/>
+[Day 2: Intro to NVivo for Qualitative Coding](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_analysis/soc_research_methods-fall2019-marshall/day2-NVivo/handout-NVivo.pdf)
 
 ### Sample Data
 [Sample Survey](http://bit.ly/dti-marshall-food-survey)
 <br/>
-[Sample Transcript 1]
+[Sample Transcript 1 for NVivo](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_analysis/soc_research_methods-fall2019-marshall/day2-NVivo/sample-interview-transcript1.pdf)
 <br/>
-[Sample Transcript 2]
+[Sample Transcript 2 for Nvivo](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_analysis/soc_research_methods-fall2019-marshall/day2-NVivo/sample-interview-transcript2.pdf)
 
 ## DTI Consultants
 Created by Cara Marta Messina

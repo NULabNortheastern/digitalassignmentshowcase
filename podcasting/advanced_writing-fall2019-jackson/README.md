@@ -29,11 +29,20 @@ This module will go over the basics of Audacity, fair use, and podcasts. The sec
 
 ## Documents for Module
 
-### Slides
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/advanced_writing-fall2019-jackson/slides.pdf)
 
 ### Handouts
+[Installing Audacity](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/advanced_writing-fall2019-jackson/handout-install_audacity.pdf)
+<br>
+[Introduction to Podcasting](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/advanced_writing-fall2019-jackson/handout-intro_to_audacity.pdf)
 
 ### Audio Files
+- "Footsteps, Dry Leaves, F.wav" by InspectorJ [www.jshaw.co.uk](www.jshaw.co.uk) of Freesound.org
+- "Wholesome" Kevin MacLeod ([incompetech.com] (www.incompetech.com))
+Licensed under Creative Commons: By Attribution 4.0 License
+[http://creativecommons.org/licenses/by/4.0/](http://creativecommons.org/licenses/by/4.0/)
+- An introduction recorded by Laura Johnson
+
 
 ## DITI Consultations
 Created by Laura Johnson and Cara Marta Messina

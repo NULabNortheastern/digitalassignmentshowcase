@@ -43,4 +43,4 @@ This module will go over the basics of Audacity. The second portion of this modu
 
 [Fair Use Resources Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/social_policy-fall2019-mann/handout-fair_use_resources.pdf)
 ## DTI Consultants
-Created by Molly Nebiolo, Laura Johnson, and Cara Marta Messina
+Created by Laura Johnson, Cara Marta Messina, and Molly Nebiolo

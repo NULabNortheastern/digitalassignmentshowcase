@@ -1,8 +1,7 @@
 # Digital and Data Ethics
 
 ## Individual Class Info
-PHIL 1102: Intro to Contemporary Moral issues & PHIL 1112: Debating Ethical Controversies  
-<br>
+PHIL 1102: Intro to Contemporary Moral issues & PHIL 1112: Debating Ethical Controversies
 Katy Shorey
 <br>
 Fall 2019

@@ -2,6 +2,7 @@
 
 ## Individual Class Info
 PHIL 1102: Intro to Contemporary Moral issues & PHIL 1112: Debating Ethical Controversies
+<br>
 Katy Shorey
 <br>
 Fall 2019

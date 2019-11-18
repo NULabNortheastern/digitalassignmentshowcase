@@ -29,11 +29,9 @@ Specifically, this module will discuss China's social credit system and use the 
 
 ## Documents for Module
 
-### Slides/Presentation
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_ethics/philosophy-fall2019-shorey/slides.pdf)
 
-### Handouts
-
-### Data (if necessary)
+### [Handouts](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_ethics/philosophy-fall2019-shorey/handout.pdf)
 
 ## DTI Consultants
 Created by Cara Marta Messina and Jeff Sternberg

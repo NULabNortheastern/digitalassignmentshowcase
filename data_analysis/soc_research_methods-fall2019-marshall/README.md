@@ -44,16 +44,14 @@ The second day of the module will ask students to choose one person to interview
 
 ### Assignment Breakdown
 [Day 1: Survey assignment breakdown created by Ineke Marshall](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_analysis/soc_research_methods-fall2019-marshall/day1-survey-analysis/assignment_breakdown.pdf)
-<br/>
-[Day 2: NVivo assignment breakdown created by Ineke Marshall]
 
 ### Slides
-[Day 1: Intro to Survey Analysis](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_analysis/soc_research_methods-fall2019-marshall/slides-intro_to_surveys.pdf)
+[Day 1: Intro to Survey Analysis](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_analysis/soc_research_methods-fall2019-marshall/day1-survey-analysis/slides-intro_to_surveys.pdf)
 <br/>
 [Day 2: Intro to NVivo for Qualitative Coding](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_analysis/soc_research_methods-fall2019-marshall/day2-NVivo/slides-NVivo.pdf)
 
 ### Handouts
-[Day 1: Intro to Survey Analysis](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_analysis/soc_research_methods-fall2019-marshall/handout-intro_to_surveys.pdf)
+[Day 1: Intro to Survey Analysis](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_analysis/soc_research_methods-fall2019-marshall/day1-survey-analysis/handout-intro_to_surveys.pdf)
 <br/>
 [Day 2: Installing NVivo](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_analysis/soc_research_methods-fall2019-marshall/day2-NVivo/handout-installingNVivo.pdf)
 <br/>

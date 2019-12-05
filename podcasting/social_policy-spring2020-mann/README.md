@@ -30,10 +30,19 @@ This module will go over the basics of Audacity. The second portion of this modu
 ## Documents for Module
 
 ### Handouts
+- [Handout on Installing Audacity](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/social_policy-spring2020-mann/handout-install_audacity.pdf)
+- [Handout on Using Audacity](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/social_policy-spring2020-mann/handout-intro_to_audacity.pdf)
+- [Handout on Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/social_policy-spring2020-mann/handout-fair_use_resources.pdf)
 
 ### Slides
+- [Day 1: Introduction to Audacity](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/social_policy-spring2020-mann/slides-day1.pdf)
+- [Day 2: Audacity Workshop](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/social_policy-spring2020-mann/slides-day2.pdf)
 
 ### Audio Samples
+- "Footsteps, Dry Leaves, F.wav" by InspectorJ (www.jshaw.co.uk) of Freesound.org
+- "Wholesome" Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 4.0 License
+http://creativecommons.org/licenses/by/4.0/
 
 
 ## DTI Consultants

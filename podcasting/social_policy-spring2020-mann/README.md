@@ -40,7 +40,7 @@ This module will go over the basics of Audacity. The second portion of this modu
 
 ### Audio Samples
 - "Footsteps, Dry Leaves, F.wav" by InspectorJ (www.jshaw.co.uk) of Freesound.org
-- "Wholesome" Kevin MacLeod (incompetech.com)
+- "Wholesome" Kevin MacLeod (www.incompetech.com)
 Licensed under Creative Commons: By Attribution 4.0 License
 http://creativecommons.org/licenses/by/4.0/
 

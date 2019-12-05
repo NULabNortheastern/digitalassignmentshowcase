@@ -30,11 +30,11 @@ This module will go over components of storytelling and how these components may
 
 ## Documents for Module
 
-### Handouts
+### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/intermediate_german-spring2020-fuchs/handout-intro_to_storymaps.pdf)
 
-### Slides
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/intermediate_german-spring2020-fuchs/slides-storymaps.pdf)
 
 
 ## DTI Consultants
 Created by:<br>
-[Cara Marta Messina](messina.c@husky.neu.edu) and adapted from Molly Nebiolo (nebiolo.m@husky.neu.edu)
+Cara Marta Messina and Molly Nebiolo

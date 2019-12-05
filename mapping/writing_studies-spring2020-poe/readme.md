@@ -28,11 +28,10 @@ This module will go over components of storytelling and how these components may
 
 ## Documents for Module
 
-### Handouts
+### [Handouts](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/writing_studies-spring2020-poe/handout-intro_to_storymaps.pdf)
 
-### Slides
-
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/writing_studies-spring2020-poe/slides-storymaps.pdf)
 
 ## DTI Consultants
 Created by:<br>
-[Cara Marta Messina](messina.c@husky.neu.edu) and adapted from Molly Nebiolo (nebiolo.m@husky.neu.edu)
+Cara Marta Messina and Molly Nebiolo

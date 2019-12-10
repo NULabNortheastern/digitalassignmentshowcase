@@ -26,9 +26,9 @@ This module introduces Zotero, a citation management software, including how to 
 
 ## Documents for Module
 
-### [Slides]
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/citation_management/advanced_writing-kim-2020/slides.pdf)
 
-### [Handout]
+### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/citation_management/advanced_writing-kim-2020/handout.pdf)
 
 ### Readings Used
 Lazer, David, and Jason Radford. “Data Ex Machina: Introduction to Big Data.” <cite>Annual Review of Sociology</cite>, vol. 43, no. 1, July 2017, pp. 19–39.

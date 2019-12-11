@@ -1,4 +1,4 @@
-# Data Ethics and Text Analysis
+# Computational Text Analysis
 
 ## Individual Class Info
 Advanced Writing in the Disciplines – Three courses

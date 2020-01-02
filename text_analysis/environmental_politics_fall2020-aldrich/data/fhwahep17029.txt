@@ -1,0 +1,203 @@
+FAQ: Emergency Relief Program and Resilience
+Q: Can FHWA emergency relief program funds be used to rebuild a damaged highway in a
+manner that can prevent damage from future extreme weather events?
+A: Yes, if consistent with current standards or if it would save the FHWA emergency relief
+program money over time. (FHWA ER Program Manual p24)
+Consistent with current standards
+Repaired facilities may be rebuilt to current geometric
+and construction standards, without being considered
+a betterment. For example, a repaired length of
+roadway may have an improved waterway opening
+that results from following current standards. As
+another example, a State may be using more current
+precipitation data from NOAA Atlas 14 rather than an
+older data set that may have been used when the
+facility was originally designed. Also, some states now
+require incorporating information on future conditions
+into transportation planning and project development
+processes. For instance, Caltrans requires considering
+sea level rise in planning of coastal transportation
+facilities.
+
+Example from Colorado: Improve resilience by bringing up
+to current standards.
+
+September 2013 flooding in Colorado washed out this stretch of
+US 36 between Lyons and Estes. The segment was reconstructed
+to be more resilient to future floods by shifting the road a few
+feet further from the river onto bedrock, and using grouted
+riprap and native vegetation to stabilize the riverbank. The work
+was eligible for and funded with FHWA Emergency Relief funds.
+It brought the road up to current geometric design standards
+calling for 6 foot shoulders (pre-flood there were minimal
+shoulders). Colorado DOT worked in close partnership with the
+Central Federal Lands Highway Division and the FHWA Colorado
+Division Office on this project. Photo Credit: CO DOT
+
+Save the FHWA emergency relief program money
+over time
+In general, FHWA emergency relief funds are provided
+to restore a facility to its pre-disaster condition.
+However, in some circumstances, restoring the facility
+to its pre-disaster condition would leave it vulnerable
+to repeat damage, costing the FHWA emergency relief
+program more than if the facility had been rebuilt with
+protective features. In fact, transportation law
+requires States to consider alternatives for facilities
+repeatedly requiring repair with FHWA emergency relief funds. 1
+
+Adding protective features is considered economically justified under the FHWA emergency relief program if:
+Cost of protective feature < probability of damage within facility lifetime * cost of damage that would be
+incurred by FHWA emergency relief program.
+Note that for the economic justification, only costs to the FHWA emergency relief program are included. Other costs,
+such as cost of traveler delay or reduced economic activity are not included. The State must submit an economic
+analysis to the FHWA Division office and the Division office must approve it in order for the protective feature to be
+eligible for FHWA emergency relief funds.
+
+1
+
+Sec. 1315(b) of Pub. L. 112–141 (MAP-21) as implemented in 23 CFR 667
+
+Examples of betterments that have been approved include:
+o raising roadway grades,
+o relocating roadways,
+o stabilizing slide areas and slopes,
+o installing riprap,
+o lengthening or raising bridges to increase waterway openings,
+o deepening channels,
+o increasing the size or number of drainage structures,
+o replacing culverts with bridges,
+o providing scour countermeasures at bridges, and
+o adding spur dikes.
+Example from Texas: Economic justification for betterment to improve resilience.
+
+SH 91 at Shawnee Creek, June 2015.
+
+Photo Credit: TxDOT
+
+Replacement structure under construction.
+Photo Credit: TxDOT
+
+In 2015, water cresting over the Denison Dam spillway washed away the existing pipe culvert and roadway surface of SH 91 at
+Shawnee Creek. The culvert has been overtopped multiple times during its lifespan. It was previously washed out during flooding
+in 1990 and repaired at a cost of $882,000. After the 2015 flooding, Texas DOT conducted life cycle economic analysis of two
+alternatives – 1) replace in kind; and 2) replace with a bridge.
+Alternative 1 entails installing a 80 ft long, 5 – 12 ft diameter barrel Corrugated Metal Pipe (CMP) culvert spaced 4 ft apart.
+Alternative 2 entails a 305 ft concrete span-bridge to accommodate the historic extreme event (6/1/15) of 90,000 cfs. It also entails
+raised approach ways to the bridge, heavier columns with tie beams, extensive riprap around the abutments for scour protection,
+shear key design to secure the superstructure to the substructure during overtopping, and rail that will allow water to pass through.
+Alternative 1 (replace in kind) would cost $1.0 million, but likely require replacement approximately every 25 years over the 100
+year lifespan. Alternative 2 would cost $1.7 million, but would likely last the full 100 year lifespan, with $152,000 rehabilitation at
+the 60 year point. The analysis used standard discount and inflation rates to calculate present costs. It found that Alternative 2
+would have lower cost over the lifespan.
+Based on the analysis, the Texas FHWA Division certified the betterment as economically justified and the cost was covered by the
+Emergency Relief program. In addition to saving money in reconstruction costs, Alternative 2 also saves $5.9 million in road user
+delay costs over time.
+
+Example from North Carolina: NC 12
+
+What if it would not save the FHWA emergency relief program
+money over time but the State would still like to include additional
+protective features?
+Even if rebuilding the facility would not save the FHWA emergency
+relief program money over time, a State may still decide to rebuild
+more resiliently using other funds because it may be cost beneficial
+from a broader perspective. For instance, adding protective
+features might prevent disruption to travel and economic activity
+that carry benefits not included in the more narrow analysis of cost
+savings to the FHWA emergency relief program alone. States may
+use their regularly apportioned Federal-aid funds for the
+incremental cost to protect the asset where the betterment cannot
+be justified with FHWA emergency relief funds.
+Proactive approach carries benefits
+Rather than waiting for a disaster to damage a facility, a proactive
+approach protects the traveling public, prevents damage, and saves
+money. While the FHWA emergency relief program does not
+provide funding for a proactive approach, other FHWA programs do.
+For instance, planning and research funds can be used to conduct a
+vulnerability assessment and analysis of adaptation options. Regular
+FHWA program funds can be used for activities to plan, design, and
+construct highways to adapt to current and future climates and
+extreme weather events (see memo).
+
+Hurricane Irene in 2012 breached this section of
+Pea Island on the Outer Banks of North Carolina,
+washing out a segment of NC 12. The breach is in
+an area known as the “S-Curves” which have a
+history of ER eligible damages. This area has been
+repaired eight times since 1998. Replacing the
+segment in kind was not practical given the
+severity of the breach. The most practical solution
+was to build a bridge. A bridge would be
+consistent with Section 404 permit requirements.
+Without a bridge, frequent beach nourishment
+would be required. NCDOT decided to address the
+long term issues of this area through a longer
+bridge than required to just bridge the breach. A
+longer bridge allows for future migration of the
+breach as well as shore line erosion. The portion
+of the project that would have been needed to
+bridge the existing breach was funded by ER: 0.71
+miles of the 2.11 mile project (34% of project is ER
+eligible). The rest of the project was eligible for
+other federal and state funding. Photo Credit: Tom
+MacKenzie, US FWS.
+
+A proactive approach involves the following steps:
+1. Conduct a vulnerability assessment. Using FHWA’s
+Vulnerability Assessment Framework, determine which
+assets are most vulnerable and prioritize action.
+2. Integrate into transportation system planning. Incorporate
+the results of the vulnerability assessment into the long range transportation plan such that decisions on siting
+new transportation facilities and allocating funds to rehabilitate or protect assets take into account relative
+climate risks in addition to other community needs and considerations. For instance, in Tampa, FL the
+Hillsborough MPO included climate resilience analysis in their transportation plan, identifying adaptation actions
+that would cost $31 million, but avoid $265 million in losses.
+3. Incorporate into engineering design processes. When designing new highways or rehabilitating older assets,
+evaluate future climate impacts on the structures and consider design changes as appropriate. FHWA resources
+include the 11-step process for transportation facility adaptation assessments, Hydraulic Engineering Circular 25,
+Vol. 2: Highways in the Coastal Environment: Assessing Extreme Events, and HEC-17: Highways in the Riverine
+Environment.
+4. Incorporate into asset management. Incorporate information on vulnerability into asset management in order
+to include adaptive action in regular maintenance and in rehabilitation of assets. NCHRP25-25(94): Integrating
+extreme Weather into Transportation Asset Management Plans provides helpful information.
+Over the past several years, FHWA has partnered with many DOTs and MPOs to respond proactively by assessing
+vulnerabilities and analyzing adaptation options (see pilots).
+
+Relevant Policy and Guidance
+“The FHWA supports planning, designing
+• FHWA Order 5520 - states that it is FHWA policy to integrate
+and constructing highways to adapt to
+consideration of climate and extreme weather risks into its
+current and future climate and extreme
+weather events under the Federal-aid
+planning, operations, policies and programs.
+program. Features that will improve the
+• Memo: Eligibility of Activities to Adapt - clarifies that FHWA
+resilience of repaired federal aid highways
+funds can be used for adaptation to changes in climate.
+should be considered and evaluated
+• 23 CFR 667 - requires States to consider alternatives for
+consistent with risk, cost effectiveness and
+facilities repeatedly requiring repair with FHWA emergency
+regulatory conditions. The evaluation should
+relief funds.
+apply the best available scientific and
+economic information to forecast and
+• Emergency Relief Manual – provides guidance on use of
+assess future risk factors.” – FHWA
+FHWA emergency relief funds, including explaining that
+Emergency Relief Manual
+emergency relief funds may be used to rebuild damaged
+facilities to be more resilient to future climate impacts if consistent with current design or if it would save the
+FHWA emergency relief program money over time.
+• FHWA Order 5182.1 – provides procedures for administration of the emergency relief program.
+• 23 CFR 515 - requires climate and extreme weather risks in risk-based asset management plans.
+For more information:
+FHWA Emergency Relief Program Website
+FHWA Resilience Website
+Contacts:
+• Greg Wolf, FHWA Office of Infrastructure, greg.wolf@dot.gov, 202-366-4655
+• Tina Hodges, FHWA Office of Planning and Environment, tina.hodges@dot.gov, 202-366-4287
+
+

@@ -1,0 +1,1071 @@
+Federal Highway Administration
+
+The Use of Climate Information in
+Vulnerability Assessments
+
+FHWA-HEP-12-010
+
+January, 2011
+Prepared for
+Federal Highway Administration
+Prepared by
+ICF International
+1725 Eye Street NW, Suite 1000
+Washington, DC 20006
+
+INTRODUCTION
+This memorandum focuses on the use of climate information when performing a vulnerability
+assessment, a topic that was discussed at the Newark Pilot Peer Exchange Workshop on May 4-5,
+2011. The memorandum describes several sources of climate information,1 and provides some
+recommendations on how this information can be used by the pilots (or other transportation
+planners) as they consider their climate-related risks.
+The memorandum is organized into three sections:
+
+
+
+
+Information about Historical Climate
+Information about Future Climate
+Sources of Technical Assistance
+
+The memorandum also has an Appendix which outlines some of the methods being employed by
+pilots to estimate the impacts of sea-level rise.
+HISTORICAL CLIMATE
+VALUE OF EXAMINING HISTORICAL CLIMATE
+Analysis of historical climate allows decision makers to better understand and communicate the
+projected changes in climate and their associated impacts. The following sections discuss three
+specific types of benefits that can emerge from the analysis of historical climate:
+
+
+
+
+Information on the extent and magnitude of a transportation system’s sensitivity, which
+can be used to consider the response of the system to climate change;
+Variability in temperature and precipitation conditions, which provides context for
+judging the magnitude of future climate changes; and
+Case studies of weather events that matter to the community. These examples can be
+valuable communication tools to raise awareness of climate risks to a variety of
+audiences.
+
+Sensitivity
+In many locations, the temperature and precipitation patterns of the 21st century are likely to be
+considerably different than those experienced in the 20th century. However, the ability to
+anticipate the consequences of climate change on transportation services and assets will draw
+heavily on agencies’ experiences regarding their performance in the past climate, especially
+during extreme conditions (e.g., heat waves, heavy rainfall events). Understanding how
+transportation systems have performed during periods of high temperature, heavy precipitation
+and flooding, or prolonged lack of precipitation can provide qualitative, and in some cases,
+quantitative information that can be extrapolated to future climate conditions.
+1
+
+In this memorandum, discussion of “climate” will remain focused on temperature and precipitation. This
+is consistent with the discussion of climate information that took place during the Breakout Session at the
+Newark Pilot Peer Exchange workshop, May 4-5, 2011. As such, other aspects of climate (e.g.,
+atmospheric circulation patterns, ocean currents, streamflow, snowpack) will not be discussed at length in
+this memorandum. Although some of these other aspects of climate may affect transportation
+infrastructure, the applicability, reliability, and availability of data will be highly variable from location to
+location; temperature and precipitation, on the other hand, will likely need to be considered in any
+vulnerability assessment.
+
+2
+
+Federal Highway Administration
+
+The following questions are examples of the way in which past climate information can be
+employed to identify this type of sensitivity information:
+
+
+
+
+
+
+
+Which types of services or assets are currently affected by weather extremes?
+Have heat waves, floods, or droughts recently caused service disruptions or damage to
+assets?
+Are there service disruptions or damage to assets associated with more subtle or longerterm weather and climate events, such as a warmer-than-normal summer or a wetter-thannormal winter?
+What is the nature of the service disruption or asset damage? Examples of types of
+impacts include reduced service reliability, lower quality of service for travelers, and
+increased repair or construction costs.
+Are there particular locations within the transportation system that frequently suffer
+impacts tied to storms or other weather events, or suffer the most significant impacts?
+Are there thresholds (e.g., a specific high temperature, an amount of precipitation within
+a day or over several days) at which the system begins to experience impacts?
+
+Performing a sensitivity analysis can provide a foundation from which to identify future
+vulnerabilities. In addition, it helps to identify the particular climate variables that should be
+extracted from future climate projections (see discussion below) as part of the vulnerability
+analysis. For example, if heat waves pose problems for a transportation service, then the model
+projections for temperature during the spring, summer, and fall months should be investigated
+closely (increases in winter temperatures are unlikely to result in “heat waves” for most
+locations). Also, if heat waves are an issue, some attention should be paid to the daily-scale
+temperature variability associated with model projections (see the Projection of daily-scale
+extremes),2 in addition to the monthly and seasonal statistics.
+Historical variability and the context for future changes
+Examination of past climate allows future projections to be put into context. To illustrate the
+importance of understanding historical variability, records of annual precipitation and average
+annual temperature for a weather station in Pasadena, California are shown in Figures 1 and 2.
+These graphs and the accompanying discussion show that a comparison between historical
+variability and projected changes can be an important part of the assessment of local-scale
+impacts.
+
+2
+
+Climate models’ ability to simulate the daily-scale statistics of climate in a particular region is limited.
+Quantitative information derived from daily-scale statistics should be scrutinized and used with care (as
+discussed further in the “Translating to Impacts” section). For example, changes in daily-scale extremes
+can span a wide range – projections for California exhibit increases in the frequency of intense heat waves
+ranging from a doubling or tripling to increases by a factor of 20 (Cayan et al., 2009). Although all models
+and scenarios project a warmer future, including an increase in the frequency and intensity of heat waves,
+there is significant uncertainty as to how this warming translates into daily-scale changes in weather in
+particular locations across California.
+
+3
+
+Federal Highway Administration
+
+Annual Precipitation (inches; Dec‐Nov)
+
+50
+45
+40
+35
+30
+25
+20
+15
+10
+5
+0
+1948
+
+1958
+
+1968
+
+1978
+
+1988
+
+1998
+
+2008
+
+Year
+
+Figure 1: Historical precipitation in Pasadena, California
+Total annual precipitation (December –November) is shown for the period 1950-2009. The black line shows the average
+rainfall (~20 inches per year). The gray lines show the averages for El Niño years (top gray line; wettest of the three
+averages) and La Niña years (bottom gray line; driest of the three averages). The red dashed lines correspond to
+hypothetical future increases and decreases in annual precipitation by 20%. The graph demonstrates that the year-to-year
+variability of precipitation is very large relative to the average precipitation. Future changes in precipitation (+/- 4 inches)
+are relatively small compared to the historical range, and the difference between the average of El Niño years and La Niña
+years. Data taken from the NCDC/NOAA U.S. Historical Climate Network.
+Note: total precipitation is calculated from December through November to prevent splitting winter months that
+experience the same signal from El Niño-Southern Oscillation, as would be done by using the calendar years.
+
+The precipitation graph demonstrates that the year-to-year variability of precipitation is very large
+relative to the average precipitation (middle black line on the graph). Although such variability is
+not representative of most stations across the country, many locations in Southern California
+exhibit this level of variability. For Southern California (and much of the U.S. West Coast), the
+El Niño-Southern Oscillation has a significant impact on precipitation falling during the winter,
+which in turn has a significant impact on annual precipitation. For Pasadena, the average
+precipitation falling during El Niño years is 10 inches greater than the average for the La Niña
+years.3
+Understanding this variability can help to put future changes in context. Although climate model
+projections vary regarding the direction of future precipitation changes in Southern California,
+many models show increases or decreases that are around 20% or less of average precipitation by
+the 21st century. These changes (both increases and decreases) have been shown in the graph
+above as red, dashed lines. Although these changes are not negligible, they clearly fall within the
+range of historical variability. The projected changes are much smaller (by more than a factor of
+2) than the difference between the averages for El Niño and La Niña years.
+
+3
+
+The relationship between El Niño-Southern Oscillation and precipitation in Southern California is
+particularly strong. Many locations in the United States, especially away from the West Coast, will not
+exhibit such a strong connection.
+
+4
+
+Federal Highway Administration
+
+Average Annual Temperature (°F)
+
+70
+69
+68
+67
+66
+65
+64
+63
+62
+61
+60
+1948
+
+1958
+
+1968
+
+1978
+
+1988
+
+1998
+
+2008
+
+Year
+
+Figure 2: Historical temperature in Pasadena, California
+Average annual temperature is shown for the period 1950-2009. The black line shows the average for the period 19611990. The red dashed line corresponds to a hypothetical increase in average annual temperature by 3°F. In comparison
+to the precipitation graph, the hypothetical change in temperature, which is at the low end of projections for the end of
+the 21st century, is large compared to the historical variability. Data taken from the NCDC/NOAA U.S. Historical
+Climate Network.
+Note: The black line only represents an average of a 30-year portion of the record. This was chosen because 1) the time
+series as a whole has a linear trend toward warming, and 2) the late 20th century is often used as a baseline from which
+warming is estimated from the output of climate models.
+
+By comparison, the projection for future average temperature for Southern California (as shown
+by the red, dashed line in Figure 2) is outside the range of historical conditions. The hypothetical
+warming shown in Figure 2 is 3°F, which is at the low end of projections for the end of the 21st
+century. Some models and scenarios project warming of 8°F.
+The purpose of the Pasadena example is to demonstrate that consideration of historical variability
+is an important component of an impacts assessment. Clearly, the increases anticipated for
+temperature in Southern California represent a fundamental change in the regional climate by the
+end of the 21st century. The projections for precipitation are both more uncertain (i.e., increases
+or decreases could occur) and fall within the range of historical conditions. This is not to say that
+the changes will be insignificant or negligible, but simply that the future average conditions are
+likely to resemble a significant portion of the historical record. In addition, the analysis shows
+that some of the year-to-year changes in precipitation may be worth considering as part of the
+impacts assessment, or in the development of adaptation options (i.e., a system that is resilient to
+some of the relatively large swings in historical year-to-year rainfall is also likely to be resilient to
+longer term changes in precipitation).
+It is important to emphasize that the variability represented in the Pasadena record is not
+necessarily representative of other locations. In other places, the variability of precipitation is
+likely to be smaller, such that a 20% change in precipitation could represent a more significant
+difference from historical conditions. Similarly, other locations could exhibit greater temperature
+variability, in which a warming of 3°F may appear less drastic. The diversity in climate
+conditions across the country underscores the need to assess future climate projections in light of
+historical regional climate variability.
+
+5
+
+Federal Highway Administration
+
+Communication tool
+Past weather events (e.g., strong storms, heat waves) or climate events (e.g,, droughts, warmerthan-normal summers, wetter-than-normal years) that have negatively affected the transportation
+system can be used as examples to facilitate discussion with staff within a transportation agency
+or with other groups external to the agency (e.g., political representatives, commuters, transit
+riders). These examples can be important ways to raise awareness among these groups. Benefits
+include:
+Drawing on shared experience: Past weather and climate events represent a shared experience.
+Within transportation agencies, this shared experience can be a valuable way to acquire
+information on sensitivity. More broadly, these events can be a way to invite participation from
+desired audiences, making the issue of climate change and climate impacts more personal and
+less technical.
+Identification of potential adaptive responses: Especially for internal staff audiences, the
+experience of dealing with past weather and climate events can provide valuable information
+about what does and does not work when attempting to minimize damage or maximize
+opportunities associated with impacts. Past experience provides “lessons learned” that can help
+spark and guide discussion about adaptation options.
+Justification for action: Past examples can provide the answer to “why are you performing a
+vulnerability assessment?” Discussion of the examples can help make the case that the
+vulnerability assessment can help to reduce the risks associated with similar, repeat occurrences
+of the examples.
+Education regarding weather and climate: Aspects of the examples can help to educate staff or
+the broader community about climate variability, climate change, and local-scale impacts.
+Making the connection between weather and climate, in and of itself, is an important step toward
+educating people about climate.
+Alternative framing of climate-related initiatives: Among some audiences, the terms “climate”
+and “climate change” are laden with significant political connotations. These connotations are
+likely unrelated to, or at best are tangential to, the task of increasing the resilience of the
+transportation system to extreme weather and climate impacts. Framing the vulnerability
+assessment in terms of past weather and climate events can help to avoid some of these political
+issues.
+Limits of making extrapolations based on historical data
+As outlined above, examination of historical climate data and observed impacts from weather and
+climate events can be useful for both analysis of vulnerability and communication. However, it is
+important to recognize a fundamental issue in considering climate change: the prevailing or
+typical historical climate conditions are unlikely to be representative of the future climate
+conditions. Although analysis of the past can yield useful “analogs” for certain types of weather
+events, provide insights into the types of impacts that might occur (or might occur more
+frequently), or serve as efficient communication tools, the climate is changing, and some future
+climate impacts may go beyond the range of impacts that have occurred historically.
+On a related note, care should also be taken when examining and making inferences from trends
+in historical climate data. Although these trends can be informative when considering the types
+of changes that may occur (e.g., warming over the last 30 years has accompanied a greater
+frequency of heat waves), or in identifying sensitive infrastructure (e.g., the lifetimes of
+
+6
+
+Federal Highway Administration
+
+equipment or infrastructure have been shrinking as a result of more frequent recent high
+temperatures), it is unlikely that the trends of past decades will persist unchanged into the future.
+In most cases, extending past trend lines into the future would represent a poor model of future
+conditions, especially on longer timescales (greater than 30 to 40 years). For example, for all
+parts of the U.S., the rates of warming for the 21st century are expected to be greater than the rate
+of warming between 1900 and 2000. Moreover, for many scenarios of warming, the latter half of
+the 21st century is likely to exhibit more rapid warming than the first half of the 21st century.
+DATA SOURCES
+Historical climate information can
+be found in a variety of data
+products that are maintained by the
+National Oceanic and Atmospheric
+Administration (NOAA). These
+products fall into two general
+categories:
+Station Data – these records
+correspond to a specific location.
+NOAA’s National Weather
+Service, in conjunction with
+Figure 3: Locations of active COOP weather and climate
+significant volunteer contributions,
+stations
+maintains the Cooperative Station
+Network (COOP), which represents a large set of stations across the country (Figure 3), some of
+which have relatively long periods of record (greater than 100 years). These stations have
+observations for daily temperature, precipitation, and some provide measures of snowfall. A
+subset of these stations, the U.S. Historical Climate Network has been quality controlled for use
+in climatological research, and has over 1200 stations across the country
+(http://cdiac.ornl.gov/epubs/ndp/ushcn/ushcn.html).
+Station data portrays the daily and
+monthly variability that has been
+witnessed at a particular location,
+including any extreme events that may
+have occurred there. Such a record can
+be particularly useful if it is nearby
+transportation assets that are included in
+the vulnerability assessment. However,
+such a station’s record may not be
+representative of larger regions.
+Topography, differences in land cover,
+the presence of water bodies, and
+features of the average larger-scale
+circulation can affect the extent to
+which a station might be considered
+representative of a larger area.
+
+Figure 4: Locations of NCDC climate divisions
+
+7
+
+Federal Highway Administration
+
+Climate Division Data
+The National Climate Data Center (also a part of NOAA) maintains a climate division data set.
+In these data, individual stations that fall in a region with a similar climate are averaged together.
+A map of the 344 climate divisions is shown in Figure 4.
+These data have better quality from 1931 to the present than earlier periods (data from 1895-1930
+were sometimes based on state averages, rather than actual station observations). These data can
+be useful for examining trends and variability over larger geographic areas, and avoid any issues
+of data quality that might arise from looking at an individual station. However, only monthly and
+annual data for temperature and precipitation are available.
+Other Sources
+There are many other sources of historical climate information for variables such as streamflow
+(data from U.S. Geological Survey (USGS)), snowpack measurements (the National Resource
+Conservation Service (NRCS), which is part of the U.S. Department of Agriculture), and gridded
+“reanalysis” products for more complex meteorological variables (National Centers for
+Environmental Prediction, which is part of NOAA).4 These data sets can be useful for assessing
+some types of impacts, especially hydrological impacts such as droughts and floods. However,
+we have restricted our discussion to those products that are most closely related to temperature
+and precipitation at the surface, and to those products that would be easy to download and use.
+FUTURE CLIMATE
+Our knowledge of future climate conditions is based on experiments performed with climate
+models (also known as atmosphere-ocean general circulation models). This section describes
+how to judge and utilize the output from climate models in regional-scale vulnerability
+assessments, and where to access climate model information.
+TRANSLATING TO IMPACTS
+Climate model output can be an integral component to a vulnerability assessment (and the
+subsequent adaptation decisions). Outputs can provide information regarding how much or how
+fast the climate could change. However, it is important to establish what types of information
+climate models DO and DO NOT provide. This section will discuss emerging issues regarding
+scenario selection, downscaling, and uncertainty in the context of regional-scale vulnerability
+assessments.
+What is a climate model?
+A climate model is a mathematical representation of the climate system:
+…climate models are used to simulate how…changes in GHG [greenhouse gas]
+emissions and other climate forcing agents will translate into changes in the
+4
+
+Much of this data is available online. USGS Streamstats (http://water.usgs.gov/osw/streamstats/) has
+historical streamflow data and statistics for various locations across the country Federal Emergency
+Management Agency allows users to access maps of floodplains (referred to as Flood Insurance Rate Maps,
+or FIRMs; http://www.fema.gov/hazard/map/firm.shtm), which have been developed using historical data;
+NRCS has snowpack and soil moisture data across much of the western United States
+(http://ftp.wcc.nrcs.usda.gov/).
+
+8
+
+Federal Highway Administration
+
+climate system. Climate models are computer-based representations of the
+atmosphere, oceans, cryosphere [ice and snow], land surface, and other
+components of the climate system. All climate models are fundamentally based
+on the laws of physics and chemistry that govern the motion and composition of
+the atmosphere and oceans. (National Research Council, 2010; bracketed phrases
+have been inserted)
+The models’ simulations for the 21st century are called projections. These projections
+are designed to help us understand how the addition of greenhouse gases to the
+atmosphere might change our climate. Models are intended to be heuristic tools,
+illuminating how many processes (e.g., the way in which oceans transport heat around the
+planet; the strength and location of the jet streams) might respond to the addition of these
+greenhouse gases, and the subsequent warming that occurs. Climate models are not
+intended to be “prediction machines” that reveal the precise future conditions in a
+particular location.
+It is also important to note that climate models, by themselves, do not yield information
+about the impacts of climate change. They simply provide simulations for future
+temperature and precipitation, which can be converted into statistics (e.g., average
+seasonal temperatures, annual return-frequency for days with temperatures above 100°F)
+that can be compared to similar statistics representing the current climate.5 It is essential
+that users understand the types of climate information that are most important to the
+performance of their respective transportation networks. Performing a sensitivity
+analysis (see “Value of Examining Historical Climate” section above) is a way to identify
+the types of climate information (i.e., which measures of temperature and precipitation,
+and on what time scale) that correspond to the quality and reliability of service, or to
+damage and repair of assets.
+Scenarios
+Whenever a climate model is “run” into the future, a set of assumptions regarding the future
+trajectory of the planet’s greenhouse gas emissions and other climate-forcing agents (e.g.,
+aerosols) is used as inputs to the model. These assumptions chart a path forward for the world’s
+population growth, economic growth, and rates of technological development and transfer of
+technology. These assumptions, taken together, constitute an emissions scenario.6
+The Intergovernmental Panel on Climate Change (IPCC) has developed a set of standard
+emissions scenarios that are used in climate models. These scenarios are typically designated by
+a set of letters and numbers (e.g., “A1B”, “B2”) that communicate information about the various
+assumptions regarding future population, economic growth, and technological development that
+relate
+
+5
+
+Technically speaking, the model projections should be compared to the model simulations for the 20th
+century, and then the projected change should be compared to the observed statistics (e.g., those taken from
+station data). For any model, especially at the regional-scale, the simulated 20th-century climate is likely to
+differ slightly from the observed 20th-century climate –this is often referred to as bias. Focusing on the
+projected change avoids incorporating the model’s bias into any interpretation of expected regional-scale
+climate changes.
+6
+Notably, scenarios do not include any assumptions about policies designed to explicitly discourage
+emissions of greenhouse gases.
+
+9
+
+Federal Highway Administration
+
+to the scenarios’ respective emissions trajectories.7
+It is important to note that the likelihood of occurrence of any scenario has not been assessed –
+there are no probabilities assigned to the individual scenarios. The scenarios simply represent
+possible future pathways. They do not necessarily “bracket” what future conditions could look
+like, nor do they constitute what is most likely to occur.
+Downscaling
+Climate models render the Earth in a series of “pixels” or
+grid boxes (Figure 5) that are several degrees of longitude
+each side (roughly 60-200 miles, depending on the
+geographic location and the particular model). Within each
+grid box, calculations for meteorological variables are
+performed, and the flows of mass and energy between grid
+boxes are tracked.
+The resolution of current climate models provides a coarse
+view of the land surface. For example, details of coastlines
+and mountain ranges that are smaller than the size of the grid
+boxes are not directly incorporated into the model’s
+calculations. Similarly, aspects of meteorology and climate
+that occur on these relatively small spatial scales (e.g.,
+structure of weather fronts, the evolution and properties of
+clouds) are not always represented well.8
+
+Figure 5: Illustration of a climate
+model’s grid boxes. (Source:
+climateprediction.net)
+
+Downscaling techniques have emerged as a way to transform
+the output from climate models to smaller spatial scales,
+often to grid boxes that are a quarter or an eighth of a degree
+of latitude and longitude on each side (between about 10-20 miles on a side). There are two
+general methods of downscaling:
+
+Statistical downscaling: Empirically-observed relationships between observed climate (at high
+resolution) and modeled climate (at a coarse scale) are applied to future projections. These
+relationships act as a “transfer function” that allow small-scale information to be added to the
+patterns generated from the coarse-scale global climate model. Statistical downscaling
+techniques are based on the assumption that historically observed relationships between largerscale climate patterns and the smaller-scale patterns (colloquially, these small-scale patterns are
+sometimes referred to as microclimates) will not change as a result of climate change.
+
+7
+
+For the next round of IPCC model simulations (the Fifth Assessment, or AR5), new scenarios are being
+developed. These scenarios, or Representative Concentration Pathways (RCPs), will often involve similar
+assumptions about future population growth and changing socio-economic conditions as the scenarios used
+in previous Assessments. However, the RCPs have been developed with greater emphasis on greenhouse
+gas concentrations, rather than emissions. Concentrations can be used more efficiently as inputs to
+integrated assessment models that examine impacts. Also, the RCPs will include information about
+possible mitigation policies, which was also lacking from the previous scenarios. For more information,
+see the recent issue of Climatic Change, which is devoted to discussing various aspects of the RCPs
+(http://www.springerlink.com/content/f296645337804p75/).
+8
+Sub-grid scale processes are represented using parameters that are based on empirically-derived
+relationships, rather than direct calculations that are emerge from physical or chemical first principles.
+
+10
+
+Federal Highway Administration
+
+Dynamic downscaling: The outputs from a coarse-scale, global climate model are used as inputs
+for a climate model that operates in a smaller spatial domain (typically sub-continental). This
+smaller-scale model works much like a global climate model – equations describing the physics
+and chemistry of the atmosphere are solved in each of the grid boxes on the smaller domain, with
+the solutions forced to be roughly consistent with the large-scale characteristics of climate that
+have been simulated in the global model.
+Statistical downscaling techniques are computationally less intensive than dynamic methods.
+Although there are many algorithms for applying statistical downscaling, some of the more
+popular methods (e.g., bias correction statistical downscaling, constructed analogs) often yield
+results that are similar to one another.
+The use of dynamic methods is an active area of research and the types of information that can be
+gained by dynamic downscaling are still being established and debated. Given the computational
+requirements, experiments using many combinations of global models and regional models are
+time-consuming and expensive; hence, these investigations are likely to continue for the coming
+years.
+It is important to note that downscaling rarely improves the information about climate change that
+is derived from the coarse-scale, global models. Although downscaling may reveal small-scale
+patterns of interest (e.g., larger amounts of rainfall on windward slopes of mountains, relative to
+nearby flatter terrain), the difference in the changes for the future may be less significant (e.g., the
+change in precipitation for the mountainous areas and the flatter areas may be quite similar).
+Similarly, downscaling the output from a suite of coarse-scale models will not necessarily result
+in a tighter range of projections for a particular area.
+Which models, scenarios, and spatial scales are right for you?
+Unfortunately, the answer to this question in not simple or straightforward. A few important
+points to keep in mind:
+
+
+
+
+All models have some biases;
+Scenarios outline potential futures, as opposed to likely or probable futures; and,
+Downscaled model output is not necessarily more accurate or precise than the
+information from the coarse-scale model.
+
+Although there may not be a well established set of “best practices” for selecting models,
+scenarios, and the spatial scale of future climate information, knowledge of the sensitivity of the
+transportation system can be used to narrow some of these choices.
+
+
+
+
+
+Since all models involve some bias, it is judicious to use a range of models. Ideally,
+studies have been performed in your region to identify which models perform the best
+when simulating features of the historical climate.
+Typically, model differences have a larger impact than the scenarios on projected climate
+changes through 2050. For 2100, the scenario differences are larger than the model
+differences. Thus, if decisions between now and 2050 are of highest priority, it is less
+important to examine a wide range of scenarios. If it is important to sample from a wide
+range of temperature and precipitation changes, then a wide range of models should be
+used. Conversely, for decisions with long time frames (greater than 40-50 years),
+examining a range of scenarios is likely more important than a range of models.
+Downscaled data can be extremely valuable as inputs to high-resolution models (e.g.,
+hydrologic models) for aspects of the environment (e.g., river dynamics, coastal
+
+11
+
+Federal Highway Administration
+
+processes) that affect transportation networks. However, the types of information that
+they will “add” to the analysis should be established prior to expending significant time
+or cost in performing the downscaling.
+Projection of daily-scale extremes
+Some of the most important impacts of weather and climate on transportation assets and services
+occur during relatively short-lived events, including severe storms, floods, and heat waves.
+However, model abilities to simulate the daily-scale statistics of climate in a particular region are
+limited. Quantitative information derived from daily-scale statistics should be scrutinized and
+used with care. For example, changes in the number of extremely hot days occurring in future
+decades can span a wide range – projections for the end of the 21st century in parts of California
+exhibit increases in the frequency of intense hot days occurring in a year ranging from a doubling
+to increases by a factor of 8 or more. For heat waves lasting 5 days or more, the increases in
+frequency cover an even wider range, with several models projecting 20- and 30-fold increases
+(Cayan et al., 2009). Although all models and scenarios project a warmer future and an increase
+in the frequency and intensity of heat waves across California, there is significant uncertainty as
+to how this warming translates into daily-scale changes in weather at specific locations.
+Similarly, for changes in precipitation, many models project a future with heavier downpours for
+many regions in the U.S.; however, the magnitude of the changes can vary widely both across
+scenarios, and even across models using the same scenario.9
+Although there is no way to “eliminate” the uncertainty associated with projections of daily-scale
+extremes, the mere fact that the model results involve uncertainty about the future does not need
+to be a barrier to making useful conclusions about daily-scale extremes. Two potential
+techniques include:
+1) If it’s available, use data from many models and scenarios. For variables and regions
+where many models agree about the direction and magnitude of change, more confident
+conclusions can be made about the projected changes.
+2) Identify impact thresholds from historical data, then apply the results of climate models
+qualitatively. In other words, rather than trying to identify the quantitative change in the
+frequency or intensity of heat waves or heavy precipitation at some future date, the goal
+of the analysis can be altered to focus on more binary issues (i.e., yes/no issues; is the
+event becoming more/less frequent?). Using heat waves as an example, if the impacts
+from an historical heat wave of a certain magnitude or duration can be characterized, then
+models could be used to conclude with high confidence that such events are likely to
+become more frequent. If output from multiple models is available, conclusions can go
+farther and involve some quantitative qualifiers such as “at least” (in reference to
+projections from the most conservative/coldest models) or “in the range of.”
+
+9
+
+To clarify, this section is specific to understanding the statistics of daily-scale events as derived from
+climate models. For seasonal and annual timescales, all model and scenario combinations project
+increased temperatures for the United States and the globe (i.e. this is a robust finding of the models). For
+seasonal and annual precipitation, some models and some scenarios project increases in precipitation, while
+others project decreases. The results, and the consensus (or lack of a consensus) among models, are
+dependent on the geographic region.
+
+12
+
+Federal Highway Administration
+
+DATA SOURCES
+A variety of research institutions across the world conduct model experiments, using high-end
+computing resources. The output of these experiments are made available online (see Text Box
+on Online Resources) for download.
+One of the most commonly used sets of model experiments is the Coupled Model
+Intercomparison Project (CMIP). The CMIP models act as a benchmark for climate research, and
+form the core of the assessment of future climate in the IPCC reports. These models that are part
+of CMIP meet a certain set of requirements regarding their technical specifications, their
+performance, and the types of experiments to which they’ve been subjected.
+Although it is possible to access the data from any of these climate models, manipulating the data
+can be a challenge. The data formats (often Network Common Data Format, NetCDF) are not
+easily read-able by typical desktop software (e.g., Excel) or Geographic Information System
+(GIS) software packages. In addition, these data files are often extremely large and contain
+information on a wide range of variables (e.g., temperature, wind speed and direction, heights of
+pressure surfaces) for the entire globe. However, many of these variables would likely be
+extraneous when conducting a vulnerability assessment for transportation assets in a specific
+location.
+
+13
+
+Federal Highway Administration
+
+Online Resources for Climate Model Output
+Direct Access to Climate Model Output
+CMIP 3 (the model projections used in the IPCC Fourth Assessment Report (AR4))
+http://www-pcmdi.llnl.gov/ipcc/about_ipcc.php
+CMIP 5 (the models projections that will be used in the upcoming IPCC Fifth Assessment
+Report (AR5))
+http://pcmdi-cmip.llnl.gov/cmip5/index.html
+National Center for Atmospheric Research – Earth System Grid (a portal for many output
+from a variety of models, both those used by the IPCC and those under development)
+http://www.earthsystemgrid.org/home.htm
+Evaluation of Models
+IPCC AR4, Chapter 8: Climate Models and their Evaluation (a high-level, technical discussion
+of the state of climate modeling and an evaluation of the models used by the IPCC)
+http://www.ipcc.ch/publications_and_data/ar4/wg1/en/ch8s8-es.html
+Examples of Processed or Downscaled Model Output
+North American Regional Climate Assessment Program (a portal for dynamicallydownscaled climate model output; output can be requested in various formats (ASCII, GIS))
+http://www.narccap.ucar.edu/
+North American Climate and Hydrology Projections (downscaled output from CMIP3 models
+and scenarios; output can be requested in NetCDF or ASCII formats; climate projections are
+valid for the continental U.S.; hydrologic data are available for the western U.S.)
+http://gdo-dcp.ucllnl.org/downscaled_cmip3_projections/dcpInterface.html
+Cal-Adapt (a web-based climate adaptation planning tool for the state of California. Contains
+statistically-downscaled data for the state, which can be downloaded or manipulated in an
+embedded Google maps viewer.) http://cal-adapt.org/
+TECHNICAL ASSISTANCE
+For assistance in acquiring historical climate data, performing a sensitivity analysis, and acquiring
+or making decisions about future climate information, there are many groups that can offer
+potential assistance.
+Some research institutions and non-profit organizations have begun to make downscaled climate
+information available in more easy-to-use formats. Examples include the North American
+Regional Climate Assessment Program and the Cal-Adapt project (see Text Box on Technical
+Assistance). As these efforts become more widespread, and more examples of the use of these
+data become available, the utility of these data portals is likely to grow.
+
+14
+
+Federal Highway Administration
+
+Technical Assistance Resources Regarding Climate Information
+NOAA Regional Climate Centers – focus more heavily on historical observations of climate
+http://www.ncdc.noaa.gov/oa/climate/regionalclimatecenters.html
+Department of Interior Regional Climate Centers – focus on issues related to ecology and
+public lands http://nccwsc.usgs.gov/csc.shtml
+NOAA’s Regionally Integrated Sciences and Assessments Centers (RISAs) – each center
+pursues themes related to environmental issues in its respective region; however, climate has
+emerged as an important issue among many RISAs
+http://www.cpo.noaa.gov/cpo_pa/risa/
+State climatologists – Many states have a climatologist that serves as a resource for acquiring
+and interpreting regional historical climate data, and in some cases, future projected data. It
+should be noted, that for a few states, the state climatologist position (which is often an unpaid
+position) may be occupied by an individual without advanced training in climatology.
+http://www.stateclimate.org/
+Local university researchers – many universities have or are the process of forming groups
+or institutes to address regional issues related to climate change
+Consulting firms – several private and non-profit firms exist that have expertise in applying
+climate information to transportation planning
+
+REFERENCES
+Cayan, D., M. Tyree, M. Dettinger, H. Hidalgo, T. Das, E. Maurer, P. Bromirski, N. Graham, and
+R. Flick (2009). Climate Change Scenarios and Sea-level rise Estimates for the California 2009
+Climate Change Scenarios Assessment. A paper from the California Climate Change Center.
+August 2009. CEC-500-2009-104-F.
+Climatic Change (2011) 109 DOI 10.1007/s10584-011-0148-z
+http://www.springerlink.com/content/f296645337804p75/
+National Research Council, 2010. America’s Climate Choices: Advancing the Science of Climate
+Change. The National Academies Press. Washington, DC. p.62
+
+15
+
+Federal Highway Administration
+
+APPENDIX
+PILOT METHODOLOGIES FOR ESTIMATING THE IMPACTS OF SEA-LEVEL RISE
+Since each of the FHWA pilot study areas included coastal areas, all of the pilots considered
+vulnerability to sea-level rise to be a key climate change risk. Each of the pilots assessed this
+vulnerability differently, but they experienced common challenges and faced similar types of
+decisions. The purpose of this Appendix is to describe the pilots’ approaches and to detail the
+relevant data sources, methodologies, challenges and barriers involved in conducting local-scale
+vulnerability assessments of the impacts of sea-level rise.
+BACKGROUND: ESTIMATING IMPACTS OF SEA-LEVEL RISE
+INUNDATION MAPPING
+Spatial analysis is a key part of assessing the vulnerability of assets to sea-level rise. Without
+information on location and elevation, it is impossible to determine which assets will be exposed
+to sea level rise, or for that matter storm surge and wave impacts associated with tropical storms
+or other coastal storms. In order to characterize exposure, most studies of sea-level rise risk rely
+on inundation mapping. This method uses a Geographic Information System (GIS) to map
+inundated areas by analyzing areas of land that fall below increased water levels under different
+scenarios of sea-level rise (also called the “bathtub model”).
+As described in NOAA (2009), inundation mapping involves the following key steps:
+
+
+
+
+
+Obtain and prepare elevation data and elevation surfaces for coastal land areas (includes
+calibrating elevation to local tidal elevations);10
+Determine projected sea-level rise and/or storm surge scenarios;
+Use GIS to overlay the water surfaces onto the digital elevation map in order to identify
+inundation areas; 11
+Add other features of interest, produce final inundation maps.
+
+CHALLENGES FOR LOCAL ANALYSES
+The utility and accuracy of a sea-level rise assessment depends on the resolution of the
+underlying elevation data. One standard source of elevation data, the USGS National Elevation
+Dataset, supplies elevation data with a horizontal resolution of 30m and 10m for the entire United
+States, which may be considered relatively coarse where coastlines are highly developed.
+10
+
+Calibration often involves the choice of a vertical datum. As defined by NOAA (2011), “A datum is a
+base elevation used as a reference from which to reckon heights or depths. A tidal datum is a standard
+elevation defined by a certain phase of the tide. Tidal datums are used as references to measure local water
+levels.” Example tidal datums include mean higher high water and mean high water.
+11
+The sea-level rise projection must be chosen to account for the vertical accuracy of the elevation data for
+the land (and vice versa). An accurate map requires the root mean square error of the elevation data to be
+smaller than the projected change in sea-level rise (NOAA 2009). For more in-depth discussion of land
+elevation data resolution and accuracy, see Chapter 2 of CCSP (2009).
+
+16
+
+Federal Highway Administration
+
+Vertical resolution can vary, based on the source of the elevation data utilized by NED, but the
+stated accuracy of available data from the NED is around +/-2.4m. However, since global
+projected sea-level rise changes only reach 2m by the end of the 21st century (if at all), maps
+based on the NED will generally not provide accurate predictions of exposure of specific assets.
+In order to obtain more useful elevation information, local assessments will likely need to rely on
+digital elevation models derived from high resolution LiDAR (Light Detection and Ranging)
+data. These data are not available in all locations. In addition, projects must ensure that the
+LiDAR data have been properly processed, including adjustments to the vertical datum12 before
+use.
+In addition to the horizontal and vertical resolution requirements for elevation data, there are
+other challenges for analyzing sea-level rise vulnerability at a local scale. As described in CCSP
+(2009), inundation mapping can be misleading because elevation is not the only determinant of
+coastal vulnerability. Mapping may not take into account the uplift or subsidence of the land
+surface. In areas where land is sinking, the apparent rate of sea-level rise (often referred to as the
+“local” or “relative” rate of sea-level rise) will be greater than the rate associated with changes in
+the global mean sea level.
+Sea-level rise will likely occur slowly over a period of time and will manifest differently in
+different areas due to ongoing coastal processes, such as changes in tidal flow and sediment
+volume. In some places, land will become permanently flooded, while in other areas it will erode.
+Barrier islands and wetlands may migrate or disappear, and storms, waves, and currents will
+continually modify the landscape as the sea-level rises. Although the simple bath tub approach
+may indicate the relative risk among areas, it may not serve as a “prediction” for how the future
+landscape will appear. Typically, such limitations are not critical for identifying areas at risk at
+broad spatial scales (e.g., regionally or nationally) or communicating these risks to the general
+public. However, they may be important to keep in mind when such maps are used for local land
+use planning.
+
+12
+
+Adjustments to the vertical datum are a necessary part of mapping inundation. The land elevation data
+are usually referenced to a vertical datum called the North American Vertical Datum of 1988 (NAVD88).
+This datum is not tidal, meaning that a value of 0 does not equate to any particular local tide value.
+Correcting this issue requires converting the elevation data from NAVD88 to a tidal datum, such as mean
+high tide (NOAA, 2011).
+
+17
+
+Federal Highway Administration
+
+Resources for Assessing Sea-Level Rise
+Useful Guidance on Analyzing Exposure to Sea-Level Rise
+Army Corps of Engineers (2009). Water Resources Policies and Authorities Incorporating SeaLevel Change Considerations in Civil Works Programs.
+http://www.dbw.ca.gov/csmw/pdf/EC_Sea_Level_Change.pdf
+CCSP (2009). Coastal Sensitivity to Sea-Level Rise: A Focus on the Mid-Atlantic Region. A report
+by the U.S. Climate Change Science Program and the Subcommittee on Global Change Research.
+http://www.climatescience.gov/Library/sap/sap4-1/final-report/
+NOAA, Coastal Services Center (2009). Coastal Inundation Mapping Guidebook. Charleston,
+South Carolina. www.csc.noaa.gov/digitalcoast/inundation/_pdf/guidebook.pdf
+NOAA (2010). Technical Considerations for Use of Geospatial Data in Sea Level Change
+Mapping and Assessment.
+http://www.csc.noaa.gov/digitalcoast/inundation/_pdf/SLC_Technical_Considerations_Document.
+pdf
+Useful Data Sources and Models for Inundation Mapping or Sea-Level Rise Risk Assessment
+NOAA. SLOSH (Sea, Lake, and Overland Surges from Hurricanes;
+http://slosh.nws.noaa.gov/sloshPub/) Model www.nhc.noaa.gov/HAW2/english/surge/slosh.shtml
+Thieler, R., J. Williams, and E. Hammar-Klose. National Assessment of Coastal Vulnerability to
+Sea-Level Rise. Woods Hole Field Center, Woods Hole, MA. USGS.
+http://woodshole.er.usgs.gov/project-pages/cvi/
+Examples of Regional or Local Inundation Mapping
+Keim, B.D., T.W. Doyle, V.R. Burkett, I. Van Heerden, S.A. Binselam, M.F. Wehner, C. Tebaldi,
+T.G. Houston, and D.M. Beagan (2008). How is the Gulf Coast Climate Changing? In: Impacts of
+Climate Change and Variability on Transportation Systems and Infrastructure: Gulf Coast Study,
+Phase I. A Report by the U.S. Climate Change Science Program and the Subcommittee on Global
+Change Research. http://www.climatescience.gov/Library/sap/sap4-7/final-report/
+
+DETAILS OF PILOT APPROACHES
+Each of the FHWA pilot studies accounted for sea-level rise vulnerability differently. The
+following sections attempt to outline some of the key aspects of their respective technical choices
+regarding data sets and methods, as well as the goals and partnerships involved in their
+assessments.
+Specifically, we’ve tried to capture the following decisions made by the pilots:
+
+
+How will sea-level rise vulnerability information be used (e.g. for public education,
+internal communication, community planning, project level planning)?
+The intended purpose of the map should shape the inundation mapping approach. For
+
+18
+
+Federal Highway Administration
+
+
+
+
+
+
+
+example, a map intended to inform community or project planning purposes will likely
+require elevation data at a higher resolution than a map intended to educate the public or
+communicate overall sea-level rise risk to the region.
+What estimates of sea-level rise are used? Why or how were these chosen?
+Many of the studies relied on estimates adopted by state or regional planning
+organizations, or those appearing in published literature.
+What was the source of the elevation data?
+The source of the data is typically related to both the purpose of the project and the
+availability of data sets for a particular region or locality.
+To what extent should other factors, such as land subsidence or shore protection, be
+taken into consideration?
+Similar to the elevation data, these considerations are often tied to the purpose of the
+project and the availability of appropriate data sets.
+
+NEW JERSEY
+Since sea-level rise is a very important impact to the New Jersey coastal study area, the pilot
+conducted its own inundation mapping.
+
+
+
+
+
+
+
+
+Elevation data: The pilot was able to obtain very high resolution LiDAR data that had not
+yet been publically released by USGS. They then processed these LiDAR points into
+digital elevation models.
+Sea-level rise scenarios: One of the partners in the New Jersey pilot was the Department
+of Environmental Protection (DEP). The pilot worked closely with the DEP to ensure that
+all sea-level rise scenarios and projects matched the assumptions of the DEP. Since the
+DEP had already decided to use 0.5m, 1.0m, and 1.5m 2100 projections for global sealevel rise, the New Jersey pilot began with these estimates.
+Adjustment to local sea-level rise: The pilot calibrated these global sea-level rise
+projections to the study area by adjusting based on local subsidence data. To localize the
+data further, New Jersey also took salinity, temperature, and other factors into
+consideration.
+Storm surge modeling: The New Jersey pilot chose to use the SLOSH (Sea, Lake, and
+Overland Surges from Hurricanes; http://slosh.nws.noaa.gov/sloshPub/) model in order to
+consider the impacts of storm surge.13 The pilot felt it would be advantageous to examine
+a range of potential storm paths, which SLOSH does well.14
+
+13
+
+SLOSH (Sea, Lake and Overland Surges from Hurricanes) is a computerized model run by the National
+Hurricane Center (NHC) to estimate storm surge heights and winds resulting from historical, hypothetical,
+or predicted hurricanes. (http://www.nhc.noaa.gov/HAW2/english/surge/slosh.shtml)
+14
+This memorandum was originally written prior to Hurricane Irene (August 20-29, 2011). Some of the
+impacts of Irene are discussed in the New Jersey team’s final report.
+
+19
+
+Federal Highway Administration
+
+OAHU MPO
+The Oahu MPO pilot worked closely with Dr. Chip Fletcher and his lab at the University of
+Hawaii to develop high resolution inundation maps of the study area.
+
+
+
+
+
+
+
+
+
+
+Elevation data: Dr. Fletcher and his team compared two LiDAR datasets, one from the
+U.S. Army Corps of Engineers and the other from NOAA. These data were calibrated
+against the Kahului tide station.
+Sea-level rise scenarios: Dr. Fletcher considered two sea-level rise scenarios, 0.75m and
+1.9m. These scenarios are for global sea-level rise and are based on Vermeer and
+Rahmstorf (2009).
+Mapping inundation: The pilot used a ‘bathtub’ approach to identify areas of land which
+are lower in elevation than each of the sea-level rise scenarios based on the LiDAR
+digital elevation data.
+Challenges with the vertical datum: During the course of this study, Dr. Fletcher and his
+lab found that there is no established vertical datum for Hawaii. This data gap affects the
+accuracy of the digital elevation models.
+Overlays with asset data: Once he had established the inundation area, Dr. Fletcher
+analyzed the total land area, length of roads, land and building value, number of Census
+2010 blocks, and number of land parcels vulnerable to each sea-level rise scenario.
+
+There are several additional pieces of information that the Oahu MPO would like to explore,
+including:
+
+
+
+
+Response of the water table to sea-level rise,
+Improving the understanding of current impacts associated with flooding, wave
+overwash, erosion, and coastal rock fall, and
+Commuter volumes in vulnerable areas.
+
+Oahu MPO has engaged regional transportation planners and other stakeholders regarding sealevel rise. During the MPO’s workshop with stakeholders, the Oahu MPO pilot used “what if”
+scenarios to help participants think through consequences of climate change, including scenarios
+of sea-level rise.
+SAN FRANCISCO
+The purpose of the San Francisco pilot sea-level rise mapping was to inform community and
+project level planning. Therefore, the pilot’s inundation maps are based on very high resolution
+elevation data and account for local factors such as shoreline protection, inundation depth and
+extent, wind and wave effects, and hydrologic continuity. The pilot worked closely with Noah
+Knowles and updated the methodology in Knowles (2009) with new LiDAR data.
+
+
+Elevation data: The pilot combined five different sources of high resolution elevation
+data in order to create a digital elevation model (see Knowles 2009 for additional
+information on data sources).
+
+20
+
+Federal Highway Administration
+
+
+
+
+
+
+
+Sea-level rise scenarios: The pilot assumed 16 inches of global sea-level rise in midcentury and 55 inches at the end of the century. These scenarios are based on the amount
+of global sea-level rise projected based on CCSM3 global climate model temperature
+outputs under an A2 greenhouse gas emissions scenario. For each time period, the pilot
+analyzed both the still water and the 100 year return high tide level with wind and wave
+effects.
+Inundation modeling: In order to quantify the high water levels in the Bay accurately, the
+pilot used a hydrodynamic model of the San Francisco Bay estuary, based on the
+methodology described in Knowles (2009).
+Weak link analysis: The pilot conducted a weak link analysis to assess inundation depth
+in order to determine the thresholds at which different share protection barriers would
+fail.
+
+VIRGINIA DOT/HAMPTON ROADS
+The goal of the Virginia DOT/Hampton Roads inundation and storm surge work was to generate
+realistic scenarios that could be used as inputs into the pilot’s multi-criteria decision analysis
+framework. The Hampton Roads region is highly vulnerable to sea-level rise partially because the
+area is already subsiding due to geological processes and groundwater withdrawals (HRPDC
+2011). One of the main goals of the Virginia pilot was to construct and assess the influence of
+climate-change scenarios (primarily sea-level rise and storm surge) to the strategic priorities of
+long-range transportation plans. The pilot relied on sea-level rise and storm surge data from an
+ongoing Hampton Roads Planning District Commission study.
+To get a sense of sea-level rise exposure, HRPDC analyzed historical sea-level rise trends,
+including subsidence of the land surface, and found that the regional average is 1-2 feet of sealevel rise over the past 100 years. The project assumed that the historical rate of sea-level rise will
+continue in the future, while recognizing the importance of monitoring trends and adjusting for
+any acceleration in sea-level rise.
+The Hampton Roads Planning District Commission (HRPDC) is currently in its second year of a
+climate change adaptation project that focuses on sea-level rise and storm surge.
+
+
+
+
+
+
+Elevation data: The project used elevation data of varying resolution. While several
+localities had already developed their own detailed elevation data, the remainder used the
+USGS topographic data from the National Elevation Dataset (NED).
+Storm surge modeling: In order to identify specific areas and assets of Hampton Roads
+that are at risk from sea-level rise, the project relied on the Virginia Hurricane Evacuation
+Study, a cooperative effort involving the U.S. Army Corps of Engineers, the Federal
+Emergency Management Agency, and other state and local agencies. This analysis used
+the SLOSH model to determine the maximum tide elevations from a set of storms of
+differing magnitude. Using GIS, the Virginia Hurricane Evacuation Study applied these
+tide elevations to local elevation data in order to create flood hazard areas.
+Sea-level rise: Since not all of the areas had high resolution elevation data, HRPDC is
+assuming that the storm surge zones are also the areas exposed to sea-level rise (HRPDC
+
+21
+
+Federal Highway Administration
+
+2011). The project is planning future analyses which will further distinguish sea-level rise
+impacts from storm surge impacts (HRPDC 2011).
+WASHINGTON STATE DOT
+The Washington State DOT worked closely with the Climate Impacts Group at the University of
+Washington to develop LiDAR-based inundation maps of the study area. During the pilot’s
+workshops to identify vulnerable assets, workshop participants “ground-truthed” the maps by
+pointing out missing assets, areas already being impacted, or other factors that should be
+considered in the vulnerability assessment. The pilot anticipates that these maps will also serve as
+communication tools to educate influential decisionmakers in Washington State.
+
+
+
+
+Elevation data: The Washington DOT pilot used LiDAR data for the Puget Sound from
+different sources along with tide gauge data going back at least 70 years.
+Sea-level rise scenarios: The pilot adopted the sea-level rise estimates that are used by
+the Puget Sound Regional Council (2 feet and 4 feet).
+Much of the analysis from the Washington State Climate Assessment
+(http://cses.washington.edu/cig/res/ia/waccia.shtml) was also incorporated in the sealevel rise considerations.
+
+REFERENCES
+CCSP (2009). Coastal Sensitivity to Sea-Level Rise: A Focus on the Mid-Atlantic Region. A
+report by the U.S. Climate Change Science Program and the Subcommittee on Global Change
+Research. [James G. Titus (Coordinating Lead Author), K. Eric Anderson, Donald R. Cahoon,
+Dean B. Gesch, Stephen K. Gill, Benjamin T. Gutierrez, E. Robert Thieler, and S. Jeffress
+Williams (Lead Authors)]. U.S. Environmental Protection Agency, Washington D.C., USA, 320
+pp.
+Hampton Roads Planning District Commission (HRPDC) (2011). Climate Change in Hampton
+Roads Phase 2: Storm Surge Vulnerability and Public Outreach. May 2011.
+http://www.hrpdc.org/MTGS_%20AGDS/JEC/2011/June/Attachment_8A_Draft%202010%20Cl
+imate%20Change%20Report.pdf
+Knowles, Noah. 2009. Potential Inundation Due to Rising Sea Levels in the San Francisco Bay
+Region. A Paper From: California Climate Change Center (CEC-500-2009-023-F), March 2009.
+http://www.energy.ca.gov/2009publications/CEC-500-2009-023/CEC-500-2009-023-D.PDF
+NOAA (2011). Tidal Datums. Tides and Currents Website.
+http://tidesandcurrents.noaa.gov/datum_options.html
+NOAA, Coastal Services Center (2010). Mapping Inundation Uncertainty. Charleston, South
+Carolina.
+http://www.csc.noaa.gov/digitalcoast/data/coastallidar/_pdf/ElevationMappingConfidence.pdf
+NOAA, Coastal Services Center (2009). Coastal Inundation Mapping Guidebook. Charleston,
+South Carolina. www.csc.noaa.gov/digitalcoast/inundation/_pdf/guidebook.pdf
+
+22
+
+Federal Highway Administration
+
+

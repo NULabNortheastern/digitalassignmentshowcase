@@ -1,0 +1,830 @@
+Climate Resilience and Planning Peer Exchange:
+Atlanta Regional Commission
+Atlanta, Georgia
+October 4-5, 2016
+
+CONTENTS
+Introduction .................................................................................................................................... 1
+Overview presentations .................................................................................................................. 4
+Presentations on climate change impacts ...................................................................................... 6
+Peer presentations .......................................................................................................................... 8
+Atlanta-area presentations ........................................................................................................... 12
+Key take-aways from Discussion ................................................................................................... 14
+Appendix A: Agenda...................................................................................................................... 17
+Appendix B: Peer exchange participants ...................................................................................... 18
+
+This document is disseminated under the sponsorship of the Department of Transportation in the interest of
+information exchange. The United States Government assumes no liability for its contents or use thereof.
+The contents of this report reflect the views of the authors, who are responsible for the facts and accuracy of the
+data presented herein. The contents do not necessarily reflect the official policy of the Department of
+Transportation. This report does not constitute a standard, specification, or regulation.
+The United States Government does not endorse products or manufactures. Trademarks or manufacturers' names
+appear herein only because they are considered essential to the object of this document.
+
+INTRODUCTION
+This report summarizes a peer exchange on climate change resilience that was held October 45, 2016 in Atlanta, Georgia and hosted by the Atlanta Regional Commission (ARC). The peer
+exchange was co-organized by the Federal Highway Administration (FHWA) and ARC.
+The transportation sector plays an important role in addressing climate change both through
+reducing greenhouse gas emissions (mitigation) and addressing the impacts of climate change
+(adaptation). A concept closely related to adaptation is resilience, which FHWA defines as the
+ability to anticipate, prepare for, and adapt to changing conditions and withstand, respond to,
+and recover rapidly from disruptions.1 Climate adaptation and resilience are gaining
+momentum in the transportation sector as transportation agencies realize their infrastructure is
+vulnerable to the effects of climate change. In the last several years, FHWA has been supporting
+state and regional transportation agencies in climate change adaptation activities, especially in
+assessing vulnerability to climate change. Building off of these vulnerability assessments,
+transportation agencies are beginning to identify adaptation strategies and integrate climate
+change considerations into the transportation planning and project development processes.
+The Fixing America’s Surface Transportation (FAST) Act, which was signed into law on
+December 4, 2015, includes new requirements for state departments of transportation (DOTs)
+and metropolitan planning organizations (MPOs) to integrate resilience into the transportation
+planning process. Following the authorization of the FAST Act, FHWA and the Federal Transit
+Administration (FTA) updated their planning regulations2 with a requirement that the
+metropolitan transportation plan assess capital investment and other strategies that reduce the
+vulnerability of the existing transportation infrastructure to natural disasters (23 CFR
+450.324(f)(7)). In addition, the planning rule states that MPOs should coordinate with officials
+responsible for disaster risk reduction when developing a metropolitan transportation plan and
+the Transportation Improvement Program (23 CFR 450.316(b)). The updated planning final rule
+also added improving the resilience and reliability of the transportation system as a new
+planning factor for states and MPOs to consider and implement in the transportation planning
+process (23 CFR 450.206(a)(9) and 23 CFR 450.306(b)(9)).
+The purpose of this peer exchange was for staff from MPOs and state DOTs to learn from peers
+about best practices for integrating climate resilience into the planning process, including
+assessing risks, developing adaptation options, and prioritizing projects for implementation. It
+also provided an opportunity for stakeholders from the Atlanta area to connect with others in
+the region working on climate resilience. Finally, FHWA will be producing resources and
+information to help MPOs and state DOTs meet the FAST Act requirements related to
+integrating resilience into the planning process. The peer exchange allowed FHWA to gather
+
+1
+2
+
+See FHWA Order 5520 at http://www.fhwa.dot.gov/legsregs/directives/orders/5520.cfm.
+
+The Final Rule for Statewide and Nonmetropolitan Transportation Planning and Metropolitan Transportation Planning can be
+accessed at https://www.federalregister.gov/documents/2016/05/27/2016-11964/statewide-and-nonmetropolitantransportation-planning-metropolitan-transportation-planning.
+
+1
+
+information on what resources and information would be helpful for state DOTs and MPOs in
+developing strategies to address climate risks and meet the FAST Act requirements.
+Peer exchange participants
+The peer exchange involved presentations by representatives from MPOs and state DOTs from
+around the country, presentations by Atlanta-based stakeholders working on resilience, and
+facilitated discussion sessions. In addition, presenters from WSP Parsons Brinkerhoff and the
+Centers for Disease Control and Prevention provided information on climate risks related to the
+transportation system and public health, respectively. ARC and FHWA also presented about
+their work on climate resilience to date. See Table 1 for a list of the organizations that gave
+presentations during the peer exchange.
+Table 1: Presenter organizations
+
+Peer Agencies
+
+Overview Presentations
+
+Atlanta-based Organizations
+
+Broward MPO
+
+Atlanta Regional Commission
+
+Hillsborough County MPO
+
+Centers for Disease Control and
+Prevention
+
+City of Atlanta Office of
+Sustainability
+
+Massachusetts DOT
+Maryland State Highway
+Administration
+
+Federal Highway Administration
+
+Metropolitan North Georgia
+Water Planning District
+
+WSP Parsons Brinkerhoff
+
+Southface
+
+North Central Texas Council of
+Governments
+Puget Sound Regional Council
+The following organizations participated in the peer exchange as observers and discussion
+participants:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AECOM
+Agnes Scott University
+Cambridge Systematics
+DeKalb County
+Emory University
+FHWA – Georgia Division
+FTA – Region 4
+Georgia Conservancy
+Georgia Environmental Protection Division
+Georgia Institute of Technology
+Rockdale County
+Southern Environmental Law Center
+Volpe Center
+2
+
+This report provides brief summaries of the presentations, followed by an overview of the
+major themes raised in the presentations and discussion sessions.
+
+3
+
+OVERVIEW PRESENTATIONS
+The peer exchange organizers from ARC and FHWA began the meeting by describing their past
+and current work on climate resilience.
+ARC’s Planning Work on Climate Change – David D’Onofrio, ARC
+ARC’s climate change work to date has primarily focused on climate change mitigation,
+including conducting a greenhouse gas emissions inventory, using scenario planning to evaluate
+the carbon emissions impacts of various land use and transportation strategies, and
+incorporating carbon pricing into all proposed projects. ARC is also pursuing projects to reduce
+vehicle miles traveled and evaluating how changes in community design can reduce emissions.
+ARC is beginning to work on climate change adaptation as well. The agency used FHWA’s
+Coupled Model Intercomparison Project (CMIP) climate data processing tool to identify ways in
+which the Atlanta region’s climate will change in the future. ARC found that by 2100 Atlanta is
+likely to experience more hot days, fewer days with temperatures below freezing, more
+frequent heavy precipitation events, and longer periods between rain events. Moving forward,
+ARC is planning to evaluate how these impacts will affect
+the region’s transportation system, as well as develop
+FHWA Order 5520 Definitions
+strategies to prepare communities and infrastructure for
+Preparedness means actions taken
+these future weather conditions.
+to plan, organize, equip, train, and
+exercise to build, apply, and sustain
+Climate Change Resilience: 20 Questions in 20 Minutes –
+the capabilities necessary to
+Heather Holsinger and Corbin Davis, FHWA
+prevent, protect against, ameliorate
+Staff from FHWA’s Sustainable Transport and Climate
+the effects of, respond to, and
+Change (STACC) team and Office of Planning discussed
+recover from climate change related
+FHWA’s work on climate resilience. Definitions from FHWA
+damages to life, health, property,
+Order 5520, Transportation System Preparedness and
+livelihoods, ecosystems, and national
+Resilience to Climate Change and Extreme Weather Events,
+security.
+can provide participants with a common vocabulary (see
+sidebar). The presenters emphasized that the concept of
+Adaptation is adjustment in natural
+resilience incorporates both preparedness and adaptation
+or human systems in anticipation of
+as defined in Order 5520, and also involves both asset level
+or response to a changing
+and transportation system level interventions.
+environment in a way that
+effectively uses beneficial
+FHWA has developed, and is currently revising, a Climate
+opportunities or reduces negative
+Change and Extreme Weather Vulnerability Assessment
+effects.
+Framework that provides guidance on how to assess the
+vulnerability of transportation assets to climate change and
+Resilience or resiliency is the ability
+extreme weather events. Between 2011 and 2015, FHWA
+to anticipate, prepare for, and adapt
+partnered with 24 state DOTs and MPOs to conduct
+to changing conditions and
+vulnerability assessments based on this framework. FHWA
+withstand, respond to, and recover
+has also produced engineering guidance related to
+rapidly from disruptions.
+4
+
+assessing the effects of climate change and extreme weather events on highways in both
+coastal and riverine environments (Hydraulic Engineering Circular 25 and Hydraulic Engineering
+Circular 17). Moving forward, FHWA will continue to support state and local transportation
+agencies in adapting to climate change, including producing resources and information to help
+MPOs and state DOTs meet the FAST Act requirements related to integrating resilience into the
+planning process.
+
+5
+
+PRESENTATIONS ON CLIMATE CHANGE IMPACTS
+Two presentations provided participants with information on expected climate conditions and
+impacts. Dr. Mike Meyer from WSP Parsons Brinkerhoff presented an overview of expected
+climate changes and the effects climate change is likely to have on the transportation sector.
+Paul Schramm of the Centers for Disease Control and Prevention (CDC) focused his presentation
+on the effects that climate change will have on human health.
+Climate Change Overview – Mike Meyer, WSP Parsons Brinkerhoff
+Dr. Meyer described expected climate change impacts globally and in the Atlanta region.
+Globally, temperatures are predicted to rise, extreme weather events are likely to become
+more frequent and severe, and some regions of the world will experience more precipitation
+while others will experience more drought. In Georgia, parts of the state are likely to
+experience as many as 75 additional days above 95° F by 2070, and average temperatures may
+increase by 5-6° F. In terms of precipitation, Georgia is likely to experience both an increase in
+the number of high rainfall events and an increase in the length of time between rain events; in
+other words, it is vulnerable to both flooding and drought.
+For the transportation sector, these climate impacts can cause flooded roads, structural
+damage to bridges and roadways, and worsened traffic conditions. In terms of flooding, much
+of the work on transportation and climate change to date has focused on the impacts of sea
+level rise and coastal storms. However, inland flooding can also cause major damage to
+transportation systems, as evidenced by the Tennessee Superflood in 2010 and the I-680 flood
+in Iowa in 2011. Heat can also negatively affect transportation infrastructure in many ways,
+including:
+ Instability of materials exposed to high temperatures can lead to pavement heave or
+track buckling;
+
+
+Exposure of encased equipment to high heat can lead to failure of equipment such as
+traffic control devices and signal control systems;
+
+
+
+Increased electricity usage and power outages during heat waves can affect the power
+supply to rail operations;
+
+
+
+Extended periods of high temperatures will affect safety conditions for employees that
+work long hours outdoors, such as those working on infrastructure reconstruction and
+maintenance activities;
+
+
+
+Extreme temperatures will create dangerous conditions for many users of the
+transportation system, placing greater emphasis on the use of air conditioning for
+transit vehicles and stations; and
+
+
+
+High temperatures will also negatively affect bicycle use and the desire and propensity
+of individuals to walk outdoors.
+
+6
+
+Dr. Meyer concluded his presentation by discussing various ways in which climate resilience can
+be considered in transportation planning, from setting goals and performance measures related
+to resilience, to conducting site-specific studies, to using climate change in scenario planning or
+as a criteria in project prioritization.
+Climate Change and Human Health – Paul Schramm, Centers for Disease Control and
+Prevention
+Mr. Schramm of the CDC, which is based in Atlanta, discussed how climate change threatens
+human health and wellbeing by amplifying some existing health threats as well as creating new
+ones. Increased heat can lead to heat-related illnesses as well as worsening air pollution, which
+itself contributes to poor health. In addition, changes in pollen production due to heat can
+worsen the impacts of asthma. Fresh water supplies are affected by climate change, both
+through salt water intrusion into fresh water sources in areas experiencing sea level rise and
+through droughts leading to water shortages. Climate change also affects the spread of disease.
+For example, heavy precipitation can increase the risks of water borne illnesses and changes in
+temperatures can shift the range of mosquito-borne illnesses.
+Studies have shown that reframing discussions of climate change to focus on health can be a
+powerful motivator in getting people to recognize the risks and take action. The CDC’s Climate
+Change and Health Program helps health departments at the state and local level prepare for
+the effects of climate change by providing scientific guidance, developing decision support
+tools, ensuring public concerns are considered in climate change adaptation and mitigation
+strategies, and developing partnerships between public health and other sectors. This program
+has provided funding to 16 states and two cities through the Climate Ready States and Cities
+Initiative. Funded states and cities use the CDC’s Building Resilience Against Climate Effects
+(BRACE) framework to identify likely climate impacts in their communities, potential health
+effects associated with these impacts, and their most at-risk populations and locations.
+
+7
+
+PEER PRESENTATIONS
+The peer exchange provided an opportunity for MPOs and state DOTs from around the country
+to share their experience with climate resilience planning. The organizations that presented
+varied in the actions they have taken to date, from just beginning to consider the effects of
+climate change and how to plan for them, to conducting detailed vulnerability assessments, to
+developing projects that address climate change impacts. All of the MPOs and state DOTs that
+presented, with the exception of the Puget Sound Regional Council, received funding from
+FHWA from 2013-2015 as part of the Climate Resilience Pilot Program.
+Accommodating Extreme Weather Adaptation to Planning and Sustainability in North Central
+Texas – Jory Dille, North Central Texas Council of Governments
+North Central Texas Council of Governments (NCTCOG) covers a 12-county area with a
+population of seven million in the Dallas-Fort Worth metropolitan area. The region’s population
+is expected to grow nearly 50 percent through 2040. NCTCOG is developing strategies to
+address increased vehicle-miles traveled and congestion costs, plan necessary repairs on
+existing infrastructure, and improve efficiency and resiliency.
+NCTCOG conducted a climate change vulnerability assessment and found that climate change is
+both a current and future problem. The main climate risks faced in the region are extreme heat,
+heavy precipitation events and significant flooding, and lower annual rainfall and increased risk
+of drought. The assessment found that roadways will be affected by both heat and flooding,
+and identified significant arterial road segments that are vulnerable to these climate impacts.
+To address these climate risks along with aging infrastructure and population growth, NCTCOG
+has focused on transportation asset management. The agency’s long-range transportation plan,
+Mobility 2040, identifies $118.9 billion for system improvements and focuses on strategies that
+maximize the existing system. This represents a 27 percent increase from the last long-range
+plan in funding for existing system maximization strategies. To prioritize projects, NCTCOG
+scores potential projects based on performance measures, including system reliability and
+environmental sustainability.
+Surface Transportation Resiliency Planning in Hillsborough County, FL – Allison Yeh,
+Hillsborough County Metropolitan Planning Organization
+Hillsborough County, Florida has a population of 1.3 million and covers the Tampa metropolitan
+area. The county is highly vulnerable to sea level rise and coastal flooding, with 158 miles of
+coastline and a significant portion of the population living in areas prone to flooding. Although
+the region has experienced flooding recently, it has not faced a direct hit by a hurricane in over
+90 years, creating a false sense of security for residents.
+Hillsborough County MPO used FHWA’s framework to conduct its vulnerability assessment.
+The agency collected data on three climate variables: sea level rise, storm surge, and flooding. It
+then used mapping and the regional transportation demand model to identify climate risks to
+transportation assets, and sought feedback on the results from local transportation
+8
+
+stakeholders. Hillsborough County MPO also conducted an economic analysis, identifying
+transportation delays and economic losses resulting from climate impacts. The MPO then
+selected several assets on which to conduct a more detailed analysis to illustrate climate risks,
+costs, and potential adaptation options.
+Hillsborough County MPO has integrated climate considerations into its 2040 long-range
+transportation plan by evaluating how investing in resilience could address the performance
+measures of reduced vulnerability and crashes. The MPO found that by raising roads and
+preventing shorelines from wave damage, it could reduce the time that roads would be
+unusable after a Category 3 storm from eight weeks to three weeks and cut economic losses in
+half over the course of the plan. Moving forward, Hillsborough County MPO will continue to
+integrate climate change considerations into its next long-range transportation plan update and
+coordinate with local jurisdictions on mainstreaming adaptation options for projects.
+Climate Change and Extreme Weather Vulnerability Assessments and Adaptation Options of
+the Central Artery – Steven Miller, Massachusetts Department of Transportation
+The Massachusetts Department of Transportation (MassDOT) conducted an evaluation of
+climate risks to the Central Artery/Tunnel system, a critical transportation asset in the Boston
+region. The Central Artery/Tunnel is vulnerable to flooding from extreme coastal storms under
+present and future conditions. MassDOT felt that the existing projections for flooding, which
+were based on a bathtub model, did not give it the high quality hydrodynamic data it needed to
+understand the effects of winds and waves from hurricanes and Nor’easters and the effects of
+dams on the Charles and Mystic Rivers. As a result, MassDOT, along with regional partners,
+conducted high resolution hydrodynamic modeling and created a new dataset showing the
+effects of future sea level rise and storm surge flooding in Boston.
+This data allowed MassDOT to better understand the vulnerabilities of the Central
+Artery/Tunnel and develop adaptation strategies to address them. Although the modeling was
+a costly project, MassDOT justified the cost because it had a low tolerance for risk to the
+Central Artery/Tunnel, given that it is a new piece of infrastructure and a critical transportation
+asset for the region. The new data from the Boston Harbor Flood Risk Model has been used by
+local stakeholders conducting their own climate risk assessments, including the City of Boston
+and surrounding municipalities, universities, and other state agencies. MassDOT is currently
+expanding the model to the state’s entire coast and islands.
+Maryland Adaptation and Vulnerability Assessment – Elizabeth Habic, Maryland Department
+of Transportation/State Highway Administration
+The State of Maryland is vulnerable to several impacts of climate change, including sea level
+rise, increases in temperature, and increases in precipitation intensity and frequency. The
+Maryland Department of Transportation/State Highway Administration (DOT/SHA) conducted a
+FHWA climate change vulnerability assessment pilot study to assess the vulnerability of its
+assets to climate change, develop methods to address current and future risk to the roadway
+network, and provide process and policy recommendations. Maryland DOT/SHA chose to focus
+9
+
+its vulnerability assessment on three climate stressors related to flooding: sea level change,
+storm surge, and precipitation. The vulnerability assessment focused on risks to bridges and
+roadways in two coastal counties, Anne Arundel and Somerset.
+To narrow down the number of assets it evaluated in detail, the Maryland DOT/SHA conducted
+an initial screen to identify bridge assets located in areas vulnerable to climate change impacts.
+It identified these areas based on the outer limits of the 2100 mean higher high water mark3,
+the Sea, Lake, and Overland Surges from Hurricanes (SLOSH) model for a Category 3 Hurricane,
+and the Federal Emergency Management Agency (FEMA) 100-year floodplain boundary plus a
+50 foot buffer. Maryland DOT/SHA used FHWA’s Vulnerability Assessment Scoring Tool (VAST)
+to evaluate vulnerability of the assets selected in the initial screen and develop a vulnerability
+score. For its evaluation of roadways, Maryland DOT/SHA developed a Hazard Vulnerability
+Index (HVI) that scores risk to a roadway asset based on whether it is an evacuation route, the
+flood depth under future sea level and storm events, and the functional class of the roadway.
+By combining both the highway locations identified by HVI and the bridges that scored highest
+in VAST, the agency was able to identify “Vulnerable Areas at Risk.” Finally, Maryland DOT/SHA
+conducted an origin/destination analysis to evaluate travel times and access to random
+locations both before and after a hypothetical future flood event. The analysis identified
+destinations that would take longer to reach or would not be reachable in 2100 due to sea level
+rise and flooding.
+Maryland DOT/SHA plans to use the results of its vulnerability assessment in several ways. It
+plans to flag vulnerable areas as part of its Highway Needs Inventory, a planning document that
+lists major capital construction projects. It will also provide the results to the counties and
+municipalities addressed in the study to help them in their planning processes. The agency is
+also undergoing a reorganization, and sustainability and climate change will become the focus
+of a unit within the Innovative Planning and Performance Division.
+Planning for Climate Resiliency – Kelly McGourty, Puget Sound Regional Council
+The Puget Sound Regional Council (PSRC) covers four counties in the Seattle metropolitan area,
+with a population of approximately four million. Previous planning efforts related to climate
+change largely focused on mitigation, although PSRC is now prioritizing adaptation as well. The
+last long-range transportation plan, Transportation 2040, which was published in 2010 and
+updated in 2014, included a white paper on adaptation to climate change for transportation
+planning in the Puget Sound region. The white paper had information on identifying potential
+impacts, conducting sea level rise mapping, reviewing economic impacts, and identifying
+potential future adaptation strategies.
+In 2015, PSRC formed a regional collaborative on climate preparedness consisting of
+municipalities, government agencies and other regional organizations. The collaborative is
+currently working on expanding its membership, developing a work program, and hosting a
+3
+
+The mean higher high water (MHHW) mark is the average of the higher of the two high tides per day over a 19
+year period called the National Tidal Datum Epoch.
+
+10
+
+webinar series. Seattle was recently selected as a pilot community under the National
+Academies Resilient America Roundtable program, which convenes experts from the academic,
+public, and private sectors to design or catalyze activities that build or enhance communities'
+resilience. As part of this program, Seattle will develop resilience strategies focused on equity
+and transportation. Seattle will coordinate these efforts with the regional collaborative. PSRC’s
+Transportation 2040 Update will occur in 2018, and PSRC is working to expand its previous
+climate change white paper with information on expected impacts, current adaptation efforts
+around the region, and economic resiliency. PSRC staff are also working to communicate the
+importance of climate resiliency to its board and other decision-makers, which can be
+challenging given that this is a relatively new topic and faces many competing priorities.
+Climate Resilience: A Southeast Florida Perspective – James Cromar, Broward Metropolitan
+Planning Organization
+Four counties in Southeast Florida (Palm Beach, Broward, Miami-Dade and Monroe) collaborate
+on climate adaptation planning through the Southeast Florida Regional Climate Change
+Compact. These counties have coordinated on a FHWA climate change resilience pilot project,
+long range planning related to sea level rise, and emergency actions. Southeast Florida faces
+many climate impacts, including sea level rise, storm surge, increasing temperatures, inland
+flooding, and a rising water table. The FHWA pilot project was developed to build upon existing
+vulnerability assessments, minimize the impacts of extreme weather events and sea level rise
+on the regional transportation network, develop tools that integrate climate change adaptation
+goals into the transportation decision making process, and prepare a climate change adaptation
+model for other public transportation agencies.
+As part of the pilot project, the Compact conducted a vulnerability assessment for the regional
+road network and the Tri Rail network. Vulnerability scores were calculated based on
+sensitivity, exposure, and adaptive capacity, and the assets most vulnerable to flooding were
+identified for each county. The Compact is now working to integrate climate and vulnerability
+data into decision-making through transportation planning and prioritization, the rehabilitation
+of existing facilities in high risk areas, and changes to operations and maintenance.
+Communities within the region are also beginning to develop adaptation strategies that address
+some of the risks and vulnerable assets identified in the pilot.
+
+11
+
+ATLANTA-AREA PRESENTATIONS
+Several presentations provided participants with information on climate resilience work that is
+happening in Atlanta outside of the transportation sector. Presenters covered the topics of
+municipal resilience strategies, green infrastructure, and the impacts of climate change on
+water utilities.
+City of Atlanta Climate Action Plan and Resilience Plan – Stephanie Stuckey Benfield and Jairo
+Garcia, Mayor’s Office of Sustainability, City of Atlanta
+Atlanta was the first city in Georgia to develop a Climate Action Plan, which it did in 2015. The
+city’s Climate Action Plan has a goal of reducing greenhouse gas emissions by 80 percent of
+2009 levels by 2040, and the city is working to meet this goal through initiatives like improving
+energy efficiency in buildings and promoting renewable energy and electric vehicles. Now,
+Atlanta is working to improve climate resilience as well. In May 2016 Atlanta was selected as
+one of the Rockefeller Foundation’s 100 Resilient Cities, and through this program will receive
+funding to hire a Chief Resilience Officer, expertise to develop a resilience strategy, and access
+to partners, technologies, and services.
+Atlanta is considering resilience to both climate change and other stressors. The city held a
+workshop in 2015 with experts from various sectors and identified the following major
+vulnerabilities that threaten the city’s resilience: infrastructure failure and aging infrastructure,
+inequality, terrorism and cyber-attacks, transportation, rainfall flooding, droughts and water
+shortage, and food security. Moving forward, the city will hold additional workshops to gather
+input from the public on these vulnerabilities and will develop a resilience strategy to address
+them.
+Green Infrastructure and Resilience – Robert Reed, Southface
+The Southface Green Infrastructure and Resilience Institute (GIRI) works to provide training and
+certification to regional professionals to install and maintain green infrastructure. In addition to
+its role in workforce development, GIRI also aims to educate the public on the benefits of green
+infrastructure. Green infrastructure can address climate risks by reducing negative impacts of
+extreme weather events and sewer overflows. It can also have economic and social benefits
+through creating green spaces, parks, and other amenities in disinvested and impoverished
+areas. Green infrastructure provides an example of tactical, small-scale resilience, in contrast to
+the major infrastructure projects that are typically considered when addressing vulnerability to
+climate impacts.
+Metro Water District Climate Utility Resiliency Study – Danny Johnson, Metropolitan North
+Georgia Water Planning District, Atlanta Regional Commission
+Metropolitan North Georgia Water Planning District (Metro Water District) is staffed by ARC
+and includes 15 counties and 93 cities in the region. The Metro Water District conducts
+planning related to water supply and conservation, stormwater, wastewater, and watershed
+management. The Metro Water District recently conducted a Utility Climate Resilience Study
+12
+
+with the goal of assessing the potential vulnerability of water resources and related
+infrastructure given potential climate conditions in the future. The purpose of the study was
+not to predict future climate conditions or the likelihood that certain conditions will occur, but
+rather to identify climate conditions that would pose risks if they did occur.
+The Metro Water District developed five representative scenarios of possible future climate
+conditions based on global climate models: hot/wet, hot/dry, warm/wet, warm/dry, and a
+middle scenario between the other four. It then identified the water demand, water supply,
+and water quality impacts of these climate scenarios. Metro Water District also evaluated
+infrastructure vulnerability, including the vulnerability of wastewater treatment plants to the
+various climate scenarios. The overall findings from this study were that the most severe
+climate impacts would occur in a hot/dry scenario, while the highest risk to infrastructure
+would occur in a hot/wet scenario. Recommendations from the study include for the Metro
+Water District to establish climate tracking protocols and identify trigger levels for adaptive
+measures, as well as to implement preemptive adaptation measures such as green
+infrastructure and drought management plans.
+
+13
+
+KEY TAKE-AWAYS FROM DISCUSSION
+The peer exchange included three dedicated discussion sessions, as well as time for questions
+and discussion after most presentations. The major topics and themes raised in the discussion
+are presented below.
+Climate impacts
+Although much of the work on transportation and climate change impacts to date has focused
+on sea level rise and coastal storms, participants discussed other climate impacts that their
+communities are facing and for which they are preparing. One impact that some areas,
+including Atlanta, are facing is the dual problem of more severe precipitation events that cause
+flooding and longer periods between precipitation events, leading to drought. Heat is also a
+major concern for the transportation sector, both through its direct impact on infrastructure
+(pavement, rail, etc.) but also through its impact on the electricity supply and on the people
+using the transportation system. The social impacts of climate change also affect the
+transportation sector. For example, some non-coastal areas are considering whether they will
+see an increase in migration from coastal areas as a result of sea level rise, and the impacts on
+the transportation system that this migration could cause.
+Data collection
+In order to conduct a vulnerability assessment, there is a need for data on climate impacts.
+Agencies face tradeoffs in deciding what climate data or modeling to use. Tools are available for
+downscaling global climate data to a given region. However, this data may not consider all
+climate risks or recognize all local geographic features that may affect climate impacts. On the
+other hand, it is costly for agencies to conduct their own climate model downscaling; this may
+only be cost-effective for large jurisdictions or for those with a low risk tolerance, where
+accurate and detailed climate data is essential for designing solutions. In addition, state
+agencies may be more equipped than MPOs to conduct climate model downscaling, and then
+can provide this data to jurisdictions within their state. For example, Maryland DOT/SHA and
+Massachusetts DOT collected climate data and conducted modeling and/or vulnerability
+assessments, and provided the results to other jurisdictions.
+Building support for resilience
+A major theme of the discussion was building support for resilience among decision-makers.
+Participants found this especially challenging in places where the state government leadership
+is not focused on or is opposed to addressing climate change. Participants suggested the
+following strategies for building support for climate resilience:
+ Conduct a cost-benefit analysis and make an economic argument for investing in
+resilience.
+
+
+Discuss the climate risks to public health or the health benefits that investing in
+resilience can bring. Studies have shown that reframing climate risks with a health lens
+can motivate people to take action.
+14
+
+
+
+Add a climate resilience component into transportation projects that are currently being
+planned and designed. Although this will add somewhat to the cost of the project, the
+incremental cost for resilience improvements will be lower than with a standalone
+project.
+
+
+
+Reframe climate resilience with a different name (e.g., hurricane planning).
+
+
+
+Identify climate impacts that a community is already facing and frame investments in
+resilience as a way to address these.
+
+
+
+Use Federal policies as a justification for investing in resilience. For example, the Council
+of Environmental Quality’s guidance encourages looking at climate change impacts in
+the National Environmental Policy Act process, and the FAST Act requires consideration
+of resilience and natural disasters in state and metropolitan transportation planning.
+
+Participants also noted that even in states that are not focused on climate resilience, MPOs still
+have flexibility to assess climate risks and incorporate the results into the transportation
+planning and project prioritization processes.
+Funding
+Participants discussed the need for funding to mainstream resilience into transportation
+decision-making, and potential sources for this funding. One challenge is that while
+interventions that build resilience typically save organizations money in the long term, such
+activities cost money in the short term, and transportation agencies need to find the funding to
+support the additional expenditures. Similarly, the benefits of many resilience interventions are
+felt throughout a region, not just in the transportation sector; however, the costs for
+transportation projects are borne solely by the transportation agency. Transportation agencies
+need to figure out where to draw the line for quantifying the benefits when doing a costbenefit analysis.
+Participants also discussed insurance and whether transportation infrastructure can be insured
+so that the government is not fully fiscally responsible for replacing a piece of infrastructure
+when it is damaged by severe weather. For example, MassDOT insured the Central
+Artery/Tunnel. Participants raised the concern that insuring transportation assets could cause a
+tendency to remain in vulnerable areas and rebuild rather than moving assets or improving
+their resilience to climate impacts.
+Regional and cross-sectoral collaboration
+Participants noted the value of working with other agencies and jurisdictions on assessing
+climate impacts and planning for resilience. Transportation agencies can partner with water
+utilities, health departments, or other sectors to gather climate data and assess risks. Even
+within one MPO, there is value in communicating climate-related work, as other departments
+may also be working in this area and there may be opportunities for collaboration. For example,
+within ARC both the transportation and water resource divisions are working on climate
+resilience. There are also benefits to working on resilience through regional collaboration, such
+15
+
+as the Southeast Florida Regional Climate Compact, or the compact that is being developed in
+the Puget Sound region.
+Participants also discussed the need for expanding resilience beyond a focus on infrastructure.
+Resilience should also address the people using the infrastructure and how climate change may
+affect their behavior while using the transportation system. Some participants also raised the
+need for resilience to consider equity and take an environmental justice perspective.
+Resilience and the planning process
+Although most of the state DOTs and MPOs that participated in the peer exchange had
+assessed their transportation system’s vulnerability to climate change, progress on integrating
+these results into the planning process and implementing resiliency plans is still in its early
+stages. Participants discussed ways to incorporate climate resilience into the planning process.
+One challenge is that resilience competes with other major priorities. In addition, in areas that
+are currently experiencing the effects of climate change, some amount of climate funding
+needs to be dedicated to getting the system up and running in an emergency, rather than to
+planning for projects that build resilience.
+Agencies may be able to integrate resilience into actions that they are doing anyway at a lower
+incremental cost. For example, for assets that have a long service life, such as a bridge or a
+tunnel, agencies should consider building climate resilience into the design of the asset from
+the beginning. In contrast, there are certain actions that are done frequently enough (e.g.,
+pavement design) for which climate-proofing in the short-term can be postponed.
+State and MPO needs
+FHWA will be developing resources and information to help state DOTs and MPOs meet the
+resilience requirements in the FAST Act. Participants suggested several resources that would
+help them integrate resilience into the transportation planning process:
+
+
+Suggestions of performance measures related to resilience that could help agencies
+consider climate change in the project prioritization process.
+
+
+
+Resources for conducting an economic analysis or cost-benefit analysis of resilience
+strategies.
+
+
+
+A “menu” of adaptation and resiliency strategies.
+
+
+
+Assistance for agencies that do not have any experience with climate resilience,
+including suggestions for climate data sources.
+
+16
+
+APPENDIX A: AGENDA
+ARC/FHWA Climate Resilience Peer Exchange
+Oct 4-5, 2016
+Atlanta Regional Commission Office, C Level, Harry West Room
+Day 1 – Tuesday, October 4th Agenda
+1:00 PM – Meeting Kick-off – Doug Hooker, ARC & Steve Luxenberg, FHWA (20 mins)
+1:20 PM – Participant Introductions (25 mins)
+1:45 PM – Climate Change Overview – Mike Meyer, WSB PB (30 mins)
+2:15 PM – ARC’s Planning Work to Date on Climate Change – David D’Onofrio, ARC (20 mins)
+2:35 PM – FHWA Overview on Climate Resilience Planning – Heather Holsinger and Corbin
+Davis, FHWA
+2:55 PM – BREAK (20 mins)
+3:15 PM – Panel #1 Resiliency Planning Best Practices (1 hour)
+North Central Texas Council of Governments – Jory Dille
+Hillsborough County Metropolitan Planning Organization – Allison Yeh
+4:15 PM – Group Discussion #1 (45 mins)
+5:00 PM – Break for the day
+Day 2 – Wednesday, October 5th Agenda
+8:30 AM – Climate Change and Human Health – Paul Schramm, Centers for Disease Control and
+Prevention (40 mins)
+9:10 AM – Panel #2 Resiliency Planning Best Practices (1 hour)
+Massachusetts Department of Transportation – Steven Miller
+Maryland Department of Transportation/State Highway Administration – Elizabeth
+Habic
+10:10 AM – BREAK (20 mins)
+10:30 AM – Atlanta’s Climate Resilience Strategies – Stephanie Stuckey-Benfield, Atlanta (30
+mins)
+11:00 AM – Group Discussion #2 (45 mins)
+11:45 AM – Lunch (1hr15min)
+1:00 PM – Southface Green Infrastructure & Resilience Institute – Robert Reed, Southface (25
+mins)
+1:25 PM – Utility Climate Resilience Study – Danny Johnson, ARC (25 mins)
+1:50 PM – BREAK (20 mins)
+2:10 PM – MPO/DOT Panel #3 Resiliency Planning Best Practices (1 hours)
+Puget Sound Regional Council – Kelly McGourty
+Broward Metropolitan Planning Organization – James Cromar
+3:10 PM – Group Discussion #3 (45 mins)
+3:55 PM – Closing Remarks & Wrap-Up (10 mins)
+17
+
+APPENDIX B: PEER EXCHANGE PARTICIPANTS
+First Name
+Adjo
+Stephanie
+Shan
+Helen
+Tamara
+Kirsten
+James
+Corbin
+Tiffani
+Jory
+David
+Jerimiah
+Jairo
+Gil
+Elizabeth
+Heather
+Doug
+Crystal
+Christy
+Danny
+Kyung-Hwa
+Steve
+Kelly
+Keith
+Michael
+Steven
+John
+Amy
+Shayna
+Jim
+Larry
+Robert
+Daniel
+Elizabeth
+Stephanie
+Paul
+Sylvia
+Claire
+Kofi
+Allison
+Ermis
+
+Last Name
+Amekudzi-Kennedy
+Amoaning-Yankson
+Arora
+Barnes
+Christion
+Cook
+Cromar
+Davis
+Davis
+Dille
+D'Onofrio
+Easley
+Garcia
+Grodzinsky
+Habic
+Holsinger
+Hooker
+Jackson
+Jeon
+Johnson
+Kim
+Luxenberg
+McGourty
+Melton
+Meyer
+Miller
+Orr
+Plovnick
+Pollock
+Pomfret
+Redd
+Reed
+Rochberg
+Rowe
+S. Benfield
+Schramm
+Smith
+Still
+Wakhisi
+Yeh
+Zayas
+
+Organization
+Georgia Tech
+Georgia Tech
+Southface
+Southern Environmental Law Center
+FHWA - GA Division
+Rockdale County
+Broward MPO
+FHWA
+FHWA - GA Division
+NCTCOG
+ARC
+FTA
+City of Atlanta
+GA Environmental Protection Division
+Maryland DOT/SHA
+FHWA
+ARC
+ARC
+WSB Parsons-Brinckerhoff
+ARC
+ARC
+FHWA - GA Division
+PSRC
+FTA
+WSB Parsons-Brinckerhoff
+MA DOT
+ARC
+Volpe
+ARC
+GDOT
+Cambridge Systematics
+Southface
+Emory
+Agnes Scott
+City of Atlanta
+CDC
+DeKalb County
+AECOM
+ARC
+Hillsborough MPO
+Georgia Conservancy
+
+18
+
+

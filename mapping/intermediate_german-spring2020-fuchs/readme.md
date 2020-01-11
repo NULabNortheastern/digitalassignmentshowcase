@@ -34,6 +34,21 @@ This module will go over components of storytelling and how these components may
 
 ### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/intermediate_german-spring2020-fuchs/slides-storymaps.pdf)
 
+### Data to be Mapped (Italian Restaurants from the North End)
+Mike's Pastry<br>
+300 Hanover St, Boston, MA 02113
+<br><br>
+Limoncello<br>
+190 North St, Boston, MA 02113<br>
+<br>
+Al Dente<br>
+109 Salem St # 1, Boston, MA 02113<br>
+<br>
+Lucca<br>
+226 Hanover St, Boston, MA 02113<br>
+<br>
+Strega<br>
+379 Hanover St, Boston, MA 02113<br>
 
 ## DTI Consultants
 Created by:<br>

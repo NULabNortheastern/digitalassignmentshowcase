@@ -34,7 +34,7 @@ This module will go over components of storytelling and how these components may
 
 ### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/intermediate_german-spring2020-fuchs/slides-storymaps.pdf)
 
-## [Video Introduction to Knight Lab's StoryMap Application](https://youtu.be/X33ud7RYZFg)
+### [Video Introduction to Knight Lab's StoryMap Application](https://youtu.be/X33ud7RYZFg)
 
 ### Data to be Mapped (Italian Restaurants from the North End)
 Mike's Pastry<br>

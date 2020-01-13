@@ -1,0 +1,2102 @@
+International Practices on Climate
+Adaptation in Transportation
+Findings from a virtual review
+
+Source: New Zealand Transport Agency
+
+Synthesis Report — January 2015
+
+Prepared for:
+Federal Highway Administration
+Office of Natural Environment
+Washington, D.C.
+
+Notice
+This document is disseminated under the sponsorship of the Department of Transportation in the
+interest of information exchange. The United States Government assumes no liability for the
+contents or use thereof.
+The United States Government does not endorse products or manufacturers. Trade or
+manufacturers’ names appear herein solely because they are considered essential to the
+objective of this report.
+
+Form Approved
+OMB No. 0704-0188
+
+REPORT DOCUMENTATION PAGE
+
+Public reporting burden for this collection of information is estimated to average 1 hour per response, including the time for reviewing instructions, searching existing data sources,
+gathering and maintaining the data needed, and completing and reviewing the collection of information. Send comments regarding this burden estimate or any other aspect of this
+collection of information, including suggestions for reducing this burden, to Washington Headquarters Services, Directorate for Information Operations and Reports, 1215 Jefferson
+Davis Highway, Suite 1204, Arlington, VA 22202-4302, and to the Office of Management and Budget, Paperwork Reduction Project (0704-0188), Washington, DC 20503.
+
+1. AGENCY USE ONLY (Leave blank)
+
+2. REPORT DATE
+
+January 2015
+
+3. REPORT TYPE AND DATES COVERED
+
+Final Report
+
+4. TITLE AND SUBTITLE
+
+5a. FUNDING NUMBERS
+
+International Practices on Climate Adaptation in Transportation: Findings from a Virtual
+Review
+6. AUTHOR(S)
+
+5b. CONTRACT NUMBER
+
+Gina Filosa and Alexandra Oster
+
+8. PERFORMING ORGANIZATION REPORT NUMBER
+
+7. PERFORMING ORGANIZATION NAME(S) AND ADDRESS(ES)
+
+DOT-VNTSC-FHWA-15-01
+
+U.S. Department of Transportation
+John A. Volpe National Transportation Systems Center
+55 Broadway
+Cambridge, MA 02142-1093
+
+9. SPONSORING/MONITORING AGENCY NAME(S) AND ADDRESS(ES)
+
+10. SPONSORING/MONITORING
+AGENCY REPORT NUMBER
+
+US Department of Transportation
+Federal Highway Administration
+Office of Natural Environment
+1200 New Jersey Avenue, SE
+Washington, DC 20590
+
+FHWA-HEP-15-012
+
+11. SUPPLEMENTARY NOTES
+
+FHWA Project Leads: Tina Hodges and Rob Kafalenos
+
+12a. DISTRIBUTION/AVAILABILITY STATEMENT
+
+This document is available to the public on the FHWA website at
+http://www.fhwa.dot.gov/environment/climate_change/adaptation/publications_and_tools/
+
+12b. DISTRIBUTION CODE
+
+13. ABSTRACT (Maximum 200 words)
+
+The Federal Highway Administration (FHWA) conducted an international review to study how international transportation agencies are
+addressing issues related to adapting highway infrastructure to the impacts of climate change. The review involved transportation agencies
+from Australia, Canada, Denmark, Korea, New Zealand, the Netherlands, Norway, and the United Kingdom. The review elicited information on
+adaptation issues associated with all aspects of the transportation project delivery process. This synthesis report highlights the state of the
+practice of how transportation agencies are addressing climate adaptation through the following: adaptation frameworks/strategies; climate
+change risk assessments; selecting adaptation measures and strategies; long range planning and land use; changes in design standards;
+maintenance and operations; asset management; and research. The information collected during the review and presented here is relevant to
+transportation planners, asset managers, design engineers, and policy-makers.
+14. SUBJECT TERMS
+
+15. NUMBER OF PAGES
+
+Climate Change, Adaptation
+
+37
+
+16. PRICE CODE
+17. SECURITY CLASSIFICATION
+OF REPORT
+
+Unclassified
+
+NSN 7540-01-280-5500
+
+18. SECURITY CLASSIFICATION
+OF THIS PAGE
+
+Unclassified
+
+19. SECURITY CLASSIFICATION
+OF ABSTRACT
+
+Unclassified
+
+20. LIMITATION OF ABSTRACT
+
+Unlimited
+Standard Form 298 (Rev. 2-89)
+Prescribed by ANSI Std. 239-18
+298-102
+
+Acknowledgments
+The U.S. Department of Transportation Federal Highway Administration (FHWA) in partnership
+with the Volpe National Transportation Systems Center (Volpe Center) prepared this synthesis
+report. The Volpe Center project team included Gina Filosa and Alexandra Oster of the
+Transportation Policy and Planning Technical Center.
+The Volpe project team wishes to thank Tina Hodges and Rob Kafalenos, the FHWA project
+leads, for their guidance and support in conducting the virtual review and developing the report.
+The team also thanks the Volpe Center’s Carson Poe for his time and expertise in reviewing this
+document.
+Lastly, the team also thanks representatives of the following international transportation
+agencies who graciously shared their time, knowledge, and valuable insights (please see
+Appendix C for a full list of agency representatives that were interviewed):
+•
+
+VicRoads, Victoria, Australia
+
+•
+
+New Zealand Transport Agency, New Zealand
+
+•
+
+Vejdirektoratet (Danish Road Directorate), Denmark
+
+•
+
+Rijkswaterstaat (Ministry of Infrastructure and the Environment), Netherlands
+
+•
+
+Korea Expressway Corporation (KEC), Republic of Korea
+
+•
+
+Department for Transport, United Kingdom
+
+•
+
+Highways Agency, United Kingdom
+
+•
+
+Statens vegvesen (Public Roads Administration), Norway
+
+•
+
+Transport Canada, Canada
+
+This report could not have been developed without the input from experts at these agencies.
+
+Contents
+List of Figures ........................................................................................................................ v
+List of Tables ......................................................................................................................... v
+Executive Summary ................................................................................................................ i
+1.
+
+Introduction ................................................................................................................... 1
+
+2.
+
+Adaptation Strategy........................................................................................................ 3
+
+3.
+
+Climate Change Vulnerability and Risk Assessment ......................................................... 8
+
+4.
+
+Long Range Transportation Planning and Land Use ....................................................... 12
+
+5.
+
+Integration of Climate Change into Design Practices ...................................................... 15
+
+6.
+
+Maintenance and Operations........................................................................................ 21
+
+7.
+
+Asset Management ....................................................................................................... 23
+
+8.
+
+Research....................................................................................................................... 25
+
+9.
+
+Conclusions .................................................................................................................. 28
+
+Appendix A: Discussion Topics ............................................................................................. 29
+Appendix B: Agency Snapshots ............................................................................................ 30
+Appendix C: Interview Participants ...................................................................................... 33
+Appendix D: Bibliography .................................................................................................... 35
+
+List of Figures
+Figure 1: Description of Delta Scenarios ....................................................................................................... 5
+Figure 2: Highways Agency Adaptation Framework Model.......................................................................... 7
+Figure 3: Collecting Well and Connecting Pipe ........................................................................................... 17
+Figure 4: Length of Collecting Dish ............................................................................................................. 17
+Figure 5: Retrofit of In-Service Bridges ....................................................................................................... 18
+Figure 6: Causeway Upgrade Project Construction. Top Image: Existing Causeway Configuration in 2013.
+Bottom Image: Final Causeway Configuration by 2017. ................................................................ 20
+Figure 7: XGEO Web Tool ............................................................................................................................ 22
+
+List of Tables
+Table 1: Change in Precipitation Pattern .................................................................................................... 16
+Table 2: Design Rainfall Generation Frequency (years) .............................................................................. 17
+
+Executive Summary
+Global climate change poses serious challenges to the transportation community. Climate change
+effects, such as changes to long-term annual average temperatures and precipitation patterns,
+increased frequency and intensity of storm events and heat waves, and rising sea levels, have direct
+implications on the planning, design, construction, operations and maintenance of transportation
+systems. In recent years, many transportation agencies in the United States have begun to assess the
+risks that their transportation systems and operations face and the vulnerabilities that they have due to
+climate change impacts. However, even the most proactive agencies are in the early stages of
+developing and implementing adaptation strategies and are keen to learn from the experiences of
+peers, including those internationally.
+The Federal Highway Administration (FHWA) conducted a virtual international review to study how
+transportation agencies worldwide are working to adapt highway infrastructure to the impacts of
+climate change. The review team spoke with staff from the following agencies on adaptation issues
+associated with all aspects of the transportation project delivery process, including policy development,
+planning, design, construction, operations, and maintenance:
+•
+
+VicRoads, Victoria, Australia
+
+•
+
+New Zealand Transport Agency, New Zealand
+
+•
+
+Vejdirektoratet (Danish Road Directorate), Denmark
+
+•
+
+Rijkswaterstaat (Ministry of Infrastructure and the Environment), Netherlands
+
+•
+
+Korea Expressway Corporation (KEC), Republic of Korea
+
+•
+
+Department for Transport, United Kingdom
+
+•
+
+Highways Agency, United Kingdom
+
+•
+
+Statens vegvesen (Public Roads Administration), Norway
+
+•
+
+Transport Canada, Canada
+
+While there is considerable confidence in climate model estimates for future climate change, the exact
+timing and magnitude of climate change effects as well as their precise impacts on roadway
+infrastructure and logistics is uncertain. The uncertainty is related to unknown future emissions levels;
+climate models limitations, and a lack of information on the degree of effectiveness of adaptation
+strategies. Nevertheless, transportation agencies still must make decisions about and investments in
+their road networks.
+Key Findings and Observations
+This synthesis report highlights proactive actions that international transportation agencies are taking to
+address uncertainties connected to climate change and to manage the associated risks. The report
+highlights the following state of the practice:
+•
+
+Adaptation frameworks/strategies: An adaptation framework or strategy is a foundation for an
+organization to implement adaptive actions. It provides a sound basis for decision-making when
+confronted with climate uncertainties. Several of the countries - included in the review – namely
+Canada, Denmark, the Netherlands, New Zealand, Norway, and the United Kingdom have
+developed climate adaptation strategies and policies at the national level. Although the levels of
+
+International Practices on Climate Adaptation in Transportation | i
+
+detail in these documents vary, common elements typically found include a brief description of
+climate change predictions, an assessment of associated risks and/or vulnerabilities, and
+identification of a process of how to address and respond to the risks and vulnerabilities. These
+national strategies have in turn influenced the climate adaptation strategies their transportation
+agencies have developed.
+•
+
+Climate change risk assessments: Several of the transportation agencies that participated in the
+review are employing systematic methods to address some of the inherent uncertainties and to
+manage the associated risk. The purpose of a climate change risk and/or vulnerability
+assessment is to determine how climate change may impact an agency’s transportation assets
+and prioritize measures to maximize impact and minimize costs. The Danish Road Directorate
+follows the Blue Spot method – a four level analysis to identify roadway locations where the
+likelihood of floods is high and the consequence of flooding is significant. Similarly, the
+ROADAPT research project, a joint research effort supported by a number of European
+countries, developed a preliminary risk assessment method that can identify vulnerable
+locations in the transportation network, understand the probabilities and consequences that
+climate change events could have on these locations, and provide options for adaptation
+actions.
+
+•
+
+Changes being implemented in long range planning and land use processes: Incorporating
+climate change impacts and climate data into long range transportation planning and land use
+decisions can play a significant role in both mitigating and adapting to climate change. The
+United Kingdom requires that applicants seeking approval for Nationally Significant
+Infrastructure Projects must take climate change effects into consideration when planning the
+facility’s location, design, construction, and operation. Similarly, the New Zealand Government
+provides best practice information and guidance to local authorities on integrating climate
+change considerations, including sea level rise, into land-use planning and decision-making
+processes. The Guidance Manual includes specific recommendations for the degree of sea level
+rise to consider.
+
+•
+
+Integrating climate change into design standards: Several international transportation agencies
+have begun to integrate climate projections into design criteria and specifications for
+transportation infrastructure projects. Examples include the Danish Road Directorate’s new
+drainage standards, the Korea Expressway Corporation’s bridge design countermeasures, which
+include requirements for new bridges to be designed for a 200-year return period (instead of a
+100-year return period) and have a minimum freeboard of 2 meters. The agency is also adapting
+in-service bridges at low elevation by either reconstructing them or raising their heights by 1 to
+3 meters. The Norwegian Public Roads Administration also recently updated its planning, design
+and construction manuals to integrate adaptation measures.
+
+•
+
+Maintenance and operations: Climate change impacts will likely necessitate changes in the ways
+transportation agencies operate and maintain their systems and facilities. Some of the agencies
+participating in the review are making minor changes to maintenance and operation activities,
+though most indicated that they are not at the point where climate change impacts have
+directly translated to changes in their maintenance practices. Examples of changes that agencies
+are making include: increased field inspection of drainage systems; providing traveler
+information to address weather-related safety; installing traffic safety and warning measures;
+and improving emergency plans.
+
+•
+
+Asset management practices: Climate change impacts will likely alter transportation asset
+
+International Practices on Climate Adaptation in Transportation | ii
+
+management investment cycles. Several of the transportation agencies included in the review
+are actively integrating climate change considerations into their asset management plans.
+Examples include the Korea Expressway Corporation’s new preventative slope management
+strategy, which is designed to prioritize slopes for preventative maintenance and reduce the
+amount of money spent on emergency relief, and the New Zealand Transport Agency’s Coastal
+Effects Assessment Guideline, which outlines a simple, consistent, and comprehensive process
+for asset managers to determine short- and long-term risks to state highway assets in the
+coastal environment.
+•
+
+Research: Many of the transportation agencies included in the review are participating in
+collaborative research initiatives that address critical information and data needs related to
+climate change adaptation. These collaborative research efforts include two research programs
+from the European Road Association that focus on climate change adaptation. The first effort,
+Road Owners Getting to Grips with Climate Change, was designed to provide European road
+authorities with the knowledge and tools necessary to "get to grips" with climate change and its
+impacts on all elements of road management by adapting design rules, updating and improving
+data collection, and developing risk management methods. The second program focused on
+providing owners with adaptation technologies and the models and tools to support
+decisionmaking concerning adaptation measures for road infrastructure.
+
+International Practices on Climate Adaptation in Transportation | iii
+
+1. Introduction
+1.1 Background and Purpose
+Global climate change poses serious challenges to the transportation community. Climate change
+effects, such as changes to long-term annual average temperatures and precipitation patterns,
+increased frequency and intensity of storm events and heat waves, and rising sea levels, have direct
+implications on the planning, design, construction, operations, and maintenance of transportation
+systems. Climate change adaptation is the practice of implementing actions to avoid, withstand, or take
+advantage of current and projected climate changes and impacts. Adapting transportation infrastructure
+to anticipated climate change impacts is critical to avoiding or at least minimizing potential damage,
+disruption in service, and safety concerns.
+In recent years, many transportation agencies in the United States have begun to assess the risks that
+their transportation systems and operations face and the vulnerabilities that they have due to climate
+change impacts. However, even the most proactive agencies are in the early stages of developing and
+implementing adaptation strategies and are keen to learn from the experiences of peers, including those
+internationally.
+The Federal Highway Administration (FHWA) conducted a virtual international review to study how
+international transportation agencies are addressing issues related to the adaptation of highway
+infrastructure to the impacts of climate change, and to identify innovative and best practices that could
+implemented in the United States to help advance the development and implementation of adaptation
+strategies. The review involved nine agencies that were chosen based on their leadership in the climate
+adaptation field. Agencies that participated in the review were:
+•
+
+VicRoads, Victoria, Australia
+
+•
+
+New Zealand Transport Agency, New Zealand
+
+•
+
+Vejdirektoratet (Danish Road Directorate), Denmark
+
+•
+
+Rijkswaterstaat (Ministry of Infrastructure and the Environment), Netherlands
+
+•
+
+Korea Expressway Corporation (KEC), Republic of Korea
+
+•
+
+Department for Transport, United Kingdom
+
+•
+
+Highways Agency, United Kingdom
+
+•
+
+Statens vegvesen (Public Roads Administration), Norway
+
+•
+
+Transport Canada, Canada
+
+The adaptation efforts for transportation infrastructure underway in these countries are diverse in
+scope and application, reflecting a broad array of geographic, environmental, and societal conditions
+much like those found across the United States.
+The scope of the review corresponds with the wide-ranging and multidisciplinary implications of climate
+change on transportation infrastructure. The review elicited information on adaptation issues associated
+
+International Practices on Climate Adaptation in Transportation | 1
+
+with all aspects of the roadway transportation project delivery process, including policy development,
+planning, design, construction, operations, and maintenance. The compiled information presented here
+is relevant to transportation planners, asset managers, design engineers, and policy-makers.
+
+1.2 Methodology
+The review team included staff from FHWA’s Offices of Natural Environment; Asset Management,
+Pavements, and Construction; Bridges and Structures; and International Programs; and staff from the
+Volpe National Transportation Systems Center. The review team determined which agencies to include
+in the review using information from three primary sources: reports on prior related scanning studies;
+published literature; and knowledge from experts in the field. Once the agencies were selected, the
+review team reached out to an initial point of contact at each agency to identify appropriate point of
+contact(s) who could participate in one, 1.5-hour web-based meeting. The review team provided each
+interviewee with a list of discussion topics about which FHWA was interested in learning more (see
+Appendix A).
+The review team then conducted web-based meetings with each of the nine agencies. See Appendix C
+for a list of interview participants. The format of the meetings allowed for discussion over the phone
+with concurrent sharing of presentations and documents online. The review team conducted the
+interviews between May and September 2014. Finally, the review team reviewed research reports and
+official agency documents that the peer agencies provided in supplement to the information discussed
+during the interviews (see Appendix D).
+
+International Practices on Climate Adaptation in Transportation | 2
+
+2. Adaptation Strategy
+An adaptation strategy or framework is a foundation for an organization to implement adaptive actions.
+It provides a sound basis for decision-making when confronted with climate uncertainties. Several of the
+countries included in the review have developed climate adaptation strategies and policies at the
+national level. These national strategies have in turn influenced the climate adaptation strategies their
+transportation agencies have developed.
+The following section highlights the adaptation strategies and frameworks for the agencies included in
+the review who have established formal frameworks. Although the levels of detail in these documents
+vary, common elements typically found include a brief description of climate change predictions, an
+assessment of associated risks and/or vulnerabilities, and identification of a process of how to address
+and respond to the risks and vulnerabilities.
+Canada’s Federal Climate Change Adaptation Framework
+Environment Canada developed a Federal Adaptation Policy Framework that guides the Government’s
+domestic adaptation actions. This Framework sets out a vision, objectives, roles of the federal
+government, and criteria for identifying adaptation priorities. The Framework identifies three key
+themes to the Federal Government’s role in climate change adaptation:
+•
+
+Generating and sharing knowledge and building adaptive capacity to respond
+
+•
+
+Integrating adaptation into federal policy and planning
+
+•
+
+Using convening power to facilitate collaboration amount stakeholders and sectors
+
+Building upon the Federal Framework, Transport Canada developed its first Climate Adaptation Action
+Plan in 2013. The Adaptation Plan is the department’s first step in addressing and identifying gaps, risks,
+and opportunities related to adaptation, and sets the stage for future action. The plan includes an action
+plan that outlines goals and objectives that align with the Federal Framework, and identifies specific
+actions that the department will take to achieve those goals.
+Denmark: Strategy for Adapting to Climate Change
+In 2012, the government of Denmark developed an Action Plan for a Climate-Proof Denmark, which
+identified a series of initiatives that different government entities, including the Ministry of Transport
+and the DRD, are conducting or have planned to ensure that the country will become more resilient to
+climate change. Building off the overarching guidance and commitments in this plan, the DRD published
+its Strategy for Adapting to Climate Change in 2013. The aim of this document is to ensure DRD takes
+actions to address climate change in the most economically responsible and efficient manner. DRD’s
+climate strategy is focused on road flooding, which is the agency’s central challenge associated with
+climate change impacts. The DRD’s climate strategy involves a three-pronged approach to addressing
+increased rainfall and water on roads: “we manage, we improve and we prevent.” DRD carries out this
+approach as follows:
+1. Manage flooding when it occurs. When flooding occurs, the DRD will close affected roadways,
+provide information to warn motorists, and work to clear up incidents quickly.
+2. Make improvement to roads. After a road flooding, DRD will analyze the event and conduct a
+cost-benefit analysis to identify a financially viable improvement. As part of this work, the DRD is
+developing a database of climate events in order to understand climate impacts at a national
+level. The DRD has defined climate events as a “complete or partial closure of a national road, or
+
+International Practices on Climate Adaptation in Transportation | 3
+
+part of that road, for the duration of more than one hour, as a result of water on the road
+surface.” Additionally, DRD is committed to cooperating with relevant authorities to better
+coordinate activities and ensure they capitalize on opportunities to reduce risk.
+3. Prevent wherever it is possible. The DRD has determined that it is not necessary or economically
+feasible to prevent all climate events on the road network. In order to prioritize actions, the DRD
+conducts Blue Spot Analysis to screens for particularly vulnerable areas (see Chapter 3 for more
+information on the Blue Spot Analysis). The agency is also proactive about considering climate
+change in the planning and construction phases in order to climate-proof – make more resilient
+to climate change - new infrastructure.
+DRD is now developing an action plan to carry out its climate change strategy. The action plan will
+describe climate adaptation actions more fully and assign responsibility for implementation of these
+actions.
+The Netherlands Delta Programme
+The Netherlands is a low-lying country that is vulnerable to flooding. The country’s Delta Act, which took
+effect in 2012, requires a Delta Programme, which involves the development of yearly plans to protect
+the country from high water and ensure a sufficient supply of freshwater. Since the Delta Programme is
+designed to address future impacts, many of which are uncertain, Delta Scenarios were developed to
+help manage the uncertainty. The four scenarios (see Figure 1) take the relationship between socioeconomic trends and climate change into account. The initial Delta Scenarios, which were developed in
+2012, were based on the climate scenarios of the Royal Netherlands Meteorological Institute (KNMI). In
+2014, the KNMI incorporated the latest insights into its scenarios. The changes were so slight that it was
+not necessary to adjust the Delta Scenarios as they still corresponded to the range of plausible future
+changes.
+
+International Practices on Climate Adaptation in Transportation | 4
+
+Figure 1: Description of Delta Scenarios
+Source: Delta Programme
+
+The annual Delta Programme identifies measures and projects to adapt physical systems, such as dykes
+and pumps, as well as spatial planning strategies (i.e. prohibiting construction in some locations, raising
+structures in others, etc.) to proactively manage flooding. Delta Programme 2015 outlines final
+proposals for addressing water safety and fresh water supply in the country. A key measure in the 2015
+Programme is a new approach to water-safety standards. The new standards are based on a risk-based
+approach, in which the risk of flooding and the possible consequences are taken together to determine
+the safety standard level (the current approach only looks at a flood water level being exceeded). The
+2054 Programme outlines three types of measures that will be implemented to manage flood risk:
+•
+
+Layer 1: preventive measures to limit the probability of a flood;
+
+•
+
+Layer 2: spatial organization of an area to limit consequences of a flood and, in specific cases, to
+contribute directly to the desired level of safety;
+
+•
+
+Layer 3: disaster management to limit the consequences of a flood in terms of causalities.
+
+The government aims to have the new water-safety standards embedded in law by 2017. The goal is to
+have all flood defense systems meet the new standards by 2050. The Netherlands has a Climate Agenda
+(2013) addressing both mitigation and adaptation aspects and plans to adopt a national adaptation
+policy, which will be broader than infrastructure alone, by 2017.
+New Zealand: State Highway Resilience Programme Business Case
+New Zealand’s 2010 National Infrastructure Plan outlined New Zealand’s priorities for infrastructure and
+highlighted future investments for all major sectors, including transportation. This plan also
+acknowledged the need to consider climate change adaptation as part of the planning and development
+process for new infrastructure projects. In the subsequent 2011 National Infrastructure Plan,
+infrastructure resilience emerged as a guiding principle, driven in part by two major earthquakes in the
+country’s Canterbury region. In the 2011 plan, the New Zealand Government set a new vision for
+infrastructure, committing to create resilient infrastructure that is coordinated and contributes to
+
+International Practices on Climate Adaptation in Transportation | 5
+
+economic growth and increased quality of life. According to the plan, “the concept of resilience is wider
+than natural disasters, and covers the capacity of public, private and civic sectors to withstand
+disruption, absorb disturbance, act effectively in a crisis, adapt to changing conditions, including climate
+change, and grow over time” (p. 14). Thus, in this plan, climate change adaptation is a way to achieve
+resilience.
+In response to the National Infrastructure Plan and several significant highway emergency events, the
+New Zealand Transport Agency recently released a State Highway Resilience Programme Business Case.
+This business case establishes the rationale for investment in a program of works to ensure the Agency
+has the capacity to withstand, absorb, adapt to, and recover from disturbance and change conditions
+and to grow over time as required to meet demands. The Business Case is focused on understanding
+risks, such as those posed by sea level rise, and concentrating efforts on where the risk to the state
+highway network is greatest. By 2017, the Transport Agency aims to have a national infrastructure
+network investment and management approach to resilience, which will be incorporated into the 20182021 three-year National Land Transport Plan (New Zealand Transport Agency, 2014).
+Norway: National Climate Change Adaptation Strategy
+In 2013, the Norwegian Parliament issued a national strategy for climate change adaptation, which
+established a common framework for climate change adaptation across sectors and administrative
+levels (Meld. St 33, 2013). The strategy emphasizes building scientific knowledge on which to base policy
+decisions and strengthening that knowledge through collaboration across sectors and levels of
+government. As a precautionary approach, the strategy recommends that assessments of the impacts of
+climate change should be based on figures from the high end of the range of national climate
+projections. The national strategy provided the Norwegian Public Roads Administration with the political
+framework to advance its climate adaptation work.
+United Kingdom: Highways Agency Climate Change Adaptation Strategy and Framework
+The Climate Change Act of 2008 was the first major policy action that raised the profile of adaptation
+work in the UK. The Government charged major infrastructure owners, including transport companies,
+with assessing the risks to their assets and the operation of their assets to the projected changes in
+climate. Infrastructure owners were required to submit climate change risk assessment information to
+the Department of Environment, Food, and Rural Affairs. As an Executive Agency of a Government
+Department, the Highways Agency was not required to report; however, it voluntarily agreed to report
+information.
+The Highways Agency published its Climate Change Adaptation Strategy and Framework in 2009. The
+Framework lays out a strategic model to assessing and understanding the risks posed to the strategic
+network. The model (see Figure 2) provides a platform for decision makers to examine their individual
+business areas, including standards, specifications, maintenance, and the development and operation of
+the Highways Agency network. It provides a process for identifying agency activities that are expected to
+be impacted by climate change (defined as “vulnerabilities”), assessing associated risks and
+opportunities, and determining the most appropriate actions to address and manage these risks.
+
+International Practices on Climate Adaptation in Transportation | 6
+
+Figure 2: Highways Agency Adaptation Framework Model
+Source: UK Highways Agency
+
+Using the Adaptation Framework Model, the Highways Agency identified over 80 corporate activities
+that may be affected by climate change. After conducting a preliminary appraisal of the risks associated
+with these activities, the Highways Agency discovered that over 60 percent of the activities will likely be
+substantially impacted by climate change and are thus time-critical. The Highways Agency prioritized
+vulnerabilities based on a variety of criteria, including the extent and severity of the disruption a
+climate-change event could cause. The Highways Agency then used this list of priorities to go through an
+options analysis to determine the preferred option for dealing with the risks associated with each of the
+vulnerabilities. Next, the agency moved forward with the development and implementation of
+“Adaptation Action Plans” that outline the specific actions that need to be taken, who is responsible for
+the actions, and the timeframe for carrying them out.
+
+International Practices on Climate Adaptation in Transportation | 7
+
+3. Climate Change Vulnerability and Risk Assessment
+While there is considerable confidence in climate model estimates for future climate change, the exact
+timing and magnitude of climate change effects as well as their precise impacts on roadway
+infrastructure and logistics is uncertain. The uncertainty is related to unknown future emissions levels;
+climate models limitations, and a lack of information on the degree of effectiveness of adaptation
+strategies.
+Several of the transportation agencies that participated in the review are employing systematic methods
+to address some of the inherent uncertainties and to manage the associated risk. The purpose of a
+climate change risk and/or vulnerability assessment is to determine how climate change may impact an
+agency’s transportation assets and prioritize measures to maximize impact and minimize costs. Risk
+assessments often rely on both quantitative data and a qualitative analysis based on local knowledge of
+vulnerabilities. The following section highlights the climate change risk assessment methods that
+transportation agencies involved in the review are employing.
+Denmark’s Blue Spot Project
+The DRD’s Strategy for Adapting to Climate Change notes that it is neither necessary nor economically
+feasible to prevent climate-related events across the entire national road network. Instead, the
+Directorate applies the Blue Spot method to identify the locations on the national road network that are
+most vulnerable to flooding and to determine whether improvements to those road sections are
+economically viable. The Blue Spot analysis is a central activity that supports the agency’s goal of
+achieving the highest degree of climate adaptation with available allocated resources.
+A Blue Spot is an identified stretch of roadway where the likelihood of flooding is high (determined by
+perception return patterns) and the consequence of flooding (quantified by socioeconomic factors, such
+as safety, traffic management systems, and traffic intensity.) is significant. The Blue Spot method uses a
+geographic information system (GIS)-model , comprised of three levels:
+•
+
+Level 1 provides a screening of all terrain depressions which are computed based on a
+hydrologically adapted digital terrain model.
+
+•
+
+Level 2 produces a risk map by incorporating the amount of rainfall needed to fill a given
+depression alongside the integration of the imperviousness of the catchment area.
+
+•
+
+Level 3 couples terrain characteristics with drainage system specifications in order to determine
+depths and retention time of a flooding scenario. An important aspect of Level 3 is the
+incorporation of climate factors, in terms of changing precipitation pattern, to enable model
+outcomes from the present time and from the year 2050 and 2100. With this information the
+model is able to identify Blue Spots in 2100 which may not exist under present day conditions.
+
+The DRD uses the information from the Blue Spot analysis to inform funding decisions in terms of
+prioritizing locations to address, as well as to inform adaptation actions for a specific location.
+Nationwide the agency has identified 14 Blue Spots under present day scenarios, and an additional 35
+Blue Spots have been identified for 2050 and beyond. The DRD compares the identified Blue Spots
+against each other to determine where funding and adaptive measures should be targeted first and
+most effectively. For individual locations, the agency also uses the Blue Spot analysis to conduct a costbenefit analysis to determine what should be done to address risk and consequence.
+
+International Practices on Climate Adaptation in Transportation | 8
+
+Both the Swedish Transportation Agency and the Dutch Ministry of Infrastructure and the Environment
+have adopted the Blue Spot method to identify areas vulnerable to flooding. The results of the Dutch’s
+analysis on the Dutch highway network was followed by an investigation of the risks of flooding and
+further identification of critical assets. The results of this assessment were used to provide information
+to the public in the case of major floods and to investigate the implications for evacuations and risk
+management.
+Roads for Today, Adapted for Tomorrow (ROADAPT)
+The ROADAPT project was a joint research effort supported by the Netherlands, Germany, Denmark,
+and Norway. The primary objective of ROADAPT was to develop a preliminary risk assessment method
+that can identify vulnerable locations in the transportation network, understand the probabilities and
+consequences that climate change events could have on these locations, and provide options for
+adaptation actions. The outcome of ROADAPT was guidelines on:
+A. The use of climate change projections
+B. The application of a QuickScan on climate change risks for roads
+C. How to perform a detailed vulnerability assessment
+D. How to perform a socioeconomic impact assessment
+E. How to select an adaptation strategy
+The ROADAPT guidelines are available to download on the Conference for European Directors of Roads website.
+Below is a description of guidelines B, C, and E.
+Application of QuickScan
+QuickScan is a climate change risk assessment method that provides preliminary estimates of the major
+risks associated with weather conditions in the current climate and in future climate projections.
+QuickScan does not use extensive quantitative analyses; rather, it is a semi-quantitative approach that
+relies on stakeholder participation in a series of workshops to determine, consecutively:
+1. Consequences,
+2. Top risks and locations, and
+3. An action plan for adaptation.
+Workshop participants include experts in the fields of transportation, economics, roadway engineering,
+and communications, as well as climate change specialists, engineers for specific threats, and road asset
+owners. In a first workshop, participants establish a prioritized list of climate change impacts (i.e.
+threats), climate parameters, and vulnerability factors. In a second workshop, participants identify
+locations with high risk profiles and map them according to risk. In a third and final workshop,
+participants develop an action plan that outlines a prioritized list of strategies to address the threats.
+The action plan incorporates details as to the life span of the road segments, and whether the action is
+for adaptation versus regular maintenance.
+By engaging stakeholders in the process, the QuickScan method increases awareness about climate
+change impacts, starts team building among key players, and creates a mutual understanding of future
+actions.
+
+International Practices on Climate Adaptation in Transportation | 9
+
+Vulnerability Assessment
+The ROADAPT vulnerability assessment outlines a three-step process for each threat identified in the
+previous risk assessment. Step one identifies factors that are a prerequisite for the threat to occur and
+factors that affect the level of vulnerability. In step two, the vulnerability factors are assigned a
+vulnerability score and incorporated into geographic information system (GIS) layers. In step three, the
+vulnerability factors are indexed and mapped to identify areas of varying degrees of vulnerability for a
+particular threat.
+Selecting Adaptation Strategies
+The ROADAPT Guideline for Selecting Adaptation Strategies includes guidance on identifying and
+selecting appropriate adaptation strategies to address and minimize risk associated with climate change
+impacts. The guideline outlines an 11-step approach that road owners can use to generate a set of
+policies or best strategies across a network. The 11 steps in the method are:
+1. Identify the road owners’ needs.
+2. Identify the damage mechanisms, design models, and climate parameters.
+3. Assess the resilience of the asset in the current situation.
+4. Assess the resilience of the asset in the future situation.
+5. Identify adaptation measures using the ROADAPT adaptation measures database.
+6. Establish adaptation policies.
+7. Assess consequences of measures using the ROADAPT adaptation measures database.
+8. Select adaptation strategies.
+9. Identify stakeholders to be involved.
+10. Identify knowledge gaps in climate change projections, technologies and essential data.
+11. Develop technology roadmaps for upcoming adaptation technologies.
+The ROADAPT Guideline for Selecting Adaptation Strategies includes a database of over 500 adaptation
+measures for geotechnical and drainage assets, pavements, and traffic management. The measures
+cover a range of categories including planning, construction, legislation, maintenance and management,
+traffic management, capacity building, monitoring, and research. The measures fall within five stages:
+pro-action, prevention, preparation, response, and recovery.
+
+International Practices on Climate Adaptation in Transportation | 10
+
+Highlights from National and Agency Level Assessments
+UK Department for Transport (DfT), Transport Resilience Review
+In 2014, the DfT commissioned an independent review of the transport network’s ability to cope with
+extreme weather. The review examined the primary challenges that prolonged adverse and extreme
+weather presents to the transport industry and how the challenges are currently being addressed. The
+plan assessed impacts to each transport mode, including the strategic and local road network, the
+national rail infrastructure network, and airports and ports of economic and strategic importance, as well
+as issues common across modes. Based on the evidence gathered, the review team developed 63
+recommendations for actions to improve the resilience of the UK’s transport network, many of which are
+short-term actions that can be taken immediately.
+Climate Change Risks to Australia’s Coasts: A First Pass National Assessment and Climate Change Risks
+to Coastal Buildings and Infrastructure- A Supplement to the First Pass National Assessment
+In late 2009 the Australian Government released the first national assessment of climate change risks to
+Australia’s coastal assets. The report provided an analysis of the location and number of residential
+properties that are at risk of inundation from rising sea levels and erosion as a consequence of climate
+change. The supplemental report provides additional data on the exposure of commercial buildings, light
+industrial buildings, and transport systems (road, rail, tramways) in Australia’s coastal areas. The
+assessment focuses on impacts and risks at the end of the century and provides a plausible worst case
+scenario to assess risk. The results of the assessment are intended to inform dialogue on a national
+approach to manage risk in the future.
+Infrastructure and Climate Change Risk Assessment for Victoria
+The Victorian Government commissioned a study to examine the likely impacts of climate change on
+Victoria’s infrastructure, including water, power, telecommunications, transport and buildings, identify
+the categories of infrastructure most at risk, and identify opportunities for adaptation (CSIRO, 2007). The
+report describes a worst-case scenario for low and high climate change projections for the years 2030
+and 2070. For each infrastructure category, the report outlines the likely impact of climate change on
+infrastructure services (the infrastructure itself and its functions), social amenity (including health and
+public response), governance and the costs of maintenance, repair, and replacement. The report also
+considers several adaptation responses, including change in design standards, materials selection,
+planning, and maintenance regimes.
+Adapting to a changing climate: Norway’s vulnerability and the need to adapt to the impacts of
+climate change
+From 2008-2010, the Norwegian government conducted a study to identify the impacts of and
+vulnerabilities towards climate change on Norway’s natural environmental and society, and to identify
+measures to reduce vulnerabilities and increase resilience. The report, which was published in 2010,
+found that while Norway has high adaptive capacity in many areas, the lack of maintenance and repair in
+key infrastructures and fragmentation in the natural environment increases vulnerability towards climate
+change. The study recommends three overarching principles for climate change adaptation:
+•
+
+A comprehensive approach to adaptation that assesses the effects of greenhouse gas emissions,
+pollution, and the natural environment should always be taken when adaptive measures are
+planned.
+
+•
+
+Management of the natural environment must have an ecosystem-based approach.
+
+•
+
+Adaptation must be integrated into regular planning processes.
+
+International Practices on Climate Adaptation in Transportation | 11
+
+Highlights from National and Agency Level Assessments (continued)
+New Zealand’s National Land Transport Programme
+In 2008-2009 the New Zealand Transport Agency completed Research Report 378 (Gardiner, et al. 2008,
+2009), a two-stage project that identified and assessed the impacts that climate change may have on
+New Zealand’s land transport network. The report provides recommendations, including adaptation
+options, to address identified information gaps and risks. The Stage Two report deals with regional
+effects of climate extremes on the networks, and considers how these vary by region, when and where
+these risks emerge and which parts of the land transport networks are most at risk. Existing data from
+infrastructure providers was used to assess the current vulnerability of networks to extreme weather.
+Extrapolation was used to predict future effects based on modelling of climate extremes for 10-, 50and 100-year projections using a mid-range (A1B) scenario. Regional impacts were determined from GIS
+maps by overlaying climate change predictions with transport infrastructure. Priority adaptation
+responses are discussed for each national profile in the context of design, operation, research and
+policy issues, and related emerging climate change research.
+The New Zealand Transport Agency aims to have a national infrastructure network investment and
+management approach to resilience in place by 2017 to include in the 2018-2021 three year National
+Land Transport Plan (New Zealand Transport Agency, 2014). To achieve this resilience approach goal,
+over the next three years the Transport Agency will complete a risk assessment to determine where
+funding is required and feasible for adaptation works via the National Land Transport Plan. This
+assessment will identify priority corridors and critical points and associated risk treatment work that
+meet funding criteria. The Agency intends to allocate budget in the 2018-2021 National Land Transport
+Plan to carry out the works identified.
+
+International Practices on Climate Adaptation in Transportation | 12
+
+4. Long Range Transportation Planning and Land Use
+Incorporating climate change impacts and climate data into long range transportation planning and land
+use decisions can play a significant role in both mitigating and adapting to climate change. Even though
+transportation and land use decision-making often occur at the local and/or regional level, the examples
+featured below, illustrate how different countries have been able to integrate climate change
+considerations into national and state policies and procedures to inform and guide transportation and
+land use planning processes.
+United Kingdom National Road and Rail Networks National Policy Statement
+The UK passed its Planning Act 2008 to improve and accelerate the process for developing major
+infrastructure projects, deemed Nationally Significant Infrastructure Projects, including as roads, ports,
+energy facilities, and large-scale hazardous waste infrastructure. The Act tasked the Government with
+creating National Policy Statements for different types of national infrastructure development projects
+(transport, energy, water, wastewater, and waste) to provide guidance on how to assess and mitigate
+the impacts of large-scale projects. To date, nine National Policy Statements have been released
+regarding Energy, Ports, Waste Water, and Hazardous Waste. The statements lay out the Government’s
+objectives for the development of nationally significant infrastructure, and outlines information on how
+the policy takes into account mitigation of and adaptation to climate change.
+The Department of Transport issued a Draft National Road and Rail Networks National Policy Statement
+in December 2013 and the final version of the policy will be completed soon. This policy stipulates that
+applicants seeking approval for Nationally Significant Infrastructure Projects must take climate change
+effects into consideration when planning the facility’s location, design, construction, and operation.
+More specifically, the policy requires that for transport infrastructure that has safety critical elements,
+the applicant should apply the high emissions scenario (high impact, low likelihood) to those elements
+critical to the safe operation of the infrastructure (Section 4.35).
+New Zealand Guidance for Local Governments
+There are locations along the New Zealand’s state highway network that have been identified as being
+vulnerable to sea level rise. The New Zealand Ministry for the Environment’s Coastal Hazards and
+Climate Change: A Guidance Manual for Local Government in New Zealand provides best practice
+information and guidance to local authorities on integrating climate change considerations, including
+sea level rise, into land-use planning and decision-making processes. The Guidance Manual includes
+specific recommendations for the degree of sea level rise to consider. For planning and decision
+timeframes out to the 2090s, the Guidance Manual recommends:
+1. a base value sea-level rise of 0.5 m relative to the 1980–1999 average be used, along with
+2. an assessment of potential consequences from a range of possible higher sea-level rise values.
+At the very least, all assessments should consider the consequences of a mean sea-level rise of
+at least 0.8 m relative to the 1980–1999 average.
+For longer planning and decision timeframes, the Guidance Manual recommends an additional
+allowance for sea-level rise of 10 mm per year beyond 2100 (New Zealand Ministry for the Environment,
+2008). The Ministry for Environmental has recently commenced a review and update of this guidance
+manual.
+See Chapter 5 for more information on how the New Zealand Transport Agency integrates this sea level
+rise planning recommendation as part of transportation project design.
+
+International Practices on Climate Adaptation in Transportation | 13
+
+Victorian Civil and Administrative Tribunal
+In the State of Victoria, Australia, land use planning and development appeals go through the Civil and
+Administrative Tribunal (Victorian Civil and Administrative Tribunal, 2014). Historically, this tribunal has
+not factored in climate change in terms of permitting decisions related to development in coastal areas.
+However, in recent years, as climate change has emerged as a pressing issue especially pertaining to
+planning and environmental decision-making, the Tribunal has begun to take into account climate
+change impacts in reviewing development applications. In numerous decisions, the Tribunal has rejected
+development applications or refused planning permits due to the potential risk and damage that would
+be caused by flooding, rising sea levels, and storm surge associated with climate change (University of
+Melbourne, 2010a). In other instances, the Tribunal has only allowed development to move forward if
+certain conditions are met related to mitigating the impact of climate change (University of Melbourne,
+2010b). While the Tribunal’s decision-making authority only applies to the State of Victoria, it has
+sparked a change within Australia in terms of how climate change factors into State and local land use
+and development. Additionally, permitting decisions pertaining to VicRoads planning and development,
+as well as local and private transportation suppliers, could potentially be impacted by this move toward
+more fully tackling climate change impacts.
+
+International Practices on Climate Adaptation in Transportation | 14
+
+5. Integration of Climate Change into Design Practices
+Engineering design standards govern many aspects of a transportation system – from roadway
+geometrics and bridges and structures to erosion, sediment control, and hydraulics. Design standards
+are based on the amount of risk that an infrastructure owner is willing to accept for that infrastructure
+to physically be damaged or fail or to fail to provide a certain level of function/service. Transportation
+engineers have traditionally relied on historical records of climate, especially extreme weather events,
+when designing highway systems to meet these design standards. Most transportation infrastructure is
+built to last for 50 years or longer. Confronted with climate change, past conditions may not reliable
+indicators of future conditions, thus potentially bringing into question whether the magnitudes of
+extreme weather events based on historical records truly represent the amount of acceptable risk or, in
+other words, meet the design standards that have been set at the time of design. This suggests that
+climate projections/trends should inform or be incorporated into the design process to allow for
+adjustment of the magnitude of the flows to meet the design standard over the actual service life of the
+infrastructure, particularly in cases where the remaining service life is long and climate trends are
+projected to change.
+Some transportation engineers in the U.S. have been reluctant to modify designs to promote resilience
+to future environmental conditions due to uncertainties in climate projections, as well as a lack of usable
+climate data at the scale (i.e. local and regional level) needed to base engineering and design
+requirements. Despite facing similar challenges, several international transportation agencies have
+begun to integrate climate projections into design criteria and specifications for transportation
+infrastructure projects. The following sections highlight best practice examples from the agencies
+included in the review.
+Canada’s Public Infrastructure Engineering Vulnerability Committee (PIEVC) Engineering Protocol
+Since 2005, Engineers Canada has been leading a project in Canada in partnership with Natural
+Resources Canada to complete a national engineering vulnerability assessment of existing and planned
+public infrastructure to the impacts of climate change. One outcome of the project is a formalized
+assessment procedure or tool, known as the PIEVC Engineering Protocol. The Protocol is a five step
+process to analyze the engineering vulnerability of an individual infrastructure to current and future
+climate parameters, such as extreme heat or rainfall. It includes an estimate of the severity of climate
+impacts on the components of the infrastructure (i.e. deterioration, damage or destruction) to enable
+the identification of higher risk components and the nature of the threat from the climate change
+impact. This information can be used to make informed engineering judgments on what components
+require adaptation as well as how to adapt them. The Protocol has been applied in 24 case studies of
+infrastructure located across Canada (Engineers Canada, 2013).
+Danish Road Directorate Drainage Standards
+The Danish Road Directorate bases its climate predictions on the A1B scenario from the IPCC. Based on
+this scenario, annual rainfall in Denmark is predicted to increase by 11 percent by 2050 and by 22
+percent by 2100. In addition, the number of days experiencing more than 20mm is projected to increase
+from two to five days by 2050 and seven days by 2100. The increase in precipitation levels and rates
+increases the risk of floods that exceed the capacity of the drainage infrastructure.
+The DRD recognizes that integrating climate considerations into the design and construction of a project
+is less expensive than having to adapt a project at a later stage. As such, the agency continuously
+analyzes and updates road regulations to account for the changes in climate. In addition, for a
+
+International Practices on Climate Adaptation in Transportation | 15
+
+considerable time now, the agency has made a standard practice of planning new roads away from
+locations that have a high risk of flooding or by creating structures with higher barriers.
+Current design standards require that infrastructure be built to withstand a 25-year return period for
+precipitation. Under current conditions, a 25-year return period corresponds to 58 mm of rain. Analysis
+by the Danish Meteorological Institute predicts that in 2100, a 25-year event will equal 74 mm of rain. At
+present, this amounts to a 100-year event (see Table 1).
+Table 1: Change in Precipitation Pattern
+Source: Danish Meteorological Institute
+Present
+time
+
+Return
+pattern
+
+Return
+pattern
+2050
+
+Return
+pattern
+2100
+
+Mm
+
+Years
+
+Years
+
+Years
+
+45
+
+5
+
+2
+
+1
+
+47.5
+
+10
+
+5
+
+2
+
+54.6
+
+20
+
+10
+
+5
+
+58
+
+25
+
+20
+
+10
+
+65.2
+
+50
+
+25
+
+20
+
+74
+
+100
+
+50
+
+25
+
+97.3
+
+500
+
+100
+
+100
+
+142.8
+
+1000
+
+500
+
+500
+
+The agency employs a cost-benefit approach to determine the appropriate adaptation response. For
+example, a number of emergency pumps are located across the country to alleviate road flooding. Based
+on the Blue Spot analysis, the agency is, as an example, planning to increase the number and capacity of
+pumps at road stretches particularly prone to flooding in order to ensure that roads are re-opened as
+quickly as possible and that material damage is kept to a minimum.
+Korea Expressway Corporation
+Climate change impacts on the Korean Peninsula are expected to entail more frequent heavy rain and
+typhoon events, stronger winds, greater flooding, heavier snowfall, and higher average temperatures
+(Korean Meteorological Administration, 2013). The KEC is taking steps to improve its design criteria to
+protect transportation infrastructure against these anticipated changes.
+•
+
+Strengthened Design Rainfall Generation Frequency: In 2000, KEC required culverts and drainage
+pipes to be built to accommodate a 25-year precipitation event. Beginning in 2006, the KEC now
+requires that in mountainous areas these drainage facilities be built to accommodate a 100-year
+event (see Table 2).
+
+International Practices on Climate Adaptation in Transportation | 16
+
+Table 2: Design Rainfall Generation Frequency (years)
+Source: Korea Expressway Corporation
+
+~2000
+
+2000-2002
+
+2003-2005
+(flatland)
+
+2006
+(mountain area)
+
+Culvert and Drain pipe
+
+25
+
+25
+
+25-50
+
+100
+
+Frontage road and adjacent area
+drainage
+(V-shaped, U-shaped, ridge)
+
+5
+
+10
+
+10
+
+20
+
+3-5
+
+5
+
+10
+
+20
+
+Drainage Type
+
+Surface and slope drainage
+(dyke, head race)
+
+•
+
+Increased safety factor for slope stability: Safety factors for slope stability describe the structural
+capacity of a system on a slope. In order to improve and strengthen slope stability, KEC has
+increased the required design factor of safety from 1.1 to 1.2.
+
+•
+
+Improved function of drainage facilities: The KEC has made improvements to its design criteria
+to improve the ability of drainage facilities to collect water. These improvements included
+requiring a higher superelevation of curved sections (increased from 0 to 6 percent); increasing
+the width of the collecting well (from 1.0m to 1.4m) and the diameter of the collecting ditch
+(from 600 millimeters (mm) to 1,000 mm); and increasing the length of collecting ditches (from
+2.4 m to 3.5 m) (see Figure 3 and Figure 4).
+Figure 3: Collecting Well and Connecting Pipe
+Source: KEC
+
+Figure 4: Length of Collecting Dish
+Source: KEC
+
+•
+
+Increased concrete strength: In order to protect structures from salt damage caused by an
+increased use in de-icing materials, the KEC increased the concrete protection of concrete used
+on small-sized bridges. The concrete strength was increased from 24 megapascals (MPa) to over
+30 MPa. This increased strength also helps to protect the structures against frost damage.
+
+•
+
+Employed bridge design countermeasures: Flooding has major impacts on bridges, including
+overflow and inundation, scour of foundations, debris accumulation on bridge piers, and
+deterioration and failures. To address an anticipated increase in flooding intensity and
+frequency, the Ministry of Land, Infrastructure and Transport and KEC are employing new
+hydraulic design requirements for new bridges. Starting in early 2000s, KEC required new
+bridges to be designed for a 200-year return period. The agency also increased the minimum
+freeboard from 1 to 2 meters. KEC has also increased bridge opening sizes and flow capacity by
+raising required span lengths. Where possible, KEC has begun locating bridge piers and
+
+International Practices on Climate Adaptation in Transportation | 17
+
+foundations outside of main channels. The agency is also taking steps to adapt in-service bridges
+at low elevation, regardless of their size, by either reconstructing them or raising their heights
+by 1 to 3 meters (see Figure 5). Concrete piers and abutments are now reinforced with more
+steel to ensure that the raised bridges meet the requirements for stiffness and strength.
+Figure 5: Retrofit of In-Service Bridges
+Source: Korea Expressway Corporation
+
+Norwegian Public Roads Administration
+In recent years, the Norwegian Public Roads Administration reviewed existing manuals that defined
+agency requirements for planning, design, operation, maintenance and management of the road
+network to determine necessary changes to account for climate change impacts. Examples of adaptation
+measures integrated into the planning, design and construction manuals include:
+•
+
+Guidelines require 200-year flood level as design level for road elevation. Sea level rise and
+increasing storm surge levels must also be taken into account (Manual N100, Road and Street
+Design).
+
+•
+
+It is strongly recommended to plan for drainage solutions that cover a larger area and includes
+alternative flood ways, retention ponds, and protective ditches on slopes and cuts.
+
+•
+
+A climate factor (greater than 1 but not of fixed value) has been introduced as a safety factor, in
+the procedure for calculating the necessary capacity of culverts and drainage pipes. The formula
+used to calculate the necessary drainage capacity (Q) is Q = C x I x A s Kf, where
+C = runoff factor
+i = design rainfall intensity (l/s x ha)
+A = runoff area (hectare)
+Kf = climate factor
+The standard formula to calculate drainage includes a number of uncertainties, including
+uncertainties in rainfall frequency curves and in determining the runoff factor, all of which are
+enhanced by climate change. Introducing a climate factor helps to address the additional
+uncertainty when calculating drainage capacity.
+
+•
+
+The design requirement for bridges, including design of erosion protection and free height over
+water, is the 200-year flood water levels and flood loads. It is also recommended to perform a
+risk analysis with respect to 1000-year flood conditions in order to avoid catastrophic
+
+International Practices on Climate Adaptation in Transportation | 18
+
+consequences, such as loss of life or loss of the
+entire structure.
+•
+
+Climate change aspects have been included in the
+model used for comparing landslide risk for roads
+and prioritizing protections measures. In addition,
+three new guidelines have been published that
+reflect climate change risks: for protections
+against rock fall, for managing snow avalanches,
+and for “wet” landslides, i.e. slush avalanches and
+debris flow.
+
+UK Department for Transport
+The UK Department for Transport’s Highway Agency is
+moving away from relying solely on historical weather for
+design considerations and is beginning to integrate
+climate change considerations into its design standards.
+For example, the Highway Agency has adopted the Enrobé
+à Module Élevé Class 2 (EME2) pavement standard where
+appropriate. EME2, which is based on French practice, has
+a higher cost but it is more resilient to high loads under
+higher temperatures.
+The Highway Agency also addressed climate change
+impacts in recent revisions to highway drainage standards
+in its Design Manual for Roads and Bridges (HD 33 and HD
+45). The design manual includes the following guidance
+regarding detailed design of pavement drainage:
+Allowance for climate change: The rainfall
+intensities used to calculate the design storms
+must include an allowance for the effects of
+climate change. Where rainfall data exclude such
+an allowance, a sensitivity test on the design of
+the drainage system must be carried out by
+increasing rainfall intensities of the design storm
+by 20 percent.
+As part of the next iteration of drainage standards, the
+agency is considering an allowance for a 30 percent
+increase in rainfall intensities of the design storm. This
+demonstrates the agency’s commitment to ensuring that
+its infrastructure is able to withstand the changing climate
+over its expected lifetime.
+
+Project Case Study:
+High Speed Two (HS2)
+H2S is the UK Government’s proposal for
+a new, high speed north-south railway
+that will connect London to Leeds and
+beyond. As part of the environmental
+impact assessment for the project, the
+project sponsor conducted a high level
+climate change risk and resilience
+assessment to identify the potential
+risks of climate change on the proposed
+project. The assessment considered
+climate-related hazards such as extreme
+hot and cold weather, heavy rain, high
+winds, and storms posed to the
+infrastructure and assets associated with
+the proposed project. The assessment
+identified two high risk areas: (1) flood
+of track work, cuttings and tunnels, and
+(2) overheating in tunnels. To mitigate
+these risks, the project design
+incorporated resilience design
+measures. To address the potential risk
+of flooding, all operational infrastructure
+and assets are protected by a one meter
+freeboard above the 1 in 1,000 year (0.1
+percent) annual probability of flooding.
+The one meter freeboard provides
+increased protection to allow for flood
+risk modeling uncertainty. In addition,
+the railway drainage will be designed to
+accommodate storms up to the 1 in 100
+year (1 percent) annual probability of
+flooding , including an increase of 30
+percent for climate change allowance
+(Department for Transport, 2013).
+
+New Zealand Transport Agency
+As previously highlighted, the New Zealand Ministry for the Environment recommends specific sea level
+rise values that agencies should consider as part of the planning process. The New Zealand Transport
+Agency incorporated this sea level rise planning recommendation as part of the design for the SH16
+Causeway Upgrade Project. The Causeway is a key part of the Western Ring Route – one of the country’s
+
+International Practices on Climate Adaptation in Transportation | 19
+
+seven roads of national significance. As part of the project the Causeway is being raised to reduce
+flooding during extreme tidal conditions (see Figure 6).
+Figure 6: Causeway Upgrade Project Construction. Top Image: Existing Causeway Configuration in 2013.
+Bottom Image: Final Causeway Configuration by 2017.
+Source: New Zealand Transport Agency
+
+The New Zealand Transport Agency’s Bridge Manual (3rd Edition) also requires consideration of climate
+change impacts in the design of bridges and culverts. Specifically, the manual states:
+Design for climate change effects: Where it is practical and economic for a bridge or culvert
+structure to be retrofitted at a later date to accommodate increased flood flows arising from the
+effects of climate change, the structure need not initially be designed to accommodate
+increased flood flows arising from the effects of climate change. Where future retrofitting is not
+practical or does not reflect value for money, future climate change impacts shall be taken into
+account in the design.
+Finally, the New Zealand Transport Agency’s state highway environmental plan (2008) includes an
+objective to manage increased hazards of climate change impacts on state highway infrastructure. The
+plan states that “in factoring in climate change adaptation into design, consider the following:
+•
+
+the intended design life of the infrastructure and whether climate change impacts may
+manifest within the intended design life; and
+
+•
+
+whether future-proofing the design is required so later retro-fit is feasible and cost-effective.
+
+International Practices on Climate Adaptation in Transportation | 20
+
+6. Maintenance and Operations
+Climate change impacts will likely necessitate changes in the ways transportation agencies operate and
+maintain their systems and facilities. Some of the agencies participating in the review are making minor
+changes to maintenance and operation activities, though most indicated that they are not at the point
+where climate change impacts have directly translated to changes in their maintenance practices.
+However, nearly all interviewees believed that such changes – conducting more frequent maintenance
+of pavement, for example – would likely occur.
+The following is a summary of the changes to maintenance and operation activities that the countries
+included in the review have already made as a result of changes in climate.
+Increased field inspection of drainage systems
+Several agencies, including the DRD, UK Highways Agency, and New Zealand Transport Agency, noted an
+increased emphasis on the need to inspect and improve drainage systems to ensure that they are being
+maintained properly and meet the appropriate levels of service. The need for increased field inspection
+and maintenance of drainage systems is particularly important for areas that are potentially vulnerable
+to flooding. It is vital for such systems to run at optimal levels to mitigate any flooding that may be
+associated with increased precipitation levels or higher intensity precipitation events.
+Provision of traveler information to address weather-related safety
+Several agencies have expanded efforts to provide travelers with better information in order to
+minimize weather-related traffic incidents. The DRD for example operates and maintains a road-user
+information center that, through collaboration with the Danish Meteorological Institute, provides
+information about flooding through its traffic information services, including its website and mobile
+telephone applications. The agency also coordinates with Danmarks Radio, the country’s national
+broadcasting corporation to provide information on road mobility problems, including those caused by
+flooding. Similarly, the KEC has increased efforts to provide traveler information. In 2010, Korea’s
+Meteorological Administration launched Weavigation, which provides drivers with weather forecast
+information at their current location, destination, and for the route to the destination. The information
+is sent directly to drivers’ navigation systems, social network services, and variable message signs.
+Weather data such as precipitation, temperature, humidity, road surface temperature, and wind speed
+and direction is collected and updated every minute from roadside weather sensors. In addition, current
+weather, weather forecast, severe weather alerts, and interactive radar images are also sent to drivers.
+Drivers can refer to the service when they choose and change their own paths; however the information
+is not fully integrated into automatic route guidance.
+Installation of Traffic Safety and Warning Measures
+The KEC has enhanced traffic safety measures to adapt to changes in climate conditions. In recent years,
+Korea has experienced an increase in the occurrence of severe, localized winds and an increase in the
+intensity of typhoons. To minimize safety impacts to motorists, the KEC has implemented speed limit
+restrictions or full closures on long-span bridges under strong wind conditions (i.e. when 10-minute
+average wind speed measured using anemometers on the bridge is above 25 m/s, the bridges are closed
+to traffic). The agency has also installed mesh wind screens on smaller-scale bridges in order to reduce
+the velocity of crosswinds. Road management agencies in Korea are also monitoring vulnerable slopes
+for avalanches and land/mudslides in real time through closed caption televisions or sensors installed on
+the slopes. These warning systems automatically notify the appropriate experts at the responsible
+agencies via mobile phone.
+
+International Practices on Climate Adaptation in Transportation | 21
+
+Improved Emergency Plans
+The Norwegian Public Roads Administration developed a system for “stepwise preparedness” for
+readiness against avalanches, floods, and other natural hazards. The agency uses the system to outline
+recommended preparedness levels during challenging weather situations. Specific tasks and
+responsibilities are outlined for the four preparedness levels: green, yellow, orange, and red.
+The Public Roads Agency, in collaboration with the Norwegian National Rail Administration, Norwegian
+Water Resources and Energy Directorate, and the Meteorological Institute, developed a web portal tool
+– www.xgeo.no – to assist with preparedness, monitoring, and forecasting of floods, landslides, and
+avalanches. XGEO is a map centric tool for visualizing temporal and spatial data from various data
+sources. The tool shows historical daily maps of the snow conditions, interpolated weather observations
+and numerical predictions (which are based on European atmospheric models), gridded water balance,
+and climate means and anomalies. It also includes data from real-time weather point observations from
+300 weather stations as well as webcams. The tool also provides access to real-time observations of
+avalanches, including observations from professional avalanche observers, public observers, and
+observers from the rail and road authorities (see Figure 7)(specific information about each avalanche or
+flood incident through a separate registration system). The weather and climate data is overlaid on
+administrative data, such as rail and road infrastructure.
+Figure 7: XGEO Web Tool
+
+Map depicting avalanche activity for the past 200 days in a subarea of Norway.
+
+The Norwegian Public Roads Administration has also developed an improved template for emergency
+plans for natural hazards, which it is integrating into all operation contracts. The plan includes more
+elaborate use of weather data and map-based information concerning flood and landslides for the
+specific area of road that the contractor is responsible for maintaining. By providing more detailed
+information the agency hopes to encourage proactive management, such as prioritizing culverts to clean
+in advance of anticipated heavy rain, in order to mitigate issues.
+
+International Practices on Climate Adaptation in Transportation | 22
+
+7. Asset Management
+Transportation asset management is a strategic and systematic approach to effectively managing
+transportation infrastructure through its life cycle. It focuses on business and engineering practices for
+resource allocation and utilization, with the objective of better decisionmaking based upon quality
+information and well-defined objectives.
+Climate change impacts will likely affect transportation asset management investment cycles. The
+following section highlights examples on how transportation agencies are actively integrating climate
+change considerations into their asset management plans.
+Korea Expressway Corporation Risk-Based Slope Management
+The KEC manages approximately 8,400 slopes (cut-slopes higher than 5 meters) across its roadway
+network. Each year the country experiences casualties and property damage due to slope failures and
+debris flow caused by typhoons and heavy rain events. The KEC inspects approximately three percent of
+these slopes annually through its general inspection process, programming funding for slope
+maintenance activities based on the results of the inspection and evaluation. However, the agency has
+found that in extreme weather events related to climate change, damages have occurred on nontargeted slopes. As a result the agency has had to invest funding in emergency relief to restore these
+damaged slopes rather than perform maintenance activities on the programmed slopes. Since the
+agency does not have the capacity and financial resources to inspect all slopes simultaneously, it has
+focused on early detection and preventive maintenance to reduce risk and damage caused by slope
+failures.
+In 2011, the KEC instituted a new preventive slope management strategy in order to reduce the amount
+of money spent on emergency relief. As part of this strategy, the KEC now performs basic and in-depth
+surveys and prioritizes investments in a five-year cycle. In order to prioritize slopes for preventative
+maintenance, the agency conducts a debris flow risk assessment process. The debris flow risk
+assessment process involves four steps:
+•
+
+Risk assessment scope definitions – identify the risk location and risk area
+
+•
+
+Hazard analysis – identify risks based on the hydrologic and geologic character of the region and
+the damage range
+
+•
+
+Consequence analysis – analyze the facilities affected and vulnerabilities
+
+•
+
+Risk assessment – conduct both a qualitative and quantitative evaluation based on hazard and
+consequence
+
+The risk assessment results in a score from 0–30 and a corresponding risk grade of S, A, B, C, D, and E
+that is based on the likelihood of damage occurring during different rainfall frequency events. A risk
+grade of “S,” for example, is defined as damage that may occur in a 2–5 year rainfall event; whereas a
+risk of grade of “D” is defined as damage that may occur in a 1,000-year rainfall event. The risk
+assessment helps to inform design considerations for risk mitigation and asset management decisions.
+The KEC is also developing an accountable, reliable database of the effectiveness of preventative slope
+management activities to help ensure the quality of preventive investment decisions.
+New Zealand’s Coastal Effects Assessment Guideline
+The New Zealand Transport Agency manages its state highway infrastructure in accordance with the
+
+International Practices on Climate Adaptation in Transportation | 23
+
+State Highway Asset Management Plan (NZTA, 2014), which requires assets to be regularly checked for
+dependability to ensure they perform as required. The Asset Management Plan also discusses risk to the
+networks and its impact on customer service and transport efficiency including long term issues such as
+climate change effects.
+To assist staff with assessing infrastructures’ existing and future dependability, the Transport Agency
+developed a draft Coastal Effects Assessment Guideline, outlining a simple and consistent process for
+asset managers to determine short- and long-term risks to state highway assets in the coastal
+environment. The Guide provides a systematic way to collect information on risks to assets and the
+surrounding coastal environment, both short- (up to 10 years) and long-term (50–100 years), and
+considers these across a section of the network, rather than at individual locations. By taking a
+comprehensive approach to assess and record coastal environmental risks management,4 approaches
+can be adapted to differing scenarios and consider wider issues than just the structural integrity of an
+asset (Grieg, et al 2014).The Guide also emphasizes making decisions on what work to prioritize based
+on the magnitude of the risk, and provides documentation to support a business case for the actions
+identified, which is required for all Agency projects to be approved and funded. The Transport Agency is
+currently testing the Guide in determine its usefulness in real-world settings before refining and
+finalizing it.
+The New Zealand Transport Agency is also working with regional councils who have taken an active role
+in looking at regional risk issues and consequences. Joint approaches that are inclusive of major
+stakeholders are aimed at improving overall resilience of regional networks focused on an
+understanding of past and recent events and looking forward at climate change effects.
+
+International Practices on Climate Adaptation in Transportation | 24
+
+8. Research
+Many of the transportation agencies included in the review are participating in collaborative research
+initiatives that address critical information and data needs related to climate change adaptation. The
+following section showcases these research initiatives.
+ERA-NET Road
+Since 2006, the European Road Administrations have shared their road research priorities and budgets
+to organize transnational research programs that cover a range of topics. In 2008, the Conference for
+European Directors of Roads (CEDR) initiated ERA-NET ROAD, its first cross-border funded research
+program. The National Road Administrations in the following 11 countries funded the program: Austria,
+Denmark, Finland, Germany, Ireland, The Netherlands, Norway, Poland, Spain, Sweden, and the UK. The
+goal of the research program, titled “Road Owners Getting to Grips with Climate Change,” was to
+provide European road authorities with the knowledge and tools necessary to "get to grips" with
+climate change and its effects on all elements of road management by adapting design rules,
+updating and improving data collection, and developing risk management methods. The 2008
+program funded four research projects (see below). Information about each of the four projects,
+including a summary of results and implementation strategies, is available in the Final Report of ERANET ROAD Programme “Road Owners Getting to Grips with Climate Change:
+•
+
+IRWIN - Improved local winter index to assess maintenance needs and adaptation costs in
+climate change scenarios: The main objective of IRWIN is to develop an improved local road
+winter index, which is sufficiently detailed and comprehensive so that road authorities and
+owners can use it to assess the implications of future scenarios and climate change implications,
+and perform reliable cost/benefit analyses. The project collected ten years of observations from
+50 road weather stations in Sweden and 49 stations in Finland. Maintenance actions from the
+regions of interest were available as well, and were used in the final winter index calculations.
+The resulting IRWIN observational database provides a better understanding of local weather
+variations and a clearer representation of weather and climate of the road network.
+
+•
+
+P2R2C2 - Pavement Performance & Remediation Requirements following Climate Change: The
+P2R2C2 project investigated the likely impacts of climate change in Europe, from the Alps and
+northwards, on the moisture/ice conditions in the pavement and the subgrade, and the
+consequential pavement material behavior and pavement response to traffic over a 100-year
+timescale. The project found that the life cycle of the pavement is much less than the time span
+over which climate change will have a statistically dependable influence on pavement
+performance. At present, road designers only need to change their practice for the pavements
+with the longest life or for the lower layers that may not be touched during future rehabilitation
+and reconstruction. The appropriate responses to these changes in pavement performance will
+be achievable, in most cases, by routine material formulations that can be employed at the next
+reconstruction/rehabilitation event. However, some responses will require engineers to develop
+new design criteria regarding temperature and return period of storm flows (regionally specific)
+and to pay more attention to drainage systems, particularly to make them self-cleaning and
+easily inspectible. In addition, actions to improve future pavement performance will likely
+include stabilization of unsealed pavements, overlaying by bound layers or operational
+management solutions based on continuously monitored condition,
+
+•
+
+RIMAROCC - Risk Management for Roads in a Changing Climate: The RIMAROCC method is a risk
+management-based framework or decision support for road owners dealing with climate
+
+International Practices on Climate Adaptation in Transportation | 25
+
+change. The project developed the RIMAROCC framework to facilitate the production of a Risk
+Management Study by or for a road authority. The method can be used to mitigate threats,
+reduce vulnerabilities and minimize the consequences of an event. The RIMAROCC Framework
+consists of seven steps each with a number of sub-steps:
+1. Context Analysis
+2. Risk Identification
+3. Risk Analysis
+4. Risk Evaluation
+5. Risk mitigation
+6. Implementation of an Action Plan
+7. Monitoring, Review & Capitalization
+•
+
+SWAMP - Storm Water prevention–Methods to predict damage from water stream in and near
+road pavements in lowland area: The SWAMP project addresses the critical issue of finding the
+parts of the road network that are most vulnerable to flooding, using GIS as a basis. The project
+developed the Blue Spot concept: a chain of procedures that can be used by road owners,
+operators or consultants to systematically analyze, adapt and protect the road network with
+respect to flooding (see Chapter 3 for more details on applying the Blue Spot concept). The
+project also identified the crucial issues to consider when creating national or even regional
+guidelines for inspections and maintenance of Blue Spots.
+
+CEDR Research Program
+In 2012, CEDR (European Road Directors organization) initiated a second call that built upon the first
+ERANET call for a research program on climate change. The second call focused on providing owners
+with adaptation technologies and the models and tools to support decisionmaking concerning
+adaptation measures for road infrastructure. The climate change research program was funded by
+Denmark, Germany, Norway, and the Netherlands. The program call resulted in two projects, which are
+currently underway:
+•
+
+ROADAPT: Roads for Today, Adapted for Tomorrow: The ROADAPT project, which was
+highlighted in previous chapters, provides integrated, more detailed, and hands-on methods
+and tools to be used within the RIMAROCC framework in a transnational setting (see Chapter 3
+for more details on the ROADAPT project).
+
+•
+
+ClipDaR: Design guideline for a transnational database of downscaled Climate Projection Data
+for Road impact models: The project will focus on the review, analysis, and assessment of
+existing regional Climate Change projections regarding transnational highway networks needs.
+
+Infrastructure Slopes – Sustainable Management and Resilience Assessment
+The UK Highways Agency is partnering with academic institutions, infrastructure owners, and
+engineering companies on the Infrastructure Slopes – Sustainable Management and Resilience
+Assessment (iSMART) project. The purpose of the project is to create a visualized model of transient
+water movement in infrastructure slopes under a range of current and future environmental scenarios
+based on a fundamental understanding of earthwork material and system behavior (Engineering and
+Physical Sciences Research Council, 2014). The results of the study will provide decision-makers with a
+better understanding of the interactions between earthwork, vegetation, and climate, which is needed
+
+International Practices on Climate Adaptation in Transportation | 26
+
+in order to develop robust guidance on which maintenance approaches should be adopted and how
+they should be applied.
+Transport Canada’s Northern Transportation Adaptation Initiative
+Transport Canada's Northern Transportation Adaptation Initiative is designed to improve understanding
+of climate impacts and facilitate better and more integrated transportation planning and adaptation
+measures. As part of the Initiative, Transport Canada provides funding support to territorial
+governments and non-profit organizations to conduct research and development activities related to
+the design, development, and adoption of innovative technologies and best practices. This work will
+help make existing and future northern transportation infrastructure and operations more resilient and
+adaptable to climate change. To support the delivery of the research and development activities, two
+networks for experts from government, academia, and the private sector were established: the
+Permafrost Network and the Network of Expertise on Transportation in Arctic Waters.
+
+International Practices on Climate Adaptation in Transportation | 27
+
+9. Conclusions
+The activities of the international transportation agencies included in this review offer valuable insights
+into how to transportation agencies globally are beginning to adapt infrastructure to anticipated climate
+change impacts. While the geographic, environmental, and societal conditions of the agencies in the
+review may differ in some ways to those of transportation agencies in the United States, they face many
+of the same challenges. For all agencies, the cost of adapting the transportation network to climate
+change is much greater than the funding currently available for adaptation. Additionally, each agency
+faces similar uncertainties in terms of climate models, unknown future carbon emission levels, and the
+timing and extent of anticipated impacts. However, the transportation agencies included in the review
+are taking proactive actions to address the inherent uncertainties and manage the associated risks.
+Many of the agencies have established formal strategic frameworks for addressing climate change
+adaptation and have identified processes to address and respond to these risks. The most proactive
+agencies have comprehensively examined the risks and vulnerabilities of the transportation network to
+climate change impacts and are employing systematic methods to identify and prioritize measures to
+maximize their effectiveness while minimizing costs.
+Several agencies have also begun to employ specific adaptation measures, particularly in terms of
+integrating climate change considerations into the planning and design of projects. Those agencies that
+are modifying design practices acknowledge that in some cases it is more economically responsible to
+climate proof infrastructure during the construction phase than to adapt in the future during the
+operational phase. Changes to the planning and design of projects are primarily associated with
+drainage systems, bridges, and culverts. Some of the agencies included in the review referenced using
+passive adaptation options that use the natural environment to protect transportation infrastructure,
+such as through protecting wetlands, barrier islands, or other natural features. However, while the
+transportation agencies recognize that climate change impacts will have implications on maintenance
+and operations, few are making changes in maintenance practices at this point in time.
+
+International Practices on Climate Adaptation in Transportation | 28
+
+Appendix A: Discussion Topics
+1. Evolution of Policy: Overview of how your agency has reached where it is today with respect to
+climate adaptation planning or action. What laws, regulations, or policies guide or influence
+your work on climate change? How has climate change influenced the allocation of funds in your
+agency?
+2. Climate Data: Where do your climate projections come from and how do you translate this
+information into a level of detail that is usable by transportation engineers and planners? For
+which variables do you have useful projections and which not?
+3. Uncertainty: How do you deal with the multiple layers of uncertainty inherent in adapting to
+climate change (uncertainties regarding emissions levels, climate sensitivity, timing and extent
+of impacts, effectiveness of adaptation strategies, future demographic and economic conditions,
+etc.)? In the United States, we have found that engineers are sometimes reluctant to change the
+design process because of uncertainties in climate projections, a lack of usable data at the scale
+they need, and the fact that assets are already engineered to withstand extreme events. How
+have you dealt with this?
+4. Integration of Climate Data into Design: Please provide examples of how you have integrated
+climate projections into design criteria and specifications of specific transportation
+infrastructure projects.
+5. Costs and Benefits: Have you analyzed the costs and benefits of particular adaptation options at
+the project level and can you provide examples? Please describe any tools you have used for this
+process.
+6. Ecosystem Services: What opportunities have you found to build in adaptation options that use
+the natural environment to protect the transportation facility, such as through protecting
+wetlands, barrier islands, or other natural features?
+7. Long Range Transportation Planning and Land Use: How have you incorporated climate data
+into long range transportation planning and land use decisions?
+8. Operations and Maintenance: Are you maintaining your transportation systems differently due
+to changes in climate or do you plan to do so in the future?
+9. Asset Management: If you have an asset management system, are climate change impacts
+considered with regard to asset management investment cycles and if so, how?
+10. Research, Training, and Communication: Are you funding or conducting any research or training
+on improving the resilience of transportation to climate change? If so, please describe. Is there
+recognition among the public, senior officials, and staff of the need for climate adaptation? How
+do you communicate with internal and external stakeholders regarding climate adaptation?
+
+International Practices on Climate Adaptation in Transportation | 29
+
+Appendix B: Agency Snapshots
+VicRoads, Victoria, Australia
+Agency Overview: VicRoads is an agency under
+the Department of Transport, Planning and
+Local Infrastructure within the State
+Government of Victoria. VicRoads plans,
+develops, and manages over
+22,000 kilometers (km) of roads (including
+freeways, highways, major arterials),
+approximately 3,200 bridges, and more than
+4,500 other structures. The roads, which
+amount to approximately 20 percent of those
+in Victoria, carry 80 percent of the State’s
+traffic.
+Projected Climate Impacts for Victoria: Victoria is
+a coastal state with diverse environmental
+regions, including wet, temperate climates
+and semi-arid plains. The anticipated climate
+change impacts in Victoria are: higher
+temperature; increase in the number and
+intensity of hot days (over 95⁰); decrease in
+average number of frost days; decrease in
+annual average rainfall by 4% by 2030; an
+increase risk of drought, and increase in
+heavy rainfall intensity in the summer and fall
+(Victorian Government Department of
+Sustainability and Environment, 2008). Under
+most scenarios, projected sea level rise by
+2030 for Victoria is approximately 0.2 meters
+(m). By 2100, projected sea level rise ranges
+from 0.8 m and 1.4 m. (Sinclair Knight Merz,
+2012).
+New Zealand Transport Agency, New Zealand
+Agency Overview: The New Zealand Transport
+Agency manages nearly 11,000 km of
+highways in New Zealand. The Agency’s state
+highways carry 50 percent of traffic vehicle
+miles and 75 percent of heavy traffic vehicle
+miles traveled, and provide vital connections
+to much of New Zealand’s 83,000 km of local
+roadways. NZTA also runs the Roads of
+National Significance Programme, which
+focuses on reducing congestion, improving
+safety, and spurring economic growth
+through the implementation of seven major
+
+infrastructure projects within or adjacent to
+New Zealand’s five major population centers.
+Projected Climate Impacts for New Zealand: New
+Zealand anticipate the following changes as a
+result of climate change: higher
+temperatures; rising sea levels; more
+frequent extreme weather events such as
+droughts and floods; a change in rainfall
+patterns; an increase in the intensity of
+severe storms; and, an increase in storm
+surge levels (New Zealand Ministry for the
+Environment).
+Vejdirektoratet (Danish Road Directorate),
+Denmark
+Agency Overview: The Danish Road Directorate
+(DRD) oversees approximately 3,800 km of
+highway and main state roads. These roads
+account for approximately 5 percent of the
+total road network in Denmark in length, but
+control 50 percent of the total traffic.
+Projected Climate Impacts for Denmark: The DRD
+bases its future projections on climate
+scenario A1B from the Intergovernmental
+Panel on Climate Change (IPCC). The Danish
+government recently released guidance that
+all government levels use this scenario to
+make climate projections. The A1B model is
+corrected for local effects using models from
+the Danish Metrological Institute. One of the
+primary anticipated changes from climate
+change in Denmark is increased rainfall. The
+A1B scenario predicts that annual rainfall will
+increase 11 percent by 2050 and 22 percent
+by 2100. Also, the number of days with
+precipitation greater than 20mm is projected
+to increase to more than 4 days by 2030, 5
+days by 2015, and 7 days by 2100.
+Rijkswaterstaat (Transportation and Water
+Infrastructure Agency), Netherlands
+Agency Overview: Rijkswaterstaat is part of the
+Dutch Ministry of Infrastructure and the
+Environment. It is responsible for the design,
+
+International Practices on Climate Adaptation in Transportation | 30
+
+construction, management, and maintenance
+of the main infrastructure facilities in the
+Netherlands. In this, Rijkswaterstaat aims at a
+good balance between economy,
+environment and quality of life.
+Rijkswaterstaat responsibilities include the
+main road network, the main waterway
+network, and the main water systems. The
+main road network includes 3,046 km of
+motorways, 1,428 km of access and
+connecting roads, 2,749 viaducts, 22 tunnels,
+and 743 bridges.
+Projected Climate Impacts for The Netherlands:
+The Netherlands anticipates more storms and
+heavier rainfall due to global climate change.
+The country also projects sea level rise
+between 20 centimeters (cm) and 85 cm by
+2100.
+Korea Expressway Corporation (KEC), Korea
+Agency Overview: KEC, one of Korea's major
+government-invested corporations, is a
+competent authority for national expressway
+system in Korea. KEC currently manages
+3,790km of expressway network.
+Projected Climate Impacts for Korea: Based on
+Korean Meteorological Administration’s
+reports on climate change, climate change
+will have a variety of impacts on the Korean
+Peninsula, including an increase in
+temperature, a reduction of winter period, an
+increase in extreme typhoons, heavier
+snowfall, and an increase in heavy rainfall.
+Annual precipitation days are projected to
+decrease, whereas the annual number of
+heavy rain days and the amount of rainfall is
+projected to increase.
+Department for Transport and Highways Agency,
+United Kingdom (UK)
+Agency Overview: The UK Department for
+Transport is a ministerial department,
+supported by 21 agencies and public bodies
+that include all modes of transportation. The
+Department is responsible for providing
+policy, guidance, and funding to English local
+authorities to help them run and maintain
+their road networks, improve passenger and
+
+freight travel, and develop new major
+transport schemes. The agency also sets the
+strategic direction for the rail industry and the
+ports and establishes national aviation policy.
+The Highways Agency, which is under the
+Department for Transport, is responsible for
+the trunk roads and major strategic routes in
+England. These roads represent less than 3
+percent of the country’s total roadways, but
+carry the vast majority of traffic (a third of all
+traffic and two thirds of all UK freight).
+Projected Climate Impacts of the UK: The UK’s
+Met Office produces probabilistic climate
+change projections for the country. The most
+recent information, the UK Climate
+Projections (UKCP09), predicts increased
+temperatures for all areas of the UK, an
+increase in the number of days with high
+temperatures, a reduction in the number of
+frost days, an increase in the amount of
+winter rainfall, and a decrease in summer
+precipitation. Sea level rise is projected to be
+between 12 and 76 cm for the period 1990–
+2095. Sea level rise coupled with more
+frequent storm surges may increase flood risk
+(United Kingdom Highways Agency, 2009).
+Statens vegvesen (Public Roads Administration),
+Norway
+Agency Overview: The Norwegian Public Roads
+Administration plans, builds, operates, and
+maintains national and county roads in
+Norway. The road network includes 10,446km
+of national roads and 44,333km of county
+roads.
+Projected Climate Impacts for Norway: Projections
+for Norway show that the climate can be
+expected to change considerably: mean
+temperature will increase; sea level could rise
+between 500-100cm; and storm surges will
+increase correspondingly. The average annual
+precipitation in Norway is expected to
+increase, and more days with heavy
+precipitation and higher average amounts of
+precipitation are also expected during all
+seasons (Norwegian Ministry of the
+Environment, 2010).
+
+International Practices on Climate Adaptation in Transportation | 31
+
+Transport Canada, Canada
+Agency Overview: Transport Canada has
+jurisdiction over aviation and marine
+transportation, major railways, and
+interprovincial and international bridges and
+tunnels. Canadian provinces and territories
+have jurisdiction over intraprovincial
+transportation, including roads and bridges.
+Projected Climate Impacts for Canada: Canada has
+experienced increases in temperatures and
+annual precipitation. The frequency and
+severity of extreme weather events, such as
+heat waves, droughts, and floods, will
+increase as a result of climate change. The
+country also anticipates reduced Artic ice
+cover and loss of permafrost. Climate changerelated risks to coastal areas in Canada
+include coastal inundation, increased stormsurge flooding, and shoreline erosion
+(Government of Canada, 2014).
+
+International Practices on Climate Adaptation in Transportation | 32
+
+Appendix C: Interview Participants
+VicRoads, Victoria, Australia
+Simon Renton
+Team Leader, Climate Change and Adaptation
+New Zealand Transport Agency, New Zealand
+Rob Hannaby
+Environment and Urban Design Manager
+Highways and Network Operations
+
+Vanessa Browne
+Principal Environmental Specialist
+Highways and Network Operations
+
+Danish Road Directorate, Denmark
+Christian Axelsen
+Department of Research and Development
+
+Marianne Grauert
+Specialist Coordinator, Climate and
+Environment
+
+Rijkswaterstaat, Ministry of Infrastructure and the Environment, Netherlands
+Onno Tool
+Senior Advisor
+Rijkswaterstaat
+
+Thomas Bles
+Project Coordinator ROADAPT
+Deltares
+
+Kees van Muiswinkel
+Senior Advisor, Climate and Infrastructure
+Rijkswaterstaat
+
+Arjan Venmans
+Senior researcher, transportation
+infrastructure
+Deltares
+
+Per Danielsson
+Swedish Geotechnical Institute, SGI
+Korea Expressway Corporation, Republic of Korea
+Dr. Sung-min Michael Cho
+Head (Director)
+Strategy & Policy Research Division
+
+Dr. Seongkwan Mark Lee
+Senior Researcher
+Strategy & Policy Research Division
+
+Dr. Heungbae Gil
+Research Director
+Structures Research Division
+
+Hosik Yoo
+Senior Manager
+SMART Highway R&D Division
+
+Department for Transport, United Kingdom
+Dean Kerwick-Chrisp
+Sustainability, Equality and Diversity
+Highways Agency
+
+Miles Gidlow
+Transport Resilience Review
+Department for Transport
+
+International Practices on Climate Adaptation in Transportation | 33
+
+Public Roads Administration, Norway
+Gordana Petkovic
+Climate and Transport, Program Manager
+Public Roads Administration
+
+Tore Humstad
+Data Collection and Processing
+Public Roads Administration
+
+Transport Canada, Canada
+Elizabeth Smalley
+Sustainable Transportation and
+Adaptation Team
+Transport Canada
+
+Kathy Palko
+Policy Advisor
+Environmental Policy
+Transport Canada
+
+Jenna Craig
+Sustainable Transportation and
+Adaptation Team
+Transport Canada
+
+Janice Festa
+Manager, Northern Transportation
+Adaptation Initiative
+Innovation Policy Team
+Transport Canada
+
+International Practices on Climate Adaptation in Transportation | 34
+
+Appendix D: Bibliography
+Adesiyn, A; S. Phillips; L. Phillips; B. Verhaeghe; and B. Wlaschin. March 2011. Final Report of ERA-NET
+ROAD Programme “Road Owners Getting to Grips with Climate Change. ERA-NET. Available at
+www.eranetroad.org/index.php?option=com_docman&task=doc_download&gid=278&Itemid=5
+3
+Australia Government. 2013. Climate Change Risks to Coastal Buildings and Infrastructure. A Supplement
+to the First Pass National Assessment. Available at
+www.climatechange.gov.au/sites/climatechange/files/documents/03_2013/risks-coastalbuildings.pdf
+Australia Government. 2009. Department of Climate Change. Climate Change Risks to Australia’s Coast:
+A First Pass National Assessment. Available at
+www.mfe.govt.nz/publications/climate/coastal-hazards-climate-change-guidancemanual/coastal-hazards-climate-change-guidance-manual.pdf
+Barfod, E, et al. 2013. “The Expert tool XGEO and its applications in the Norwegian Avalanche
+Forecasting Service”. International Snow Science Workshop Grenoble – Chamonix Mont-Blanc.
+Conference of European Directors of Roads. 2015. ROADAPT Guidelines. Available at
+www.cedr.fr/home/index.php?id=wwwcedreuresearchcall2012&dlpath=CEDR%20Call%202012%
+20Climate%20Change%2FROADAPT&cHash=93605ec7f8059c198d817901559ee5c5
+Commonwealth Scientific and Industrial Research Organisation (CSIRO). 2007. Infrastructure and Climate
+Change Risk Assessment. Report to the Victorian Government.
+Danish Road Directorate. October 2013. Strategy for Adapting to Climate Change. Available at
+http://en.klimatilpasning.dk/media/808853/klimatilpasningsstrategi_eng_web.pdf
+Danish Road Institute. 2010. The Blue Spot Method: Development of a Screening Method to Assess Flood
+Risk on Highways. Report 183-2010.
+Denmark Government. 2012. How to manage cloudburst and rain water. Action Plan for a climate-proof
+Denmark. Available at http://en.klimatilpasning.dk/media/590075/action_plan.pdf
+Department for Transport. July 2014. Transport Resilience Review: A review of the resilience of the
+transport network to extreme weather events. Available at:
+www.gov.uk/government/uploads/system/uploads/attachment_data/file/335115/transportresilience-review-web.pdf
+Department for Transport. November 2013. H2S Phase One Environmental Statement Volume 5:
+Technical Appendices. Resilience to impacts from climate conditions (CL-003-000). Available at
+www.gov.uk/government/uploads/system/uploads/attachment_data/file/259614/Volume5_Cli
+mate_Change_Resilience_Report_CL-003_000.pdf
+Department for Transport. July 2014. Transport Resilience Review: A review of the resilience of the
+transport network to extreme weather events. Available at
+www.gov.uk/government/uploads/system/uploads/attachment_data/file/335115/transportresilience-review-web.pdf
+International Practices on Climate Adaptation in Transportation | 35
+
+Department for Transport. December 2013. Draft National Policy Statement for National Networks.
+Available at
+www.gov.uk/government/uploads/system/uploads/attachment_data/file/263720/consultationdocument-draft-national-policy-statement.pdf
+Engineers Canada. February 2013. Infrastructure Climate Risk Assessment Backgrounder. Available at
+http://www.pievc.ca/e/PIEVC_Backgrounder_February_2013.pdf
+Engineering and Physical Sciences Research Council. Infrastructure Slopes – Sustainable Management
+And Resilience Assessment (iSMART). www.ismartproject.org/home.html
+Gardiner, L. et al. 2008. Climate change effects on the land transport network volume one: literature
+review and gap analysis. NZ Transport Agency Research Report 378. New Zealand Transport
+Authority. Available at www.nzta.govt.nz/resources/research/reports/378/docs/378-v1.pdf
+Gardiner, L. et al. 2009. Climate change effects on the land transport network volume two:
+approach to risk management. NZ Transport Agency Research Report 378. New Zealand
+Transport Authority. Available at www.nzta.govt.nz/resources/research/reports/378/docs/378v2.pdf
+Government of Canada. 2014. Canada’s Sixth National Report on Climate Change. Available at
+http://www.ec.gc.ca/cc/0BA54AAB-6E8E-4D48-B42C-DCBB09B27D10/6458_EC_ID1180MainBook_high_min%20FINAL-s.pdf
+Greig, D.; J. James.; and P. Hunter. Adaptive Infrastructure Management for Coastal Highways: both a
+physical and a planning exercise.
+Intergovernmental Panel on Climate Change. 2014. Climate Change 2014: Impacts, Adaptation, and
+Vulnerability. Volume II: Regional Aspects: Asia. Available at http://ipccwg2.gov/AR5/images/uploads/WGIIAR5-Chap24_FGDall.pdf
+Netherlands Government. 2014. Delta Program 2015. Working on the delta: The decisions to keep the
+Netherlands safe and livable. Available at
+http://www.deltacommissaris.nl/english/Images/Delta%20Programme%202015%20English_tcm
+310-358177.pdf
+New Zealand Government. 2011. National Infrastructure Plan 2011. Available at
+www.infrastructure.govt.nz/plan/2011/nip-jul11.pdf
+New Zealand Government. 2010. National Infrastructure Plan 2010. Available at
+www.infrastructure.govt.nz/plan/mar2010/nip-mar10.pdf
+New Zealand Ministry for the Environment. July 2008. Coastal Hazards and Climate Change: A Guidance
+Manual for Local Government in New Zealand. 2nd Edition. Available at
+www.mfe.govt.nz/publications/climate/coastal-hazards-climate-change-guidancemanual/coastal-hazards-climate-change-guidance-manual.pdf
+
+International Practices on Climate Adaptation in Transportation | 36
+
+New Zealand Transport Agency. 2014. Transport Solutions for a Thriving New Zealand. Available at
+www.nzta.govt.nz/resources/statement-of-intent/docs/SOI-2014-18-Transport-Solutions.pdf
+New Zealand Transport Agency. Bridge Manual (SP/M/022). Third Edition. Available at
+www.nzta.govt.nz/resources/bridge-manual/bridge-manual.html.
+New Zealand Transport Agency. October 2011. State Highway Asset Management Plan 2012-2015.
+Available at http://nzta.govt.nz/resources/state-highway-asset-management-plan/docs/statehighway-asset-mgmt-plan-2012-2015.pdf.
+New Zealand Transport Agency. June 2008. State Highway Environment Plan: Improving environmental
+sustainability and public health in New Zealand. Available at
+www.nzta.govt.nz/resources/environmental-plan/docs/environmental-plan.pdf
+Norwegian Ministry of the Environment. 2010. Adapting to a changing climate. Available at
+www.regjeringen.no/pages/36782608/PDFS/NOU201020100010000EN_PDFS.pdf.
+Rijkswaterstatt. 2012. Flood Risk and Water Management in the Netherlands: A 2012 Update.
+Sinclair Knight Merz. May 2012. Coastal climate change vulnerability and adaptation. Great Ocean Road
+Coast Committee. Available at
+www.gorcc.com.au/file/file/media/2012/SKM%20VW05093%20Project%20Report%20final%20lo
+w%20res.pdf.
+United Kingdom Department for Transport. July 2014. A review of the resilience of the transport network
+to extreme weather events. Available at
+www.gov.uk/government/uploads/system/uploads/attachment_data/file/335115/transportresilience-review-web.pdf
+United Kingdom Highways Agency. November 2009. Climate Change Adaptation Strategy and
+Framework. Available at http://assets.highways.gov.uk/about-us/climatechange/CCAF_Strategy_and_Vol_1_Rev_B_Nov.pdf
+United Kingdom Highways Agency. Design Manual for Roads and Bridges. Volume 4, Section 3, Part 3
+(HD33/06): Surface and Sub-Surface Drainage Systems for Highways. Available at
+www.dft.gov.uk/ha/standards/dmrb/vol4/section2/hd3306.pdf
+United Kingdom Parliament. Planning Act 208. Available at
+www.legislation.gov.uk/ukpga/2008/29/pdfs/ukpga_20080029_en.pdf
+University of Melbourne.2010a. Australian Climate Change Litigation: Taip v East Gippsland Shire
+Council. Available at www.law.unimelb.edu.au/creel/research/climate-change&caseID=447.
+University of Melbourne.2010b. Australian Climate Change Litigation: Suburban Blue Print Pty Ltd v
+Hobsons Bay City Council. Available at www.law.unimelb.edu.au/creel/research/climatechange&caseID=475.
+
+International Practices on Climate Adaptation in Transportation | 37
+
+Victorian Civil and Administrative Tribunal. 2014. Planning and Environment. Available at
+www.vcat.vic.gov.au/disputes/planning-and-environment.
+Victorian Government Department of Sustainability and Environment. June 2008. Climate Change in
+Victoria: 2008 Summary. Available at
+www.climatechange.vic.gov.au/__data/assets/pdf_file/0020/73172/DSEstatesummaryWEB.pdf
+VicRoads. September 2010. Sustainability and Climate Change Strategy: 2010-2015. Available at
+www.vicroads.vic.gov.au/~/media/files/documents/planning%20and%20projects/sustainabilitya
+ndclimatechangestrategy20102015.ashx
+
+International Practices on Climate Adaptation in Transportation | 38
+
+U.S. Department of Transportation
+John A. Volpe National Transportation Systems Center
+55 Broadway
+Cambridge, MA 02142-1093
+(617) 494-2000
+www.volpe.dot.gov
+
+

@@ -1,0 +1,4048 @@
+FHWA-HEP-16-079
+
+2013-2015 CLIMATE RESILIENCE PILOT
+PROGRAM: OUTCOMES, LESSONS LEARNED, AND
+RECOMMENDATIONS
+JULY 2016
+
+Forward
+State and regional transportation agencies across the country are facing an increase in extreme
+weather events that damage roads, bridges and other transportation facilities. Heat waves,
+drought, storm surges and heavy downpours are becoming more frequent and severe. Sea level
+rise that is already affecting coastal assets and communities today will accelerate in the future.
+These climate change and extreme weather events pose significant risks to the safety,
+reliability, effectiveness, and sustainability of the Nation’s transportation system.
+Over the course of two years, FHWA worked with State Departments of transportation (DOTs)
+and metropolitan planning organizations (MPOs) to undertake 19 assessments of climate
+change and extreme weather vulnerability and adaptation options on their transportation
+systems. The pilots used and built on FHWA’s Climate Change and Extreme Weather
+Vulnerability Assessment Framework. This report highlights results and lessons learned from
+those efforts and will be helpful for others conducting climate change vulnerability
+assessments. We will fold these lessons learned into an updated Climate Change Resilience
+Framework. The audience for this report includes transportation planners, asset managers, civil
+engineers, and others interested in assessing and addressing resilience of transportation
+systems. More information on climate resilience can be found on the FHWA website at:
+http://www.fhwa.dot.gov/environment/climate_change/adaptation/.
+This publication does not supersede any publication; and is a Final version.
+
+Gloria Shepherd
+Associate Administrator for
+Planning, Environment & Realty
+Federal Highway Administration
+
+Tom Everett
+Associate Administrator for
+Infrastructure
+Federal Highway Administration
+
+Notice
+This document is disseminated under the sponsorship of the U.S.
+Department of Transportation in the interest of information exchange.
+The U.S. Government assumes no liability for the use of the
+information contained in this document.
+The U.S. Government does not endorse products or manufacturers.
+Trademarks or manufacturers' names appear in this report only
+because they are considered essential to the objective of the
+document.
+Quality Assurance Statement
+The Federal Highway Administration (FHWA) provides high-quality
+information to serve Government, industry, and the public in a manner
+that promotes public understanding. Standards and policies are used to
+ensure and maximize the quality, objectivity, utility, and integrity of its
+information. FHWA periodically reviews quality issues and adjusts its
+programs and processes to ensure continuous quality improvement.
+
+Technical Report Documentation Page
+Form Approved OMB No. 0704-0188
+Public reporting burden for this collection of information is estimated to average 1 hour per response, including the
+time for reviewing instructions, searching existing data sources, gathering and maintaining the data needed, and
+completing and reviewing the collection of information. Send comments regarding this burden estimate or any other
+aspect of this collection of information, including suggestions for reducing this burden, to Washington Headquarters
+Services, Directorate for Information Operations and Reports, 1215 Jefferson Davis Highway, Suite 1204, Arlington, VA
+22202-4302, and to the Office of Management and Budget, Paperwork Reduction Project (0704-0188), Washington, DC
+20503.
+1. AGENCY USE ONLY
+2. REPORT DATE
+3. REPORT TYPE AND DATES
+July 2016
+Final Report
+4. TITLE AND SUBTITLE
+2013-2015 Climate Resilience Pilot Program: Outcomes, Lessons Learned,
+and Recommendations
+6. AUTHOR(S)
+ICF International
+7. PERFORMING ORGANIZATION NAME(S) AND ADDRESS(ES)
+ICF International
+1725 Eye Street NW, Suite 1000
+Washington, DC 20006
+9. SPONSORING/MONITORING AGENCY NAME(S) AND ADDRESS(ES)
+Federal Highway Administration
+1200 New Jersey Avenue, SE
+Washington, DC 20590
+
+5. PROJECT ID NUMBER
+
+8. PERFORMING ORGANIZATION
+REPORT NUMBER
+
+10. SPONSORING/MONITORING
+AGENCY REPORT NUMBER
+
+FHWA-HEP-16-079
+
+11. SUPPLEMENTARY NOTES
+12a. DISTRIBUTION/AVAILABILITY STATEMENT
+Available From:
+
+12b. DISTRIBUTION CODE
+
+13. ABSTRACT (Maximum 200 words)
+The Federal Highway Administration’s (FHWA)’s Climate Resilience Pilot Program sought to assist state Departments of
+Transportation (DOTs), Metropolitan Planning Organizations (MPOs), and Federal Land Management Agencies (FLMAs)
+in enhancing resilience of transportation systems to extreme weather and climate change. From 2013 to 2015,
+nineteen pilot teams partnered with FHWA to assess transportation vulnerability and evaluate options for improving
+resilience. This report synthesizes lessons learned, needs identified, and recommended next steps from the pilot
+program. Illustrative project findings, outcomes, and examples are distributed throughout the report.
+14. SUBJECT TERMS
+15. NUMBER OF PAGES 58
+climate change, vulnerability assessments, adaptation, transportation
+16. ACCOUNTING DATA
+resilience
+
+17. SECURITY
+CLASSIFICATION OF
+REPORT
+Unclassified
+
+18. SECURITY
+CLASSIFICATION OF THIS
+PAGE
+Unclassified
+
+19. SECURITY
+CLASSIFICATION OF
+ABSTRACT
+Unclassified
+
+20. LIMITATION OF
+ABSTRACT
+
+Contents
+Forward ............................................................................................................................................ i
+Executive Summary......................................................................................................................... 1
+1
+
+Introduction ............................................................................................................................. 4
+
+2
+
+Overview of 2013-2015 Climate Resilience Pilots ................................................................... 5
+
+3
+
+Lessons Learned from 2013-2015 Pilot Efforts ..................................................................... 13
+3.1
+
+3.1.1
+
+Defining Scope ........................................................................................................ 14
+
+3.1.2
+
+Assessing Vulnerability ........................................................................................... 16
+
+3.1.3
+
+Integrating into Decision Making ............................................................................ 31
+
+3.2
+4
+
+5
+
+Successful Approaches ................................................................................................... 13
+
+Challenges Encountered................................................................................................. 42
+
+Needs ..................................................................................................................................... 44
+4.1
+
+Information Needs ......................................................................................................... 44
+
+4.2
+
+Other Resource Needs ................................................................................................... 45
+
+Pilot Recommendations for FHWA ........................................................................................ 46
+
+Appendix A – Resources................................................................................................................ 50
+
+Executive Summary
+
+Introduction to the Program
+The Federal Highway Administration’s (FHWA)’s Climate Resilience Pilot Program sought to
+assist state Departments of Transportation (DOTs), Metropolitan Planning Organizations
+(MPOs), and Federal Land Management Agencies (FLMAs) in enhancing resilience of
+transportation systems to extreme weather and climate change. From 2013 to 2015, nineteen
+pilot teams partnered with FHWA to assess transportation vulnerability and evaluate options
+for improving resilience.
+Key Program Outcomes
+The pilot program helped build a community of practice for transportation agencies seeking to
+increase resilience to weather extremes. The pilots participated in peer exchanges and,
+collectively, have developed a wealth of best practices and examples for every stage of the
+adaptation process, including: collecting and applying climate change projections; identifying
+critical assets; assessing vulnerabilities and risks; calculating costs and benefits of adaptation;
+and incorporating risks into decision-making.
+The pilot teams are now more prepared to address climate change and extreme weather risks.
+They have built capacity among staff to understand the challenge of climate change. Pilots
+have developed replicable processes to expand vulnerability or cost-benefit analyses, where
+applicable. Pilot teams are also integrating their findings into decision making by incorporating
+climate change into engineering design, long range planning, and asset management.
+This report synthesizes lessons learned, needs identified, and recommended next steps from
+the pilot program. Illustrative project findings, outcomes, and examples are distributed
+throughout the report.
+
+1
+
+Lessons Learned: Successful Approaches and
+Challenges Encountered
+
+A Sampling of Program
+Outcomes
+
+Each of the 2013-2015 pilot projects took unique
+approaches to conducting vulnerability
+assessments and evaluating adaptation options.
+The methods and findings reflect locally-specific
+transportation priorities and climate conditions.
+This report synthesizes successful approaches
+across the pilots and provides illustrative examples
+in alignment with the key elements of the FHWA
+Climate Change and Extreme Weather
+Vulnerability Assessment Framework.
+
+California DOT
+District 1
+
+is providing
+information from their
+analysis to help a
+local transportation
+planning agency
+assess routing
+options over a river
+
+Capital
+Area MPO &
+Hillsborough
+MPO
+
+incorporated
+vulnerability
+assessment results
+into their 2040 Long
+Range Transportation
+Plans
+
+Connecticut
+DOT
+
+plans to update their
+Drainage Manual as a
+result of this project
+is adding data
+
+For example, in defining the scope of the studies,
+generated during the
+pilot project into their
+pilots found it helpful at project outset to
+BridgeWatch program
+(a real-time bridge
+strategically determine the appropriate project
+monitoring and alert
+Iowa DOT
+system) to help
+scale and to leverage existing studies and the
+decision-makers take
+expertise of stakeholders and partners. Successful
+a proactive approach
+to public safety
+vulnerability assessment approaches included:
+during potential
+overtopping events
+working closely with maintenance and other staff
+is using the results of
+to collect and utilize institutional knowledge;
+this study to delineate
+Maryland State
+a “Climate Change
+leveraging existing data and vulnerability
+Impact Zone” to help
+Highway
+screen new project
+assessment tools; using qualitative screening
+Administration
+plans and designs for
+approaches; using maps or other visualization
+future climate impacts
+tools; and using indicators of vulnerability. The
+developed highresolution flooding
+teams also developed several approaches for
+projections for use in
+Massachusetts
+future project design
+vulnerability assessment data processing and
+DOT
+by them and other
+organizations in the
+analysis. For example, seven pilots tested
+Boston area
+approaches to use climate model projections in
+hydrologic analyses. Finally, pilot teams tested ways to integrate understanding of risks into
+decision-making. Several pilot teams identified and evaluated adaptation options, testing
+approaches that: utilized existing adaptation tools, processes, and datasets; used adaptation
+evaluation criteria that reflect priorities of local stakeholders; analyzed costs and benefits; and
+engaged stakeholders to vet adaptation options.
+In testing these approaches, the pilots faced and overcame several challenges related to
+defining the scope of their projects, data collection and processing, coordination with partners
+and stakeholders, and obtaining verification of assessment results.
+2
+
+Needs
+The pilots have made significant advances in the “state of the practice” of adapting
+transportation systems to climate change. In the process, they identified several needs for
+additional information and resources. For example, pilot teams identified the need for more
+information, guidance, and tools to support climate analysis, benefit cost assessments, and
+integration of vulnerability assessment results and adaptation into transportation planning.
+The pilots have already begun to address some of these needs. For example, NYSDOT
+developed a benefits valuation approach to help decision makers prioritize infrastructure and
+assess when to undertake culvert replacements considering social, economic, and
+environmental factors.
+Pilot Recommendations for FHWA
+The pilots provided recommendations for how FHWA can continue to support state and local
+transportation agencies as they attempt to increase their resilience to extreme weather events
+and climate change. Recommendations included:
+
+
+
+
+
+
+
+Further refine the Climate Change and Extreme Weather Vulnerability Assessment
+Framework to reflect lessons learned from pilot projects (e.g., expanding the Integrate
+into Decision-Making section, updating and expanding guidance on appropriate use of
+climate projections, and expanding information on operations and maintenance
+adaptation);
+Provide resources to help agencies evaluate the costs and benefits of adaptation
+strategies;
+Provide centralized access to the tools and resources developed during the pilot
+projects;
+Facilitate coordination with other federal agencies; and
+Help secure additional funding for analysis and implementation of adaptation strategies.
+
+3
+
+1 Introduction
+The Federal Highway Administration’s (FHWA)’s Climate Resilience Pilot Program seeks to assist
+state Departments of Transportation (DOTs), Metropolitan Planning Organizations (MPOs), and
+Federal Land Management Agencies (FLMAs) in enhancing resilience of transportation systems
+to extreme weather and climate change. In 2010-2011, five pilot teams from across the country
+participated in the program to advance the practice of climate change and extreme weather
+vulnerability assessments for transportation. In 2013-2015, nineteen pilot teams (see Figure 1)
+partnered with FHWA to assess transportation vulnerability and evaluate options for improving
+resilience, including:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Arizona DOT (ADOT)
+California DOT (Caltrans), District 1
+Capital Area MPO (CAMPO)
+Connecticut DOT (CT DOT)
+Hillsborough MPO
+Iowa DOT
+Maine DOT
+Maryland State Highway
+Administration (MDSHA)
+Massachusetts DOT (MassDOT)
+Michigan DOT (MDOT)
+Minnesota DOT (MnDOT)
+
+
+
+
+
+
+
+
+
+Metropolitan Transportation
+Commission (MTC)
+North Central Texas Council of
+Governments (NCTCOG)
+New York State DOT (NYSDOT)
+Oregon DOT (ODOT)
+South Florida
+Tennessee DOT (TDOT)
+Washington State DOT (WSDOT)
+Western Federal Lands Highway
+Division (WFLHD) and the Alaska
+DOT and Public Facilities (ADOT&PF)
+
+Figure 1. 2010-2011 and 2013-2015 pilot study areas
+
+4
+
+FHWA’s Climate Change & Extreme Weather
+Vulnerability Assessment Framework was an
+important element of the program. The 20102011 pilot teams tested a conceptual model that
+guided transportation agencies through the
+process of collecting and integrating climate and
+asset data in order to identify critical
+vulnerabilities. FHWA used the feedback and
+lessons learned from the first round of pilots to
+revise the draft conceptual model into the
+framework. The 2013-2015 pilot teams utilized
+the framework and continued to identify lessons
+learned regarding vulnerability assessments and
+evaluation of adaptation options.
+
+19
+100+
+
+2013-2015 FHWA
+Climate Resilience
+Pilots
+Project partner
+and stakeholders
+entities engaged
+
+7+
+
+Pilots using U.S.
+DOT climate
+change tools*
+
+2,200+
+
+Assets assessed
+for vulnerability
+
+200+
+
+Adaptation
+options identified
+
+The 2013-2015 pilot teams engaged with their
+21 Webinars
+transportation peers, stakeholders, and decisionmakers to carry out projects, make
+4 Peer exchanges
+recommendations, and share lessons learned.
+The pilot teams formed a community of practice
+* U.S. DOT tools include Transportation Climate
+by participating in a series of webinars and peer
+Change Sensitivity Matrix; CMIP Climate Data
+Processing Tool; Vulnerability Assessment
+exchanges and sharing resources and information
+Scoring Tool (VAST); 11-Step General Process
+for Transportation Facility Adaptation
+online. Pilot teams built coalitions at the local
+Assessments
+level to guide their projects. Most of the pilots
+convened an advisory group or coordinated with other government entities or the public and
+plan to continue these partnerships after the program. The findings from the vulnerability
+assessment and adaptation evaluation projects also influenced decisions. For example,
+MassDOT is changing their plans for development of a maintenance facility in a vulnerable
+location, Hillsborough MPO and CAMPO have incorporated their findings into their most recent
+Long Range Transportation Plans (LRTPs), WSDOT incorporated climate change analysis into
+National Environmental Policy Act (NEPA) requirements, and the governor of Massachusetts
+requested that MassDOT expand their modeling analysis to cover the entire state. The pilot
+teams and program disseminated lessons learned via webinars, speaking engagements, printed
+case studies, and online resources.
+
+2 Overview of 2013-2015 Climate Resilience Pilots
+Each of the 2013-2015 pilot projects took unique approaches to conducting vulnerability
+assessments and/or evaluating adaptation options. The methods and findings reflect locally5
+
+specific transportation priorities and climate conditions. Table 1 provides a very brief
+description of each pilot project and highlights a few illustrative project findings and outcomes.
+Case studies of each of the pilot projects are available at:
+http://www.fhwa.dot.gov/environment/climate_change/adaptation/resilience_pilots/20132015_pilots/index.cfm.
+
+6
+
+Pilot
+Arizona DOT
+(ADOT)
+
+California DOT
+(Caltrans),
+District 1
+
+Capital Area
+MPO (CAMPO)
+
+Table 1. Overview of 2013-2015 Climate Resilience Pilots
+Project Description
+Illustrative Project Findings and Key Outcomes
+The ADOT team conducted a study to identify hotspots Because the study scope covered a 300-mile stretch of
+where highways are vulnerable to associated hazards
+highway, it helped screen for areas that require a closer
+from high temperatures, drought, and intense storms. analysis of specific assets’ vulnerabilities. The study found
+The project focused on the Interstate corridor
+that while temperature increases may reduce winter
+connecting Nogales, Tucson, Phoenix, and Flagstaff,
+maintenance and operations costs, extreme heat may also
+which includes a variety of urban areas, landscapes,
+require a reevaluation of design standards for heat-resistant
+biotic communities, and climate zones and presents a pavement and affect protocols for construction windows
+range of weather conditions applicable to much of
+and worker safety. The assessment also found that future
+Arizona.
+precipitation and wildfire trends are uncertain, though
+increases in the magnitude of events could pose a threat to
+ADOT assets.
+The vulnerability assessment approach drew from
+Climate change will predominately impact District 1 roads
+methodologies developed by FHWA and the
+through sea level rise and increased
+Washington State DOT 2010-2011 climate resilience
+coastal erosion hazards. Inland, the district is also
+pilot project. The pilot assessed vulnerability in four
+vulnerable to significant historical slope instability, drainage,
+counties by scoring asset criticality and potential
+and erosion. The vulnerability assessment is informing
+impact. The pilot identified adaptation options at four studies on Highway 101 and the adaptation analysis is
+prototype locations of vulnerable road segments. The providing information to assist a local transportation
+Caltrans District 1 team formalized their adaptation
+planning agency in its assessment of routing options over a
+methodology into a tool to assist with the evaluation
+river.
+and prioritization of adaptation options.
+The CAMPO team used a data and stakeholder-driven The project team conducted research and interviews to
+approach to assess risks to nine critical assets from
+identify “sensitivity thresholds” for each stressor—that is,
+flooding, drought, extreme heat, wildfire, and ice. The the levels of rain or temperature at which the region’s
+project team conducted a criticality workshop,
+transportation infrastructure experiences disruptions or
+developed local climate projections, and performed
+damage. These thresholds helped identify what climate data
+risk assessments for each asset.
+to develop and how to apply the climate data in a
+vulnerability assessment. CAMPO also used a regional
+climate model (RCM) rather than downscaled global climate
+7
+
+Connecticut
+DOT (CT DOT)
+
+The CTDOT team conducted a systems-level
+vulnerability assessment of bridge and culvert
+structures from inland flooding associated with
+extreme rainfall events. The assessment included data
+collection and field review, hydrologic and hydraulic
+evaluation, criticality assessment and hydraulic design
+criteria evaluation.
+
+Hillsborough
+MPO
+
+The Hillsborough MPO team assessed the vulnerability
+of select surface transportation assets to sea level rise,
+storm surge, and flooding in order to identify costeffective risk management strategies for incorporation
+into short-term and long-range transportation
+planning.
+
+Iowa DOT
+
+To evaluate future flood conditions, the Iowa DOT
+team developed a methodology to integrate climate
+projections of rainfall within a river system model to
+predict river flood response to climate change. Iowa
+DOT tested this methodology in two river basins to
+evaluate the strengths and weaknesses of technology
+to produce scenarios of future flood conditions. They
+8
+
+models. CAMPO incorporated the results of the study into
+their latest LRTP. At the conclusion of the study, CAMPO
+and the City of Austin hosted an inaugural Extreme Weather
+Resiliency Symposium with agencies from around the
+region, and intend to form a multi-agency working group to
+build on the momentum of this project.
+The CTDOT team found that most structures were built with
+excess capacity and will therefore be able to accommodate
+future increases in precipitation. Moving forward, CTDOT
+recommended that all new infrastructure be designed using
+the precipitation data from the NRCC-NRCS “Precip.net”
+until the new NOAA Atlas 14 data were available. Before
+this study, CTDOT was still using TP-40 for their designs
+which hadn’t been updated since 1961.
+Hillsborough MPO devoted a chapter within its Long Range
+Transportation Plan (LRTP) to discuss the results of this
+analysis. One of the assets identified as critical in the study
+was scheduled for reconstruction in the MPO’s LRTP and the
+MPO found that adaptation measures could be
+incorporated cost-effectively during reconstruction. For
+example, a $4.2 million investment to mitigate flood risk for
+Memorial Highway would result in a net benefit of $2.1-$8.4
+million if it experienced a Category 1 storm surge (and
+higher benefits for a stronger storm).
+Iowa DOT determined that the leading edge of downscaled
+climate projection data resolution (one-eighth degree and
+daily increments) was sufficient for simulating peak flow
+statistics of “Big Basins and Big Floods,” quantitatively
+defined as basins exceeding 100 square miles with floods
+exceeding twice the mean annual peak flow. This modeling
+was used to confirm that a new bridge project on I-35 will
+
+also analyzed the potential impact of the future floods
+on six bridges to evaluate vulnerability to climate
+change and extreme weather and inform the
+development of adaptation options.
+Maine DOT
+The Maine DOT team identified transportation assets
+that are vulnerable to flooding from sea level rise and
+storm surge in six coastal towns. The team developed
+depth-damage functions and adaptation design
+options at three of the sites and evaluated the costs
+and benefits of the alternative design structures.
+Maryland State The MDSHA team developed a three-tiered
+Highway
+vulnerability assessment methodology and GIS layers
+Administration of statewide water surfaces to analyze vulnerability to
+(MDSHA)
+sea level rise, storm surge, and flooding in two
+counties. The team also reviewed design strategies,
+best management practices, planning standards, and
+other ways to support the adoption of adaptive
+management solutions.
+Massachusetts The MassDOT team sought to better understand the
+DOT (MassDOT) vulnerability of the I-93 Central Artery/Tunnel system
+(CA/T) in Boston to sea level rise and extreme storm
+events. The team combined a state-of-the-art
+hydrodynamic flood model with agency-driven
+knowledge and priorities to assess vulnerabilities and
+develop adaptation strategies.
+
+Michigan DOT
+(MDOT)
+
+The MDOT team conducted a climate-based
+vulnerability assessment of mostly MDOT-owned and operated transportation infrastructure, including
+9
+
+be resilient under future flood scenarios.
+
+The analysis found that the majority of damage would be
+from storm surge, not sea level rise. At each site, they
+identified the design option with the lowest total life cycle
+cost under each sea level rise scenario. In general, smaller
+structures that required lower or moderate initial
+construction costs tended to be more cost-efficient.
+The sea level rise mapping results have been integrated into
+the project screening process. Additionally, MDSHA is using
+the results in their regional planning processes, such as
+when the Office of Structures staff are doing a bridge
+replacement, they will see the vulnerability assessment
+results. SHA will evaluate the vulnerability of drainage
+structures statewide using the approach developed in the
+pilot.
+The project team used the model to develop a series of
+projected water surface elevations for hurricanes and
+nor’easters. Using a Monte Carlo approach, the team was
+able to estimate the probability of flooding on a highresolution grid under current and two future sea level rise
+scenarios, and to assess flood entry points and pathways
+(and thereby identify potential locations for regional
+adaptation strategies). In many cases, large upland areas are
+flooded by a relatively small and distinct entry point (e.g., a
+low elevation area along the coastline).
+The assessment found that the most at-risk transportation
+assets were situated in the southern third of the state,
+where the state’s larger urban areas are located. Increased
+
+roads, bridges, pumps and culverts. The assessment
+used GIS to overlay climate projections onto asset
+information from MDOT’s existing asset management
+database to help identify locations and infrastructure
+that may be at risk.
+Minnesota DOT
+(MnDOT)
+
+Metropolitan
+Transportation
+Commission
+(MTC)
+
+North Central
+Texas Council
+of
+Governments
+
+The MnDOT team conducted a vulnerability
+assessment of bridges, culverts, pipes, and roads
+paralleling streams to flooding in two districts. Based
+on the vulnerability assessment results, they
+developed facility-level adaptation options for two
+selected culverts programmed for replacement. Using
+damage and economic loss estimates associated with
+flash flooding as well as cost estimates for alternative
+engineering designs the team identified the most cost
+effective options under a range of climate scenarios.
+The MTC team refined a previous vulnerability
+assessment with additional sea level rise mapping and
+hydraulic analysis. Using the revised vulnerability data,
+the project team developed a comprehensive suite of
+adaptation strategies for three focus areas, and
+through a systematic evaluation process, they selected
+five adaptation strategies for further development:
+living levees (in two locations), an offshore
+breakwater, a drainage study, and mainstreaming
+climate change risk into transportation agencies
+planning processes.
+The NCTCOG team assessed the vulnerability of
+existing and planned transportation infrastructure in
+the Dallas-Fort Worth region, where extreme weather
+events will add an additional stress on the
+10
+
+winter temperatures and precipitation could result in
+decreased snowfall and increased rain, posing potential
+operations and maintenance challenges. The analysis also
+revealed that additional data on elevation, flood plains, and
+land use would be helpful to provide a more robust
+assessment of asset vulnerability.
+MnDOT plans to incorporate the identified risks into culvert
+and bridge improvement programs, asset management
+databases, the asset management plan, and MnDOT’s risk
+registers. This information may feed into the development
+of emergency action plans, real-time monitoring and
+warning systems for vulnerable assets, and the prioritization
+of funding for cost-effective adaptation strategies.
+
+The policy/research and physical adaptation strategies
+developed as part of this pilot all include information on the
+process and partners needed for implementation,
+preliminary scopes/conceptual designs (including cost
+estimates), potential barriers, and a summary of impacts of
+implementation. This information is helping to inform
+regional and state policy and investment decisions, and the
+overall process is serving as a framework for similar projects
+in the region.
+
+The vulnerability assessment found that 636 miles of roads
+in the region have the potential to be inundated by a 100year flood. The pilot project also found that the increase in
+temperature compounded by a projected decrease in
+
+(NCTCOG)
+
+New York State
+DOT (NYSDOT)
+
+Oregon DOT
+(ODOT)
+
+South Florida
+
+transportation system in the rapidly growing region.
+
+annual rainfall in the region may reduce soil moisture, which
+could cause pavement cracking and stresses on bridges and
+culverts.
+The NYSDOT team assessed the vulnerability of the
+The approach considers qualitative and quantitative factors
+transportation system to changes in precipitation in
+and provides a menu of potential benefits that users can
+the rural Lake Champlain Basin. The team developed a tailor to different geographies and data availability. Overall,
+benefits valuation approach to help decision makers
+the results of the pilot project illuminated that a strong
+prioritize infrastructure and assess when to undertake asset management strategy will focus funds on the right
+culvert replacements considering social, economic,
+treatment at the right time in the right place. The strategy
+and environmental factors. They evaluated
+considers the condition of the assets, the location and the
+vulnerability, criticality and risk, and developed a
+project’s context in the transportation system and local
+method to apply an environmental benefits multiplier geography, risk to the assets, and the function of the
+to each culvert.
+roadway.
+The ODOT team engaged maintenance and technical
+Nearly all the designated “Lifeline Routes” in the study area,
+staff and utilized asset data to assess the vulnerability which are essential for emergency response and economic
+of highway infrastructure in two coastal counties to
+connectivity, were found to be vulnerable to projected
+extreme weather events and higher sea levels. Based
+climate impacts. ODOT developed a list of adaptation
+on the results of the vulnerability assessment, the pilot options for highly vulnerable sites. However, they found
+conducted further analysis of specific adaptation sites, that implementing adaptation strategies would not be costoptions, and benefits and costs for five priority storm
+effective at the two sites they performed cost-benefit
+and landslide hazard areas. Options analyzed ranged
+analyses for, due to availability of detour routes and low
+from “do nothing” scenarios to options for increased
+traffic volumes, and other factors. This suggests adaptation
+operations and maintenance and options with
+may be more appropriate at a corridor-level in Oregon.
+significant construction and engineering requirements. ODOT also identified many parallels between adaptation
+planning work and seismic resilience planning work, and is
+looking for ways to enhance that collaboration.
+The South Florida team focused on a four-county
+A key outcome of this study was a consolidated and qualityregion in conducting a detailed geospatial analysis to
+controlled geospatial dataset of the region’s transportation
+calculate vulnerability scores for “regionally
+infrastructure, elevation, and floodplains. The team learned
+significant” road and passenger rail infrastructure. The that data availability and quality were critical to the datastudy also recommended ways for partner agencies to driven analysis and identified several strategies to facilitate
+11
+
+incorporate the vulnerability results into their normal
+decision-making processes.
+Tennessee DOT
+(TDOT)
+
+Washington
+State DOT
+(WSDOT)
+
+Western
+Federal Lands
+Highway
+Division
+(WFLHD) and
+the Alaska DOT
+and Public
+Facilities
+(ADOT&PF)
+
+The TDOT team conducted an extreme weather
+vulnerability assessment of transportation
+infrastructure across the state. The project team
+compiled a statewide inventory of the most critical
+transportation infrastructure and used historical and
+projected climate and weather data as well as
+stakeholder feedback to develop rankings of the
+vulnerability of critical transportation assets to
+projected temperature and precipitation changes and
+other extreme weather events.
+The WSDOT team examined adaptation options in the
+Skagit River Basin, an area of the state identified in an
+earlier assessment as highly vulnerable to flooding.
+Adaptation options centered on 11 vulnerable road
+segments in the study area. Options included active
+traffic management, detour routes, basin-wide flood
+easements, and culvert improvements.
+The WFLHD/ADOT&PF team assessed three unique
+climate change issues in the state of Alaska. In
+Kivalina, the pilot considered the impact of the loss of
+sea ice, sea level rise, and wind on shoreline erosion of
+the coastal runway. In Igloo Creek and along the
+Dalton Highway, the pilot considered the impacts of
+increased temperature (resulting in permafrost melt)
+and increased precipitation on landslides and
+pavement cracking.
+
+12
+
+data collection and aggregation in future efforts, including
+encouraging the collection of relevant data a part of normal
+activities.
+The team found that climate impacts vary greatly across the
+state, with different events creating high levels of
+vulnerability in west, middle, and east Tennessee. TDOT
+intends to select 15-20 of the most vulnerable assets
+identified by the study for a more detailed analysis and
+initiate a dialogue on how to incorporate results from the
+study into TDOT and MPO policies and procedures across
+Tennessee. TDOT also plans to use the vulnerability
+assessment in developing a risk-based transportation asset
+management plan.
+The WSDOT team explored using a then-in-process U.S.
+Army Corps of Engineers flood study of the Skagit River
+Basin to understand vulnerabilities, identify adaptation
+strategies, and foster interagency collaboration. The team
+found that this model-based analysis validated and
+complemented their earlier workshop and interview-based
+analysis and that it is critical to communicate proposed
+actions between agencies.
+In addition to looking at primary variables such as
+temperature and precipitation, the WFLHD/ADOT&PF team
+considered it important to also consider secondary and
+tertiary variables, such as permafrost thaw and landslides,
+respectively.
+
+3 Lessons Learned from 2013-2015 Pilot Efforts
+3.1 Successful Approaches
+The 2013-2015 pilot teams drew from the successful approaches from the 2010-2011 projects
+that helped inform the Climate Change and Extreme Weather Vulnerability Assessment
+Framework (illustrated in Figure 2).1 Illustrative examples of lessons learned from the 20132015 pilot projects are presented below in alignment with the key elements of the framework.
+The section outlining successful approaches within Step 3 includes two main components: (1)
+identify, analyze, and prioritize adaptation options and (2) incorporate results into
+transportation
+programs
+and processes.
+
+Figure 2. Diagram of FHWA’s Climate Change and Extreme
+Weather Vulnerability Assessment Framework
+1
+
+FHWA, Climate Change & Extreme Weather Vulnerability Assessment Framework, Washington, DC, 2012,
+available at
+https://www.fhwa.dot.gov/environment/climate_change/adaptation/publications_and_tools/vulnerability_assess
+ment_framework/page00.cfm.
+
+13
+
+3.1.1 Defining Scope
+Framing the scope of a study is an important first component in order to determine the level of
+detail required in the analysis and form bounds to the study, minimizing data collection and
+analysis activities that would ultimately be extraneous to study objectives. Elements to consider
+when defining the scope of a study include geography, decision timeframe, and coverage of
+assets and climate stressors.
+Pilots considered project budget and timeline, data availability, and near-term priorities when
+determining the project scale. A few pilots limited their study areas to a few locations to pilot
+an approach that they intend to replicate.
+
+
+
+
+
+
+MnDOT piloted their vulnerability assessment approach in two districts that have
+experienced particularly severe flooding in recent years. Piloting their approach helped
+ground-truth the vulnerabilities and develop and refine a replicable approach. The pilot
+team also framed the project to identify cost-effective resilient planning and design
+solutions for specific facilities where replacement is already planned, which will help
+integrate the results into decision-making for near-term priorities.
+ADOT sought to maximize analysis within the project budget and timeline by focusing
+on a highway corridor that includes a variety of urban areas, landscapes, biotic
+communities and climate zones, which represent a range of weather conditions
+applicable to much of Arizona.
+WFLHD/ADOT&PF used a representative case study approach to assess climate
+vulnerabilities and identify adaptation options; the size and range of climate impacts in
+the State of Alaska precluded undertaking a statewide assessment within the available
+time and budget.
+
+Several pilot teams leveraged existing studies to stretch available project funds to encompass a
+more expansive scope. The teams coordinated with other agencies at the project outset to
+identify the relevant existing studies and continued to engage the project team from those
+studies throughout the project.
+
+
+
+
+WSDOT built off of the statewide climate change vulnerability assessment conducted in
+the 2010-2011 pilot study and focused on examining adaptation options in a highly
+vulnerable area of the state, the Skagit River Basin. The pilot framed the scope of the
+study to take advantage of data from a major flood risk reduction study by the U.S.
+Army Corps of Engineers in the basin.
+Maine DOT’s pilot project dovetailed with a National Oceanic and Atmospheric
+Administration (NOAA)-funded Project of Special Merit (POSM) that studied the effect
+of sea level rise on marsh migration in six coastal towns. The pilot team defined the
+scope of the vulnerability assessment to transportation assets in the same study area in
+14
+
+
+
+order to leverage the findings and products from the previous study, including marsh
+and sea migration maps.
+NYSDOT and its partner, The Nature Conservancy (TNC), had previously carried out
+several projects that were useful for this pilot effort, including: a climate assessment for
+the Lake Champlain Basin, the development of a culvert prioritization model, and culvert
+inventory in the Ausable River watershed. The past projects helped define the scope of
+analysis to inform prioritization of stream crossings for upgrades that would improve
+both climate resilience and fish passage.
+
+Pilot teams also leveraged the expertise of stakeholders, partner agencies, academic
+institutions, and other local partners. These project stakeholders and partners helped identify
+relevant existing data and resources, which helped pilot teams frame the study scope. Some
+partners also provided analytical assistance throughout the project.
+
+
+
+
+
+
+
+MnDOT and Iowa DOT hydraulic engineers were central to their vulnerability
+assessment and adaptation planning processes.
+Iowa DOT partnered with Iowa State University for projected continuous daily rainfall,
+and with the University of Iowa Flood Center for hydrologic modeling that supported
+the vulnerability assessment.
+NYSDOT partnered with the United States Geological Survey (USGS) to develop an
+enhanced StreamStats tool that incorporates future climate projections into streamflow
+statistics.
+Most pilots set up advisory groups to engage stakeholders and vet data and
+approaches. For example, the role of the Caltrans technical advisory group was to
+review project progress, contribute to vulnerability and adaptation rankings, and
+contribute ideas and knowledge to the overall process.
+
+Finally, pilots considered a broad range of stressors in their analyses, including non-climate
+stressors, within available resources. Vulnerabilities are often interrelated and non-climate
+stressors (e.g., economic development) can also have larger repercussions on the
+transportation system than climate change.
+
+
+NCTCOG evaluated extreme events such as snow, ice storms, and thunderstorms that
+have disrupted transportation in the past in addition to climate stressors that North
+Central Texas more typically experiences such as extreme heat, heavy rainfall and
+flooding, and drought. The pilot team also analyzed the urban heat island effect as
+another heat stressor.
+
+15
+
+3.1.2 Assessing Vulnerability
+The Climate Resilience Pilot projects demonstrated multiple ways to assess climate-related
+transportation system vulnerabilities. Possible approaches range from qualitative to
+quantitative, from data-driven to stakeholder-driven, and from regional to asset-specific. The
+“right” approach is the one that fits within available resources (e.g., time, data, engagement)
+and, more importantly, provides the necessary information to help the agency make more
+climate-informed decisions in the future.
+Despite the variety of approaches, several common themes emerged from the 19 pilot projects.
+Chief among them was how pilots collected and utilized institutional knowledge, working
+closely with maintenance and other staff as part of the vulnerability assessment process. For
+example:
+
+
+
+
+
+
+
+
+Caltrans District 1 worked with
+maintenance staff to create maps of
+historical events, including miles per
+event, cost per mile, and total cost. The
+exercise drew from a maintenance
+information database as well as
+interviews with maintenance staff.
+MnDOT consulted maintenance staff
+and engineers in developing and
+evaluating indicators. For example, for
+the “previous flood issues” indicator,
+MnDOT held a working session with
+Figure 3. WSDOT pilot team workshop with
+district staff to identify assets that had
+Skagit County (Source: WSDOT)
+flooded in the past 20 years.
+Additionally, the project team worked with MnDOT structural and water resources
+engineers to weight each indicator so that indicators perceived as more important to
+characterizing vulnerability could be factored more heavily into the final scores.
+CAMPO worked with state and local maintenance and engineering staff to establish at
+which thresholds specific extreme weather stressors are most likely to disrupt,
+deteriorate, or damage the transportation system. Thresholds included those based on
+design specifications as well as empirical, or observed, thresholds at which damage had
+occurred in the past.
+TDOT developed and administered an online survey of more than 400 transportation
+experts and stakeholders across the state to assess the potential impacts to different
+types of assets when exposed to a variety of extreme weather hazards. The 220
+respondents evaluated the impacts according to a four-point qualitative scale (nominal,
+16
+
+
+
+
+
+moderate, significant, and catastrophic). The results of the survey were used to create
+impact scores for each asset type and weather category combination in the assessment.
+MassDOT held several “Institutional Knowledge” meetings with a variety of staff
+members (e.g., electrical engineers, maintenance, asset management) with detailed
+knowledge about the Central Artery/Tunnel System. The meetings were used to
+prioritize assets for inclusion in the vulnerability assessment, to identify existing
+datasets, and to understand the interdependencies in the system.
+NYSDOT compiled information about vulnerable road-stream crossings and road
+segment data through development of statewide GIS layers and by local outreach. The
+Nature Conservancy met with staff from Essex and Clinton County Departments of
+Public Works and Town highway supervisors from Essex and Clinton County and mapped
+their local vulnerable assets.
+
+Pilots effectively engaged stakeholders using maps and other visualization tools, finding them
+to be a straightforward way to convey data-heavy analyses and findings. In addition, historical
+extreme weather events can serve as useful
+proxies to facilitate discussions of future
+vulnerabilities from climate change.
+
+
+
+
+ODOT presented district maintenance
+crew and technical staff with a web-based
+GIS map with layers on existing conditions
+with locations of known hazards and
+weather-related incident response (Figure
+4) and future sea levels. ODOT also
+mapped maintenance records related to
+flooding, high water, landslides, and
+rockfalls. Using the historical and future
+climate data provided and their local
+knowledge, the workshop participants
+identified “climate hazard sites” on the
+map.
+Caltrans District 1 overlaid climate change
+Figure 4. ODOT Map of “existing
+information on sea level rise, storm surge,
+conditions” used for workshops with
+temperature, and precipitation for both
+maintenance staff (Source: ODOT)
+mean and extreme conditions with asset
+data in GIS. The maps and information from historical maintenance events helped the
+team evaluate the potential for impact, defined as the level of interruption of service of
+the asset.
+17
+
+Several pilots took advantage of existing datasets and vulnerability assessment tools to
+complete their assessments. When necessary, the pilots modified the existing tools to meet
+their specific needs and circumstances.
+
+
+
+
+
+
+
+
+
+
+MDSHA used the U.S. DOT CMIP Data Processing to collect precipitation projections for
+the study area. The pilot team also used the U.S. DOT Vulnerability Assessment Scoring
+Tool (VAST) to arrive at a preliminary composite vulnerability score for bridges and
+adjusted the scores through a workshop with MDSHA’s engineers.
+CAMPO used VAST to collect and organize data on each of the nine critical assets
+analyzed and to develop risk ratings for each asset. CAMPO built on the default
+information in VAST by adding a few additional indicators, reviewing and refining the
+default scoring mechanisms, and generating customized risk outputs.
+TDOT used the U.S. DOT CMIP Climate Data Processing Tool to obtain downscaled
+projected data for extreme
+temperatures and precipitation in four
+major Tennessee cities (Nashville,
+Knoxville, Chattanooga, and Memphis).
+In using the tool, TDOT selected data from
+all 21 available CMIP5 climate models
+for each of the tool runs in order to
+obtain the most robust current
+projections using the best available
+science.
+ADOT developed a batch processing
+script to make the U.S. DOT CMIP
+Climate Data Processing Tool evaluate
+the entire 300-mile study corridor with
+greater ease than conducting individual
+runs for each segment of the corridor
+(Figure 5).
+ODOT used R programming language
+for statistical computing of climate
+data, which they found to be easier and Figure 5. ADOT-modified CMIP Climate Data
+Processing Tool results from batch processing
+quicker than ArcGIS. The pilot team
+over large geographic areas (figure shown is
+also used the U.S. DOT CMIP Climate
+projected number of days above 100°F)
+Data Processing Tool to gather
+(Source: ADOT)
+downscaled CMIP5 climate projections
+within the project study corridor.
+18
+
+
+
+MDOT used its scour critical bridge inventory and analysis framework for determining
+criticality. This approach was consistent with existing practices, allowing MDOT to more
+readily integrate findings into other planning and investment analysis efforts.
+
+Data collection and analysis can be one of the most challenging elements of a climate change
+vulnerability assessment. Pilots learned to consider a variety of approaches to data processing
+in order to find the approach best suited to their context. In addition, pilots learned that other
+agencies may have the data they need, particularly hydraulic/hydrologic data, so partnerships
+are important to make sure DOTs have access to the data they need and in a format that will be
+compatible with other parts of the analysis. The pilots took a wide variety of approaches to
+collecting and analyzing climate and asset data.
+Hydrological analyses
+Determining how hydrology and floodplains may change as a result of changing
+precipitation patterns is one of the most challenging tasks facing transportation
+agencies. Seven of the pilots focused on overcoming this challenge. Example approaches
+from these pilots are provided below.
+
+
+Iowa DOT incorporated rainfall simulations into a highly detailed CUENCAS
+hydrologic model to determine future peak discharge flows. The model
+independently calculated the percentage of daily rainfall that is absorbed into
+the soil and the percentage that is runoff for each unit of landscape. Because it is
+a continuous model, precipitation in the days or hours before a rainfall event is
+stored in the model. This allowed the project team to see that big storms have a
+larger impact when preceded by small events that increase the antecedent
+moisture content. Iowa DOT found that, under the climate model projections, all
+six critical interstate and highway locations would be exposed to streamflow that
+exceeds current design standards. Bridge and highway resilience would need to
+be improved in four of the six pilot bridge locations to withstand the projected
+increases in extreme streamflow.
+
+19
+
+Legend:
+
+Figure
+Iowa(1960-2009)
+DOT, current
+and future
+ranges for demarcate
+quantiles quan
+of peak
+flow for
+Shaded 6.
+region
+and dashed
+lines (1960-2059)
+le projec
+onCedar
+range
+River
+Basin
+and
+Southand
+Skunk
+River
+Basin (right).
+Shaded region and solid black
+bounded
+by (left)
+median
+of upper
+lower
+95th confidence
+interval.
+Soliddemark
+line (black,
+blue, 1960-2059)
+is median
+of for
+the 1960-2009.
+19 projec on Blue
+quan dashed
+le
+line
+the 1960-2009;
+95th confidence
+interval and
+median
+and
+es mates.
+solid
+lines demark the 95th confidence interval and median for 1960-2059. (Source:
+Iowa DOT)
+ WSDOT leveraged a federal flood study for their target river basin—the U.S.
+Army Corps of Engineers (USACE) Skagit River Flood Risk Management General
+Investigation Study (GI study). The GI study provided hydraulic data on major
+flood scenarios under existing conditions, including a digital elevation model
+(DEM) of the floodplain and water surface elevation and depth for several return
+interval floods (influenced by climate change). WSDOT used the information to
+determine maximum flood depths and extents for their highway segments under
+the different scenarios.
+ CAMPO acquired projections of the future magnitude of various 24-hour
+precipitation events (e.g., 25-year, 100-year) and used them as input to a
+physics-based flood model for the study area that is currently used as part of the
+City of Austin’s Flood Early Warning System. The model outputs flood extent, top
+width, flow rate, depth, average velocity, and cross-sectional area each of these
+future events.
+ MnDOT performed a system-level vulnerability screen, and then detailed
+analyses on two culverts. For the system-level screen, MnDOT calculated several
+hydrological metrics of vulnerability, including the percent change in peak design
+flow required for overtopping for each asset. This provided a sense of the
+relative sensitivity of each asset to precipitation changes, and required less
+precise information about exactly how precipitation or flows may change in that
+location. MnDOT also calculated projected stream velocity, belt width to span
+length ratio, percent forest land cover in the drainage area, and other exposure
+20
+
+
+
+metrics. For the site-specific analyses, MnDOT modeled peak flows through the
+culverts for various storm event return intervals and climate scenarios using the
+USDA-Natural Resources Conservation Service (NRCS) WinTR-20 program. The
+program calculates runoff based on drainage area, land cover, soils, time of
+concentration, and 24-hour precipitation.
+CTDOT evaluated the long-term
+adequacy of their bridge and
+culvert structures design
+standards using the Rational
+Method, SCS Unit Hydrograph,
+or USGS Regression Equations
+(StreamStats), depending on
+watershed size. For each
+structure, CTDOT prepared a
+graph showing how the design
+discharge would increase based
+on incremental increases in the
+Figure 7. Example CTDOT calculations of
+change
+in 24-hour 100-year precipitation vs.
+precipitation parameter. CTDOT
+discharge (Source: CTDOT)
+also developed performance
+(Rating) curves for the structures showing Headwater Depth versus Peak
+Discharge and Outlet Velocity versus Peak Discharge over a range of flow
+conditions. These rating curves along with the precipitation graph were used to
+evaluate the hydraulic adequacy and assess the adaptive capacity of the
+structures.
+
+Storm surge modeling
+Sophisticated storm surge modeling may be appropriate for areas with very critical,
+expensive infrastructure. For example, in heavily populated areas with critical
+transportation infrastructure such as the Central Artery/Tunnel in Boston, highresolution hydrodynamic modeling is warranted due to the importance of
+transportation and human impacts, as well as the spatial complexity of terrain and
+bathymetry.
+
+21
+
+
+
+MassDOT used the ADvanced CIRCulation (ADCIRC) model because of its ability
+to accommodate complex geometries and bathymetries and heterogeneous
+parameter values. The team coupled ADCRIC with the Simulating WAves
+Nearshore (SWAN) Model to simulate storm-induced waves in concert with the
+hydrodynamics (the
+coupled model is
+called the Boston
+Harbor Flood Risk
+Model (BH-FRM)).
+Through model
+calibration and
+validation, the
+project team
+demonstrated that
+BH-FRM is very good
+at simulating
+important coastal
+Figure 8. BH-FRM wave height results for a typical
+storm processes and
+extra-topical
+(Nor’easter) event (Source: MassDOT)
+impacts.
+
+Elevation data
+Detailed Light Detection and Ranging (LiDAR) or other Digital Elevation Model (DEM)
+data can be a very valuable resource for conducting flooding vulnerability assessments
+when available. Processing the data can often be very resource-intensive (see section
+3.2), but the pilot projects agreed that it was worth the resources.
+
+
+
+
+South Florida had the benefit of several available datasets, including LiDARderived elevation data, FEMA flood zone maps, sea level rise inundation maps,
+and data on regional transportation network. These data were critical to
+identifying which facilities could be inundated, especially in a flat area like South
+Florida. However, compiling, reconciling, and cleaning these datasets took
+considerable resources in terms of both GIS expertise and computer processing
+time.
+Hillsborough MPO used the Florida Digital Elevation Model (DEM) from
+University of Florida’s GeoPlan to obtain topographical terrain data used to help
+identify areas at risk of inundation under different sea level rise and storm surge
+scenarios. The DEM was a combination of four separate DEMs covering the
+Hillsborough area.
+22
+
+
+
+
+
+MnDOT has detailed LiDAR data statewide; however, it could not be used to
+generate drainage areas for each asset because of the presence of “digital dams”
+in the dataset (i.e. instances where water is conveyed through an embankment
+by a culvert that is not recognized in the LiDAR data). Instead, the pilot found
+that StreamStats is an acceptable replacement when LiDAR is inaccurate.
+MDSHA worked with the Salisbury University Eastern Shore Regional GIS
+Cooperative to develop countywide Digital Elevation Models of water surfaces
+using recent LiDAR surveys.
+
+To ward off data collection and management challenges, several pilots found success with
+“low-tech” qualitative screening approaches that helped provide a more targeted set of data
+requirements.
+
+
+
+
+Maine DOT, for example, manually selected the highest priority asset in each town
+without using a Decision Support Tool to rank criticality since local knowledge about
+which assets were most vulnerable was easily obtainable; in most towns, there was only
+one frequently flooded asset to rank; and the quality and availability of data to input
+into the tool was quite variable.
+CAMPO conducted a half-day workshop with local stakeholders to determine which
+critical assets to focus on for the study.’
+
+Finally, several pilots used a combination of climate projections, asset data, institutional
+knowledge, and other indicators to develop vulnerability scores. CAMPO, Maine DOT, MDOT,
+MDSHA, MnDOT, and South Florida all used indicators broken into the vulnerability
+components of Exposure, Sensitivity, and Adaptive Capacity. NYSDOT developed a Risk Score
+based on a Vulnerability Score and a Criticality Score (derived from critical facility data and
+functional road class scores). Caltrans and ODOT also calculated vulnerability scores, but
+categorized their indicators differently: Caltrans into Impact Potential indicators and Criticality
+Indicators, and ODOT into simply Vulnerability indicators. Regardless of the terminology used,
+all pilots applied the same general principle that vulnerability is a function of the likelihood of
+experiencing an impact (via experiencing a stressor and then experiencing damage or disruption
+from that stressor), and the consequences of the impact.
+These pilots built on the “indicator libraries” developed in DOT’s Gulf Coast Study Phase 2 and
+published in U.S. DOT’s VAST. Most of these pilots used some established indicators from U.S.
+DOT and also developed their own based on data available and unique circumstances to the
+pilots. The pilots applied these indicators using either VAST, their own spreadsheets, or GIS
+analyses.
+
+23
+
+Table 2 provides a consolidated list of vulnerability indicators used across the pilot projects. The
+Caltrans and ODOT indicators are labeled with the effective vulnerability component of each
+indicator rather than their own terminology to facilitate comparison with the other pilots. Table
+2 shows the following:
+
+
+
+
+
+
+
+
+Certain indicators were popular across many pilots. For example:
+o Annual Average Daily Traffic (AADT), detour length, FHWA roadway Functional
+Classification, truck traffic volume, and evacuation route status were common as
+adaptive capacity indicators.
+o Scour criticality and various condition ratings (e.g., bridge substructure, bridge
+deck, bridge superstructure, culvert, channel, pipe, and pavement condition)
+were common as indicators of sensitivity to flooding.
+The pilots used a wide variety of flooding exposure indicators. All are similar – related to
+the extent and depth of inundation—but arrived at in different ways depending on data
+availability. Some used inundation models and others used estimates of stream flow or
+other factors to approximate exposure.
+Pilots used some of the same indicators in different ways, which illustrates the potential
+overlap between vulnerability components. For example:
+o MnDOT used stream velocity as an exposure indicator, while CAMPO used it to
+indicate sensitivity.
+o Maine DOT used elevation above the 100-year base flood elevation as a
+sensitivity indicator, while South Florida and CAMPO used it as an exposure
+indicator.
+All pilots involved stakeholders to select their indicators. For example, MDSHA used a
+stakeholder-driven process to select indicators – at a workshop, participants ranked a
+list of indicators for their value, regardless of data availability. Then only those
+indicators with data were used in the analysis, but the “high value” indicators without
+data were identified as targets for future data collection efforts.
+
+24
+
+Table 2. Vulnerability Indicators Used Across FHWA Climate Resilience Pilots
+Asset Type
+Culverts
+
+Pipes
+
+X
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+Exposure
+
+Depth of inundation in FEMA 100-year floodplain
+
+X
+
+X
+
+X
+
+Exposure
+
+Percent of segment inundated under given
+scenario
+Distance to nearest FEMA flood zone
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+Segment within identified chronic drainage issue
+areas*
+Modeled SLR Inundation Depth
+Modeled Surge Inundation Depth
+Proximity to Coastline
+Whether asset is located within annual high tide
+due to sea level rise*
+Whether asset is located within daily high tide due
+to sea level rise*
+Segment intersects with existing daily high tide*
+Segment within identified chronic sea level issue
+areas*
+Located at low elevation in a coastal area*
+Change in Total Annual Precipitation
+Percent change in precipitation quantity
+constituting 24-hour 100-year event
+Percent change in precipitation quantity
+constituting 24-hour 30-year event
+Percent change in precipitation quantity
+
+X
+
+Exposure
+Exposure
+Exposure
+Exposure
+Exposure
+Exposure
+Exposure
+Exposure
+Exposure
+Exposure
+Exposure
+Exposure
+Exposure
+Exposure
+
+Rail
+
+Bridges
+
+X
+X
+
+Exposure
+
+Demonstrated past exposure
+Whether asset is located in FEMA 100-year flood
+plain
+Elevation relative to nearest FEMA flood zone
+
+Exposure
+Exposure
+
+Indicator
+
+Pumps
+
+Roads
+
+Vulnerability
+Component
+
+Pilot(s)
+
+CAMPO, MnDOT
+Caltrans, MDSHA,
+ODOT, South Florida,
+CAMPO, South Florida
+
+X
+
+Heavy Precipitation
+Coastal Flooding,
+Heavy Precipitation
+Coastal Flooding,
+Heavy Precipitation
+Coastal Flooding,
+Heavy Precipitation
+Coastal Flooding,
+Heavy Precipitation
+Coastal Flooding,
+Heavy Precipitation
+Heavy Precipitation,
+Coastal Flooding
+Coastal Flooding
+Coastal Flooding
+Coastal Flooding
+Coastal Flooding
+
+X
+
+Coastal Flooding
+
+Caltrans
+
+X
+X
+
+Coastal Flooding
+Coastal Flooding
+
+Caltrans
+Caltrans
+
+X
+
+Coastal Flooding
+Heavy Precipitation
+Heavy Precipitation
+
+MassDOT, ODOT
+MDSHA
+MDOT
+
+X
+
+Heavy Precipitation
+
+MDOT
+
+Heavy Precipitation
+
+MDOT
+
+X
+X
+
+X
+
+X
+X
+
+Climate Stressor(s)
+
+X
+X
+X
+
+X
+X
+
+X
+
+X
+
+25
+
+South Florida
+South Florida
+South Florida
+Caltrans
+MassDOT, MDSHA
+MassDOT, MDSHA
+MassDOT, MDSHA
+Caltrans
+
+Exposure
+Exposure
+Exposure
+Exposure
+Exposure
+Exposure
+Exposure
+Exposure
+Exposure
+Impact
+Potential
+(Exposure)
+Exposure
+Exposure
+Exposure
+Exposure
+Exposure
+
+constituting 24-hour 50-year event
+th
+Percent change in 98 percentile precipitation
+event*
+Belt width to floodplain width ratio*
+2
+Belt width to span length ratio*
+Percent forest land cover in the drainage area*
+Percent of drainage area not covered by lakes and
+wetlands*
+Percent of total segment length at risk of erosion
+from the stream channel*
+Percent urban land cover in the drainage area*
+Stream velocity*
+Modeled available freeboard for future rain event*
+th
+Percent change in 98 percentile runoff event*
+
+Projected change in average seven-day maximum
+temperature*
+Projected change in number of days per year ≥
+100° F
+Projected change in number of days per year ≥ 95°
+F
+Projected change in average summer soil
+moisture*
+3
+Fire Risk, Wildfire Threat *
+
+Rail
+
+Pumps
+
+Pipes
+
+Culverts
+
+Bridges
+
+Indicator
+
+Roads
+
+Asset Type
+Vulnerability
+Component
+
+X
+X
+
+X
+
+X
+X
+X
+
+X
+X
+X
+
+X
+X
+X
+
+X
+X
+X
+
+X
+X
+
+Climate Stressor(s)
+
+Pilot(s)
+
+Heavy Precipitation
+
+Caltrans
+
+Heavy Precipitation
+Heavy Precipitation
+Heavy Precipitation
+Heavy Precipitation
+
+MnDOT
+MnDOT
+MnDOT
+MnDOT
+
+Heavy Precipitation
+
+MnDOT
+
+Heavy Precipitation
+Heavy Precipitation
+Heavy Precipitation
+Runoff
+
+MnDOT
+MnDOT
+CAMPO
+Caltrans
+
+X
+X
+X
+X
+
+X
+X
+X
+
+X
+
+X
+
+X
+
+Extreme Heat
+
+CAMPO
+
+X
+
+X
+
+X
+
+Extreme Heat
+
+CAMPO
+
+Extreme Heat
+
+Caltrans
+
+X
+
+X
+X
+
+X
+
+X
+
+Wildfire, Drought
+
+CAMPO
+
+X
+
+X
+
+X
+
+Wildfire
+
+Caltrans, CAMPO
+
+2
+
+Belt width refers to the lateral width of stream meanders
+
+3
+
+Wildfire Threat is a field from the Texas Wildfire Risk Assessment Portal (TxWRAP), defined as the “likelihood of a wildfire occurring or burning into an area”
+
+26
+
+X
+X
+
+X
+X
+
+X
+X
+
+Sensitivity
+
+Rail
+
+Bridges
+X
+
+Pumps
+
+Roads
+X
+
+Sensitivity
+
+Projected change in number of “ice days” (days
+with both freezing temperatures and non-trace
+precipitation) per year*
+Located in Coastal Erosion Hazard Zone*
+Whether asset is located in an area with High
+Hazard landslide/rock fall ratings, or in an area with
+chronic slope movement issues*
+Whether asset is located in designated landslide
+and rock fall priority area
+Dispatch records of weather-related hazard
+incidents*
+Scour criticality
+
+Exposure
+
+Pipes
+
+Indicator
+
+Culverts
+
+Asset Type
+Vulnerability
+Component
+
+Pilot(s)
+
+Extreme Cold
+
+CAMPO
+
+X
+
+Coastal Erosion
+Landslides
+
+Caltrans
+Caltrans, ODOT
+
+X
+
+X
+
+Landslides
+
+ODOT
+
+X
+
+X
+
+All
+
+ODOT
+
+X
+
+Coastal Flooding,
+Heavy Precipitation
+
+Bridge substructure condition
+
+X
+
+Sensitivity
+
+Bridge deck condition
+
+X
+
+Sensitivity
+
+Culvert condition
+
+X
+
+Sensitivity
+
+Bridge superstructure condition
+
+X
+
+Sensitivity
+
+Bridge age
+
+X
+
+Sensitivity
+
+Asset clearance
+
+X
+
+Sensitivity
+
+Past experience with stressor
+
+X
+
+Sensitivity
+Sensitivity
+Sensitivity
+
+Channel condition
+Pavement condition
+Pipe condition
+
+Coastal Flooding,
+Heavy Precipitation
+Coastal Flooding,
+Heavy Precipitation
+Coastal Flooding,
+Heavy Precipitation
+Coastal Flooding,
+Heavy Precipitation
+Coastal Flooding,
+Heavy Precipitation
+Coastal Flooding,
+Heavy Precipitation
+Coastal Flooding,
+Heavy Precipitation
+Heavy Precipitation
+Heavy Precipitation
+Heavy Precipitation
+
+CAMPO, Maine DOT,
+MDSHA, MnDOT,
+South Florida
+MDSHA, MnDOT,
+South Florida,
+Maine DOT, MDSHA
+
+Exposure
+Exposure
+
+Exposure
+Exposure
+
+X
+
+Climate Stressor(s)
+
+X
+
+X
+
+X
+
+X
+X
+
+27
+
+MDSHA,
+MnDOT, NYSDOT
+MDSHA
+MDSHA
+MDSHA
+MDSHA
+MnDOT
+MnDOT
+MnDOT
+
+Sensitivity
+Sensitivity
+Sensitivity
+Sensitivity
+Sensitivity
+
+Sensitivity
+Sensitivity
+Sensitivity
+Sensitivity
+Sensitivity
+Sensitivity
+
+4
+
+X
+
+X
+
+X
+
+X
+
+X
+X
+
+X
+X
+
+X
+
+X
+X
+
+Rail
+
+Percent change in peak design flow required for
+overtopping*
+24-hour precipitation design threshold
+Average inundation velocity associated with future
+rain event
+Rail flooding sensitivity rating
+Wildfire Threat
+Feet of freeboard between the lowest chord of the
+bridge structure and the 100-year base flood
+elevation
+Frequency of culverts or drainage structures during
+rain or tidal storm events
+Minimum elevation above the 100-year base flood
+elevation
+Percentage of bridge length at height of lowest
+chord
+Whether approaches are subject to flooding
+Whether road is included in Transportation
+Improvement Plan (TIP) for rebuilding and/or
+drainage improvements*
+Whether road surface is concrete (lower
+sensitivity) or asphalt (higher sensitivity)*
+Pavement binder
+Truck traffic volume
+Rail neutral temperature
+Freight traffic volume
+4
+Wildfire sensitivity rating
+
+Pumps
+
+Pipes
+
+Sensitivity
+Sensitivity
+Sensitivity
+
+Culverts
+
+Sensitivity
+Sensitivity
+
+Bridges
+
+Sensitivity
+
+Indicator
+
+Roads
+
+Asset Type
+Vulnerability
+Component
+
+Climate Stressor(s)
+
+Pilot(s)
+
+Heavy Precipitation
+
+MnDOT
+
+Heavy Precipitation
+Heavy Precipitation
+
+CAMPO
+CAMPO
+
+Heavy Precipitation
+Heavy Precipitation
+Coastal Flooding
+
+CAMPO
+CAMPO
+Maine DOT
+
+X
+
+Coastal Flooding
+
+Maine DOT
+
+X
+
+Coastal Flooding
+
+Maine DOT
+
+X
+
+Coastal Flooding
+
+Maine DOT
+
+X
+X
+
+Coastal Flooding
+Coastal Flooding
+
+Maine DOT
+Maine DOT
+
+X
+
+Coastal Flooding
+
+Maine DOT
+
+Extreme Heat
+Extreme Heat
+Extreme Heat
+Extreme Heat
+Wildfire
+
+CAMPO
+CAMPO
+CAMPO
+CAMPO
+CAMPO
+
+X
+
+X
+X
+
+X
+
+X
+X
+X
+X
+X
+
+X
+
+Expert stakeholder judgment about roadways’ wildfire sensitivity
+
+28
+
+Annual Average Daily Traffic (AADT)
+
+Adaptive
+Capacity
+Adaptive
+Capacity
+Adaptive
+Capacity
+Adaptive
+Capacity
+
+Sensitivity
+
+Sensitivity
+Adaptive
+Capacity
+Adaptive
+Capacity
+
+5
+
+Rail
+
+X
+
+Pumps
+
+Bridges
+
+X
+
+5
+
+Pipes
+
+Roads
+
+Values Response Index *
+Whether culvert is plastic*
+Soil Plasticity Index*
+Whether roadway is elevated*
+Rail icing sensitivity rating
+Maximum cost of historical damages associated
+with event (e.g., drainage, slope movements)*
+Historical event density as square miles per event
+at culvert location (e.g., drainage, erosion, slope
+failure)*
+Number and rating of climate impact hazard sites
+(per maintenance workshop)
+Flow control regime*
+
+Sensitivity
+Sensitivity
+Sensitivity
+Sensitivity
+Sensitivity
+Sensitivity
+
+Indicator
+
+Culverts
+
+Asset Type
+Vulnerability
+Component
+
+X
+
+Climate Stressor(s)
+
+Pilot(s)
+
+Wildfire
+Wildfire
+Drought
+Extreme Cold
+Extreme Cold
+All
+
+CAMPO
+Caltrans
+CAMPO
+CAMPO
+CAMPO
+Caltrans
+
+X
+
+All
+
+Caltrans
+
+X
+
+X
+
+All
+
+ODOT
+
+X
+
+X
+
+Heavy Precipitation
+
+MnDOT
+
+X
+
+X
+
+X
+
+All
+
+Detour length
+
+X
+
+X
+
+X
+
+All
+
+FHWA Roadway Functional Classification
+
+X
+
+X
+
+X
+
+All
+
+Heavy commercial average daily traffic / Truck
+traffic volume
+Whether asset is part of an evacuation route
+
+X
+
+X
+
+X
+
+All
+
+X
+
+X
+
+CAMPO, MDSHA,
+MnDOT, NYSDOT,
+South Florida
+CAMPO, MDSHA,
+MnDOT, NYSDOT,
+South Florida
+Caltrans, CAMPO,
+MDSHA, NYSDOT
+CAMPO, MnDOT,
+NYSDOT
+CAMPO, MDSHA
+
+X
+X
+X
+
+X
+X
+
+X
+X
+
+X
+
+X
+
+X
+
+All
+
+Values Response Index is a field from the Texas Wildfire Risk Assessment Portal (TxWRAP), defined as “the potential impact of a wildfire on values or assets.”
+
+29
+
+Adaptive
+Capacity
+Adaptive
+Capacity
+Adaptive
+Capacity
+Adaptive
+Capacity
+Adaptive
+Capacity
+Adaptive
+Capacity
+Adaptive
+Capacity
+Adaptive
+Capacity
+Adaptive
+Capacity
+Adaptive
+Capacity
+Adaptive
+Capacity
+
+Ridership
+X
+
+X
+
+Rail
+
+Pumps
+
+Pipes
+
+Culverts
+
+Bridges
+
+Indicator
+
+Roads
+
+Asset Type
+Vulnerability
+Component
+
+Climate Stressor(s)
+
+Pilot(s)
+
+X
+
+All
+
+CAMPO, South Florida
+
+X
+
+All
+
+Asset criticality
+
+X
+
+Total Miles of Segment*
+
+X
+
+All
+
+Caltrans, CAMPO,
+NYSDOT
+Caltrans
+
+Miles of Access Control Highway per Mile of
+Segment*
+Average Number of Lanes/Mile*
+
+X
+
+All
+
+Caltrans
+
+X
+
+All
+
+Caltrans
+
+Miles of Designated Bike Routes per Mile of
+Segment*
+Scenic Highways*
+
+X
+
+All
+
+Caltrans
+
+X
+
+All
+
+Caltrans
+
+Miles of Designated Network Truck Route per Mile
+of Segment*
+Number of bridges over waterways, over 100 feet
+in length*
+Number of bridges over waterways, less than 100
+feet in length*
+Number of overpasses and underpasses per road
+segment*
+
+X
+
+All
+
+Caltrans
+
+X
+
+All
+
+Caltrans
+
+X
+
+All
+
+Caltrans
+
+X
+
+All
+
+Caltrans
+
+*Indicator not included in the VAST version 1.0 indicator library. Most have been added to the indicator library in VAST version 1.1, except where
+deemed too locally-specific to the pilots to be broadly applicable.
+
+30
+
+3.1.3 Integrating into Decision Making
+Integrating vulnerability assessment results into decision making processes is important to
+ensure that study results are efficiently used in practice. The process of identifying and
+evaluating priority adaptation options ensures that adaptation measures incorporated into
+decision making are the most appropriate.
+3.1.3.1 Identifying, analyzing, and prioritizing adaptation options
+The Climate Resilience Pilots identified and evaluated strategies to reduce vulnerability to
+climate change and extreme weather events. Several key themes and successful approaches
+emerged across the pilots in this process, including the need to involve stakeholders and
+consider a wide range of factors in determining which adaptation options to prioritize.
+The pilots also demonstrated the importance of considering a wide range of adaptation options
+from the outset, including nature-based solutions in addition to infrastructure-based solutions.
+For example, pilots considered managing precipitation-driven flow with natural storage
+solutions such as wetlands alongside design changes in drainage structures.
+
+
+
+
+
+
+NYSDOT developed a culvert prioritization methodology to identify culverts that have
+high ecological value. The team evaluated culvert sizing changes to both reduce
+potential flooding and improve aquatic organism passage. The environmental analysis
+considered state aquatic species of greatest conservation need and identified how much
+habitat would be gained if specific culverts were made fish passable for aquatic
+organisms. The flexible scoring framework creates an approach that is scalable for
+application in both towns and across New York State.
+Caltrans’ adaptation assessment focused on engineering-based options but also
+explored opportunities to incorporate ecosystem-based adaptation, such as wetlands,
+and non-structural solutions, such as traffic routing and policy changes.
+WFLHD/ADOT&PF considered a range of adaptation options for their Igloo Creek
+landslide study location, from revegetating the hillside with native plants to constructing
+a hardened landslide protective shed over the roadway.
+
+Once they brainstormed strategies, pilots also had to evaluate those strategies to decide which
+were most appropriate to pursue. Pilots used a variety of approaches to evaluate strategies,
+outlined below, ranging from using existing tools to developing and scoring their own criteria,
+to using stakeholder input. The types of factors the pilots considered in evaluating adaptation
+strategies included: effectiveness, costs, benefits (in terms of avoided damages, avoided delays,
+etc.), co-benefits, flexibility of design, and implementation barriers, among others.
+Pilot teams’ approaches to evaluating adaptation strategies included:
+
+31
+
+Leverage existing adaptation tools, processes, and datasets to assist in evaluating adaptation
+alternatives
+
+
+
+
+
+
+
+
+MnDOT and ADOT&PF used the General Process for Transportation Facility Adaptation
+Assessments (the 11-Step Process) developed under the U.S. DOT Gulf Coast Study
+Phase 2 for their asset-specific analysis. The Process provides an 11-step framework to
+consider climate change and identify the best methods for decision-making at the
+project level. The steps are generally as follows:
+o Describe the site context
+o Describe the existing/proposed facility
+o Identify climate stressors that may impact infrastructure components
+o Decide on climate scenarios and determine the magnitude of changes
+o Assess performance of the existing/proposed facility
+o Identify adaptation option(s)
+o Assess performance of the adaptation option(s)
+o Conduct an economic analysis
+o Evaluate additional decision-making considerations
+o Select a course of action
+o Plan and conduct ongoing activities
+Maine DOT applied a previously-developed infrastructure evaluation tool and modified
+it to be specific to transportation assets. The team used the Transportation-version of
+the Coastal Adaptation to Sea level rise Tool (T-COAST) to evaluate the costs and
+benefits of alternative design structures.
+ODOT used ground-based LiDAR datasets to evaluate erosion rates and develop a
+graphical representation cross-section of existing terrain and roadway geometry at a
+coastal bluff site to assess adaptation options to landslide impacts.
+Hillsborough MPO relied on series of models (e.g., sea level rise, storm surge, travel
+demand, and REMI (economic). The pilot team reported that, “Although all of these
+models have the potential to provide valuable insights, they also require an involved set
+of assumptions and calibrations—and results require quality control and interpretation
+prior to serving as inputs for subsequent modeling. Agencies conducting first phase
+assessments are counseled to focus on mastering one or two models—ensuring that the
+results are in line with expectations—and then adding complexity in subsequent
+assessments.”
+
+32
+
+Develop and use criteria that systematically evaluate adaptation options in terms of what is
+most important to local decision makers and stakeholders
+
+
+
+
+Caltrans District 1 evaluated adaptation options using criteria such as cost, usable life,
+level of performance, flexibility of design, and social and environmental considerations
+and weighted these criteria based on input from stakeholders and public meetings to
+reflect local priorities and values. The criteria methodology was formalized into a tool to
+assist planners with the evaluation and selection of adaptation options.
+MTC used a screening exercise, followed by a qualitative assessment, to select
+adaptation strategies for further development. The screening exercise included
+questions on the scale and replicability of the strategy, the barriers to implementation,
+the urgency of action, and impacts on society/equity, environment, and economy. The
+qualitative assessment used an ordinal ranking system to compare the financial, social,
+environmental, and governance-related (e.g., funding, legal barriers) performance of the
+strategies (see Figure 9). As a last level of review, the project team used their
+
+33
+Figure 9. Ordinal ranking system to compare the governance, financial, environmental, and social
+performance of adaptation strategies.
+
+professional experience to select a final set of balanced strategies.
+Use cost benefit analysis to compare adaptation options
+Pilot teams took a range of approaches to try and estimate the costs and benefits associated
+with adaptation options. In some cases, pilot teams found rebuilding in kind to be most costeffective, in other cases they found building higher/stronger to be more cost effective.
+
+
+
+
+
+
+
+
+MnDOT used the COAST software to calculate expected cumulative damages to
+transportation facilities over time, using curves relating water depths to their
+probabilities and water depths to damage costs incurred (depth-damage functions). The
+model calculates damage according to asset-specific depth-damage functions each time
+the facility is “flooded.” MnDOT considered two sets of costs; one that only included the
+damage costs incurred by MnDOT (i.e., physical damage repair costs) and one that also
+included social costs (i.e., incremental travel time costs to motorists from the detour
+and the potential for injury to motorists).
+NYSDOT found that many of the studies and tools reviewed were location specific, and
+while they provided useful context and information, the primary tools they selected
+were relevant at larger geographic scales. Ultimately, the NYSDOT project developed a
+framework that enables the user to account for the triple bottom line -- ecological
+impacts (e.g., fish, habitat, water quality), economic impacts (e.g., flood damage, travel
+delay, tourism), and social impacts (e.g., health and safety). The approach considers
+qualitative and quantitative factors and provides a menu of potential benefits that users
+can tailor to different geographies and data availability. The team found that the culvert
+design features that improve aquatic organism passage often improve climate change
+resilience, and vice-versa.
+Maine DOT analyzed the cost-effectiveness of various candidate adaptation designs by
+comparing the life cycle costs of the replace-in-kind option with the adaptation options
+for each asset under a range of sea level rise and storm surge scenarios. The pilot team
+created depth-damage functions, which describe the estimated repair cost for an asset
+at each flood elevation, and applied it to the scenarios using the T-COAST tool.
+Hillsborough MPO used their regional travel demand model, the Tampa Bay Regional
+Planning Model, to evaluate the impacts of road closures due to flooding, including
+delays, lost trips, and operating costs. The results were then input into the regional
+planning commission’s Regional Economic Models Inc. (REMI) model to assess potential
+state and regional economic impacts.
+
+Table 3 compares the cost and benefit factors, resources, key findings, and other factors of the
+benefit-cost analyses used across the pilots. Most pilots took similar approaches to determine
+the net cost-effectiveness of each adaptation strategy (total costs with the adaptation strategy
+34
+
+minus total costs without the adaptation strategy), including agency costs of repairs as well as
+societal costs from transportation disruptions. Across the board, the pilots found the benefitcost analyses valuable but demanding, in terms of time, data, and expertise.
+
+35
+
+Table 3. Overview of Climate Resilience Pilot Benefit-Cost Analysis Approaches
+Impacts of Climate Change
+(Benefits of Adaptation)
+
+Pilot
+Hillsborough
+MPO
+
+Maine
+DOT
+
+MnDOT
+
+
+
+
+
+
+
+
+
+Costs of Adaptation
+Strategies
+
+Final Measure
+
+Scope
+
+Tools/Resources Used
+
+Regional mobility (hours 
+of delay, VMT, lost trips)
+Regional economy
+(using REMI model
+based on changes to
+regional mobility) (jobs,
+income, gross regional
+product)
+
+Construction
+and
+maintenance
+costs
+
+
+
+Construction
+and
+maintenance
+costs
+
+Life cycle costeffectiveness
+(estimated net
+benefit: Costs –
+Avoided Losses)
+
+3 assets, 2
+strategies
+each
+
+
+
+Construction
+costs
+
+Life cycle costeffectiveness
+(estimated net
+benefit: Costs –
+
+2 assets
+(culverts), 3
+strategies
+each
+
+
+
+Physical damages,
+repair costs
+
+Physical damages,
+repair costs
+Travel time costs from
+detours
+
+
+
+Life cycle costeffectiveness
+(estimated net
+benefit: Costs –
+Avoided Losses)
+
+5 assets, 3
+strategies
+each
+
+
+
+
+
+
+
+36
+
+Key Findings
+
+Travel demand
+model (mobility
+impacts of closures)
+REMI – regional
+economic impacts
+FDOT Generic Cost
+per Mile models
+Unit cost estimates
+from consultant
+engineers
+
+
+
+T-COAST model
+
+
+
+
+
+
+
+
+
+
+
+COAST (depthdamage functions)
+MnDOT standard
+assumptions (travel
+
+
+
+Results highly dependent
+on assumptions
+Three of five strategies
+not cost-effective
+(possibly because of
+overly conservative
+assumptions)
+Most cost-effective
+strategy, adaptation for
+Memorial Highway,
+would cost $4.2 million
+but avoid $6.3-$25.3
+million in damages from
+a single storm.
+Cost-effectiveness varies
+greatly by asset.
+For example, adaptation
+for bridges in
+Bowdoinham could avoid
+up to $684,000 in
+lifecycle damages from
+sea level rise alone
+(excluding storm surge),
+while adaptation for a
+culvert in the
+Scarborough could cost
+between $0.5-2 million
+over its lifetime.
+“Low-end” adaptation
+most cost-effective
+strategy in 11/12
+scenarios.
+
+Impacts of Climate Change
+(Benefits of Adaptation)
+
+Pilot
+
+
+
+Costs of Adaptation
+Strategies
+
+Final Measure
+
+Scope
+
+Tools/Resources Used
+
+Avoided Losses)
+
+Vehicle operating costs
+from detours
+Cost of potential injury
+
+time, vehicle
+operating costs,
+injury cost)
+
+Key Findings
+
+
+
+
+MTC
+
+
+
+
+
+
+NYSDOT
+
+
+
+
+
+
+
+
+
+
+
+Impacts on mobility
+(VMT, delays, GHG
+emissions, air pollutant
+emissions)
+Acres of wetland lost
+Equity impacts
+
+
+
+Travel time costs from
+
+detours
+Vehicle operating costs
+from detours
+Impacts of lost access to
+fire stations, emergency
+services, and hospitals
+Potential for fatalities
+and injuries
+Physical damages,
+repair costs (including
+damaged property)
+Disruptions to freight
+movement
+Environmental impacts
+(fish and wildlife
+
+Construction
+and
+maintenance
+costs
+
+n/a
+
+3 strategies
+(1 per
+geographic
+area
+studied)
+
+
+
+Construction,
+maintenance,
+rehabilitation ,
+and
+replacement
+costs
+
+Unique hybrid
+approach of
+qualitative and
+quantitative
+benefits.
+
+10 assets
+(culverts); 2
+strategies
+each
+(replaceme
+nt or
+repair)
+
+Developed NYSDOT tool, 
+drawing from:
+ U.S. DOT Economic
+Analysis Primer
+ FHWA Operations
+Benefit/Cost
+Analysis Desk
+
+Reference
+ U.S. DOT TIGER
+Benefit-Cost
+Analysis Guidance
+Documents
+ TRB Benefit-Cost
+Analysis website
+ FEMA Benefit-Cost
+Analysis Tool
+
+Total annual
+benefits = (social
+benefits +
+economic benefits)
+* environmental
+benefits
+
+37
+
+Engineering
+consultant
+estimates
+
+
+
+Adding two cells to
+Culvert 5722 would save
+MnDOT $85,000 to
+$158,000 over its lifetime
+(not counting societal
+benefits).
+Most cost-effective
+strategy can depend on
+whether social costs are
+included.
+A conceptual Bay Bridge
+“living levee” and
+breakwater would cost
+about $17 million but
+protect about 40 acres of
+wetlands and avoid $15
+million per day in travel
+delays, among other
+unquantified benefits.
+Developed a benefits
+valuation approach to
+include social, economic,
+and environmental data
+in decision making, when
+data are available.
+A new decision tool helps
+determine when a culvert
+replacement is warranted
+based on risk
+(vulnerability and
+criticality), environmental
+importance, and
+economic benefits and
+costs.
+
+Pilot
+
+ODOT
+
+WFLHD
+
+Impacts of Climate Change
+(Benefits of Adaptation)
+populations, habitats,
+stream erosion, water
+quality, recreation)*
+ Physical damages,
+repair costs
+ Travel time costs from
+detours
+ Vehicle operating costs
+from detours
+ Potential for accidents
+ Regional economic
+impacts
+
+
+
+
+
+Physical damages,
+repair costs
+Operations and
+maintenance, including
+costs to monitor
+conditions
+Socioeconomic impacts
+
+Costs of Adaptation
+Strategies
+
+
+
+Construction
+and
+maintenance
+costs
+
+Final Measure
+
+Benefit/Cost Ratio,
+Net Present Value
+(B-C)
+
+Scope
+
+2 sites, 1
+strategy
+each
+
+Tools/Resources Used
+
+
+
+
+
+
+
+Construction
+and future
+rehabilitation
+costs
+
+Benefit/Cost Ratio,
+Net Present Value
+
+3 sites, 6
+total
+strategies
+
+
+
+Key Findings
+
+BCA values and
+methods from
+federal TIGER Grant
+application
+guidance
+Statewide
+Integrated Model
+(SWIM) for regional
+economic analysis
+
+
+
+Engineering
+consultant
+estimates
+
+
+
+
+
+
+
+*The NYSDOT pilot used a multiplier to estimate environmental benefits rather than direct valuation.
+
+38
+
+In the two sites studied,
+low traffic volumes and
+available detours meant
+minimal impacts and,
+therefore, minimal
+benefits of adaptation
+options.
+Corridor approach to
+benefit-cost analysis may
+be more appropriate.
+The case studies revealed
+relatively low-cost
+options for
+implementation.
+In Alaska, significant
+investments are made
+for the good of a small
+number of individuals.
+Traditional BCA
+assessments may need to
+consider broader factors
+of concern to reflect
+appropriate response
+measures.
+
+The pilots also engaged stakeholders to vet
+adaptation options, as adaptation strategies are more
+likely to be successful if developed through a
+participatory process involving internal agency partners
+as well as external partners.
+
+
+
+
+
+
+“While a standardized qualitative
+assessment can be a good way to
+evaluate the performance of
+strategies, it should always be
+supplemented by the local
+knowledge and expertise of
+stakeholders and agencies”.
+
+MTC established stakeholder groups in each of
+their three geographic focus areas that
+encompassed a wide range of participants
+—MTC Pilot Team
+including transit operators; flood control
+districts; local government; utilities; parks; non-profits; community based organizations;
+homeowners associations (HOAs); and federal research agencies. These stakeholders
+provided critical reviews of the exposure information, and helped to review and develop
+the adaptation strategies.
+Caltrans District 1 held public meetings in each of the four counties in the study area
+mid-way through the project to update the public on the project and seek input on
+adaptation priorities and criteria. Throughout the project process, Caltrans engaged 25
+members of its Technical Advisory Group, 59 regional government and regulatory
+stakeholders, and 119 other members of the public.
+CTDOT considered the location of assets in relation to emergency routes and emergency
+services, such as fire stations; police stations and barracks; emergency medical services;
+hospitals; public works departments; and emergency shelters in their criticality
+assessment. The study team also conducted public outreach to the elected leaders,
+emergency responders and public works department in the study region to learn about
+the anecdotal or local perspective on which structures were more critical than others
+that may not be evident through the roadway or hydrography datasets.
+
+In addition, the pilots engaged low income and other disadvantaged communities, in addition
+to other public and private stakeholders, where possible, in the adaptation strategy
+development and evaluation processes.
+
+
+
+
+WSDOT conducted interviews with two tribes resident in the basin about existing
+conditions, including existing “areas of concern” regarding flood hazards and related to
+critical infrastructure like firehouses and medical clinics.
+Caltrans District 1 conducted outreach with key stakeholders, including local tribes in all
+four of the project’s pilot locations. For example, the pilot team gave a presentation
+about the project at a Tribal Climate Adaptation Forum hosted by the Robinson
+Rancheria of Pomo Indians in Lake County. All four of the project’s pilot locations were
+
+39
+
+
+
+within ancestral tribal territories, and two (in Lake and Mendocino Counties) were
+directly adjacent to tribal properties.
+MTC considered the impacts (positive or negative) on disadvantaged communities when
+evaluating potential adaptation options. For example, they considered the ability of the
+strategy to protect transit routes in or within ½ mile of communities of concern, as well
+as the ability of the strategy to minimize vehicle hours of delay for trips in the lowest
+income category.
+
+3.1.3.2 Incorporating results into transportation programs and processes
+Integrating climate and vulnerability considerations into existing decision making processes
+puts the findings of a vulnerability assessment and adaptation evaluation into practice.
+Incorporating climate change can improve existing practices and is easier to implement this way
+than treating it as a separate activity.
+Several pilot teams developed resources to incorporate climate information into engineering
+design.
+
+
+
+
+
+
+CTDOT is preparing a technical memorandum providing recommendations to Department
+staff and Consulting Engineers. This memo will include guidance on using Precip.net and
+NOAA Atlas 14 data. Now that NOAA has released the Atlas 14 data for the Northeastern
+U.S., CTDOT plans to update the Drainage Manual to require NOAA Atlas 14 as the source
+for precipitation data for the design of Department facilities.
+Iowa DOT determined engineering design metrics could be developed from streamflow
+simulation over a long, continuous period spanning historical and future climate conditions
+(e.g., continuous streamflow for 1960 – 2059). To facilitate the use of this information, Iowa
+DOT developed an innovative flood design graph for bridge vulnerability analysis that
+conveys succinctly to bridge engineers the historical annual peak streamflow as well as
+design metrics based on historical data and climate projection data. However, Iowa DOT
+cautions that the graphs should only be used with careful interpretation since it contains
+both historical and projected data that is not strictly fair to compare.
+MassDOT developed high-resolution flooding projections for use in future project design
+that are being used not only by MassDOT, but by other organizations in the Boston area.
+
+Several pilot teams aligned their assessments with long range planning and other existing
+practices, which facilitated the integration of the results into decision making.
+
+
+TDOT evaluated vulnerabilities to current infrastructure and projected use of assets based
+on their current Long Range Transportation Plan (LRTP). The temporal scope of the study
+extended through the year 2040, which aligned with the horizon year of the plan as well as
+capital and rehabilitation cycles.
+40
+
+
+
+
+
+
+
+
+ODOT reviewed federal, state, and local land use regulations in order to understand the
+restrictions that may limit the feasibility of large coastal adaptation projects.
+Hillsborough MPO conducted its assessment in support of its 2040 LRTP. Project findings,
+such as inundation scenarios and viable adaptation measures, have been cost-effectively
+incorporated into the LRTP.
+Caltrans District 1 is considering updates to Caltrans planning and design policies to
+integrate climate, such as updating the maintenance and repair data collection and tracking
+systems to collect data related to extreme weather events. Caltrans recognizes the need for
+greater collaboration between permitting authorities and project stakeholders to conduct
+advanced planning and permitting for adaptation options that can be implemented after
+emergency events.
+MDSHA is using the results of this study to delineate a “Climate Change Impact Zone.” This
+zone is intended to help SHA screen new project plans and designs for future climate
+impacts.
+
+A number of pilot teams streamlined climate change adaptation planning with asset
+management.
+
+
+
+
+
+
+MnDOT used information from their asset management system as indicators of
+vulnerability; however, they recognize that this system could be improved. For future
+efforts, they are considering gathering data on waterway opening dimensions and other
+relevant variables that would be useful to future flood vulnerability assessments, and
+incorporating vulnerability assessment scores into asset management databases and the
+asset management plan. Moving forward, they recommend including monitoring and
+recording asset performance during weather events. Specific items that could be recorded
+include frequency of overtopping, duration of closures, whether injuries resulted from the
+overtopping, and any damage costs. Instances where an adaptive design prevented the
+incurrence of costs relative to a traditional design should also be noted and a tally
+maintained of costs avoided; eventually this could be used to determine whether the
+additional costs incurred for the adaptation were justified.
+CTDOT is coordinating with the Bridge Management group to determine how to integrate
+the results of the hydraulic evaluations and criticality assessments into the bridge inventory
+for future reference by the Department. One means would be to upload the structure
+summary reports and criticality sheets (produced during the pilot) into the bridge asset files
+located in their project management file system, “ProjectWise”.
+Iowa DOT is adding data generated during the pilot project into their BridgeWatch program,
+a real-time bridge monitoring and alert system. BridgeWatch provides real-time information
+about bridge and stream conditions to help Iowa DOT decision-makers take a proactive
+approach to public safety during potential overtopping events.
+41
+
+
+
+NCTCOG considered doing an analysis of how extreme weather events affected pavement
+deterioration since the City of Dallas has a robust dataset of historical street conditions,
+including the extent and severity of pavement distress. However, the database system is
+currently not configured in such a way to indicate that extreme weather effects are a direct
+cause to specific street section degradation or failures. As an outcome of the pilot project,
+NCTCOG is recommending that the City improve its monitoring of weather-related stresses
+as part of its pavement management system.
+
+These types of projects can create an opportunity to get agencies to communicate and
+coordinate efforts to address climate change. The pilot teams engaged and coordinated with
+various partners and stakeholders on the vulnerability assessments and adaptation analyses,
+which were important outcomes of the projects. A number of the pilots will continue to work
+with partners to plan for climate.
+
+
+WSDOT’s pilot project demonstrated the value of working with federal and local
+partners such as the U.S. Army Corps of Engineers, flood managers, and county public
+works departments. Such partnerships allow the organizations to inform each other’s
+work and reduce potential future conflicts. For example, the project identified locations
+where WSDOT, if unaware of the Corps’ tentatively selected plans or local flood
+improvements, could inadvertently make investments that would block the flow of
+water that the Corps assumed would occur. Following on the pilot project, WSDOT is
+working with the state departments of Commerce and Ecology to develop guidance for
+local vulnerability assessments. WSDOT intends to coordinate with local governments
+on integrating climate resilience considerations into their long-range planning efforts.
+
+3.2 Challenges Encountered
+The pilot teams also encountered challenges to the assessment process and identified lessons
+learned that can be applied to future projects. This section includes a few common challenges
+and illustrative examples of ways the pilot teams reconciled them.
+When defining the scope of their analyses, several pilots had difficulty deciding on the
+appropriate scale for assessment. The project scoping phase should include consideration of
+what data are available, since the scope of the assessment may need to consider the quality
+and availability of the data.
+
+
+NCTCOG found it challenging to collect comprehensive and consistent data from across a
+twelve-county metropolitan planning area, more than 230 local government units, and
+multiple transportation providers. As a result, the study assumed adaptive capacity was
+constant throughout the study region since data was not available to support the analysis.
+
+42
+
+The pilot teams encountered challenges with data collection and processing. For some pilot
+teams, there were several available sources of data available and the pilots were overwhelmed
+with data processing. Pilots also encountered a number of challenges in identifying the best
+data to work with and applying it, especially when there was imperfect or missing data and
+uncertainty in the climate models. Several pilots were able to use qualitative screening
+techniques to minimize their data collection needs.
+
+
+
+
+
+
+
+
+MDOT did not have digitized FEMA floodplain data for approximately 60 percent of the
+state. Therefore, the study team chose not to incorporate 100-year floodplain data into its
+analysis, but did flag assets within the National Flood Hazard Layer coverage area and the
+100-year floodplain in the final vulnerability assessment.
+MDOT found that, for some climate scenarios, changes in precipitation ranged between
+models from very little to a greater than 60 percent increase. To deal with uncertainty, the
+study used five climate models to capture the range of potential future climate impacts.
+MnDOT found that uncertainty in the downscaled precipitation data is uncomfortable for
+engineers who have worked primarily with statistically derived data from the past to
+identify asset risk. An indicator for capturing differences in projected future 24-hour
+precipitation depths within each asset’s drainage area was considered. The Climate
+Advisory Committee believed, however, that any variations in climate model projections
+across an area as small as a district would not be reliable. Thus, the assessment took a
+sensitivity-based approach to capturing vulnerability, asking, “Given what we know about
+each asset and its environmental setting, what percentage change in the design storm
+would be required to overtop the roadway?” All other metrics being equal, assets that
+required less of a change in design flow to overtop were considered more vulnerable to
+potential increases in precipitation.
+Iowa DOT used complex modeling to translate climate model information into future
+streamflow which required significant computing infrastructure that is common with
+academic research institutions but may not be available to most public agencies and
+consulting firms. The use of cloud computing could make access to this computing power
+much more cost effective.
+
+While coordination with partners and stakeholders is a valuable part of the assessment and
+integration process, there were a few challenges that pilot teams had to overcome, including
+logistics and communication.
+
+
+Hillsborough MPO engaged with a pre-existing hazard mitigation strategy working group
+composed of government officials, representatives from local businesses, and private
+citizens. The pilot team found that while this technical advisory group was a valuable
+resource for the project, the composition of attendees varied significantly across project
+43
+
+
+
+meetings, making continuity a challenge. If needed again in the future, Hillsborough MPO
+would consider assembling a smaller, dedicated technical advisory group that could meet
+more frequently and provide consistent feedback.
+CTDOT found that there needs to be a common understanding of the purpose of adaptation
+strategies among all stakeholders (e.g., local towns, private land owners) due to the
+potential for increased downstream flooding when structures are upsized.
+
+A few pilots encountered difficulty in the review and verification of assessment results. They
+needed to determine what type of review and verification of results is needed and by whom.
+Additionally, several pilots noted that the data obtained from other entities should be vetted to
+ensure that it can be appropriately applied to the project.
+
+
+As Iowa DOT and MassDOT found, it can be challenging to obtain critical peer review of the
+pilot projects’ new methods and the findings that result. Exactly how climate change will
+affect infrastructure systems is an emerging area of research in which there are few
+established best practices. The pilots, as a community of practice, embraced this challenge
+and worked together to provide feedback to each other and develop best practices. In
+addition, they’ve given several presentations to share their research and gather feedback
+on the approaches used.
+
+The community of practice created through the pilot program provided an opportunity for
+pilots to share these challenges and how they learned to overcome them. The pilots also
+conferred regarding outstanding needs and recommendations for FHWA to continue to support
+state and local transportation agencies in addressing some of these challenges (see sections 4
+and 5 below).
+
+4 Needs
+The Climate Resilience Pilots have made significant advances in the “state of the practice” in
+adapting transportation systems to climate change. In the process, they identified several
+needs for additional information and resources to continue the work of making our
+transportation systems more resilient. Simultaneously, the pilot projects have made advances
+against those needs and developed resources to help other agencies.
+
+4.1 Information Needs
+Data. In order to fully understand vulnerabilities and take action to address them,
+transportation agencies need access to comprehensive datasets that can support their
+analyses. These include data on transportation assets (e.g., from asset management systems),
+LiDAR or other elevation data, and relevant data on climate projections. Data will never be
+
+44
+
+perfect, but continuous improvement is needed to better understand vulnerabilities and
+adaptation tradeoffs.
+Information on historical impacts and associated costs. Such information—such as the
+duration and extent of road closures, labor and maintenance costs associated with weatherrelated repairs, and economic implications of road closures—can help decision makers
+understand the potential impacts, in dollar terms, of extreme weather impacts. Information
+about the broader economic implications of transportation disruptions (e.g., if an interstate is
+closed, if industrial routes are closed, if local business and industry are affected by road
+closures) is also critical to informed decisions, but typically difficult to obtain. Some pilots were
+able to calculate historical costs from weather events (see Caltrans, Maine DOT, MTC, NCTCOG,
+and ODOT pilot reports).
+Information on “default” values for costs and benefits
+NYSDOT hoped to create a
+of adaptation. More information is needed for
+quantitative adaptation modeling
+transportation agencies to be able to quantify, in dollar
+tool but found that this was hard
+terms, the costs and benefits of adaptation strategies.
+to do with limited locally-specific
+For example, it would be helpful to have default values
+economic values.
+or unit costs for adaptation measures by facility type
+and region. In addition, better information is needed,
+Instead, the team developed a
+as mentioned above, to help quantify adaptation
+benefits valuation approach for
+benefits such as those that are more commonly valued
+other transportation agencies to
+in a transportation context (e.g., safety) and those that
+use to calculate the social,
+are more difficult to value (e.g., community or
+economic, and environmental
+economic effects). In the meantime, some pilots
+benefits of adaptation measures.
+developed their own estimates for general costs of
+The NYSDOT report includes
+adaptation strategies (see the Hillsborough MPO,
+Maine DOT, MnDOT, MTC, NYSDOT, ODOT, and WFLHD several default values to calculate
+adaptation benefits and costs of
+pilot reports for additional details). NYSDOT, in
+different culvert design options.
+particular, developed a framework designed for other
+transportation agencies to use to assign economic
+values to social, economic, and environmental benefits of adaptation. Their report includes
+several default values, and noted that the lack of developing locally-specific data was a limiting
+factor.
+
+4.2 Other Resource Needs
+Additional guidance on using climate information. Climate change projections are readily
+available, but there are so many data sources and options that it is often well outside the
+expertise of DOT staff to sort through it. Although several resources exist for how to use climate
+45
+
+information from organizations like FHWA, the Infrastructure Climate Network (ICNet), and
+National Cooperative Highway Research Program (NCHRP) (see Appendix A), the pilots
+suggested additional guidance is necessary specifically for transportation agencies on what
+climate information to use, where to find it, how to use it (e.g., what types of climate data are
+needed for different types of analyses).
+Additional guidance on conducting benefit cost assessments for climate adaptation.
+Transportation agencies need more examples and information on how to incorporate climate
+change into benefit-cost assessments and other economic assessments of project viability. For
+example, such guidance would include information on how to find and apply existing data on
+costs and benefits (including putting values on benefits), assign probabilities to climate change
+scenarios, scale inputs, forecast socioeconomic variables, do Monte Carlo analyses, and use
+other economic analysis techniques. Transportation agency staff may have limited expertise in
+economic analysis, so guidance should be tailored to that audience and, for example, include
+default values, be realistic about what data can and should be used, and provide examples of
+how others have incorporated benefit-cost analyses into decision making. Any processes in
+future guidance or tools also needs to be transparent to enhance acceptance and
+understanding of results by engineers and others involved in the decision making process.
+Several resources, listed in Appendix A, already exist to help organizations perform economic
+analyses, and the pilot projects provide several examples of how to perform transportation
+climate change-specific analyses (see Table 3). In addition, the NYSDOT pilot developed
+guidance specifically for this purpose.
+Guidance on integration of vulnerability assessment results and adaptation into
+transportation planning. Though the Climate Resilience Pilots are a good start, the
+transportation community needs more guidance and examples of how to actually integrate
+understanding of climate risk into transportation decision-making. For example, transportation
+agencies could use a data collection checklist of additional climate and asset information that
+would be helpful when developing or updating asset management systems. This would have
+helped the South Florida pilot project, for instance, which could not easily find data at the asset
+level that would have been helpful for their hydrology and vulnerability analysis (e.g., bridge
+deck elevations, size of openings).
+
+5 Pilot Recommendations for FHWA
+Throughout the pilot process and in their final reports, the 19 pilot teams identified specific
+recommendations for ways FHWA can continue to support state and local transportation
+agencies as they attempt to increase their resilience to extreme weather events and climate
+change. These recommendations fall into five overall categories.
+46
+
+Further refine the Climate Change and Extreme Weather Vulnerability Assessment
+Framework to reflect lessons learned from pilot projects. The vast majority of
+recommendations from the pilots were specific suggestions to improve the content and scope
+of the FHWA Climate Change and Extreme Weather Vulnerability Assessment Framework. For
+example, recommendations include:
+
+
+
+
+
+
+
+
+
+
+
+Expand the “Integrate into Decision-Making” component of the framework to help agencies
+move beyond vulnerability assessments. For example, this may include guidance on using
+risk-based decision-making in engineering, information on how to incorporate climate
+change projections into design, and guidance on how to go about making the difficult
+decisions associated with climate change adaptation (e.g., when do I abandon this road?).
+Move toward an FHWA Adaptation Framework.
+Expand the discussion on the appropriate use of climate data in vulnerability assessments
+and engineering decisions. For example, elaborate on the uncertainty associated with
+climate projections, what climate data can and cannot be used for, a recommended process
+for selecting climate models, and how to interpret projections when the directionality does
+not agree.
+Add guidance on identifying and evaluating adaptation measures.
+Expand the framework to more explicitly address issues related to operations and
+maintenance, as opposed to infrastructure only.
+Include more detail and examples about how to implement vulnerability assessments.
+Incorporate specific lessons learned by pilots into relevant sections of the framework. For
+example, emphasize the importance of stakeholder engagement and note challenges and
+best practices associated with data collection.
+Incorporate examples from this round of pilot projects into the “Examples from Practice”
+call-outs.
+
+Additional details on specific recommendations are provided in the pilot final reports.
+Provide resources to help agencies evaluate the costs and benefits of adaptation strategies.
+These resources could fall within an updated FHWA Framework, but would require sufficient
+new content and research that it merits a separate category. The FHWA pilots program has
+helped agencies assess their vulnerabilities and some have begun to evaluate and implement
+strategies to adapt to those vulnerabilities. However, guidance on the appropriate ways to
+
+47
+
+evaluate the costs and benefits of adaptation strategies is still limited.6 FHWA could help
+advance the state of the practice through the following activities, for example:
+
+
+
+
+
+
+
+Develop an adaptation economic analysis resource guide documenting existing
+resources (e.g., guidance, tools, and data).
+Compile the most useful data related to valuing benefits of adaptation, such as
+databases with monetized values for lost travel time, ecosystem damages, and other
+key data. Pair this with case studies of assessments and results that could be applied to
+other localities or areas and a table of default values.
+Develop a data collection guide with steps that agencies can take in the near-term to
+improve their ability to conduct adaptation benefit/cost analyses in the future. For
+example, this guide would provide data points to collect and explain why they are useful
+in understanding costs, benefits, and effectiveness. For example, frequency and
+duration of weather-related road closures is a helpful data point to understand how
+weather events disrupt the system and what the benefits of avoided disruptions might
+be.
+Develop a framework for economic analysis of adaptation strategies, covering options
+for economic analyses (e.g., benefit/cost ratios, return-on-investment analyses, multicriteria analysis), the pros and cons of different analysis options, and ways to
+incorporate non-quantitative factors in decision-making.
+
+Provide additional tools and resources developed during the pilot projects. Several of the
+pilots developed resources and processes that could serve as useful templates for other
+agencies. FHWA could host these resources on the Virtual Framework for Vulnerability
+Assessment website (the Virtual Framework). In addition, FHWA could help make some of the
+resources more user-friendly for other users. For example, the Tennessee DOT pilot developed
+a method to extract and assemble National Weather Service data to produce historic
+frequencies of extreme weather events. This process could be turned into a tool to make it
+easier for others to replicate.
+Facilitate coordination with U.S. Army Corps of Engineers and other federal agencies. The
+WSDOT pilot, in particular, focused on the opportunities for collaboration between USACE flood
+management studies and DOT flood resilience efforts. In light is the overlap between USACE
+and U.S. DOT work in the area of flood resilience, WSDOT recommends that DOT work with
+USACE to develop a strategy for integrating their planning efforts and reduce regulatory
+
+6
+
+NCHRP 20-101, “Guidelines to Incorporate the Costs and Benefits of Adaptation Measures in Preparation for
+Extreme Weather Events,” is a starting point to address this need and expected to be complete in mid-2017.
+
+48
+
+barriers across the two agencies. Similar opportunities likely exist with other federal agencies,
+so FHWA should continue to participate and engage in inter-agency coordination.
+Help secure additional funding for analysis and implementation of adaptation strategies. The
+nineteen pilot teams are now poised to implement strategies to adapt to projected climate
+changes. However, funding is an oft-cited barrier to changing project design or embarking on
+specific projects—particularly infrastructure-related projects—to address vulnerabilities. Pilot
+teams requested that FHWA provide or otherwise facilitate access to funding to carry on the
+work of the pilots and advance the state of the practice into implementation of adaptation
+strategies.
+
+49
+
+Appendix A – Resources
+This list provides resources used or introduced by the 2013-2015 Climate Resilience Pilots.
+Additional adaptation resources for transportation agencies can be found in the Resource
+Database of the FHWA Virtual Framework at
+https://www.fhwa.dot.gov/environment/climate_change/adaptation/adaptation_framework/r
+esources/.
+Climate Data
+
+
+ADCIRC Model
+The Advanced Circulation model is a two dimensional, depth-integrated, barotropic
+time-dependent, long wave, hydrodynamic circulation model. This model is commonly
+used to predict coastal inundation caused by storm surge. It is a finite-element
+hydrodynamic model that uses the generalized wave-continuity equation formulation
+based on well known, shallow-water equations. This model is excellent for coastal
+regions where complex geometries and bathymetries demand variable resolution and it
+has the ability to include a wide variety of meteorological forcing. http://adcirc.org/
+
+
+
+CMIP Climate Data Processing Tool
+Microsoft Excel tool that translates downscaled climate model data from the DCHP
+database (below) into more relatable terms for transportation planners and engineers.
+http://www.fhwa.dot.gov/environment/climate_change/adaptation/publications_and_t
+ools/
+
+
+
+Downscaled CMIP3 and CMIP5 Climate and Hydrology Projections (DCHP)
+Provides downscaled climate projections at spatial and temporal scales relevant to some
+of the watershed and basin-scale decisions facing water and natural resource managers
+and planners dealing with climate change. Content is based on global climate
+projections from the World Climate Research Programme's (WCRP's) Coupled Model
+Intercomparison Project phase 3 (CMIP3) multi-model dataset referenced in the
+Intergovernmental Panel on Climate Change (IPCC) Fourth Assessment Report and the
+phase 5 (CMIP5) multi-model dataset that informed the IPCC Fifth Assessment. Data are
+available in bias corrected constructed analogs (BCCA) daily climate projections and bias
+corrected spatially downscaled (BCSD) monthly climate projections.
+http://gdo-dcp.ucllnl.org/downscaled_cmip_projections/
+
+
+
+SimCLIM
+Proprietary software with maps, graphs and charts of various aspects of historical and
+future climate change projection data that can be generated spatially for cities,
+counties, provinces, nations and the world.
+http://www.climsystems.com/simclim/
+
+
+
+Sea, Lake, and Overland Surges from Hurricanes (SLOSH) Model
+50
+
+SLOSH is a computerized numerical model developed by the National Weather Service
+to estimate storm surge heights resulting from historical, hypothetical, or predicted
+hurricanes by taking into account the atmospheric pressure, size, forward speed, and
+track data. These parameters are used to create a model of the wind field which drives
+the storm surge.
+http://www.nhc.noaa.gov/surge/slosh.php
+
+
+StreamStats
+Developed by USGS, StreamStats allows users to easily obtain historical records of
+streamflow statistics, drainage-basin characteristics, and other information for userselected sites on streams.
+http://water.usgs.gov/osw/streamstats/
+
+
+
+USGS Geo Data Portal
+Portal that provides a catalog of available downscaled climate projections and other
+large data products that summarize or predict climate and land use conditions.
+http://cida.usgs.gov/gdp/
+
+
+
+Vflo®
+A gridded physics-based hydrologic model used for simulation of flood risks that relies
+on geospatial data to represent the land use and land cover affecting runoff velocities,
+infiltration properties of the soils, channel hydraulic capacity of streams and drainage
+ways, and the terrain slope and drainage direction in each grid cell of the model.
+
+
+
+Sea Level Scenario Sketch Planning Tool
+A tool for Florida funded by the FDOT Office of Policy Planning and developed by the
+University of Florida GeoPlan Center. This is a planning tool for preliminary assessment
+of vulnerable transportation infrastructure due to sea level change.
+http://sls.geoplan.ufl.edu/
+
+
+
+US Army Corps Sea Level Rise Curve Calculator
+This calculator consists of a web-based tool that accepts user input such as project start
+date, selection of an appropriate NOAA long term tide gauge, and project life span, to
+produce a table and graph of the projected sea level changes for the respective project.
+The calculator was developed for the U.S. Army Corps of Engineers (USACE) sea level
+change scenarios, but can also be used to develop scenarios from NOAA (2012) and the
+National Research Council (NRC, 2011).
+http://www.corpsclimate.us/ccaceslcurves.cfm
+
+Other Data
+
+
+USDA’s Risk of Human Desertification Map
+
+51
+
+A map based on an overlay of the global desertification map and a global population
+density map that shows risk of human induced desertification globally.
+http://www.nrcs.usda.gov/wps/portal/nrcs/detail/soils/use/?cid=nrcs142p2_054004.
+
+
+NOAA Atlas 14 Point Precipitation Frequency Estimates
+A tool created by NOAA to give estimates of precipitation frequency in the United
+States. This tool gives 90% confidence intervals and supplementary information about a
+selected location. The precipitation frequency estimates are based on frequency
+analysis of partial duration series.
+http://hdsc.nws.noaa.gov/hdsc/pfds/pfds_map_cont.html?bkmrk=az
+
+
+
+Keetch-Byram Drought Index
+US Forest Service Wildland Fire Assessment System index of number representing the
+net effect of evapotranspiration and precipitation in producing cumulative moisture
+deficiency in deep duff and upper soil layers. It is a continuous index, relating to the
+flammability of organic material in the ground.
+http://www.wfas.net/index.php/keetch-byram-index-moisture--drought-49
+
+
+
+USGS GeoData Portal
+Portal that provides a catalog of available downscaled climate projections and other
+large data products that summarize or predict climate and land use conditions.
+http://cida.usgs.gov/gdp/
+
+Data Collection
+
+
+Mobile Information Collection Application (MICA)
+A mobile reporting application developed by USACE’s Engineering Research and
+Development Center Information Technology Laboratory, provides easy-to-use, costeffective method for fully-digital data collection and transfer from in-the-field. This
+technology has been effectively used to capture the impact of extreme weather events
+such as flooding and hurricanes.
+http://www.erdc.usace.army.mil/Media/FactSheets/FactSheetArticleView/tabid/9254/
+Article/476670/mobile-computing-mica-and-blue-roof.aspx
+
+Vulnerability and Adaptation Methodologies
+
+
+FHWA Climate Change and Extreme Weather Vulnerability Assessment Framework
+A guide for transportation agencies interested in assessing their vulnerability to climate
+change and extreme weather events. It gives an overview of key steps in defining
+objectives and scope, assessing vulnerability, and incorporating results into decision
+making. The framework draws from the experience and work of the agencies involved in
+FHWA's 2010-2011 Climate Change Vulnerability and Risk Assessment Pilot Program.
+52
+
+https://www.fhwa.dot.gov/environment/climate_change/adaptation/publications_and
+_tools/vulnerability_assessment_framework/
+
+
+Hydraulic Engineering Circular (HEC) No. 17: The Design of Encroachments on Flood
+Plains Using Risk Analysis
+HEC 17 provides a methodology for following a least total expected cost (LTEC) design
+process. This document was drafted in the 1980’s to characterize the risk of a particular
+site and build according to risk-based, life-cycle costs. FHWA is in the process of
+updating this document.
+http://www.fhwa.dot.gov/engineering/hydraulics/library_listing.cfm
+
+
+
+Hydraulic Engineering Circular (HEC) No. 25: Highways in the Coastal Environment
+This manual provides guidance for the analysis, planning, design and operation of
+highways in the coastal environment. The focus is on roads and bridges (highways) near
+the coast that are always, or occasionally during storms, influenced by coastal tides and
+waves. It is in the process of being updated to provide guidance on incorporating coastal
+climate change hazards into project design.
+http://www.fhwa.dot.gov/engineering/hydraulics/library_listing.cfm
+
+
+
+MDSHA Hazard Vulnerability Index (HVI)
+The team developed the HVI to evaluate sea level rise and flooding vulnerability of
+roads. HVI is a calculation to compare risk of road segments based on functional class,
+evacuation route designation, and extent and depth of projected flooding. Available in
+Section 2.2.5 of the MDSHA Climate Resilience Pilot final report (October 2014).
+
+
+
+Monte Carlo Simulations
+This is a broad class of computational algorithms that rely on repeated random sampling
+to obtain numerical results; typically, one runs simulations many times over in order to
+obtain the distribution of an unknown probabilistic entity (e.g., the probability of a
+particular hurricane strength and trajectory).
+
+
+
+Procedures to Evaluate Sea Level Change: Impacts Responses and Adaptation
+Provides guidance for understanding the direct and indirect physical and ecological
+effects of projected future sea level change on USACE projects and systems of projects
+and considerations for adapting to those effects.
+http://www.iwr.usace.army.mil/Media/NewsStories/tabid/11418/Article/494304/proce
+dures-to-evaluate-sea-level-change-impacts-responses-and-adaptation.aspx
+
+
+
+U.S. DOT Gulf Coast Phase 2, 11-step General Process for Transportation Facility
+Adaptation Assessments
+This Process is contained in the Gulf Coast Study Phase 2 Task 3.2 Engineering Analysis
+and Assessments Report. It provides a methodology for determining how specific
+transportation assets could be affected by climate change, and assessing which
+53
+
+adaptation options are effective and feasible.
+http://www.fhwa.dot.gov/environment/climate_change/adaptation/ongoing_and_curr
+ent_research/gulf_coast_study/
+
+
+U.S. DOT Vulnerability Assessment Scoring Tool (VAST)
+Microsoft Excel tool that guides the user through the process of conducting an
+indicator-based vulnerability screen of selected assets.
+http://www.fhwa.dot.gov/environment/climate_change/adaptation/publications_and_t
+ools/
+
+Benefit-Cost Guidance and Tools
+
+
+FEMA Benefit-Cost Analysis Tool
+Provides formulas and standard values associated with the mitigation of damage from a
+range of natural hazards, including floods.
+http://www.fema.gov/benefit-cost-analysis
+
+
+
+FHWA Operations Benefit/Cost Analysis Desk Reference
+Guidance from the Federal Highway Administration that provides detailed information
+on how to conduct benefit-cost analysis of operations strategies for transportation
+departments.
+http://ops.fhwa.dot.gov/publications/fhwahop12028/fhwahop12028.pdf
+
+
+
+Hazard Mitigation Cost Effectiveness (HMCE) Tool
+The Federal Transit Administration (FTA) developed this tool to help transit agencies
+determine the long-term cost effectiveness of proposed adaptation measures. Use of
+the tool was required for submission to the Hurricane Sandy Competitive Resilience
+Notice of Funding Availability.
+http://www.fta.dot.gov/documents/FTA-User_Guide-final.pdf
+
+
+
+Hazus
+Hazus was created by FEMA and is a nationally applicable standardized methodology
+that contains models for estimating potential losses from earthquakes, floods, and
+hurricanes. It can estimate physical damage, economic loss, and social impacts from
+current extreme weather events.
+http://www.fema.gov/hazus
+
+
+
+NYSDOT Initial Approach for Economic Valuation of Road-Stream Crossings in the
+Context of Climate Change
+The team assembled information from the literature and previous case studies including
+existing methods for calculating the costs and benefits (economic, social, and
+environmental) of adaptation at road-stream crossings. Available in “Objective 3” and
+Appendix D of the NYSDOT Climate Resilience Pilot final report (December 2015).
+54
+
+
+
+Regional Economic Model, Inc. (REMI)
+A dynamic forecasting and policy analysis tool that can be variously referred to as an
+econometric model, an input-output model, or even a computable general equilibrium
+model.
+http://www.remi.com/
+
+
+
+Transportation Research Board Benefit Cost Analysis Website
+Serves as a useful resource for developing and conducting benefit-cost analysis for
+transportation projects.
+http://bca.transportationeconomics.org/
+
+
+
+Transportation-version of the Coastal Adaptation to Sea level Rise Tool (T-COAST)
+Using economic data, climate projections, and water depth-damage functions
+developed by the USACE, T-COAST can present the total economic loss for specific
+severe weather event scenarios by economic sector.
+http://gis.fhwa.dot.gov/webcast10_coast.asp
+
+
+
+USDOT Economic Analysis Primer
+Guidance from the Federal Highway Administration Office of Asset Management that is
+intended to provide a foundation for understanding the role of economic analysis in
+highway decision making. It is oriented toward State and local officials and is
+nontechnical in its descriptions of economic methods, while providing a full range of
+economic issues that are of potential interest to transportation officials.
+http://www.webpages.uidaho.edu/~mlowry/Teaching/EngineeringEconomy/Suppleme
+ntal/USDOT_Economic_Analysis_Primer.pdf
+
+
+
+USDOT TIGER Methodology
+Guidance including recommended methodology for calculating multiple benefits, such
+as emissions reductions, operating cost savings, travel time savings, and safety; provides
+monetized values for several benefits
+https://www.transportation.gov/sites/dot.gov/files/docs/Tiger_BenefitCost_Analysis_%28BCA%29_Resource_Guide_1.pdf
+https://www.transportation.gov/sites/dot.gov/files/docs/TIGER_BCA_Guidance.pdf
+
+Other Guidance
+
+
+Caltrans Guidance on Incorporating Sea Level Rise
+A guide issued by Caltrans in 2001 for use in planning and development of Project
+Initiation Documents. The guidance emphasizes the incorporation of SLR into Project
+Initiation Documents, which record decisions on scope, cost, and schedule for major
+projects on the State Highway System.
+http://www.dot.ca.gov/ser/downloads/sealevel/guide_incorp_slr.pdf
+
+
+
+MTC (Bay Area) Compilation of 124 adaptation strategies
+55
+
+The MTC pilot project developed a guide that lists at least one adaptation strategy to
+address each of the vulnerabilities identified by the project team across the functional,
+governance, informational, and physical categories. The guide is included in Appendix C
+of the MTC (Bay Area) Pilot Report.
+http://mtc.ca.gov/planning/climate/
+
+
+NCHRP Report 750 – Strategic Issues Facing Transportation, Volume 2: Climate Change,
+Extreme Weather Events, and the Highway System: Practitioner’s Guide and Research
+Report
+Report containing a “Practitioner’s Guide” for adaptation, including a framework for
+adaptation planning and strategy identification, guidance for collecting and interpreting
+climate model projections, possible climate change impacts to the highway system, and
+example adaptation strategies.
+http://www.trb.org/Main/Blurbs/169781.aspx
+
+
+
+New York State DOT Transportation Asset Management Framework
+Comprehensive asset management business structure that enables consistent decisionmaking at all levels of the organization and sets consistent fiscal limits for performance
+across geographic boundaries. It allows NYSDOT to facilitate the best investment for the
+system and the state.
+http://www.fhwa.dot.gov/asset/plans/ny.pdf
+
+Pilot Project Websites
+
+
+Caltrans Project Website
+Final documents and presentations regarding the pilot project.
+http://www.northcoastclimatechange.com
+
+
+
+Hillsborough MPO Pilot Page
+Final documents and documents from stakeholder meetings.
+http://www.planhillsborough.org/hillsborough-transportation-vulnerability-assessmentpilot-project/
+
+
+
+Iowa DOT Project Website
+Abstract and final project documents.
+http://www.northcoastclimatechange.com
+
+
+
+MnDOT Pilot Page
+Description of the pilot project and project documents.
+http://www.dot.state.mn.us/climate/pilotproject.html
+
+
+
+MTC – Adapting to Rising Tides: Bay Area Transportation Climate Resilience
+56
+
+Final documents and other resources from MTC’s two FHWA Climate Resilience pilot
+projects.
+http://www.adaptingtorisingtides.org/project/bay-area-transportation-climateresilience-projects/
+
+
+WSDOT – Climate Change – Adapting and Preparing
+Final documents and other resources from WSDOT’s two FHWA Climate Resilience pilot
+projects.
+http://www.wsdot.wa.gov/SustainableTransportation/adapting.htm
+
+57
+
+

@@ -21,6 +21,7 @@ This module demonstrates how to use the Tableau software suite to perform spatia
 
 ## Learning Goals
 Students will learn how to use spatial data in a powerful mapping software to produce professional visualizations. Furthermore, students will learn how to use the software to answer data-based research questions.
+
 ## Learning Objectives
 -Understand spatial data structure in the context of Tableau.
 -Learn Tableau terminology and understand how Tableau displays data.
@@ -32,13 +33,17 @@ Students will learn how to use spatial data in a powerful mapping software to pr
 
 ### Handouts
 
-[Installing Tableau](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/race_crime_criminal_justice-fall2019-ramiro/Handouts/Installing_Tableau_Handout.pdf)
+Installing Tableau
+<br/>
+Introduction to Tableau
 
 ### Slides
 
-[Mapping with Tableau](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/race_crime_criminal_justice-fall2019-ramiro/Tableau_Mapping/Mapping_with_Tableau.pdf)
+Mapping with Tableau
 
-[Tableau Workshop](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/race_crime_criminal_justice-fall2019-ramiro/Tableau_Mapping/Tableau_Workshop.pdf)
+Day 1: Introduction to Tableau
+<br>
+Day 2: Tableau Workshop
 
 ### Sample Images
 

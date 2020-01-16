@@ -32,6 +32,8 @@ This module will go over components of storytelling and how these components may
 
 ### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/writing_studies-spring2020-poe/slides-storymaps.pdf)
 
+### [Video Tutorial on Knight Lab's StoryMap](https://www.youtube.com/watch?v=X33ud7RYZFg&feature=youtu.be)
+
 ## DTI Consultants
 Created by:<br>
 Cara Marta Messina and Molly Nebiolo

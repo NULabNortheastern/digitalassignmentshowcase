@@ -23,6 +23,7 @@ This module introduces Zotero, a citation management software, including how to 
 ## Learning Objectives
 - Differentiate source types
 - Define several important functions of Zotero and citation management, including libraries, ISBN, tags, and more.
+- Input bibliographic information both manually and automatically into Zotero
 - Transfer a library into a Works Cited page
 
 ## Documents for Module

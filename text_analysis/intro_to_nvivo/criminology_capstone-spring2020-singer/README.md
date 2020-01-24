@@ -1,4 +1,4 @@
-# Text Analysis Using NVivo
+# Literature Reviews Using NVivo
 
 ## Individual Class Info
 CRIM 4949 Senior Capstone Seminar

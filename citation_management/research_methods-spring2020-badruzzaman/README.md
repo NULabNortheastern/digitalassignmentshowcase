@@ -9,7 +9,7 @@ Spring 2020
 <br>
 Number of students: 25
 <br>
-Date and Time: Wednesday, January 29th, 1:35-2:40pm
+Date and Time: Thursday, January 23rd, 1:35-2:40pm
 <br>
 Location: Ryder 435
 
@@ -39,5 +39,5 @@ Lazer, David, and Jason Radford. â€œData Ex Machina: Introduction to Big Data.â€
 <br/>
 Singleton, Royce A., and Bruce C. Straits. Approaches to Social Research. Oxford University Press, 2017
 
-## DTI Consultants
+## DITI Consultants
 Created by Garrett Morrow

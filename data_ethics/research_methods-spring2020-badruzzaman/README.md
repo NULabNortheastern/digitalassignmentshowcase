@@ -1,4 +1,4 @@
-# Citation Management: Introduction to Zotero
+# Digital Ethics: Understanding Big Data and Algorithmic Bias
 
 ## Individual Class Info
 POLS 2399 Research Methods

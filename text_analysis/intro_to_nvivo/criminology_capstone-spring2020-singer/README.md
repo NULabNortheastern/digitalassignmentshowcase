@@ -42,7 +42,6 @@ This module will go over the basics of how to install NVivo and use the software
 
 [Day 1 Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/intro_to_nvivo/criminology_capstone-spring2020-singer/slides-day1.pdf)
 
-[Day 2 Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/intro_to_nvivo/criminology_capstone-spring2020-singer/slides-day2.pdf)
 
 
 ## DTI Consultants

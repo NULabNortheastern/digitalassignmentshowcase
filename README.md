@@ -4,6 +4,8 @@ The goal of the Digital Integration Teaching Initiative (DITI) is to integrate m
 
 This repository is organized by digital tool and within each parent section you will find subfolders organized by course. For example, if you want to check out course modules made for working with text analysis, click on the "text_analysis" folder and you will find the various classes that have used a text analysis module, like an Introduction to Writing Studies course offered Spring 2019 with Professor Lerner ("intro_writing_studies-spring2019-lerner"). Each course folder has a README.md containing basic information about that specific course and the materials for that particular module.
 
+Schedule time during DITI's office hours: http://bit.ly/diti-office-hours
+
 # Quick Links
 
 If you are interested in modules about...

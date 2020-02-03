@@ -5,7 +5,7 @@ Advanced Writing in the Disciplines – Three courses
 <br>
 Cecelia Musselman 
 <br>
-Spring 2002
+Spring 2020
 <br>
 Number of students: 19 in each
 

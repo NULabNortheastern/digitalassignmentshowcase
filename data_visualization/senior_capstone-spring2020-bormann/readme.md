@@ -27,11 +27,11 @@ The second part of this module demonstrates how to use the Tableau software suit
 For the Tableau section, students will learn how to use data in a powerful software to produce professional visualizations. Furthermore, students will learn how to use the software to answer data-based research questions.
 
 ## Learning Objectives
--Understand spatial data structure in the context of Tableau.
--Learn Tableau terminology and understand how Tableau displays data.
--Know how to plot points in Tableau based upon x/y coordinates.
--Understand filtering and visualization options for spatial data.
--Know how to visualize data using other Tableau methods like line or bar graphs.
+- Understand spatial data structure in the context of Tableau.<br>
+- Learn Tableau terminology and understand how Tableau displays data.<br>
+- Know how to plot points in Tableau based upon x/y coordinates.<br>
+- Understand filtering and visualization options for spatial data.<br>
+- Know how to visualize data using other Tableau methods like line or bar graphs.<br>
 
 ## Documents for Module
 

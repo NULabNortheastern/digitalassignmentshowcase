@@ -47,5 +47,5 @@ For the Tableau section, students will learn how to use data in a powerful softw
 
 ## DTI Consultants
 Created by:<br>
-[Garrett Morrow](morrow.g@husky.neu.edu)
-[Cara Marta Messina](messina.c@husky.neu.edu
+[Garrett Morrow](morrow.g@husky.neu.edu)<br>
+[Cara Marta Messina](messina.c@husky.neu.edu)

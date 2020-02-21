@@ -1,19 +1,6 @@
 # Introduction to WordPress
 
 ## Individual Class Info
-ENGW1111-02 First Year Writing
-<br>
-Instructor Name: Isabel Sobral Campos
-<br>
-Spring 2020
-<br>
-Number of students: 5
-<br>
-Date and Time: Friday, February 21, 1:35-3:15pm
-<br>
-Location: Stetson East 020<br>
-<br>
-<br>
 ENGW1111-20 First Year Writing
 <br>
 Instructor Name: Isabel Sobral Campos
@@ -21,6 +8,19 @@ Instructor Name: Isabel Sobral Campos
 Spring 2020
 <br>
 Number of students: 15
+<br>
+Date and Time: Friday, February 21, 1:35-3:15pm
+<br>
+Location: Stetson East 020<br>
+<br>
+<br>
+ENGW1111-03 First Year Writing
+<br>
+Instructor Name: Isabel Sobral Campos
+<br>
+Spring 2020
+<br>
+Number of students: 5
 <br>
 Date and Time: Friday, February 21, 3:30-5:05pm
 <br>

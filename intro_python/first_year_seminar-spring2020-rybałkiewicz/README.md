@@ -10,6 +10,9 @@ Introduction to Python
 - Statisical Summaries
 - Visualizations
 
+## Coding with Azure Notebook
+We will be coding with Azure Notebook. Please use the [link to this course's notebook repository](https://notebooks.azure.com/messina-c/projects/insh-1000-python-introduction). At this notebook, please click **clone this repository** to add it to your local Azure Notebook. You will then be able to code in Azure's cloud in this workshop's Jupyter Notebook, being able to change & run the coding cells.
+
 ## Individual Class Info
 INSH1000 First Year Seminar for CSSH Students
 <br>

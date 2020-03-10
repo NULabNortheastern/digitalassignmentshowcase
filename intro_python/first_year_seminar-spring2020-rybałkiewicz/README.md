@@ -40,6 +40,8 @@ This module will go over the basics of ethical data collection and analysis as w
 
 ## Documents for Module
 
+### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_python/first_year_seminar-spring2020-ryba%C5%82kiewicz/intro_python_handout.pdf)
+
 ### [Azure Notebook](https://notebooks.azure.com/messina-c/projects/insh-1000-python-introduction)
 
 ### [Jupyter Notebook File](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_python/first_year_seminar-spring2020-ryba%C5%82kiewicz/intro_to_python.ipynb)

@@ -25,6 +25,12 @@ This module will go creating and designing a website using Wix. It demonstrates 
 
 ## Documents for Module
 
+### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/first_year_writing-spring2020-pearson/handout.pdf)
+
+### Slides
+[Day 1](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/first_year_writing-spring2020-pearson/slides-day1.pdf)
+<br/>
+[Day 2](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/first_year_writing-spring2020-pearson/slides-day2.pdf)
 
 ## DTI Consultants
 Created by:

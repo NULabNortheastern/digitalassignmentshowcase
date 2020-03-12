@@ -32,6 +32,8 @@ This module introduces Zotero, a citation management software, including how to 
 
 ### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/citation_management/internationalrelations-spring2020-robson/handout.pdf)
 
+### [Online Zotero Module](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/citation_management/internationalrelations-spring2020-robson/Zotero-online_module.pdf)
+
 ### Readings Used
 Moravcsik, Andrew. “Taking Preferences Seriously: A Liberal Theory of International Politics.” International Organization, vol. 51, no. 4, 1997, pp. 513–553.
 <br/>

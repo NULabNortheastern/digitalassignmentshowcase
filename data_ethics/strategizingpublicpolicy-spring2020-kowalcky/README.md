@@ -34,7 +34,7 @@ This module will discuss data ethics, big data, and the biases embedded in the e
 
 ### [Slides]()
 
-### [Handout]()
+### [Activity Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_ethics/strategizingpublicpolicy-spring2020-kowalcky/handout-adopt_or_not.pdf)
 
 ### [Readings](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/data_ethics/strategizingpublicpolicy-spring2020-kowalcky/Docs):
 Brauneis, Robert, and Ellen P. Goodman. “Algorithmic Transparency for the Smart City.” Yale Journal of Law and Technology, vol. 20, 2018, pp. 103–76.<br>

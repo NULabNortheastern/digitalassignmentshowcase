@@ -24,7 +24,7 @@ This module goes over computational text analysis for a corpus of texts, specifi
 
 ## Documents for Module
 
-### [Slides]()
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/research_methods-spring2020_badruzzaman/slides.pdf)
 
 ### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/research_methods-spring2020_badruzzaman/handout.pdf)
 

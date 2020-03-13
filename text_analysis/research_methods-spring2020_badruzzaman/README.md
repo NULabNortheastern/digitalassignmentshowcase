@@ -33,5 +33,7 @@ This module goes over computational text analysis for a corpus of texts, specifi
 
 [Corpus .zip](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/research_methods-spring2020_badruzzaman/corpus_SOTU/corpus_SOTU.zip)
 
+[Stopwords](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/research_methods-spring2020_badruzzaman/NLTK_English_stopwords.txt)
+
 ## DTI Consultants
 Created by Cara Marta Messina and Garrett Morrow

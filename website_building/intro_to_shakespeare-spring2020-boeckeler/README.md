@@ -20,7 +20,7 @@ This module is an introduction to the WordPress website building platform and di
 
 ## Documents for Module
 
-### [Slides](
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/intro_to_shakespeare-spring2020-boeckeler/slides.pdf)
 
 ## DTI Consultants
 Created by:

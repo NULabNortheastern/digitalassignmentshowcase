@@ -1,12 +1,12 @@
 # Introduction to Digital Data Ethics and Python
 This module has been altered to accomodate a virtual learning experience during the COVID-19 pandemic. Please follow these instructions to properly move through the module:
 1. Open the [SLIDES on Google Drive and click "Present" to go through them](https://docs.google.com/presentation/d/1vRaB_5VXwsJlqFCQZZaPB8UHQKjIITuVat-TSnFGGWU/edit?usp=sharing). 
-	a. There is also a [PDF available of these slides here]
-	b. The slides have ALL the instructions
+	- There is also a [PDF available of these slides here]
+	- The slides have ALL the instructions
 2. First Activity: Adopt or Not? Follow the directions on the slides (pgs 12-16)
-	a. The [Adopt or Not handout is available here]
+	- The [Adopt or Not handout is available here]. Link is also on the slides
 3. Second Activity: Introduction to Python. Go to this course's notebook and clone the folder. Instructions are available on the slides from pgs 17-22
-	a. The course's [Azure Notebooks folder is available here](https://notebooks.azure.com/messina-c/projects/insh-1000-python-intro-SA). Please sign into Microsoft using your .northeastern.edu account, clone the repository, and go through the "intro_to_python.ipynb" file.
+	- The course's [Azure Notebooks folder is available here](https://notebooks.azure.com/messina-c/projects/insh-1000-python-intro-SA). Please sign into Microsoft using your .northeastern.edu account, clone the repository, and go through the "intro_to_python.ipynb" file.
 4. Questions? Please contact Cara Marta Messina!
 
 Part 1: Data Ethics

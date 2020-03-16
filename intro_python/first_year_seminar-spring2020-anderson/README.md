@@ -1,5 +1,13 @@
 # Introduction to Digital Data Ethics and Python
-This module has been altered to accomodate a virtual learning experience during the COVID-19 pandemic. 
+This module has been altered to accomodate a virtual learning experience during the COVID-19 pandemic. Please follow these instructions to properly move through the module:
+1. Open the [SLIDES on Google Drive and click "Present" to go through them](https://docs.google.com/presentation/d/1vRaB_5VXwsJlqFCQZZaPB8UHQKjIITuVat-TSnFGGWU/edit?usp=sharing). 
+	a. There is also a [PDF available of these slides here]
+	b. The slides have ALL the instructions
+2. First Activity: Adopt or Not? Follow the directions on the slides (pgs 12-16)
+	a. The [Adopt or Not handout is available here]
+3. Second Activity: Introduction to Python. Go to this course's notebook and clone the folder. Instructions are available on the slides from pgs 17-22
+	a. The course's [Azure Notebooks folder is available here](https://notebooks.azure.com/messina-c/projects/insh-1000-python-intro-SA). Please sign into Microsoft using your .northeastern.edu account, clone the repository, and go through the "intro_to_python.ipynb" file.
+4. Questions? Please contact Cara Marta Messina!
 
 Part 1: Data Ethics
 - Digital data collection
@@ -12,7 +20,7 @@ Part 2: Introduction to Python
 - Visualizations
 
 ## Coding with Azure Notebook
-We will be coding with Azure Notebook. Please use the [link to this course's notebook repository](https://notebooks.azure.com/messina-c/projects/insh-1000-python-introduction). At this notebook, please click **clone this repository** to add it to your local Azure Notebook. You will then be able to code in Azure's cloud in this workshop's Jupyter Notebook, being able to change & run the coding cells.
+We will be coding with Azure Notebook. Please use the [link to this course's notebook repository](https://notebooks.azure.com/messina-c/projects/insh-1000-python-intro-SA). At this notebook, please click **clone this repository** to add it to your local Azure Notebook. You will then be able to code in Azure's cloud in this workshop's Jupyter Notebook, being able to change & run the coding cells.
 
 ## Individual Class Info
 INSH1000 First Year Seminar for CSSH Students
@@ -64,4 +72,4 @@ The comma separated file has five variables (columns):
 	- 3 = high income: >= $70,000
 
 ## DTI Consultants
-Created by Laura Nelson and Alexis Yohros
+Created by Laura Nelson, Cara Marta Messina, and Alexis Yohros

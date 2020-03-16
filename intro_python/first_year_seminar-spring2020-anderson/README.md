@@ -1,7 +1,7 @@
 # Introduction to Digital Data Ethics and Python
 This module has been altered to accomodate a virtual learning experience during the COVID-19 pandemic. Please follow these instructions to properly move through the module:
 1. Open the [SLIDES on Google Drive and click "Present" to go through them](https://docs.google.com/presentation/d/1vRaB_5VXwsJlqFCQZZaPB8UHQKjIITuVat-TSnFGGWU/edit?usp=sharing). 
-	- There is also a [PDF available of these slides here]
+	- There is also a [PDF available of these slides here](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_python/first_year_seminar-spring2020-anderson/slides.pdf)
 	- The slides have ALL the instructions
 2. First Activity: Adopt or Not? Follow the directions on the slides (pgs 12-16)
 	- The [Adopt or Not handout is available here](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_python/first_year_seminar-spring2020-anderson/adopt-or-not-handout.pdf). Link is also on the slides

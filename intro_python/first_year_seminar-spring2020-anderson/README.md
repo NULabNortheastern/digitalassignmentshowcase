@@ -1,5 +1,5 @@
 # Introduction to Digital Data Ethics and Python
-This module has been altered to accomodate a virtual learning experience during the COVID-19 pandemic. Please follow these instructions to properly move through the module:
+This module has been altered to accommodate a virtual learning experience during the COVID-19 pandemic. Please follow these instructions to properly move through the module:
 
 ## INSTRUCTIONS FOR MODULE
 1. Open the [SLIDES on Google Drive and click "Present" to go through them](https://docs.google.com/presentation/d/1vRaB_5VXwsJlqFCQZZaPB8UHQKjIITuVat-TSnFGGWU/edit?usp=sharing). 

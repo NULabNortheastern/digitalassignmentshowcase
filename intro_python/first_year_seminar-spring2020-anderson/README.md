@@ -7,7 +7,7 @@ This module has been altered to accomodate a virtual learning experience during 
 	- The slides have ALL the instructions
 2. First Activity: Adopt or Not? Follow the directions on the slides (pgs 12-16)
 	- The [Adopt or Not handout is available here](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_python/first_year_seminar-spring2020-anderson/adopt-or-not-handout.pdf). Link is also on the slides
-3. Second Activity (Optional): Introduction to Python. Go to this course's notebook and clone the folder. Instructions are available on the slides from pgs 17-22
+3. Second Activity (<strong>Optional</strong>): Introduction to Python. Go to this course's notebook and clone the folder. Instructions are available on the slides from pgs 17-22
 	- The course's [Azure Notebooks folder is available here](https://notebooks.azure.com/messina-c/projects/insh-1000-python-intro-SA). Please sign into Microsoft using your .northeastern.edu account, clone the repository, and go through the "intro_to_python.ipynb" file.
 4. Questions? Please contact Cara Marta Messina!
 

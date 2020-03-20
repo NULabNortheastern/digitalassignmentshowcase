@@ -1,7 +1,7 @@
 # Spatial Mapping and Storytelling 
 Telling a story through mapping using [Knight Lab’s StoryMap](https://storymap.knightlab.com/) tool. Due to the COVID-19, this module is now a virtual, online version of the workshop. Please follow through the workshop in this order:
 1. Watch this [Video Tutorial on Knight Lab's StoryMap](https://www.youtube.com/watch?v=X33ud7RYZFg&feature=youtu.be)
-2. Activity: Tell your Northeastern Story! Go through [these slides for step-by-step instructions for making your map](https://docs.google.com/presentation/d/1dySkuxJIOwWGGkAC_M9bzdOtGe9SPl_75VCteHVSAsQ/edit?usp=sharing) to create a map for your assignment; your assignment is to create a StoryMap representing your journey at Northeastern. More details are in the slides.
+2. <strong>Activity</strong>: Tell your Northeastern Story! Go through [these slides for step-by-step instructions for making your map](https://docs.google.com/presentation/d/1dySkuxJIOwWGGkAC_M9bzdOtGe9SPl_75VCteHVSAsQ/edit?usp=sharing) to create a map for your assignment; your assignment is to create a StoryMap representing your journey at Northeastern. More details are in the slides.
       - [Slides are available as a PDF for download here](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/first_year_writing-spring2020-nardone/slides-storymaps.pdf)
 3. Post your practice StoryMap URL on Canvas
 

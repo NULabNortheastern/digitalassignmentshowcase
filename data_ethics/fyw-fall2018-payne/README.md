@@ -27,7 +27,7 @@ This module This one in-class workshop introduces students to the concept of inf
 
 ## Documents for Module
 
-### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/inclusive_information_systems/fyw-fall2018-payne/Payne-FYW.pdf)
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_ethics/fyw-fall2018-payne/Payne-FYW.pdf)
 
 ## DTI Consultants
 Created by Cara Marta Messina

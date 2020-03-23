@@ -32,13 +32,13 @@ Students will learn how to use data in a powerful software to produce profession
 
 ### Handouts
 
-[Installing Tableau]()
+[Installing Tableau](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_visualization/research_methods-spring2020-denver/handout-installing-tableau.pdf)
 
 ### Slides
 [Slides]()
 
 ### Data
-[Data Folder]()
+[Data Folder](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/data_visualization/research_methods-spring2020-denver/Data)
 
 ## DTI Consultants
 Created by:<br>

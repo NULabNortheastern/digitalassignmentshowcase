@@ -1,5 +1,5 @@
 # Digital and Data Ethics
-This module has been tailored for a sychronous virtual workshop during the COVID-19 pandemic.
+This module has been tailored for a sychronous virtual workshop during the COVID-19 pandemic. Follow along the [slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_ethics/philosophy-spring2020-shorey/slides.pdf)
 
 ## Individual Class Info
 PHIL 1102: Intro to Contemporary Moral issues & PHIL 1112: Debating Ethical Controversies

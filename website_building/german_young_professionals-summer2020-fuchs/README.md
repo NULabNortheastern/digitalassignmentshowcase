@@ -2,7 +2,7 @@
 
 ## Online Workshop Instructions
 Due to the pandemic, this workshop is available online. Please follow the instructions to walk through the activity and create your own Wix website!
-- Go through the [Google Slides](https://bit.ly/diti-summer2020-fuchs-slides). PDF available [here]((https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/german_young_professionals-summer2020-fuchs/Intro-to-Wix-Slides.pdf) (no video in PDF).
+- Go through the [Google Slides](https://bit.ly/diti-summer2020-fuchs-slides). PDF available [here](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/german_young_professionals-summer2020-fuchs/Intro-to-Wix-Slides.pdf) (no video in PDF).
 - Create your own [Wix website](https://www.wix.com/)
 - Edit your homepage and add an "About Me" page and a "Professional Experience" page
 - Publish your Wix site to share with Prof. Fuchs

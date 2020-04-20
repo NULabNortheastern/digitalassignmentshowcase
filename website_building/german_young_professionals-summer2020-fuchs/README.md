@@ -36,6 +36,8 @@ This module will go creating and designing a website using Wix. It demonstrates 
 ### Handouts
 
 ### Slides 
+- [Interactive Google Slides](http://bitly.com/diti-summer2020-fuchs-slides)
+- PDF of slides
 
 ## DTI Consultants
 Created by:

@@ -1,14 +1,13 @@
 # Introduction to WordPress
 
-## Online Workshop 
+## Online Workshop Instructions
 Due to the pandemic, this workshop is available online. Please follow the instructions to walk through the activity and create your own Wix website!
-- Go through the [Google Slides](https://bit.ly/diti-summer2020-fuchs-slides)
-- Create your own Wix website
+- Go through the [Google Slides](https://bit.ly/diti-summer2020-fuchs-slides). PDF available [here]((https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/german_young_professionals-summer2020-fuchs/Intro-to-Wix-Slides.pdf) (no video in PDF).
+- Create your own [Wix website](https://www.wix.com/)
 - Edit your homepage and add an "About Me" page and a "Professional Experience" page
 - Publish your Wix site to share with Prof. Fuchs
 
 If you are interested in using WordPress, follow along [this Introduction to Wordpress PDF](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_wordpress/first_year_writing-spring2020-nardone/slides.pdf) created for another course. Please contact us if this link is broken.
-
 
 ## Individual Class Info
 GERMAN 3800
@@ -33,11 +32,11 @@ This module will go creating and designing a website using Wix. It demonstrates 
 
 ## Documents for Module
 
-### Handouts
+### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/german_young_professionals-summer2020-fuchs/handout.pdf) 
 
 ### Slides 
 - [Interactive Google Slides](http://bitly.com/diti-summer2020-fuchs-slides)
-- PDF of slides
+- [PDF of slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/german_young_professionals-summer2020-fuchs/Intro-to-Wix-Slides.pdf)
 
 ## DTI Consultants
 Created by:

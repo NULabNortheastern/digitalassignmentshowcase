@@ -36,7 +36,7 @@ If you are a Northeastern faculty member interested in working with the Digital 
 - Sarah Connell, Digital Integration Teaching Initiative Co-Director. sa [dot] connell [at] northeastern [dot] edu
 - Laura Nelson, Digital Integration Teaching Initiative Co-Director. l [dot] nelson [at] northeastern [dot] edu
 - Jonathan Sullivan, DITI Research Fellow. Sullivan [dot] jonat [at] northeastern [dot] edu
-
+- Colleen Nugent, DITI Research Fellow. Nugent [dot] c [at] northeastern [dot] edu
 
 # Contributors
 These resources and materials have been created by Sarah Connell, Cara Marta Messina, Laura Nelson, Alexis Yohros, Molly Nebiolo, Garrett Morrow, Laura Johnson, and Jeffrey Sternberg. 

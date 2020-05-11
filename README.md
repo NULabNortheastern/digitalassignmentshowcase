@@ -14,7 +14,7 @@ If you are interested in modules about...
 -Text Analysis, [click here](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/text_analysis)
 <br>
 <br>
--Computational Social Sciences, [click here](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/data_ethics/intro_computational_social_science)
+-Computational Social Science, [click here](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/data_ethics/intro_computational_social_science)
 <br>
 <br>
 -Data Visualization, [click here](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/data_visualization)

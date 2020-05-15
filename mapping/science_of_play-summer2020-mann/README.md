@@ -50,23 +50,23 @@ This module will go over components of storytelling and how these components may
 <h2>Materials</h2>
 
 
-<h3>**[Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/science_of_play-summer2020-mann/handout.pdf)**</h3>
+<h3>[Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/science_of_play-summer2020-mann/handout.pdf)</h3>
 
 
-<h3>**[Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/science_of_play-summer2020-mann/slides-storymaps.pdf)**</h3>
+<h3>[Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/science_of_play-summer2020-mann/slides-storymaps.pdf)</h3>
 
 
-<h3>**Sample Map**</h3>
+<h3>Sample Map</h3>
 
 
 The[ “Boston Playground” StoryMap](https://uploads.knightlab.com/storymapjs/cb6cc275d5edffc5016e0757d6c37d3d/boston-playgrounds)
 
-<h3>**Sample Data**</h3>
+<h3>Sample Data</h3>
 
 
 In the sample data are a [series of images of Boston playgrounds](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/mapping/science_of_play-summer2020-mann/data) and a[ document with a list of playgrounds, their locations, descriptions from websites, and the image sources](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/science_of_play-summer2019-mann/data/parks_locations_and_descriptions.pdf).
 
-<h2>**DTI Consultants**</h3>
+<h2>DTI Consultants</h3>
 
 
 Jonathan Sullivan

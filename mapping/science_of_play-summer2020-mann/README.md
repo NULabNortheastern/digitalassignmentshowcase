@@ -1,8 +1,4 @@
-﻿
-<h2>Public-Facing Documentation</h2>
-
-
-<h2>Making Story Maps Using Knight Lab</h2>
+﻿<h1>Making Story Maps Using Knight Lab</h1>
 
 
 Telling a story through mapping using[ Knight Lab’s StoryMap](https://storymap.knightlab.com/) tool. Due to the COVID-19, this module is now a virtual, online version of the workshop. Please follow through the workshop in this order:
@@ -13,7 +9,7 @@ Telling a story through mapping using[ Knight Lab’s StoryMap](https://storymap
 2. Go through[ these step-by-step slide instructions](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/writing_studies-spring2020-poe/slides-storymaps.pdf) to create a map for your assignment; your assignment is to create a StoryMap representing a playground community scan. More details are in the slides.
 3. Post your practice StoryMap URL in the GoogleDoc provided by Emily.
 
-<h3>Individual Class Info</h3>
+<h2>Individual Class Info</h2>
 
 
 HUSV 2500 - Science of Play
@@ -26,12 +22,12 @@ Location - online
 
 Number of students - 19
 
-<h3>Summary of Module</h3>
+<h2>Summary of Module</h2>
 
 
 This module will go over components of storytelling and how these components may be integrated in maps. Specifically, this in-class workshop will teach students how to use [Knight Lab’s StoryMaps ](https://storymap.knightlab.com/)web-browser application by providing step-by-step instructions, a sample map, and sample data for students to use to practice building their own maps. 
 
-<h3>Learning Goals</h3>
+<h2>Learning Goals</h2>
 
 
 
@@ -41,7 +37,7 @@ This module will go over components of storytelling and how these components may
 *   Understanding how to collect data for mapping
 *   Understanding KnightLab StoryMap’s interface and where it gathers its information
 
-<h3>Learning Objectives</h3>
+<h2>Learning Objectives</h2>
 
 
 
@@ -51,26 +47,26 @@ This module will go over components of storytelling and how these components may
 *   Implement data into KnightLab StoryMaps, including location information, images, and text
 *   Navigate StoryMaps’ map markers and location-finding system
 
-<h3>Materials</h3>
+<h2>Materials</h2>
 
 
-<h4>**[Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/science_of_play-summer2020-mann/handout.pdf)**</h4>
+<h3>**[Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/science_of_play-summer2020-mann/handout.pdf)**</h3>
 
 
-<h4>**[Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/science_of_play-summer2020-mann/slides-storymaps.pdf)**</h4>
+<h3>**[Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/science_of_play-summer2020-mann/slides-storymaps.pdf)**</h3>
 
 
-<h4>**Sample Map**</h4>
+<h3>**Sample Map**</h3>
 
 
 The[ “Boston Playground” StoryMap](https://uploads.knightlab.com/storymapjs/cb6cc275d5edffc5016e0757d6c37d3d/boston-playgrounds)
 
-<h4>**Sample Data**</h4>
+<h3>**Sample Data**</h3>
 
 
 In the sample data are a [series of images of Boston playgrounds](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/mapping/science_of_play-summer2020-mann/data) and a[ document with a list of playgrounds, their locations, descriptions from websites, and the image sources](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/science_of_play-summer2019-mann/data/parks_locations_and_descriptions.pdf).
 
-<h3>**DTI Consultants**</h3>
+<h2>**DTI Consultants**</h3>
 
 
 Jonathan Sullivan

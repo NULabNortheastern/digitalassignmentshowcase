@@ -50,10 +50,10 @@ This module will go over components of storytelling and how these components may
 <h2>Materials</h2>
 
 
-<h3>[Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/science_of_play-summer2020-mann/handout.pdf)</h3>
+### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/science_of_play-summer2020-mann/handout.pdf)
 
 
-<h3>[Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/science_of_play-summer2020-mann/slides-storymaps.pdf)</h3>
+###[Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/science_of_play-summer2020-mann/slides-storymaps.pdf)</h3>
 
 
 <h3>Sample Map</h3>

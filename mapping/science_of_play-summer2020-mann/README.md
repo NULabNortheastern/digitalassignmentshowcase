@@ -6,7 +6,7 @@ Telling a story through mapping using[ Knight Lab’s StoryMap](https://storymap
 
 
 1. Watch this[ Video Tutorial on Knight Lab's StoryMap](https://www.youtube.com/watch?v=X33ud7RYZFg&feature=youtu.be)
-2. Go through[ these step-by-step slide instructions](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/writing_studies-spring2020-poe/slides-storymaps.pdf) to create a map for your assignment; your assignment is to create a StoryMap representing a playground community scan. More details are in the slides.
+2. Go through[ these step-by-step slide instructions](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/science_of_play-summer2020-mann/slides-storymaps.pdf) to create a map for your assignment; your assignment is to create a StoryMap representing a playground community scan. More details are in the slides.
 3. Post your practice StoryMap URL in the GoogleDoc provided by Emily.
 
 <h2>Individual Class Info</h2>
@@ -64,7 +64,7 @@ The[ “Boston Playground” StoryMap](https://uploads.knightlab.com/storymapjs/
 <h3>Sample Data</h3>
 
 
-In the sample data are a [series of images of Boston playgrounds](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/mapping/science_of_play-summer2020-mann/data) and a[ document with a list of playgrounds, their locations, descriptions from websites, and the image sources](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/science_of_play-summer2019-mann/data/parks_locations_and_descriptions.pdf).
+In the sample data are a [series of images of Boston playgrounds](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/mapping/science_of_play-summer2020-mann/data) and a[ document with a list of playgrounds, their locations, descriptions from websites, and the image sources](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/science_of_play-summer2020-mann/data/parks_locations_and_descriptions.pdf).
 
 <h2>DTI Consultants</h3>
 

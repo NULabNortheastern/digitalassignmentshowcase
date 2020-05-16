@@ -24,7 +24,7 @@ Number of students - 19
 <h2>Summary of Module</h2>
 
 
-This module will go over components of storytelling and how these components may be integrated in maps. Specifically, this workshop will teach students how to use [Knight Lab’s StoryMaps ](https://storymap.knightlab.com/)web-browser application by providing step-by-step instructions, a sample map, and sample data for students to use to practice building their own maps. 
+This module will go over components of storytelling and how these components may be integrated in maps. Specifically, this workshop will teach students how to use [Knight Lab’s StoryMaps] (https://storymap.knightlab.com/)web-browser application by providing step-by-step instructions, a sample map, and sample data for students to use to practice building their own maps. 
 
 <h2>Learning Goals</h2>
 
@@ -58,7 +58,7 @@ This module will go over components of storytelling and how these components may
 <h3>Sample Map</h3>
 
 
-The[ “Boston Playground” StoryMap](https://uploads.knightlab.com/storymapjs/cb6cc275d5edffc5016e0757d6c37d3d/boston-playgrounds)
+The [“Boston Playground” StoryMap](https://uploads.knightlab.com/storymapjs/cb6cc275d5edffc5016e0757d6c37d3d/boston-playgrounds)
 
 <h3>Sample Data</h3>
 
@@ -69,6 +69,8 @@ In the sample data are a [series of images of Boston playgrounds](https://github
 
 
 Jonathan Sullivan
+
 Colleen Nugent
+
 Milan Skobic
 

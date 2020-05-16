@@ -1,4 +1,4 @@
-﻿<h1>Making Story Maps Using Knight Lab StoryMap</h1>
+﻿<h1>Storytelling with Mapping: KnightLab StoryMap</h1>
 
 
 Telling a story through mapping using[ Knight Lab’s StoryMap](https://storymap.knightlab.com/) tool. Due to COVID-19, this module is now a virtual, online version of the workshop. Please follow through the workshop in this order:
@@ -63,7 +63,7 @@ The [“Boston Playground” StoryMap](https://uploads.knightlab.com/storymapjs/
 <h3>Sample Data</h3>
 
 
-In the sample data are a [series of images of Boston playgrounds](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/mapping/science_of_play-summer2020-mann/data) and a[ document with a list of playgrounds, their locations, descriptions from websites, and the image sources](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/science_of_play-summer2020-mann/data/parks_locations_and_descriptions.pdf).
+In the sample data are a [series of images of Boston playgrounds](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/mapping/science_of_play-summer2020-mann/data) and a [document with a list of playgrounds, their locations, descriptions from websites, and the image sources](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/science_of_play-summer2020-mann/data/parks_locations_and_descriptions.pdf).
 
 <h2>DTI Consultants</h3>
 

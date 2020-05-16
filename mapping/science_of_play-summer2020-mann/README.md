@@ -5,8 +5,8 @@ Telling a story through mapping using[ Knight Lab’s StoryMap](https://storymap
 
 
 
-1. Watch this[ Video Tutorial on Knight Lab's StoryMap](https://www.youtube.com/watch?v=X33ud7RYZFg&feature=youtu.be)
-2. Go through[ these step-by-step slide instructions](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/science_of_play-summer2020-mann/slides-storymaps.pdf) to create a map for your assignment; your assignment is to create a StoryMap representing a playground community scan. More details are in the slides.
+1. Watch this [Video Tutorial on Knight Lab's StoryMap](https://www.youtube.com/watch?v=X33ud7RYZFg&feature=youtu.be)
+2. Go through [these step-by-step slide instructions](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/science_of_play-summer2020-mann/slides-storymaps.pdf) to create a map for your assignment; your assignment is to create a StoryMap representing a playground community scan. More details are in the slides.
 
 <h2>Individual Class Info</h2>
 

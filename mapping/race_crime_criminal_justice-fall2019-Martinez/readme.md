@@ -49,7 +49,7 @@ Day 2: Tableau Workshop
 
 [Sample: Homicides Over Time Graph](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/race_crime_criminal_justice-fall2019-Martinez/Sample_Images/Tableau_Murders_Over_Time_Graph.png)
 
-[Sample: Homicides Over Time Map](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/race_crime_criminal_justice-fall2019-ramiro/Sample_Images/Tableau_Presentation_Export.jpg)
+[Sample: Homicides Over Time Map](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/race_crime_criminal_justice-fall2019-Martinez/Sample_Images/Tableau_Presentation_Export.jpg)
 
 ### Data
 Please see Professor Ramiro Martinez for data information.

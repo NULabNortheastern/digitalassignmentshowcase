@@ -1,4 +1,4 @@
-# Introduction to WordPress
+# Introduction to Wix
 
 ## Individual Class Info
 ENGW1111 First Year Writing

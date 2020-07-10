@@ -5,13 +5,13 @@ POLS 7387 Global Governance
 <br>
 Instructor Name: Denise Garcia
 <br>
-Fall 2019
+Fall 2020
 <br>
 Number of students: 24
 <br>
 Date and Time: Thursday 6:00-8:00
 <br>
-Location: TBD <br>
+Location: Richards Hall 275 <br>
 
 ## Summary of Module
 This module demonstrates how to use excel to retrieve and clean data from the United Nations Sustainable Goals database.
@@ -30,13 +30,13 @@ This module demonstrates how to use excel to retrieve and clean data from the Un
 
 ### Handouts
 
-[Installing Excel for Northeastern students](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/global_governance-fall2019-garcia/handout-install_excel.pdf)
+[Installing Excel for Northeastern students](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/global_governance-fall2020-garcia/handout-install_excel.pdf)
 <br>
-[Data Preparation in Excel](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/global_governance-fall2019-garcia/handout-data_prep_excel.pdf)
+[Data Preparation in Excel](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/global_governance-fall2020-garcia/handout-data_prep_excel.pdf)
 
 ### Slides
 
-[Data Collection and Preparing for Mapping](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/global_governance-fall2019-garcia/slides.pdf)
+[Data Collection and Preparing for Mapping](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/global_governance-fall2020-garcia/slides.pdf)
 
 ### Data
 Selected datasets collected from:

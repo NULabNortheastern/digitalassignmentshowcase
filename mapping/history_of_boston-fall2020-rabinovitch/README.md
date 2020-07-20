@@ -36,7 +36,7 @@ This module will review components of storytelling and how they may be integrate
 <h2>Materials</h2>
 
 * [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/history_of_boston-fall2020-rabinovitch/Handout.pdf)
-* [Step-by-Step Instructions](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/history_of_boston-fall2020-rabinovitch/Slides.pdf)
+* [Presentation](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/history_of_boston-fall2020-rabinovitch/Slides.pdf)
 * [Video Tutorial on KnightLab's StoryMap](https://www.youtube.com/watch?v=X33ud7RYZFg&feature=youtu.be)
 
 <h2>DITI Consultants</h2>

@@ -29,17 +29,17 @@ This module will ask students to choose one person to interview, transcribe that
 
 ## Documents for Module
 
-### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_analysis/soc_research_methods-fall2019-marshall/day2-NVivo/slides-NVivo.pdf)
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/intro_to_nvivo/research_methods-summer2020-st_louis/Slides%20NVivo.pdf)
 
 ### Handouts
 [Installing NVivo](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_analysis/soc_research_methods-fall2019-marshall/day2-NVivo/handout-installingNVivo.pdf)
 <br/>
-[Intro to NVivo for Qualitative Coding](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_analysis/soc_research_methods-fall2019-marshall/day2-NVivo/handout-NVivo.pdf)
+[Intro to NVivo for Qualitative Coding](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/intro_to_nvivo/research_methods-summer2020-st_louis/handout-installingNVivo.pdf)
 
 ### Sample Data
-[Sample Transcript 1](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_analysis/soc_research_methods-fall2019-marshall/day2-NVivo/sample-interview-transcript1.pdf)
+[Sample Transcript 1](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/intro_to_nvivo/research_methods-summer2020-st_louis/sample-interview-transcript1.pdf)
 <br/>
-[Sample Transcript 2](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_analysis/soc_research_methods-fall2019-marshall/day2-NVivo/sample-interview-transcript2.pdf)
+[Sample Transcript 2](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/intro_to_nvivo/research_methods-summer2020-st_louis/sample-interview-transcript2.pdf)
 
 ## DITI Consultants
 Created by Cara Marta Messina

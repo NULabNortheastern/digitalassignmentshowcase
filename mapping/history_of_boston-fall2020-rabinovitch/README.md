@@ -42,4 +42,4 @@ This module will review components of storytelling and how they may be integrate
 <h2>DITI Consultants</h2>
 
 * Jonathan Sullivan
-* Colleen Nugent
+

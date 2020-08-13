@@ -24,7 +24,7 @@ This module goes over computational text analysis for a corpus of texts, specifi
 
 ## Documents for Module
 
-### [Slides]()
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/international_relations-fall2020-cilke/Slides.pdf)
 
 ### [Handout]()
 

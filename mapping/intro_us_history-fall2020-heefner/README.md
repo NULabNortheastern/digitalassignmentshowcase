@@ -12,7 +12,7 @@ September 10th and October 19th, 10:30-11:35
 
 <h2>Summary of Module</h2>
 
-This module will go over components of storytelling and how these components may be integrated into maps. This module will also provide a spreadsheet template for organizin and gathering data for maps. Specifically, these two in-class workshops will teach students how to use the [Knight Lab's StoryMap](https://storymap.knightlab.com/) web-browser application by providing step-by-step instructions, a sample map, and sample data for students to use to practice building their own maps.
+This module will go over components of storytelling and how these components may be integrated into maps. This module will also provide a spreadsheet template for organizing and gathering data for maps. Specifically, these two in-class workshops will teach students how to use the [Knight Lab's StoryMap](https://storymap.knightlab.com/) web-browser application by providing step-by-step instructions, a sample map, and sample data for students to use to practice building their own maps.
 
 <h2>Learning Goals</h2>
 

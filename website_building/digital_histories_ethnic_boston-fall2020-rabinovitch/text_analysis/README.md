@@ -38,7 +38,7 @@ This module goes over computational text analysis for a text from the discipline
 
 ### [Lexos Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/digital_histories_ethnic_boston-fall2020-rabinovitch/text_analysis/Lexos_Handout.pdf)
 
-### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/digital_histories_ethnic_boston-fall2020-rabinovitch/text_analysis/slides.pdf) 
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/digital_histories_ethnic_boston-fall2020-rabinovitch/text_analysis/slides.pdf)
 
 <h3>DITI Consultants</h3>
 

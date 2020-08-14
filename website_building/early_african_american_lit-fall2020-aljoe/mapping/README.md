@@ -33,7 +33,7 @@ This module will go over components of maps and how these components can be used
 
 ### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/early_african_american_lit-fall2020-aljoe/mapping/Handout.pdf)
 
-### [Slides]
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/early_african_american_lit-fall2020-aljoe/mapping/Slides.pdf) 
 
 <h3>Sample Map</h3>
 

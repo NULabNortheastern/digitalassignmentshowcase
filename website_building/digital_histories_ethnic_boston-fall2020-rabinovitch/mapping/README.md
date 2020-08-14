@@ -32,9 +32,9 @@ This module will go over components of storytelling and how these components may
 
 ### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/digital_histories_ethnic_boston-fall2020-rabinovitch/mapping/Handout.pdf)
 
-### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/bloc/master/website_building/digital_histories_ethnic_boston-fall2020-rabinovitch/mapping/Slides.pdf) 
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/digital_histories_ethnic_boston-fall2020-rabinovitch/mapping/Slides.pdf)
 
-### [Spreadsheet Template](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/digital_ethnic_histories_boston-fall2020-rabinovitch/mapping/Spreadsheet_Template.pdf) 
+### [Spreadsheet Template](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/digital_histories_ethnic_boston-fall2020-rabinovitch/mapping/Spreadsheet_Template.pdf) 
 
 <h3>DITI Consultants</h3>
 

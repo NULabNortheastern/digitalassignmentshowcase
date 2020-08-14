@@ -30,15 +30,15 @@ This module goes over computational text analysis for a text from the discipline
 
 <h2>Materials for Module</h2>
 
-### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/digital_ethnic_histories_boston-fall2020-rabinovitch/text_analysis_handout.pdf)
+### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/digital_histories_ethnic_boston-fall2020-rabinovitch/text_analysis/handout.pdf) 
 
 ### [Links & Resources](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/digital_histories_ethnic_boston-fall2020-rabinovitch/text_analysis/Links_Resources.pdf)
 
-### [Voyant Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/digital_ethnic_histories_boston-fall2020-rabinovitch/text_analysis/Voyant_Handout.pdf)
+### [Voyant Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/digital_histories_ethnic_boston-fall2020-rabinovitch/text_analysis/Voyant_Handout.pdf)
 
 ### [Lexos Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/digital_histories_ethnic_boston-fall2020-rabinovitch/text_analysis/Lexos_Handout.pdf)
 
-### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/digital_ethnic_histories_boston-fall2020-rabinovitch/text_analysis/slides.pdf) 
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/digital_histories_ethnic_boston-fall2020-rabinovitch/text_analysis/slides.pdf) 
 
 <h3>DITI Consultants</h3>
 

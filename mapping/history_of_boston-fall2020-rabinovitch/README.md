@@ -8,7 +8,7 @@ HIST 1232: History of Boston
 
 Simon Rabinovich
 
-October 14, 2:50-4:30 PM
+September 22, 2020 at 8:00 AM
 
 <h2>Summary of Module</h2>
 

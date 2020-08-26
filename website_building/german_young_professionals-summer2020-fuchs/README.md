@@ -1,4 +1,4 @@
-# Introduction to WordPress
+# Introduction to Wix
 
 ## Online Workshop Instructions
 Due to the pandemic, this workshop is available online. Please follow the instructions to walk through the activity and create your own Wix website!

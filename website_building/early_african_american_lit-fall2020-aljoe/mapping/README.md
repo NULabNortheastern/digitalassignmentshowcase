@@ -35,9 +35,7 @@ This module will go over components of maps and how these components can be used
 
 ### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/early_african_american_lit-fall2020-aljoe/mapping/Slides.pdf) 
 
-<h3>Sample Map</h3>
-
-### [Boston's Black Heritage Trail](https://www.google.com/maps/d/u/0/edit?mid=1hGDxOjseZI6P2RGF08GC7zLyh8JraPFR&userstoinvite=chelseaplace3%40gmail.com&actionButton=1&ll=42.360385181131306%2C-71.0656529833601&z=20) 
+### [Boston's Black Heritage Trail](https://www.google.com/maps/d/u/0/edit?mid=1hGDxOjseZI6P2RGF08GC7zLyh8JraPFR&&ll=42.35912957880938%2C-71.0671342&z=17) 
 
 <h3>DITI Consultants</h3>
 

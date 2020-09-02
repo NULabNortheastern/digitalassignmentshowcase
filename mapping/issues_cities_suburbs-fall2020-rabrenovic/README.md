@@ -39,19 +39,19 @@ Students will learn how to use spatial data in a powerful mapping software to pr
 
 ### [Data](link)
 
-### [Visualizations](link)
+### [Visualizations](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/mapping/issues_cities_suburbs-fall2020-rabrenovic/visualizations)
 
-### [Handout BARI and data](link)
+### [Handout BARI and data](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/issues_cities_suburbs-fall2020-rabrenovic/handout_BARI_and_Data.pdf)
 
-### [Handout Tableau](link)
+### [Handout Tableau](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/issues_cities_suburbs-fall2020-rabrenovic/handout_Tableau.pdf)
 
-### [Handout StoryMap](link)
+### [Handout StoryMap](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/issues_cities_suburbs-fall2020-rabrenovic/handout_StoryMap.pdf)
 
-### [Slides StoryMap](link)
+### [Slides StoryMap](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/issues_cities_suburbs-fall2020-rabrenovic/slides_Storymaps.pdf)
 
-### [Slides Tableau](link)
+### [Slides Tableau](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/issues_cities_suburbs-fall2020-rabrenovic/slides_Tableau.pdf)
 
-### [StoryMap Spreadsheet Template](link)
+### [StoryMap Spreadsheet Template](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/issues_cities_suburbs-fall2020-rabrenovic/Copy%20of%20StoryMap%20Spreadsheet%20Template.xlsx)
 
 <h3>DITI Consultants</h3>
 

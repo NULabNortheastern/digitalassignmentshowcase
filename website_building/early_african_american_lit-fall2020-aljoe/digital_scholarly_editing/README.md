@@ -1,4 +1,4 @@
-<h1>Spatial Mapping</h1>
+<h1>Digital Scholarly Editing</h1>
 
 Introduction to Digital Scholarly Editions.
 

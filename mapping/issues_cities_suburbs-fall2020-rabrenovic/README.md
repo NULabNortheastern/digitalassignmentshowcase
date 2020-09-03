@@ -53,6 +53,8 @@ Students will learn how to use spatial data in a powerful mapping software to pr
 
 ### [StoryMap Spreadsheet Template](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/issues_cities_suburbs-fall2020-rabrenovic/Copy%20of%20StoryMap%20Spreadsheet%20Template.xlsx)
 
+### [StoryMap Video Tutorial](https://pro.panopto.com/Panopto/Pages/Viewer.aspx?tid=38e57f23-46cb-4db4-b78e-ac16010e092f)
+
 <h3>DITI Consultants</h3>
 
 Laura Nelson

@@ -27,11 +27,11 @@ This module will cover creating and designing a website using Wix or WordPress. 
 
 ### [Wix Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/elementary_german-fall2020-fuchs/wix/Wix_Handout.pdf)
 
-### [Wix Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/elementary_german-fall2020-fuchs/wix/Wix-Slides.pdf)
+### [Wix Slides](https://docs.google.com/presentation/d/1m2b5fHdYtUOuU8Wibjb_So03IsTMRD0ZS24NIZLjov4/edit#slide=id.g7483e00246_0_38)
 
 ### [WordPress Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/elementary_german-fall2020-fuchs/wordpress/WordPress_Handout.pdf)
 
-### [WordPress Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/elementary_german-fall2020-fuchs/wordpress/Wordpress_Slides.pdf)
+### [WordPress Slides](https://docs.google.com/presentation/d/1QZZ1mOnVj_pjHhaXOzXpG-ZMcqukgI3ivTo5qkWKdiw/edit?usp=sharing)
 
 <h3>DITI Consultants</h3>
 

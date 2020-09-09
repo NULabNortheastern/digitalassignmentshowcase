@@ -38,3 +38,5 @@ This module will cover creating and designing a website using Wix or WordPress. 
 Colleen Nugent
 
 Jonathan Sullivan
+
+Sarah Connell

@@ -27,7 +27,7 @@ This module will cover creating and designing a website using Wix or WordPress. 
 
 ### [Wix Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/elementary_german-fall2020-fuchs/wix/Wix_Handout.pdf)
 
-### [Wix Slides](https://docs.google.com/presentation/d/1m2b5fHdYtUOuU8Wibjb_So03IsTMRD0ZS24NIZLjov4/edit#slide=id.g7483e00246_0_38)
+### [Wix Slides](https://docs.google.com/presentation/d/1m2b5fHdYtUOuU8Wibjb_So03IsTMRD0ZS24NIZLjov4/edit?usp=sharing)
 
 ### [WordPress Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/elementary_german-fall2020-fuchs/wordpress/WordPress_Handout.pdf)
 

@@ -40,9 +40,7 @@ This module will go over the basics of how to install NVivo and use the software
 
 ### Slides
 
-[Day 1 Slides]()<br>
-[Day 2 Slides]()<br>
-
+[Slides]()<br>
 
 ## DTI Consultants
 Created by Garrett Morrow and Cara Marta Messina

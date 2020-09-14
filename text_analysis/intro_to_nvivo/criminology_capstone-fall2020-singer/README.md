@@ -34,14 +34,14 @@ This module will go over the basics of how to install NVivo and use the software
 
 ### Handouts
 
-[Downloading NVivo with Northeastern's ITS License]()
+[Downloading NVivo with Northeastern's ITS License](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/intro_to_nvivo/criminology_capstone-fall2020-singer/handout-installingNVivo.pdf)
 <br>
-[NVivo Basics]()
+[NVivo Basics](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/intro_to_nvivo/criminology_capstone-fall2020-singer/handout-UsingNVivoBasics.pdf)
 
 ### Slides
 
-[Slides day 1]()<br>
-[Slides day 2]()<br>
+[Slides day 1](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/intro_to_nvivo/criminology_capstone-fall2020-singer/slides-day1.pdf)<br>
+[Slides day 2](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/intro_to_nvivo/criminology_capstone-fall2020-singer/slides-day2.pdf)<br>
 
 ## DTI Consultants
 Created by Garrett Morrow and Cara Marta Messina, taught by Milan Skobic

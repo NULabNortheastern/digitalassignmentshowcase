@@ -40,3 +40,5 @@ Colleen Nugent
 Jonathan Sullivan
 
 Sarah Connell
+
+Talia Brenner

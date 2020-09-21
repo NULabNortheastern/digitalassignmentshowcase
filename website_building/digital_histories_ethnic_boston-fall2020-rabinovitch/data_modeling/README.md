@@ -1,42 +1,46 @@
-<h1>Storytelling with Mapping: Knight Lab's StoryMap</h1>
+<h1>Data modeling; Digital and data ethics: Introduction to comma-separated values (CSV) files</h1>
 
 Telling a story through mapping using [Knight Lab's StoryMap](https://storymap.knightlab.com/) tool.
 
 <h2>Individual Class Info</h2>
 
 HIST 2430 Digital Histories of Ethnic Boston
-
 Simon Rabinovitch
-
-Wednesday, October 14th
+Monday, September 21st
+Number of students: 4
+Location: remote synchronous
 
 <h2>Summary of Module</h2>
 
-This module will go over components of storytelling and how these components may be integrated into maps. This module also provides a spreadsheet template for organizing and gathering data for maps. Specifically, this in-class workshop will teach students how to use the [Knight Lab's StoryMap](https://storymap.knightlab.com/) web-browser application by providing step-by-step instructions, a sample map, and sample data for students to use to practice building their own maps. 
+This module introduces basics of data modeling through introduction to the CSV (comma-separated values) file format to students. Through introduction to this module, students are learning the basics of principles of planning and organization of data creation and gathering, issues in the ethics of data accessibility, and basic principles of cleaning data in accordance with the presented file format.
 
 <h2>Learning Goals</h2>
 
-* Understand components for compelling storytelling
-* Understand the particular choices made when building a map
-* Understand how to collect data for mapping
-* Understand Knight Lab's StoryMap interface and where it gathers its information
+Students will, in the course of this module:
+* Get a sense of ideas about how to “properly” create and organize data
+* Get a sense of how to plan data collection and organization for open use
+* Learn how the csv files can be used for the greatest effect
 
 <h2>Learning Objectives</h2>
 
-* Articulate particular choices made when telling a story using a map
-* Follow a step-by-step guide for creating, saving, and publishing maps using Knight Lab's StoryMap
-* Implement data into Knight Lab's StoryMap, including location information, images, and text
-* Navigate StoryMap's map markers and location-finding system
+At the end of this module students will be able to:
+* Turn a human-readable into a machine-readable file
+  * They will learn the difference between excel and csv files
+  * They will learn some data cleaning operations
+  * They will know how to find out the properties of their files relevant for preparing the file for computer processing
+* Use and think through basic vocabulary on data organization, open data, and CSV file format: based on this they will be equipped to follow and explore issues in data organization in their individual work
 
 <h2>Materials for Module</h2>
 
-### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/digital_histories_ethnic_boston-fall2020-rabinovitch/mapping/Handout.pdf)
+### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/digital_histories_ethnic_boston-fall2020-rabinovitch/data_modeling/Handout.pdf)
 
-### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/digital_histories_ethnic_boston-fall2020-rabinovitch/mapping/Slides.pdf)
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/digital_histories_ethnic_boston-fall2020-rabinovitch/data_modeling/slides.pdf)
+
+### [Datasets readme](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/digital_histories_ethnic_boston-fall2020-rabinovitch/data_modeling/spreadsheets_hist2430_readme.pdf)
 
 <h3>DITI Consultants</h3>
 
 Colleen Nugent
-
 Milan Skobic
-
+Adam Tomasi
+Sarah Connell

@@ -5,9 +5,13 @@ Telling a story through mapping using [Knight Lab's StoryMap](https://storymap.k
 <h2>Individual Class Info</h2>
 
 HIST 2430 Digital Histories of Ethnic Boston
+
 Simon Rabinovitch
+
 Monday, September 21st
+
 Number of students: 4
+
 Location: remote synchronous
 
 <h2>Summary of Module</h2>
@@ -41,6 +45,9 @@ At the end of this module students will be able to:
 <h3>DITI Consultants</h3>
 
 Colleen Nugent
+
 Milan Skobic
+
 Adam Tomasi
+
 Sarah Connell

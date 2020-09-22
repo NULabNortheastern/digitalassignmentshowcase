@@ -31,10 +31,11 @@ This module is an introduction to using Excel, including basic terminology, navi
 
 ### Handouts
 
-[Installing Excel and Using Northeastern University's License]()
+[Installing Excel and Using Northeastern University's License](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_excel/development_economics-fall2020-prina/handout-install_excel.pdf)
 <br/>
-[Excel basics]()
-[Problem set]()
+[Excel basics](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_excel/development_economics-fall2020-prina/handout.pdf)
+<br/>
+[Problem set](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_excel/development_economics-fall2020-prina/ECON1291_2020-excel_training.pdf)
 
 ### Presentation Materials
 
@@ -45,5 +46,5 @@ This Excel data has been provided by Silvia Prina specifically to have students 
 <br/>
 [Excel Data](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_excel/development_economics-fall2020-prina/ECON1291exceltutoring.xlsx)
 
-## DTI Consultants
+## DITI Consultants
 Created by Cara Marta Messina and Garrett Morrow

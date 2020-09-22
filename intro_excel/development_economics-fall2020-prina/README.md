@@ -8,11 +8,11 @@ Silvia Prina
 <br>
 Fall 2020
 <br>
-Number of students: Insert #
+Number of students: Insert 15 and 19
 <br>
 1:35-3:15pm & 3:30-5:10
 <br>
-Insert Room<br>
+Remote synchronous
 
 ## Summary of Module
 This module is an introduction to using Excel, including basic terminology, navigating the software, basic functions, and forms of data analysis like pivot tables and charts. This module also introduces some more advanced techniques, like creating a regression model using Excel’s LINEST function.

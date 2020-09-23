@@ -8,11 +8,11 @@ Silvia Prina
 <br>
 Fall 2020
 <br>
-Number of students: Insert #
+Number of students: Insert 15 and 19
 <br>
 1:35-3:15pm & 3:30-5:10
 <br>
-Insert Room<br>
+Remote synchronous
 
 ## Summary of Module
 This module is an introduction to using Excel, including basic terminology, navigating the software, basic functions, and forms of data analysis like pivot tables and charts. This module also introduces some more advanced techniques, like creating a regression model using Excel’s LINEST function.
@@ -31,18 +31,20 @@ This module is an introduction to using Excel, including basic terminology, navi
 
 ### Handouts
 
-[Installing Excel and Using Northeastern University's License]()
+[Installing Excel and Using Northeastern University's License](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_excel/development_economics-fall2020-prina/handout-install_excel.pdf)
 <br/>
-[Excel basics]()
+[Excel basics](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_excel/development_economics-fall2020-prina/handout.pdf)
+<br/>
+[Problem set](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_excel/development_economics-fall2020-prina/ECON1291_2020-excel_training.pdf)
 
 ### Presentation Materials
 
-[Slides]()
+[Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_excel/development_economics-fall2020-prina/prina-fall2020-slides.pdf)
 
 ### Data
 This Excel data has been provided by Silvia Prina specifically to have students practice using Excel
 <br/>
-[Excel Data]()
+[Excel Data](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_excel/development_economics-fall2020-prina/ECON1291exceltutoring.xlsx)
 
-## DTI Consultants
+## DITI Consultants
 Created by Cara Marta Messina and Garrett Morrow

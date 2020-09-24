@@ -38,7 +38,7 @@ If you are a Northeastern faculty member interested in working with the Digital 
 - Caroline Grand, DITI Research Fellow. grand.c@northeastern.edu
 - Talia Brenner, DITI Research Fellow. brenner.t@northeastern.edu
 - Adam Tomasi, DITI Research Fellow. tomasi.a@northeastern.edu
-- Kushwaha Vaishali, DITI Research Fellow. v.kushwaha@northeastern [dot] edu
+- Kushwaha Vaishali, DITI Research Fellow. v.kushwaha@northeastern.edu
 - Julianna Wessels, DITI Research Fellow. wessels.j@northeastern.edu
 - Milan Skobic, DITI Research Fellow. skobic.m@northeastern.edu
 

@@ -2,7 +2,7 @@
 
 The goal of the Digital Integration Teaching Initiative (DITI) is to integrate methods into courses in a way that mirrors the themes of the course and can enhance digital literacies.  All of the work put into each module or workshop is posted here, including copies of the slides, handouts, examples and activities used in each class.
 
-This repository is organized by digital tool and within each parent section you will find subfolders organized by course. For example, if you want to check out course modules made for working with text analysis, click on the "text_analysis" folder and you will find the various classes that have used a text analysis module, like an Introduction to Writing Studies course offered Spring 2019 with Professor Lerner ("intro_writing_studies-spring2019-lerner"). Each course folder has a README.md containing basic information about that specific course and the materials for that particular module.
+This repository is organized by digital tool and within each parent section you will find subfolders organized by course. For example, if you want to check out course modules made for working with text analysis, click on the "text_analysis" folder and you will find the various classes that have used a text analysis module. Each course folder has a README.md containing basic information about that specific course and the materials for that particular module.
 
 Schedule time during DITI's office hours: http://bit.ly/diti-office-hours
 
@@ -26,8 +26,8 @@ If you are interested in modules about...
 Scroll up to the folders for a comprehensive list of modules, grouped by digital tool or skill. 
 <br>
 
-# Fall 2019 Office Hours
-The DITI office hours will be held from <strong>1–3PM in 401 Nightingale Hall</strong>. Students learning new tools such as NVivo, R, Python, and text analysis tools are welcome to drop in. Instructors are also welcome to drop by and ask questions.
+# Fall 2020 Office Hours
+The DITI office hours will be held <strong>Tuesdays 3 to 4 pm; Thursdays 12 to 1 pm and Thursdays 3 to 4 pm; virtually by appointment</strong>. Students learning new tools such as NVivo, R, Python, and text analysis tools are welcome to drop in. Instructors are also welcome to drop by and ask questions.
 
 # Contact Information
 
@@ -35,8 +35,11 @@ If you are a Northeastern faculty member interested in working with the Digital 
 
 - Sarah Connell, Digital Integration Teaching Initiative Co-Director. sa [dot] connell [at] northeastern [dot] edu
 - Laura Nelson, Digital Integration Teaching Initiative Co-Director. l [dot] nelson [at] northeastern [dot] edu
-- Jonathan Sullivan, DITI Research Fellow. Sullivan [dot] jonat [at] northeastern [dot] edu
-- Colleen Nugent, DITI Research Fellow. Nugent [dot] c [at] northeastern [dot] edu
+- Caroline Grand, DITI Research Fellow. Grand [dot] c [at] northeastern [dot] edu
+- Talia Brenner, DITI Research Fellow. Brenner [dot] t [at] northeastern [dot] edu
+- Adam Tomasi, DITI Research Fellow. Tomasi [dot] a [at] northeastern [dot] edu
+- Kushwaha Vaishali, DITI Research Fellow. Kushwaha [dot] v [at] northeastern [dot] edu
+- Julianna Wessels, DITI Research Fellow. Wessels [dot] j [at] northeastern [dot] edu
 - Milan Skobic, DITI Research Fellow. Skobic [dot] c [at] northeastern [dot] edu
 
 # Contributors

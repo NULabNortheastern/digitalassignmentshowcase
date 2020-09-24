@@ -33,14 +33,14 @@ The DITI office hours will be held <strong>Tuesdays 3 to 4 pm; Thursdays 12 to 1
 
 If you are a Northeastern faculty member interested in working with the Digital Teaching Integration team, please reach out to us via email:
 
-- Sarah Connell, Digital Integration Teaching Initiative Co-Director. sa [dot] connell [at] northeastern [dot] edu
-- Laura Nelson, Digital Integration Teaching Initiative Co-Director. l [dot] nelson [at] northeastern [dot] edu
-- Caroline Grand, DITI Research Fellow. Grand [dot] c [at] northeastern [dot] edu
-- Talia Brenner, DITI Research Fellow. Brenner [dot] t [at] northeastern [dot] edu
-- Adam Tomasi, DITI Research Fellow. Tomasi [dot] a [at] northeastern [dot] edu
-- Kushwaha Vaishali, DITI Research Fellow. Kushwaha [dot] v [at] northeastern [dot] edu
-- Julianna Wessels, DITI Research Fellow. Wessels.J@northeastern.edu
-- Milan Skobic, DITI Research Fellow. Skobic [dot] c [at] northeastern [dot] edu
+- Sarah Connell, Digital Integration Teaching Initiative Co-Director. connell.sa@northeastern.edu
+- Laura Nelson, Digital Integration Teaching Initiative Co-Director. nelson.l@northeastern.edu
+- Caroline Grand, DITI Research Fellow. grand.c@northeastern.edu
+- Talia Brenner, DITI Research Fellow. brenner.t@northeastern.edu
+- Adam Tomasi, DITI Research Fellow. tomasi.a@northeastern.edu
+- Kushwaha Vaishali, DITI Research Fellow. v.kushwaha@northeastern [dot] edu
+- Julianna Wessels, DITI Research Fellow. wessels.j@northeastern.edu
+- Milan Skobic, DITI Research Fellow. skobic.m@northeastern.edu
 
 # Contributors
 These resources and materials have been created by Sarah Connell, Cara Marta Messina, Laura Nelson, Alexis Yohros, Molly Nebiolo, Garrett Morrow, Laura Johnson, and Jeffrey Sternberg. 

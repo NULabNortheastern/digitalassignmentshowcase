@@ -39,7 +39,7 @@ If you are a Northeastern faculty member interested in working with the Digital 
 - Talia Brenner, DITI Research Fellow. Brenner [dot] t [at] northeastern [dot] edu
 - Adam Tomasi, DITI Research Fellow. Tomasi [dot] a [at] northeastern [dot] edu
 - Kushwaha Vaishali, DITI Research Fellow. Kushwaha [dot] v [at] northeastern [dot] edu
-- Julianna Wessels, DITI Research Fellow. Wessels [dot] j [at] northeastern [dot] edu
+- Julianna Wessels, DITI Research Fellow. Wessels.J@northeastern.edu
 - Milan Skobic, DITI Research Fellow. Skobic [dot] c [at] northeastern [dot] edu
 
 # Contributors

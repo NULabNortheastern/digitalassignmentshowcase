@@ -4,13 +4,13 @@ This module will discuss data ethics, particularly around big data, research bia
 ## Individual Class Info
 CRIM 3600 Research Methods
 <br>
-Stacie St. Louis
+Ineke Marshall
 <br>
 Fall 2020
 <br>
-Number of students: 32
+Number of students: 15
 <br>
-Date and Time: September 28th, 10:30–11:35
+Date and Time: September 29th, 8-9:40
 <br>
 Location: Remote Synchronous
 <br>
@@ -32,10 +32,10 @@ This module will introduce what “big data” is and cover the ethical question
 
 ## Documents for Module
 
-### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_ethics/crim_research_methods-fall2020-st_louis/slides.pdf)
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_ethics/crim_research_methods-fall2020-marshall/slides.pdf)
 
-### ["Can you adopt this dog?" Activity Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_ethics/crim_research_methods-fall2020-st_louis/Can%20you%20adopt%20this%20dog%20Handout.pdf)
+### ["Can you adopt this dog?" Activity Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_ethics/crim_research_methods-fall2020-marshall/Can%20you%20adopt%20this%20dog%20Handout.pdf)
 
 ## DTI Consultants
 Created by Cara Marta Messina
-Taught by Milan Skobic and Talia Brenner
+Taught by Milan Skobic and Adam Tomasi

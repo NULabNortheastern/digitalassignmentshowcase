@@ -8,7 +8,7 @@ Stacie St. Louis
 <br>
 Fall 2020
 <br>
-Number of students: 31
+Number of students: 32
 <br>
 Date and Time: September 28th, 10:30–11:35
 <br>

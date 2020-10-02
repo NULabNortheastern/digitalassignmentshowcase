@@ -40,8 +40,7 @@ This module demonstrates how to use excel to retrieve and clean data from the Un
 
 ### Data
 Selected datasets collected from:
-- the [UN Sustainable Goals](https://unstats.un.org/sdgs/indicators/database) – specifically data from goals 1 and 16
-- the [Humanitarian Data Exchange](https://data.humdata.org/)
+- the [UN Sustainable Goals](https://unstats.un.org/sdgs/indicators/database) – specifically data from goal 1
 
 
 ## DTI Consultants

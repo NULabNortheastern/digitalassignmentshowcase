@@ -30,11 +30,11 @@ This module will go over components of storytelling and how these components may
 
 <h2>Materials for Module</h2>
 
-### [Handout]()
+### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/energy_democracy-fall2020-stephens/Handout.pdf)
 
-### [Class 1 Slides]()
+### [Class 1 Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/energy_democracy-fall2020-stephens/Slides_Class1.pdf)
 
-### [Class 2 Slides]()
+### [Class 2 Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/energy_democracy-fall2020-stephens/Slides_Class2.pdf)
 
 ### [Spreadsheet Template](https://docs.google.com/spreadsheets/d/18FrNzXKNG-SuYjmeGazwRRckOr4StU1rWOgZ2edGmUk/edit#gid=0)
 

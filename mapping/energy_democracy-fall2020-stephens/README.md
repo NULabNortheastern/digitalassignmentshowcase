@@ -36,7 +36,7 @@ This module will go over components of storytelling and how these components may
 
 ### [Class 2 Slides]()
 
-### [Spreadsheet Template]()
+### [Spreadsheet Template](https://docs.google.com/spreadsheets/d/18FrNzXKNG-SuYjmeGazwRRckOr4StU1rWOgZ2edGmUk/edit#gid=0)
 
 <h3>DITI Consultants</h3>
 

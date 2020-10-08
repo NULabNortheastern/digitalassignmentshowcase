@@ -8,7 +8,7 @@ ENGL 4710: Capstone: Literature & the Visual Arts
 
 Erika Boeckeler
 
-October 8, 14 and 15, 1:35–2:40pm
+October 8, 14, and 15, 1:35–2:40pm
 
 <h2>Summary of Module</h2>
 
@@ -47,5 +47,5 @@ This module will go over components of storytelling and how these components may
 <h2>DITI Consultant</h2>
 
 * Sarah Connell
-* Jonathan Sullivan
+* Milan Skobic
 

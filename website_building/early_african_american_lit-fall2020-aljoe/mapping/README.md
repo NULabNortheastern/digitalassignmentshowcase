@@ -42,3 +42,5 @@ This module will go over components of maps and how these components can be used
 Colleen Nugent
 
 Sarah Connell
+
+Adam Tomasi

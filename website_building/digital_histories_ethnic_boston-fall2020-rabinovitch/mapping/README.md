@@ -34,6 +34,11 @@ This module will go over components of storytelling and how these components may
 
 ### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/digital_histories_ethnic_boston-fall2020-rabinovitch/mapping/Slides.pdf)
 
+### [HTML Templates](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/digital_histories_ethnic_boston-fall2020-rabinovitch/mapping/HTML_Templates.txt)
+
+### [Demo Map](https://uploads.knightlab.com/storymapjs/5f1a88e4fe4ea4133fa2896d45955bbb/diti-demo-map-boston-concert-venues/index.html)
+
+
 <h3>DITI Consultants</h3>
 
 Colleen Nugent

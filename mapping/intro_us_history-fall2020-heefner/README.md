@@ -36,7 +36,7 @@ This module will go over components of storytelling and how these components may
 
 ### [Class 2 Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/intro_us_history-fall2020-heefner/Slides_Class2.pdf)
 
-### [Spreadsheet Template](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/intro_us_history-fall2020-heefner/spreadsheet_template.pdf) 
+### [Spreadsheet Template](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/intro_us_history-fall2020-heefner/StoryMap%20Spreadsheet%20Template.xlsx) 
 
 <h3>DITI Consultants</h3>
 

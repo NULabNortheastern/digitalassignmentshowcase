@@ -9,7 +9,7 @@ Fall 2020
 <br>
 Number of students: 20
 <br>
-Date and Time: Thursday, March 19th, 1:35-2:40pm
+Date and Time: Monday, October 26th, 11:45–1:25pm (remote)
 <br>
 <br>
 

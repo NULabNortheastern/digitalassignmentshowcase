@@ -1,7 +1,7 @@
 # Knight Lab Timeline
 Telling a story using [Knight Lab’s Timeline](https://timeline.knightlab.com/) tool. Due to COVID-19, this module is now a virtual, online version of the workshop. Please follow through the workshop in this order:
 * Watch this [Video Tutorial on Knight Lab's Timeline](https://vimeo.com/143407878)
-* Go through these [step-by-step slide instructions](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_ethics/soc_of_family-fall2020-blum/intro_to_timeline/slides-timeline.pdf) to create a map for your assignment; your assignment is to create a StoryMap representing a playground community scan. More details are in the slides.
+* Go through these [step-by-step slide instructions](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_ethics/soc_of_family-fall2020-blum/intro_to_timeline/slides-timeline.pdf) to create your timeline. More details are in the slides.
 ## Individual Class Info
 SOCL 1255 - Sociology of the Family
 <br>

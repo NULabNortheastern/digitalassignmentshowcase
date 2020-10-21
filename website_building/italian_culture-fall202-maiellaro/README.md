@@ -7,8 +7,6 @@ Instructor Name: Gina Maiellaro
 <br>
 Fall 2020
 <br>
-Number of students: 20
-<br>
 Date and Time: Monday, October 26th, 11:45–1:25pm (remote)
 <br>
 <br>

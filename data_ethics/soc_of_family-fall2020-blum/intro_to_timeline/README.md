@@ -36,7 +36,7 @@ This module will go over components of storytelling and how these components may
 
 ### [Handout]()
 
-### [Example spreadsheet]()
+### [Example spreadsheet](https://docs.google.com/spreadsheets/d/1SOskelXtiJuFnKbYvl2bRbBSOYdHD3Ogrzs1xejIJn4/edit?usp=sharing)
 
 ## DITI Consultants
 Colleen Nugent, Milan Skobic, Talia Brenner

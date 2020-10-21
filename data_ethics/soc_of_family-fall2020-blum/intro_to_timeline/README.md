@@ -17,18 +17,18 @@ Location: Online (remote synchronous)
  <br>
 
 ## Summary of Module
-This module will go over components of storytelling and how these components may be integrated in timelines. Specifically, this workshop will teach students how to use [Knight Lab’s Timeline](https://timeline.knightlab.com/) web-browser application by providing step-by-step instructions, and a sample spreadsheet.
+This module will go over components of storytelling and how these components may be integrated in timelines. Specifically, this workshop will teach students how to use [Knight Lab’s Timeline](https://timeline.knightlab.com/) web-browser application by providing step-by-step instructions and a sample spreadsheet.
 
 ## Learning Goals
-* Understand components for compelling storytelling
-* Understanding the particular choices made when building a timeline
-* Understanding how to collect data for the timeline
+* Understand the components of compelling storytelling
+* Understand the particular choices made when building a timeline
+* Understand how to collect data for the timeline
 
 ## Learning Objectives
 * Articulate particular choices made when telling a story using a timeline
 * Follow a step-by-step guide for creating, saving, and publishing the timeline spreadsheet using KnightLab Timeline
-* Understanding how to implement data into KnightLab Timeline, including various media and text
-* Navigate the relation between events, processes and periods of various duration and their presentation in the timeline
+* Understand how to insert data into KnightLab TimelineJS, including text and various media elements
+* Navigate presenting the relation between events, processes, and periods of various duration in the timeline
 
 ## Documents for Module
 

@@ -38,9 +38,8 @@ This module will go over components of storytelling and how these components may
 
 <h3>DITI Consultants</h3>
 
-Colleen Nugent
+Caroline Grand
 
-Jonathan Sullivan
-
+Julianna Wessels
 
 

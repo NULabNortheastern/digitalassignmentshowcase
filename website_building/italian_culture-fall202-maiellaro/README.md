@@ -19,6 +19,7 @@ This module is an introduction to the WordPress website building platform. It wi
 ## Documents for Module
 
 ### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/italian_culture-fall202-maiellaro/Slides.pdf)
+### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/italian_culture-fall202-maiellaro/handout_italian-culture_maiellaro.pdf)
 
 ## DITI Consultants
 Created by:

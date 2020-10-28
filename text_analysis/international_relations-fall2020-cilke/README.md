@@ -7,7 +7,6 @@ Carl Cilke
 <br>
 Fall 2020
 <br>
-Number of students:
 
 ## Summary of Module
 This module goes over computational text analysis for a corpus of texts, specifically literature in a particular discipline. The module includes a brief discussion on big data, how computational text analysis is useful, the browser tools that can be used to do this method of analysis, and how to interpret the results.
@@ -24,16 +23,14 @@ This module goes over computational text analysis for a corpus of texts, specifi
 
 ## Documents for Module
 
-### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/international_relations-fall2020-cilke/Slides.pdf)
-
-### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/international_relations-fall2020-cilke/handout.pdf)
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/international_relations-fall2020-cilke/fall_2020_cilke_slides.pdf)
 
 ### Data
-[State of the Union addresses](https://www.presidency.ucsb.edu/documents/app-categories/spoken-addresses-and-remarks/presidential/state-the-union-addresses?field_docs_start_date_time_value%5Bvalue%5D%5Bdate%5D=&page=1) collected from the American Presidency Project.
-
-[Corpus .zip](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/international_relations-fall2020-cilke/corpus_SOTU/corpus_SOTU.zip)
-
 [Stopwords](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/international_relations-fall2020-cilke/NLTK_English_stopwords.txt)
 
-## DTI Consultants
-Created by Cara Marta Messina and Garrett Morrow
+## DITI Consultants
+Created by:
+Vaishali Kushwaha (2020)
+Adam Tomasi (2020)
+Cara Marta Messina (2019)
+Garrett Morrow (2019)

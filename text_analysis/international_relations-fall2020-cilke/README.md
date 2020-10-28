@@ -26,6 +26,7 @@ This module goes over computational text analysis for a corpus of texts, specifi
 ### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/international_relations-fall2020-cilke/fall_2020_cilke_slides.pdf)
 
 ### Data
+[WTO Members' Trade Actions](https://www.wto.org/english/tratop_e/covid19_e/trade_related_goods_measure_e.htm)
 [Stopwords](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/international_relations-fall2020-cilke/NLTK_English_stopwords.txt)
 
 ## DITI Consultants

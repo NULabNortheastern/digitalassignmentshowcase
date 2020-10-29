@@ -32,7 +32,7 @@ This module will go over components of storytelling and how these components may
 
 ### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/issues_public_history-fall2020-nieves/mapping/Handout.pdf)
 
-### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/website_building/issues_public_history-fall2020-nieves)
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/issues_public_history-fall2020-nieves/mapping/Slides-3.pdf)
 
 ### [Spreadsheet Template](https://docs.google.com/spreadsheets/d/1hJIQwP5qTBaNUMIuY2nKEQRSrlbdzh_BK4XZDK1KUEI/edit?usp=sharing)
 

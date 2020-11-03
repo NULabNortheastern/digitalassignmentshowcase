@@ -29,18 +29,18 @@ Qualitative Coding with NVivo
 
 ## Documents for Module
 
-### [Slides]()
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/intro_to_nvivo/criminology_research_methods-fall2020-marshall/Slides-NVivo.pdf)
 
 ### Handouts
-[Installing NVivo]()
+[Installing NVivo](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/intro_to_nvivo/criminology_research_methods-fall2020-marshall/handout-installingNVivo.pdf)
 <br/>
-[Intro to NVivo for Qualitative Coding]()
+[Intro to NVivo for Qualitative Coding](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/intro_to_nvivo/criminology_research_methods-fall2020-marshall/handout-NVivo.pdf)
 
 ### Sources
-[Sample transcript]()
+[Sample transcript](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/intro_to_nvivo/criminology_research_methods-fall2020-marshall/sample-interview-transcript.docx)
 <br/>
-[Practice source: dr Martin Luther King's Letter from Birmingham Jail]()
+[Practice source: dr Martin Luther King's Letter from Birmingham Jail](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/intro_to_nvivo/criminology_research_methods-fall2020-marshall/King-Letter_Birmingham_Jail.pdf)
 
 ## DITI Consultants
 Created by Cara Marta Messina
-Updated and presented by Milan Skobic and Talia Brenner
+Updated and presented by Milan Skobic and Adam Tomasi

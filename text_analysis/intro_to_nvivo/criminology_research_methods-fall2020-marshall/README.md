@@ -3,17 +3,18 @@
 ## Individual Class Info
 CRIM 3600 Research Methods
 <br>
-Stacie St. Louis
+Ineke Marshall
 <br>
 Fall 2020
 <br>
-Date and Time: November 2nd, 10:30-11:35
+Date and Time: Tuesday, November 3rd, 8:00-9:40
 <br>
 Location: Remote
 <br>
 
 ## Summary of Module
 This module will go over the basics of how to install NVivo and use the software as a literature review and research tool. Students will be introduced to the basic concepts of NVivo and then taught how to import documents, create nodes, and basic analytical visualizations and queries.
+This module will ask students to choose one person to interview, transcribe that interview, and qualitatively code it using Nvivo. For this portion, we will use a sample source as well as the students’ transcripts of their interviews to practice qualitative coding and visualizing results with NVivo.
 
 ## Learning Goals
 Qualitative Coding with NVivo
@@ -28,12 +29,17 @@ Qualitative Coding with NVivo
 
 ## Documents for Module
 
-### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/intro_to_nvivo/criminology_research_methods-fall2020-st_louis/Slides%20NVivo.pdf)
+### [Slides]()
 
 ### Handouts
-[Installing NVivo](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/intro_to_nvivo/criminology_research_methods-fall2020-st_louis/handout-installingNVivo.pdf)
+[Installing NVivo]()
 <br/>
-[Intro to NVivo for Qualitative Coding](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/intro_to_nvivo/criminology_research_methods-fall2020-st_louis/handout-NVivo.pdf)
+[Intro to NVivo for Qualitative Coding]()
+
+### Sources
+[Sample transcript]()
+<br/>
+[Practice source: dr Martin Luther King's Letter from Birmingham Jail]()
 
 ## DITI Consultants
 Created by Cara Marta Messina

@@ -3,11 +3,11 @@
 ## Individual Class Info
 ENGL 1600 - Introduction to Shakespeare
 <br>
-Instructor Name: Erika Boeckeler
+**Instructor Name:** Erika Boeckeler
 <br>
 Fall 2020
 <br>
-Date and Time: November 19th, 10:30–11:35am; November 23, 10:30–11:35
+**Date and Time:** November 19th, 10:30–11:35am; November 23, 10:30–11:35
 <br>
 <br>
 

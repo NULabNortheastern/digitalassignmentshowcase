@@ -1,7 +1,7 @@
 # Introduction to Excel
 
 ## Individual Class Info
-EESH 2000 Co-op Course, Professional Development
+Coop/Exper Ed - Soc Sci/Hum 2000 Professional Development
 <br>
 Name of Instructor: Lisa Doherty
 <br>
@@ -9,12 +9,11 @@ Fall 2020
 <br>
 
 ## Summary of Module
-This module is an introduction to using Excel; including basic terminology, navigating the software, and basic functions.
+This module is an introduction to using Excel and teaches basic terminology, how to navigate the program, and how to use basic functions.
 
 ## Learning Goals
-- Understand the basic terminology of Excel.
-- Learn how to navigate in Excel software.
-- Understand what an Excel function is and how to use them.
+- Understand the basic terminology and anatomy of Excel
+- Learn how to use basic Excel functions
 
 ## Learning Objectives
 Students will learn how to use several different functions on a sample data structure
@@ -36,4 +35,5 @@ Students will learn how to use several different functions on a sample data stru
 
 ## DTI Consultants
 Created by:
+Jonathan Sullivan
 [Talia Brenner](brenner.t@northeastern.edu)

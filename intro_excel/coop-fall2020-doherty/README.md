@@ -23,7 +23,7 @@ Students will learn how to use several different functions on a sample data stru
 
 ### Handouts
 
-[Interview Planner Template](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_excel/coop-fall2018-doherty/interview-planner-template.xlsx)
+[Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_excel/coop-fall2020-doherty/Handout.pdf)
 
 ### Slides
 

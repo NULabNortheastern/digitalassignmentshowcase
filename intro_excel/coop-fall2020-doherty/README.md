@@ -34,6 +34,6 @@ Students will learn how to use several different functions on a sample data stru
 
 
 ## DTI Consultants
-Created by:
+Created by: <br>
 Jonathan Sullivan <br>
 [Talia Brenner](brenner.t@northeastern.edu)

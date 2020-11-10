@@ -29,6 +29,11 @@ Students will learn how to use several different functions on a sample data stru
 
 [Introduction to Excel](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_excel/coop-fall2020-doherty/Slides.pdf)
 
+### Demo Data
+
+[Demo Data](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_excel/coop-fall2020-doherty/Demo%20Data.xlsx)
+
+
 ## DTI Consultants
 Created by:
 [Talia Brenner](brenner.t@northeastern.edu)

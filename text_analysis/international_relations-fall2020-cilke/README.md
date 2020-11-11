@@ -30,9 +30,14 @@ This module goes over computational text analysis for a corpus of texts, specifi
 
 [Stopwords](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/international_relations-fall2020-cilke/NLTK_English_stopwords.txt)
 
+[Links and Resources Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/international_relations-fall2020-cilke/Links%20and%20Resources.pdf)
+
 ## DITI Consultants
 Created by:
 Vaishali Kushwaha (2020)
+
 Adam Tomasi (2020)
+
 Cara Marta Messina (2019)
+
 Garrett Morrow (2019)

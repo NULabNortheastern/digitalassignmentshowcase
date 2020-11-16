@@ -24,6 +24,6 @@ This module is an introduction to the WordPress website building platform and di
 
 ## DTI Consultants
 Created by:
-Laura Johnson
-Sarah Connell
-Caroline Grand
+<br>Laura Johnson
+<br>Sarah Connell
+<br>Caroline Grand

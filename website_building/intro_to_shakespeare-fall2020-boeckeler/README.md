@@ -22,6 +22,8 @@ This module is an introduction to the WordPress website building platform and di
 
 ### [WordPress Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/intro_to_shakespeare-fall2020-boeckeler/wordpress-slides.pdf)
 
+### [Copyright and Fair Use Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/intro_to_shakespeare-fall2020-boeckeler/Copyright-fair-use-handout.pdf)
+
 ## DTI Consultants
 Created by:
 <br>Laura Johnson

@@ -1,0 +1,1275 @@
+ 
+Climate Action for a Resilient New Orleans 
+ 
+
+City of New Orleans Mitchell J. Landrieu, Mayor Jeffrey P. Hebert, Chief Resilience Officer 
+50% by 2030 XX% by 2030 
+ 
+LETTER FROM THE MAYOR 
+July 2017 Dear Friends, 
+In our nearly 300-year history, our city has proven time and time again to be among America’s most resilient cities. We are a community like no other with a unique culture and a vibrant heritage, and we have the privilege to live in not only one of the most important and beautiful places in the United States, but also the most dynamic. We are always in a state of change: building, rebuilding and celebrating our longstanding history as one of the country’s oldest cities. 
+As we marked the 10th anniversary of Hurricane Katrina in 2015, we launched the world’s first comprehensive city resilience strategy, Resilient New Orleans, combining local expertise with global best practices to confront our most urgent threats, adapt our city to our changing natural environment, invest in equity, create flexible and reliable systems, and prepare for future shocks. 
+Foremost among our city’s urgent threats is climate change and with it more extreme heat and potential sea level rise that could engulf our city. If global temperature rises unchecked, New Orleans will not see another 300 years. Already we are seeing more coastal loss than anywhere else in the U.S. and among the fastest in the world. 
+It is not enough to plan for how we will adapt to climate change. We must end our contribution to it. As the world committed to action in Paris in 2015, so too did we. I signed the Global Covenant of Mayors on Climate & Energy, adding New Orleans to the team of more than 7,400 cities in 119 countries worldwide committed to taking climate action. 
+On November 4, 2016, the Paris agreement signed by the world went into effect—years ahead of schedule—thanks in part to U.S. leadership, and yet less than a year later on June 1, 2017, the President rescinded the U.S. commitment to the world’s hard-won agreement. In response, and alongside almost 300 other U.S. mayors and in coalition with more than 1,500 mayors, governors, college and university leaders, businesses, and investors, we affirm our commitment to the Paris Agreement goal to keep global warming well below 2°C. We must not waver. We must work together. Time is of the essence in combatting this critical existential threat, and our coastal city is on the front line. 
+I hope you’ll join me in making this vision a reality as we take action to slow climate change in coordination with cities around the world. This work is good for New Orleans. Growing our local low-carbon economy helps manage our climate-related risks. It also adds new industries, jobs, and wealth to our region; lowers our energy bills; connects our community; reduces our waste; modernizes our city; and makes us more economically competitive. 
+Sincerely, 
+Mitchell J. Landrieu Mayor 
+ 
+2 City of New Orleans 
+       
+Climate Action for a Resilient New Orleans 3 
+4 City of New Orleans 
+Climate Action for a Resilient New Orleans 50% by 2030 
+TABLE OF CONTENTS 
+OUR 2030 VISION INTRODUCTION OUR CLIMATE IS CHANGING ADAPTATION IS ALSO CLIMATE ACTION 
+GREENHOUSE GAS INVENTORY AND REDUCTION STRATEGIES 
+MODERNIZE OUR ENERGY USE 
+IMPROVE OUR TRANSPORTATION CHOICES 
+REDUCE OUR WASTE 
+CREATE A CULTURE OF AWARENESS AND ACTION 
+IMPLEMENTATION AND MONITORING INVENTORY METHODOLOGY REFERENCES ACKNOWLEDGEMENTS 
+7 8 11 14 
+18 22 34 46 54 
+64 68 71 72 
+  
+Climate Action for a Resilient New Orleans 
+5 
+  
+INTRODUCTION 
+6 City of New Orleans 
+
+Our 2030 Vision 
+We are a dynamic, prepared, and equitable city embracing our changing environment and working together to combat climate change and slow its effects. Our economy and quality of life benefit from this investment in curbing climate change and being more resilient. 
+Recent research from C40, a global network that focuses on how cities can meet the climate change challenge effectively, calls for swift and dramatic reductions from U.S. cities—emphasizing action before 2020. We are accelerating near-term action and have chosen 2030 to focus our vision because it is near enough to provide urgency for our action and far enough in the future to achieve and measure the significant change required. We will track our progress annually beginning in 2018 and will update our goal as we go, striving to reduce our greenhouse gas (GHG) pollution and increase our resilience substantially over time. Our pollution today comes mostly from the energy we use to light, heat, and cool our buildings, and to transport ourselves, and from how we manage our waste. 
+In 2030, New Orleans will have reduced our annual greenhouse gas pollution by 50% from what it is today. We will use 100% low-carbon electricity, take 50% of our trips in modes other than driving, and divert 50% of our waste from landfills. 
+Starting today and continuing over the next 13 years, we will make big strides in lessening our impact by reducing the greenhouse gas intensity of our fuel choices for energy and transportation, by saving energy whenever possible, by choosing to travel by walking, biking, and taking mass transit instead of driving, and by more efficiently managing our water and waste. To be successful, we must also create a culture of awareness and action about climate change and resilience, and many of the steps we take will support our economic vitality and competitiveness as the world transitions to a low-carbon economy. 
+Each of our greenhouse gas reduction strategies targets a core area of our pollution inventory, aspires to a particular aspect of our overall vision, and contributes co-benefits related to health, equity, economic development, and quality of life. In some cases, we have adapted a best practice proven successful in another city, while in others we are addressing specific challenges in our unique context. We have prioritized our actions to focus on those measures that can have a big impact quickly. In addition to actions focused only on curbing our contribution to climate change, we have also outlined the adaptation measures we have already undertaken as part of the city’s resilience strategy, Resilient New Orleans, that serve both as environmental adaptation and greenhouse gas mitigation efforts. 
+Climate Action for a Resilient New Orleans 7 
+ 
+INTRODUCTION 
+Introduction 
+A resilient city takes action on climate change. Located where the Mississippi Delta meets the Gulf of Mexico, New Orleans is arguably more affected by climate change than any other U.S. city, and while we must adapt to these risks, we also share a responsibility to mitigate our contribution to this growing and increasingly urgent problem. 
+Greenhouse gas pollution, also referred to as carbon emissions, is the primary cause of global warming and climate change. These emissions largely derive from the energy we use, how we transport ourselves and our goods, and the decomposition of our waste. 
+Some of these changes are global, such as the record-breaking annual global temperature in 2016, which was almost 1°C higher than the 20th century average.1 Some are regional with global impact such as dramatically low sea ice documented in the Arctic and Antarctic in 2016, the smallest and second smallest annual averages respectively since record-keeping started in 1979.2 Still others are regional impacts that affect health and well-being in our city such as the increased extreme heat events and 
+increasing sea level rise occurring in our region and predicted to worsen in the coming years. 
+In August 2015, New Orleans became the first city in the world to release a comprehensive resilience strategy outlining actions to address environmental, social, economic, and infrastructural challenges—together. Resilient New Orleans3 presented goals for the future city through three complementary visions for action: Adapt to Thrive, Connect to Opportunity, and Transform City Systems. These three visions challenge us to adapt to our changing environment, focus on equity, and be a dynamic and prepared city. Since the release of Resilient New Orleans, our fast-paced progress in securing major funding, building teams, and cultivating partnerships has made New Orleans a national and global leader in resilience thinking and action. 
+This climate action strategy Climate Action for a Resilient New Orleans: 50% by 2030 represents another major step in delivering on Resilient New Orleans. With its implementation, we will complement our environmental adaptation with mitigation actions and join the growing international movement that seeks to limit our collective contribution to global climate change. This document describes 11 strategies for reducing our climate impact over the next thirteen years through 27 actions, including investments in alternative energy and energy efficiency, waste management 
+ 
+8 
+City of New Orleans 
+
+and transportation improvements, and greening and conservation projects. We will monitor our progress against our stated, measureable goals and adjust our action strategy as we learn more about our threats. 
+Climate change is happening now. 
+For New Orleans, climate change is not a future scenario, but a current reality. The environment of South Louisiana is changing rapidly, from our eroding coastal marshes to subsiding land in our urban neighborhoods. We are already facing many challenges caused or worsened by climate change due to our unique geography. Sea level rise and a projected increase in the intensity of weather events are expected to accelerate coastal land loss—increasing storm and surge exposure while adding greater stresses to our levee and flood protection systems. 
+Meanwhile, more extreme heat episodes will directly threaten the health of our residents and the reliability of infrastructure systems that supply us with energy and water. The record heat we have experienced in the past few years causes higher concentrations of air pollutants and greater amounts of ozone in our urban areas and accelerates the spread of allergens, exacerbating respiratory illnesses and allergy problems. A sustained warmer climate also increases the risk of vector-borne diseases such as malaria, dengue fever, and Zika virus. 
+We cannot predict the future with perfect accuracy, but we can assess our risk based on the best information we have 
+today and take action to lessen it, and the trends we are seeing in our warming planet make our work to coordinate a more climate resilient city urgently important. 
+The earth is warming faster than ever. 
+While it is true the climate is in a constant state of change and the earth has undergone cyclical periods of warming and cooling before, the rate of change currently occurring is unprecedented and staggering in its speed. In previous cycles in which the earth has warmed after an ice age over the past million years, it took about 5,000 years to warm about 5 °C. 
+In the past 100 years alone, our planet’s average temperature has warmed 0.7 °C, and models predict it could rise another 1-6°C in the next 100 years.4 This climate shift is occurring faster than any other during the past 65 million years.5 This rate of change will stress and kill many species that will not be able to adapt in time. Humans are highly adaptable, but with an already overcrowded planet and an expectation to add up to four billion more people by 2100, our largely coastal settlements are only becoming more overburdened and threatened. 
+Here in Louisiana, while our 2017 Coastal Master Plan from the Coastal Protection and Restoration Authority (CPRA)6 sets an ambitious path to respond to changes in our coastal system, it also accepts that we cannot sustain a goal of “no net loss” of our coastal wetlands with updated projections of much higher sea level rise than previously anticipated. 
+
+C l i m a te Ac t i o n f o r a R R e e s s i i l l i i e e n n t t N N e e w w O O r r l l e e a a n n s s 
+9 9 
+ 
+INTRODUCTION 
+10 City of New Orleans 
+Cities must lead. 
+Nations have been negotiating for more than 20 years about climate change, and while the trends have persisted and the signs become more prevalent, U.S. national leadership has been inconsistent. Nowhere is this clearer than the recent executive order revoking and rescinding all federal action on climate change. Local leadership is now more critical than ever. We must look to U.S. cities, states, corporations, and organizations that understand the risks of climate change and are addressing it through innovation and collaborative problem-solving. 
+Cities, in particular, are poised to act. Globally, cities comprise only about 3% of the earth’s land mass and are responsible for about 76% of both energy use and greenhouse gas emissions.7 As the sites where energy, transportation, waste, and culture depend upon each other, city action will be the key to implementing any meaningful reductions in greenhouse gas pollution. With more agile political systems than national governments and the experience of already having to adapt to changing environmental and social conditions, city governments are uniquely positioned to set agendas, develop cross- sectoral partnerships, and send market signals to mitigate climate change. 
+Collaborating with residents, community organizations, and businesses, cities worldwide are rethinking how they contribute to climate change, and sharing tactics and lessons learned as they curb their contribution. New Orleans is already part of several intercity networks that provide opportunities for us to learn from other cities including C40, a network of cities committed to addressing climate change; ICLEI – Local Governments 
+for Sustainability; Urban Sustainability Directors Network (USDN); and 100 Resilient Cities—Pioneered by The Rockefeller Foundation (100RC). 
+New Orleans is joining a global movement. More than 7,400 cities around the world have committed to taking action on climate change, and in the U.S., hundreds of cities have set reduction targets and developed strategies to achieve them. 
+The world has been showing momentum with international agreements in the past few years that demonstrate a shared understanding of the scale of the problem and willingness to cooperate 
+to fix it. These include the Conference of Parties 21 (COP21) agreement in Paris in December 2015, signed by 195 nations, which pledges to hold the increase in global average temperature to “well below” 2°C above pre-industrial levels and to “pursue efforts to limit the increase to 1.5°C.”8 At COP21, city action was highlighted and the convening was accompanied by a global gathering of mayors who represented more than 600 million constituents. 
+In addition, two international agreements were made in October 2016: the Kigali amendment to the Montreal Protocol, in which the same countries agreed to phase out hydrofluorocarbons by 80% by 2050, a coordinated action that 
+could reduce global warming by 0.2°C to 0.44°C;9 and the first worldwide agreement to reduce greenhouse gas pollution from air travel, in which the aviation industry will monitor and offset its emissions to phase in carbon neutrality for an industry responsible for about 2% of emissions worldwide.10 
+We must take rapid action now together with cities and countries around the world to slow the rate of change to keep the temperature below 2°C, aiming for an increase of no more than 1.5°C. 
+    
+Our climate is changing. 
+Rising Seas 
+As the earth’s global temperature rises, the ocean is expected to encroach upon our coastlines dramatically as a result of melting glaciers and ice sheets and related thermal expansion of the water. This is a systemic response by the planet to a warming climate that may 
+be impossible to reverse once certain temperatures have been reached, and it is particularly concerning for humans as we have been building our civilizations on coastlines for thousands of years. We already see indications that this process has started—most of the glaciers worldwide are retreating, ice sheets in Greenland and Antarctica have been breaking and melting, and low-lying cities are seeing increased flooding sometimes as a result of heavy rains or storms such as recent floods in Baton Rouge and South Carolina, and sometimes as a result of particularly high tides such as those occurring in Norfolk and Miami Beach. 
+Several reputable agencies have published forecasts for rising seas and sinking land in this region, and while predictions do not match exactly, they are consistent and give us a good sense of this urgent issue for the city. The National Oceanic and Atmospheric Administration (NOAA) projects a net rise of 4.3 feet (1.3m) in sea level in Southeast Louisiana by the end of the 21st century. Meanwhile, review of 2015 data from the Coastal Protection and Restoration Authority (CPRA) estimating both global sea level rise and subsidence for New Orleans by 2100 indicates a range for relative sea 
+level rise of 3.4 feet (1.032m) to 11.6 feet (3.534m). This rate is among the highest in the world and projected to happen with increasing momentum over the years. The CPRA estimates indicate the next 10 years will see nominal rise with a large increase in the subsequent years. Swift and meaningful action is necessary now if we are to have any chance to slow this process. 
+Heat Stress 
+Assuming current global levels of greenhouse gas pollution, by the end of the century, it is projected that the average number of days with temperatures exceeding 95°F (35°C) could quintuple in New Orleans to more than 80 days per year.11 Sustained increased temperatures, as we have seen in the past few years with extreme heat events, are associated with higher concentrations of air pollutants and greater amounts of ozone in our urban areas and enable more pollen allergens and spores in the air, exacerbating respiratory illnesses and allergy problems, which disproportionately affect vulnerable populations including children, the elderly, and those experiencing poverty or homelessness. A sustained warmer climate also increases the risk of vector-borne diseases such as malaria, dengue fever, and Zika and West Nile viruses. Additionally, extreme heat puts greater stress on our infrastructure systems, reducing efficiency in our energy systems and causing strain on our water and transportation infrastructure. 
+Climate Action for a Resilient New Orleans 11 
+  
+INTRODUCTION 
+20 
+19 18 17 16 
+15 
+14 13 12 11 
+10 
+9 8 7 6 5 4 3 2 1 
+0 
+-1 -2 -3 -4 -5 
+Coastal Land Loss 
+New Orleans is a coastal city, so the rapid loss of coastal wetlands is serving to increase the city’s exposure to severe weather and storm surge that would have otherwise been mitigated by a large natural buffer. According to the U.S. Geological Survey, Louisiana has lost nearly 1,900 square miles (4,900 sq km) of land since 1932—an area as large as the state of Delaware. More than 1,800 additional square miles (4,600 sq km) could disappear by 2060 if the Louisiana Coastal Master Plan is not implemented in full. The loss of a healthy coast means not only less protection from storm surge, but also a severe impact on the regional and national economy, losses to ecosystems and habitats, and a potential population retreat from areas with high flood vulnerability. 
+2016 Levee 
+2100 Sea Level (high estimate) 
+2100 Sea Level (low estimate) 
+2016 Ground Level 
+Land Subsidence 
+Meanwhile, urban land subsidence—a result of low groundwater levels maintained during dry times—has caused large swaths of the urbanized area of greater New Orleans to sink below 
+sea level by as much as 10 feet (3m), making reliable levees and drainage pumping stations even more critical to hold back the Gulf of Mexico and the Mississippi River. Additionally, as the ground sinks, pipes are breaking, utility poles are becoming less stable, streets and sidewalks are buckling, and the foundations of homes and businesses are becoming structurally compromised, all while increasing regular flood risk in low-lying neighborhoods. Estimating the full economic impact of ongoing land subsidence is challenging, but the Greater New Orleans Urban Water Plan 
+ 
+Our seas are rising. 
+At the same time, subsidence is causing the ground level to sink. This graph shows projected sea level rise (1-6 feet by 2100) combined with local subsidence projections (-4 feet) and what that means for our future level of protection. 
+ 
+2100 Levee 
+                
+2016 Sea Level 
+
+
+
+2016 Ground Level 
+   
+2100 Ground Level (based on projected subsidence) 
+Data Source: Louisiana 2017 Coastal Master Plan, Coastal Protection & Restoration Authority 
+
+12 City of New Orleans 
+ 
+conservatively estimated the cost to be at least $2.1 billion over the next 50 years, not including major infrastructure impacts. 
+Intense Weather 
+Climate change is projected to cause greater intensity in storm events, including hurricanes and severe storms, that can cause flood and wind damage. More periods of severe drought are also expected in Louisiana, which will act to further destabilize land and increase rates of subsidence. 
+Flooding due to intense rainfall and the limited capacity of pipes and pumps causes direct damage to roadways, homes, businesses, and infrastructure, and can hamper both emergency response and recovery efforts. As 
+the city’s soft soils become saturated and the drainage network reaches capacity during severe storms, the interdependencies of the city’s utilities 
+200 
+190 180 170 160 150 140 130 120 110 100 90 80 70 60 50 40 30 20 
+10 
+means that effects can spread across multiple systems. Waterlogged soils in conjunction with high winds, for example, often result in downed trees and power lines—leading to outages that compromise the city’s energy— dependent stormwater and wastewater pumping facilities and significantly increase the period of power interruption. 
+Public Awareness 
+While we may recognize the serious risks that a hurricane presents, we still lack a widespread public awareness of how climate change is already affecting our city and increases our future risks. City resilience is about more than building stronger infrastructure to hold back water and withstand wind. We must also reduce our contribution to climate change as we adapt to its effects and build a culture of awareness and climate action. 
+     
+higher emissions projection range lower emissions projection range median projections historical observation 
+Data Source: U.S. Climate Resilience Toolkit, Climate Explorer, https://toolkit.climate.gov/ climate-explorer2/. 
+      
+We are experiencing more hot days. 
+Without global action, the number of days New Orleans experiences temperatures above 95° F will rapidly increase 
+             
+Climate Action for a Resilient New Orleans 
+13 
+1950 1960 1970 1980 1990 
+2000 2010 2020 2030 2040 2050 2060 2070 2080 2090 
+Days with maximum temperatures above 95°F 
+ 
+shelf 
+barrier islands 
+land bridge natural ridges 
+INTRODUCTION 
+14 
+City of New Orleans 
+Adaptation is also climate action. 
+flood risk from major storms and reduce insurance premiums across the city. 
+However, infrastructure alone does not define our major storm readiness. Integral to preparedness in New Orleans is an efficient evacuation system. The City of New Orleans has established a City- assisted Evacuation (CAE) system to offer help to those who cannot otherwise leave the city during a mandatory evacuation order and works with partners such as the non-profit Evacuteer. 
+To prepare for more regular storm events, New Orleans has worked to implement many of the “non-structural” elements of the Louisiana Coastal Master Plan, including home elevations and building code improvements to better prepare our built environment for the threats of an uncertain future. 
+We know that our adaptation must be both physical and behavioral and that we must create a culture of environmental awareness at every stage of life. We are also preparing for the risks of the future—improving the redundancy and reliability of our energy infrastructure, investing in pre-disaster planning for post-disaster recovery, and developing 
+We are adapting to our changing environment from coast to curb. In order to be responsive to our changing environment, the City of New Orleans is preparing for climate change impacts including sea level rise and more intense storms with a multiple lines of defense approach: 
+	•	advancing coastal protection and restoration  
+	•	investing in comprehensive and innovative urban water management  
+	•	incentivizing property owners to invest in risk reduction  Our city is now better prepared for the threat of storm surge than ever before with a massive hurricane risk reduction levee and surge barrier system surrounding much of New Orleans. The $14.5 billion federal investment, which also includes improvements to drainage pumping stations and outfall canals,  has already served to lower modelled  sound  
+ 
+
+the preparedness of our businesses and neighborhoods. These adaptation actions will help our city survive, and even thrive, in the face of climate change. 
+The continent’s largest river, its deltaic plain, and the coastal wetlands tie the greater New Orleans region together physically and economically. A future healthy coast is critical to the economic infrastructure of the country: 25% of U.S. waterborne exports are shipped through Louisiana’s five major ports. To protect the coast and the vital economic and environmental benefits it yields, New Orleans is working with the State of Louisiana’s Coastal Master Plan to address accelerating rates of coastal land loss, with which come a loss of critical hurricane and storm buffers. 
+New Orleans is also building upon the research and vision of the Greater New Orleans Urban Water Plan, which offers a comprehensive approach for adapting urban areas throughout the region to live with water. The City is now embarking on an ambitious green infrastructure implementation program that focuses on adapting current systems to retain water as an asset in the landscape, increase safety, beautify neighborhoods, filter 
+pollutants, and provide spaces and places for recreation and social gathering. 
+Our adaptation efforts are also focused on our ability to be prepared for future crises, so plans include the addition of redundancy and reliability improvements to our electric grid, and the development of microgrids and backup power for our most critical assets, including water and pumping infrastructure. 
+Climate Action for a Resilient New Orleans: 50% by 2030 outlines our commitment to slowing climate change with actions to reduce our local greenhouse gas pollution. As we mitigate our own contribution to climate change, we are also taking direct action locally 
+to battle its most existential threat to our city: catastrophic sea level rise. 
+Our adaptation also helps reduce greenhouse gas pollution As an added benefit, many of the actions we take to adapt to climate change also serve to reduce our greenhouse gas pollution and may provide other social and quality of life benefits such as connecting our communities, improving our utility services, or upgrading our infrastructure. 
+
+highway foundation 
+levee 
+elevated buildings 
+flood gates 
+urban water management 
+evacuation routes 
+Graphic Credit: LSU Coastal Sustainability Studio, based on concept from John Lopez 
+Climate Action for a Resilient New Orleans 15 
+  
+INTRODUCTION 
+Gentilly Resilience District Reshaping the urban delta 
+Adapting to a changing environment is no small task—it requires significant and integrated infrastructure investments and generational change. It is therefore critical to focus today’s investments to have a transformative impact and set a replicable precedent for the investments of tomorrow. In order to develop a network of integrated solutions to social and environmental challenges, the City is geographically focusing the implementation of resilience-building activities at the scale of a district. 
+The creation of the city’s first Resilience District combines various approaches to water and land management that have been successfully piloted throughout New Orleans and, when implemented together, are intended to create even greater neighborhood benefits. The Gentilly Resilience District represents a concentration of efforts across Gentilly to reduce flood risk, slow land subsidence, and encourage neighborhood revitalization. 
+The projects of the Gentilly Resilience District are rooted in the knowledge that one type of solution is not enough. In order to address complex issues such as crumbling streets and the overburdened drainage systems and sinking soils that cause them, a suite of approaches is needed in different places to add up to a network of benefits. That is why Gentilly Resilience District projects will take place in streets, in neutral grounds, in parks, on schoolyards, on open lots, and in front yards. The projects are designed to reduce risk from flooding and subsidence by creating spaces to capture rainwater in the urban landscape. They are designed to beautify neighborhoods, improve health, and provide opportunities for recreation. 
+16 City of New Orleans 
+Graphic Credit: Waggonner & Ball Architects 
+
+The City’s green infrastructure implementation program is ambitious because it does not seek to achieve only one benefit. Green infrastructure, including new tree plantings, water storage, and green spaces, helps to manage water, but it also reduces the effects of the urban heat island effect— cooling down hotspots. In addition, trees and green infrastructure also have the ability to capture and store carbon emissions, which helps mitigate our contribution to climate change. Even greater carbon sequestration benefits will likely be achieved through the coordinated and comprehensive restoration of coastal marshes. 
+Improving the efficiency and reliability of our electric grid improves our preparedness, but also can reduce the amount of effort it takes to power our homes and businesses—reducing our GHG pollution along the way. The transition of our power to renewable electricity such as solar panels, and distributed energy such as fuel cells and combined heat and power, along with ancillary technologies such as battery storage and microgrids, can make our energy supply more resilient in the event of crisis while reducing our overall GHG pollution during steady state operations. 
+Our waste management contributes significant GHG pollution to the atmosphere, so reducing the amount of waste generated and increasing our reuse of materials will ultimately reduce our contributions to climate change. 
+Transportation is critical to almost every aspect of urban living, so improving the efficiency, reliability, and accessibility of our transportation infrastructure—and making it easy to choose forms of travel other than cars—will improve conduits for economic and community development, while reducing the large amount of pollution we generate moving about the city. 
+Our climate action has resilience value. 
+Urban resilience is an expansive vision of the capacity of individuals, communities, institutions, businesses, and systems to survive, adapt, and grow despite the chronic stresses and acute shocks we experience. Climate change is certainly one catalyst for both chronic stresses and shocks, and our community also suffers from many other chronic stresses including poverty, unemployment, and violence, as well as systemic racial inequity. Taking action on climate can help us address some of those stresses with the opportunity to alleviate poverty and unemployment while improving neighborhoods and community connections. How we take action on climate change can also help us address racial inequity in our community and support our resilience. We commit to prioritizing equity in our implementation of this strategy and will work with neighborhood leaders and community organizations to foster coordinated action from which we all can benefit. For example, we will develop initiatives to support low- and moderate-income families going solar and explore ways community organizations can support solar installation and job-development programs. We will also focus on making transit more useful for city residents who do not have cars and make the community bicycle-share program accessible to low-income workers. 
+Resilience is rooted in the knowledge that the future is uncertain, which means our actions today are critical. If we implement the actions outlined in this strategy, we will reduce our contribution to climate change, reduce our dependence on 
+fossil fuels, reduce our waste, increase our options for active transit, increase jobs in our community from low- carbon technologies, increase our city’s competitiveness, improve our air quality, and better our overall quality of life. 
+Climate Action for a Resilient New Orleans 17 
+
+Waste 
+6% 
+
+Energy 
+50% 
+
+Transportation 
+44% 
+How we compare 
+Our total emissions are calculated for Orleans Parish only and are relatively low compared to other U.S. cities. This is largely due to the high amount of low-carbon energy already in our electricity mix compared to other cities. 
+Pollution Per Capita (metric tons) 
+Houston, TX 15.22 Portland, OR 12.47 Philadelphia, PA 12.37 Chicago, IL 12.34 Seattle, WA 9.40 New Orleans, LA 9.38 Los Angeles, CA 8.31 San Francisco, CA 5.37 
+ 
+ 
+INVENTORY 
+Greenhouse gas inventory 
+Last year, the City conducted a baseline inventory for 2014 using the Global Protocol for Community-Scale Greenhouse Gas Emissions (GPC) and this year, we worked with CURB, a tool developed by C40, the World Bank, and AECOM, to evaluate our proposed actions and estimate how they will help us meet our goal of 50% reduction by 2030. 
+Our overall baseline inventory is 3.6 million metric tons, or tonnes, of CO2 equivalent, which means we have measured the collection of primary greenhouse gases, carbon dioxide (CO2), methane (CH4), 
+and nitrous oxide (N2O) and converted all to be the same base measure of CO2, thereby reporting in CO2 equivalent (CO2e). We outline how energy, transportation, and waste contribute to our pollution and planned actions for reductions throughout this strategy. 
+If we do nothing to address this pollution, we would have an estimated 4.3 million metric tons of pollution by 2030, while with our goal of 50% reduction below 2014 levels, we’re aiming to have about 1.8 million. This goal is ambitious and achievable. With sustained effort and a few key actions prioritized, we can meet our goal of 50% by 2030 and our interim milestones of 10% reduction by 2020 and 30% by 2025. 
+Total 2014 GHG Pollution: 
+3,606,199 metric tons CO2e 
+The City of New Orleans conducted an inventory of our 2014 community-wide GHG emissions to the Global Protocol for Community-Scale Greenhouse Gas Inventories (GPC) to provide a baseline from which to measure progress on our reduction goals. We calculated a per-capita comparison with other cities to provide a sense of how we’re doing relatively. These calculations were based on information available in October 2016 through cdp.net and will change over time. 
+   
+18 
+City of New Orleans 
+
+Actions to reduce our climate impact 
+5,000,000 4,500,000 4,000,000 3,500,000 3,000,000 2,500,000 2,000,000 
+1,500,000 1,000,000 500,000 
+0 
+2014 2020 
+Analysis conducted using the Climate Action for Urban Sustainability (CURB) tool provided by C40 
+Reduce our reliance on carbon-intensive fuels Save energy and make our savings a sustainable resource Increase resilience of our energy, water, and sewer infrastructure 
+TRANSPORTATION 
+Transform infrastructure to reduce car dependence Encourage active transportation Increase fuel efficiency, clean fuel use, and shared-use mobility services 
+Baseline Forecast 
+Energy 
+Waste 
+Transportation 
+Target Trajectory 
+2025 2030 
+WASTE 
+Launch a comprehensive recycling and waste reduction initiative Generate value from our waste 
+CULTURE 
+Grow the local low-carbon economy Enable data-driven decision-making and collaboration Connect culture and climate action 
+
+
+
+
+ 
+ 
+ 
+
+Electricity Generation 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+ENERGY 
+   
+Climate Action for a Resilient New Orleans 19 
+Building Energy 
+ 
+INVENTORY 
+Leading by example in government facilities and operations 
+
+Total 2014 Government GHG Pollution: 
+204,136 metric tons CO2e 
+Water & Wastewater Treatment Facilities 
+62% 
+In addition to the community-wide inventory, the City evaluated its own carbon footprint and continues to explore ways to reduce the climate change impact of our municipal operations. We commit to demonstrating community leadership on climate action and to taking measurable and consistent 
+steps to reduce our greenhouse gas pollution through the following actions. We will have annual check-ins with City departments to determine progress on these goals and seek additional actions we can accomplish annually. 
+Save energy and understand use 
+The City has been benchmarking its energy consumption at high-use facilities and is currently piloting efficiency 
+Buildings & Facilities 
+16% 
+Street Lights & Traffic Signals 
+5% 
+Vehicle Fleet 
+9% 
+Transit Fleet 
+8% 
+improvements and providing education for facility managers for new and recently retrofitted buildings. Using funds provided by the American Recovery and Reinvestment Act, the City converted more than 75% of our streetlights to energy-efficient light-emitting diodes (LEDs). 
+In 2018, we will continue to benchmark buildings, expand energy efficiency improvements and more comprehensive energy management, and explore 
+a shared savings program for City departments to invest in energy efficiency and make savings part of their operations. The City aims to reduce its energy use from its 2014 baseline by 15% by 2020. 
+20 City of New Orleans 
+
+Build capacity in City staff 
+The City will hire management and staff to centralize coordination of City energy investments, reduce energy expenses, and work with City Council to support the City’s regulation of utilities as directed by the City Charter and City Code. This staff will also explore development of energy projects to increase the City’s efficient use of energy and reduce its greenhouse gas emissions. Facility managers will 
+be trained in energy management and energy-efficient operations of buildings and facilities will be a performance requirement of those positions. 
+Explore ways to make water operations less energy-intensive The City’s water delivery and drainage operations currently comprise the single largest source of emissions for municipal operations. Since most of the City is at or below sea level, we rely on 24 drainage pumping stations and 13 underpass stations to pump and discharge rainwater over the levee systems to keep our city from experiencing major flooding. These operations rely heavily on energy to operate the extensive pumping system. The Sewerage and Water Board of New Orleans (SWBNO) has already begun to explore making operations more efficient and will make increased use of green infrastructure and more efficient energy technologies. 
+Determine feasibility of distributed generation and waste to energy City facilities provide a significant opportunity to incorporate distributed energy generation with the installation of technologies such as rooftop solar, combined heat and power, and fuel cells. The city’s vacant properties may hold even more renewable energy generation potential. We will explore the potential of solar and other distributed generation on City property, and consider ways to capture methane and potentially create renewable gas at waste and wastewater treatment facilities. 
+Improve fuel efficiency of city fleet 
+The City’s fleet is sizeable and aging and has significant impact on our GHG pollution. To reduce costs and improve efficiency, the City has already initiated development of a fleet management plan, and will complete it by 2018. The plan will include comprehensive data collection to maximize efficiency and cost-savings and reduce fuel consumption. As part of the plan, the City will identify and execute an alternative fuels strategy and will reduce idle time and emissions through behavior changes and idle reduction technologies. Several departments, such as the NOPD and EMS, use a substantial amount of diesel fuel or gasoline by idling, and EMS is testing an idling reduction initiative in 2017. 
+Implement recycling in City buildings 
+The City of New Orleans is working on increasing recycling in its own operations. By 2018, we will institute recycling pick-up at all City facilities and measure departments against our recycling targets. We will aim to recycle 30% of our waste by 2020, 40% by 2025, and 50% by 2030. 
+Implement sustainable contracting and procurement policies By 2019, the City will develop climate action compliance guidelines for its own contracting. The City relies on multiple contracts with outside agencies in order to perform essential public services. We will identify opportunities for energy, fuel, and waste efficiency through the development of evaluative criteria 
+and bid requirements for prospective vendors, contractors, and service providers and will include these directives in solicitations upon their approval by 2019. The City has already included these practices in some instances, including an alternative fuels requirement in sanitation contracts for residential and small business waste and recycling. 
+Climate Action for a Resilient New Orleans 21 
+MODERNIZE OUR ENERGY USE 
+Strategies: 
+Reduce our reliance on carbon- intensive fuels 
+Save energy and make our savings a sustainable resource 
+Increase resilience of our energy, water, and sewer infrastructure 
+  
+ENERGY 
+22 City of New Orleans 
+ 
+2030 Goals: 100% low-carbon power 
+255 megawatts local solar 3.3% annual energy savings 
+        
+Climate Action for a Resilient New Orleans 23 
+ 
+ENERGY 
+Modernize Our Energy Use 
+Resilience value: Using less, cleaner, and more locally produced energy provides our community with additional benefits such as cleaner air, long-term cost reduction, increased ability to rebound from major storms quickly, job creation, and small business development. 
+Every day, we each use energy to heat and cool our homes and offices, heat water, cook food, and power our televisions, computers, and other devices. As a community, we use energy to light our streets, to purify and pump drinking water throughout the city, and to drain waste and storm water. As a city with extremely and consistently hot summers, we have very high demand for electricity in the summer to cool our buildings for our health, safety, and comfort. 
+Our energy use accounts for the biggest proportion of our greenhouse gas emissions: 50% or 1,800,090 tonnes of CO2e. The bulk of this—63%—comes from our electricity usage. Power plants burn fossil fuels to generate electricity which is then transmitted to our homes and businesses. The remaining energy emissions—37%—come from our direct use of natural gas and our natural gas infrastructure. Combined commercial and government use of energy accounts for about 45% of the energy total, while our residential sector is responsible for about 42% of the total. Our inventory reflects significantly less activity in our 
+industrial sector—only 11% of total energy emissions—due primarily to much of our industrial activity being located beyond the boundaries of Orleans Parish. 
+To reduce our greenhouse gas pollution quickly and with lasting results, we must both reduce our overall energy use and reduce the greenhouse gas intensity of the energy we must use. 
+New Orleans is already in a good position compared to other U.S. cities regarding the carbon intensity of our electricity supply. Entergy New Orleans (ENO) supplies the city with a significant amount of electricity generated from nuclear power plants, about 57% in 2014 and 
+58% in 2016. Nuclear energy helps keep our greenhouse gas pollution relatively low compared to natural gas or coal. On the other hand, it can be expensive for customers as compared to power from energy efficiency and renewables. 
+While we still have a long way to go compared with other cities in energy efficiency, we have made great strides in how efficiently we use our energy, moving up the ACEEE Energy Efficiency Scorecard from 2015 to 2017 by 7 places and now ranking 40 out of 51 cities. 
+Our energy efficiency utility program Energy Smart is entering its seventh year and has higher goals than ever, and in authorizing this year’s program the City Council affirmed its commitment to efficiency by setting a goal to increase energy savings by 0.2% annually until we reach 2% annual savings. Rooftop solar has been very popular in New Orleans, and the city ranked 9th per capita and 14th overall among U.S. cities for rooftop solar in the 2016 Shining Cities report from Environment America. 
+
+24 
+City of New Orleans 
+       
+57% 18% 4% Nuclear Natural Gas Coal 
+21% Mixed Origin 
+158 miles 
+Transmission Lines 
+
+Under regulatory authority by the City Council, Entergy New Orleans (ENO) generates electricity from several power plants owned by ENO and other Entergy companies and buys electricity already produced 
+from the regional transmission organization to which it belongs, the Midcontinent Independent System Operator (MISO). The company maintains 158 miles of transmission lines, 22 substations, and 1,430 miles of distribution lines to deliver that electricity. In the baseline year for which we collected greenhouse gas information to set our goals (2014) ENO supplied the city with electricity comprised of 57% nuclear, 18% natural gas, 4% coal, and 21% of mixed-origin power purchased from MISO. 
+
+22 Substations 
+  
+1,430 miles Distribution Lines 
+        
+New Orleans has more than 37 megawatts of solar electricity on city rooftops. This is not currently counted in our electricity supply by Entergy or regulated by Council, but customers who have it avoid buying as much electricity from Entergy as their neighbors and get bill credit for the electrons they generate, effectively making rooftop solar a form of energy savings. 
+37megawatts Solar 
+SYSTEM IN CONTEXT 
+    
+Climate Action for a ReCsilliimenateNAewctiOonrlePalanns 25 
+ 
+ENERGY 
+Reducing energy costs 
+New Orleans has a significant portion of households for whom energy affordability is a burden. According to a study by Energy Efficiency for All, New Orleans ranked third among 48 cities for highest median home energy burden with energy utility costs representing about 5.3% of household income, compared 
+to about 3.5% average across all cities. In New Orleans the median rose to 8% for African-American households (5.4% national average) and 10% for low-income households (7.2% national average). 
+The Southeast has the highest regional energy burden nationwide, although it generally has very low electricity prices. The study found that improving the energy efficiency of low-income homes to that of median households would eliminate 35% of the energy burden. 
+At the same time, we have one of the 
+highest rates of rooftop solar on low- and moderate-income households and many of those homes have been made more energy efficient. Several ratepayer program models aid low-income households with burdensome energy costs in other cities and will be explored to determine what best practices we can add to our existing programs. 
+The City Council is careful in its consideration of costs in its regulatory decisions. Through its leadership on energy policy and regulation, we will reduce our greenhouse gas pollution over time by investing in a mix of cost- effective clean energy resources and programs, and in so doing achieve multiple benefits, including more comfortable and valuable buildings, lower energy costs, and investment in our communities. 
+              
+Hydropower Wind Nuclear 
+7 12 16 
+Carbon impact 
+by power source 
+Geothermal 
+40 
+Solar photovoltaic 
+54 
+Life-cycle greenhouse gas emissions in grams of CO2 equivalent per kilowatt-hour generated 
+Nuclear power, which accounts for nearly 60% of New Orleans’ energy supply, has one of the lowest carbon impacts. Sustained energy savings via energy efficiency can be considered a zero-emission power source. Waste-to-energy emissions vary by technology used. 
+Data Source: 
+26 City of New Orleans 
+Natural gas 
+475 
+National Renewable Energy Laboratory, referenced in the Wall Street Journal, November 14, 2016 http://www.nrel.gov/harmonization 
+Coal 1,001 
+Rooftop Solar as Energy Savings 
+New Orleans currently has more than 37 megawatts of solar electricity installed on almost 7,000 rooftops across the city, and the metropolitan area was ranked one of the top ten in the country for solar. We do not count this energy in our power mix as we do not buy it from the utility. These rooftop solar installations are mostly grid-tied, meaning the solar is feeding into the grid, and excess electricity flows into the mix and can be used by others on the grid. This production of clean electricity in the city helps the utility avoid the need and related cost to bring electricity into the city on transmission and distribution lines from power plants, thereby counting as “saved energy” along with the energy we save from optimizing energy use in our buildings through energy efficiency and energy management. To encourage solar installations on houses and businesses and help customers defray the investment costs, Entergy New Orleans and many other utilities currently credit solar customers the retail rate for electricity generated in a process known as net-metering— meaning customers with solar earn what they would have spent to buy the same amount of power from Entergy. 
+MAP 
+Rooftop Solar Photovoltaic Systems Installed in New Orleans by Capacity 
+0-5 kW 5-10 kW 11+ kW 
+Climate Action for a Resilient New Orleans 27 
+Data Sources: 
+Entergy New Orleans, City of New Orleans 
+ 
+ 
+ENERGY 
+Reduce our reliance on carbon- intensive fuels 
+       
+ACTION 
+Implement a 100% low-carbon electricity standard 
+HOW IS THIS A CLIMATE ACTION? 
+The fastest way to reduce our emissions, clean our air, and help slow climate change is to reduce the carbon intensity of our electricity supply. A sure source of low-carbon energy is the power of the sun and wind. 
+Cleaning the electricity on our grid by replacing high-carbon fuels with cleaner, low- and no-carbon options is the most impactful single action we can take to slow climate change. In 30 jurisdictions nationwide, authorities have addressed this by implementing renewable portfolio standards, which require utilities to procure a certain amount of renewable energy by a certain date. Such standards, initiated by elected leadership and implemented by regulatory authorities, drive renewable energy development across the U.S. 
+While renewable energy is a major priority, we take a more flexible approach with our goal to power our city with 100% low-carbon electricity by 2030.12 This could be from renewable sources such as solar, wind, hydropower and geothermal and from such sources as nuclear, waste-to-energy, battery storage, and demand-side management.Thanks to Entergy’s early leadership as a U.S. utility that recognized the threat of global climate change, about 57% of our power now comes from nuclear so we are more than half way to our goal already. Recently Entergy affirmed a goal to procure 100MW of renewable energy, which would take us from 0% to more than 5%. 
+We can achieve this goal of 100% low-carbon power by 2030 through a collaborative and creative approach to local capacity development, resource planning, and regional energy market participation. We can reach the goal with progressive improvement over time, aiming to achieve 65% by 2020, 80% by 2025, and 100% by 2030. In New Orleans, the City regulates the investor-owned energy utility through direct oversight by City Council. Unlike regulators elsewhere who focus only on utilities, our Council has a broad leadership commitment to 
+the well-being of our City, and recognizes the existential threat climate change poses. Setting this standard provides a policy framework for guiding regulation and energy procurement decisions that makes clear the City’s commitment to our future. 
+
+28 City of New Orleans 
+  
+ACTION 
+
+Credit: Tony Webster 
+ACTION 
+End our use of coal 
+New Orleans gets about 4% of the electricity we use from coal-fired power. Coal is the most carbon-intensive fuel choice we could make, emitting more than 1,000 grams of greenhouse gas pollution per kilowatt hour compared to 475 for natural gas, 54 for solar, 16 for nuclear, or 12 for wind. With the diversity of fuel sources available to us from renewable energy, natural gas, and nuclear, and with our ability to manage our demand and save more energy, we do not need to be using coal at all. 
+As costs have come down dramatically on other fuels from natural gas to solar, and the environmental costs of coal have become better understood, countries around the world have been shifting increasingly to cleaner sources of power and worldwide demand for coal has collapsed. Entergy has already proposed closing one of the plants in Arkansas that supplies our coal power by 2028. The City will work with Entergy to cost-effectively transition the power we are getting from coal to another source of supply as soon as possible. 
+ 
+Grow our local solar economy 
+In 2015, New Orleans was recognized as a top 10 solar city in the U.S. by Environment America, and in 2016 Entergy New Orleans built its first solar plant—a 1 megawatt pilot that also uses 500 kilowatts of battery storage—and launched a solicitation for 20 new megawatts of renewable energy. But not all is sunny. Although solar is growing fast in other markets and the price of solar is at an all-time global low, having dropped 70% in the last seven years, budget cuts forced the end of the state’s solar tax credit in 2016, thereby stalling the local solar economy. 
+The popularity of the tax credit and solar leasing spurred some of the highest residential rooftop solar rates of any city in the nation for low and moderate income households, and yet these 7,000 installations citywide totaling 37 MW represent only a 3% of the 1,277 MW of small rooftop solar capacity identified by the National Renewable Energy Laboratory (NREL) in a 2016 analysis, and only about 1% are on commercial or industrial buildings with large roof space. Google recently affirmed New Orleans solar potential with Project Sunroof, noting more than 90% of our rooftops have strong solar availability. 
+By 2030, we aim to harness at least 20% of our rooftop solar potential with a goal of 255 MW of local solar. Adding to the more than 37 existing MW, that’s about 18MW annually over twelve years. Entergy could use this local solar to meet its low-carbon electricity standard and partner with the City to leverage former landfills, brownfields, and other suitable city land, while residents, businesses, and the City and residents could develop solar directly 
+as well. Solar helps create local jobs and reduce our need for imported energy and when combined with battery storage, it can help make our community more resilient—providing a backup energy supply that can be used even if connection to the grid is lost. Also, it can be cheaper for the utility and its customers than many “dirty” power sources. 
+Working with community and energy stakeholders, and under Council regulatory authority, the Office of Resilience and Sustainability will explore development of a local solar program to encourage solar development where it is most beneficial to our community accounting for both customer and grid benefits and costs. This may include incentives, financing, and adopting policies effective in other cities to spur solar growth with emphasis on program design that provides equitable access to solar benefits. 
+Climate Action for a Resilient New Orleans 29 
+ 
+ENERGY 
+Save energy and make our savings a sustainable resource 
+      
+
+Credit: Energy Wise 
+ACTION 
+Increase energy savings 
+HOW IS THIS A CLIMATE ACTION? 
+By investing in energy efficiency, New Orleans can lower customer bills, make our properties more valuable, make our city more resilient, and reduce the need to add new power generation. We can hold our buildings to standards of performance like our cars and appliances, reducing their pollution and making them more comfortable, valuable, and healthier at the same time. 
+As directed by the New Orleans City Council, Entergy New Orleans (ENO) provides programs to save electricity called Energy Smart, which helped their customers save about 0.3% or about 18 million kilowatt hours of electricity in 2015. That’s enough to power 1,600 homes for a year. On December 10, 2015, the Council directed Entergy New Orleans (ENO) to ramp up savings 0.2% each year to reach an annual savings rate equal to 2% of the energy sold in New Orleans—a goal we are on track to meet in 2024. We could continue the 0.2% annual increase to reach 3.3% annual energy savings from Energy Smart by 2030. 
+In 2017, the City partnered with City Energy Project, a joint initiative of the Natural Resources Defense Council and the Institute for Market Transformation, to better understand and reduce energy use in our commercial and multifamily buildings. With City Energy Project support, the City will partner with the Downtown Development District to launch an Energy Savings Challenge and will provide a framework for large commercial and multifamily buildings to better understand energy use and costs in their buildings and upgrade those falling below a minimum threshold of efficiency. A nationwide study of buildings determined that getting such information helped building managers reduce energy use on average by 2.4% annually just through improved operations and changes in behavior alone.13 
+In addition to these programs, the Greater New Orleans Housing Alliance, the Appraisers Association, and Housing NOLA are underway with an initiative to include energy information in the Multiple Listing Service (MLS), helping homebuyers understand the energy value of prospective homes and highlighting energy efficient properties. 
+
+30 City of New Orleans 
+  
+ACTION 
+Innovate regulation and integrate demand-side management into resource planning 
+Regulators nationwide are considering how best to help utilities be allies and partners in modernizing our nation’s energy system. In New Orleans, the City Council has shown leadership with Energy Smart and should continue to expand it to be a comprehensive demand-side management program to help more customers use energy effectively to save money, reduce demand on the grid, and reduce overall 
+energy load. The program should be expanded to include natural gas savings, demand response, distributed generation, and education and workforce training. 
+This should be combined with regulatory innovation to incentivize the utility to even more actively help its customers to save energy and reduce grid demand. New Orleans is unique among U.S. cities in that it regulates an investor-owned utility with a service territory that mirrors its boundaries, and that territory is a small and unique part of Entergy’s overall footprint. This provides an opportunity for the City and Entergy to partner to innovate new regulatory approaches that could better align the utility’s incentives with the City’s goal to reduce its greenhouse gas emissions and be more resilient. This innovation could be helpful not only for the City, but for the entire U.S. energy utility industry and for other cities around the world. 
+  
+ACTION 
+Reduce the energy burden for low-income New Orleanians 
+Utility bills are burdensome for many in our community, representing a high percentage of household income. Entergy offers bill assistance funded on a voluntary basis and through federal programs and has piloted some income-qualified programs. Other utilities nationwide have even more robust programs for low-income assistance that are rate-payer-funded. As the City Council in its regulatory capacity directs the first comprehensive update in energy rates in almost nine years in 2018 and continues to innovate Energy Smart between now and 2030, it will be important to explore other programs, scale successful pilots, and bring best practices to our community’s unique needs. 
+The Greater New Orleans Housing Alliance and the Housing Authority of New Orleans are working with Housing NOLA to develop an initiative addressing the burden in multifamily affordable housing with a Utility Allowance for Energy Efficiency Units program to launch in 2018. These allowances encourage property owners to make energy efficiency improvements that reduce utility bills for their tenants. 
+ 
+Climate Action for a Resilient New Orleans 31 
+ 
+ENERGY 
+Increase resilience of our energy, water, and sewer infrastructure 
+      
+ACTION 
+Evaluate critical utility assets and align on reliability, resilience, and climate action 
+HOW IS THIS A CLIMATE ACTION? 
+Using large fossil fuel power plants for our electricity needs increases greenhouse gas pollution and advances in grid technology and distributed energy resources are making it easier to do more with existing and renewable resources. When we understand how we use energy, we can better manage our demand and determine how we can meet our needs without creating more pollution. 
+Energy resilience is a critical need for our community. To be energy resilient, New Orleans must have a comprehensive understanding of our energy supply. This includes understanding the reliability and quality of electricity delivered through our transmission and distribution grid, and how and where we could maximize distributed energy resources throughout the city. It also requires an understanding of our gas infrastructure and our unique water-energy nexus, as the city’s water system is perhaps the most energy dependent of any nationwide. We must also understand how our community uses energy, so we can prioritize our best opportunities to fill gaps to meet our needs while also keeping our commitment to cost-effectively reduce greenhouse gas pollution, clean our air, and reduce our climate risk. For sustained resilience, Entergy New Orleans, the Sewerage and Water Board, and the energy and building industries must work in alignment with the City to achieve our climate action goals. 
+Several efforts are already underway. In 2016, the City, Sewerage and Water Board, and Entergy started working with Los Alamos and Sandia National Laboratories as part of the Department of Energy Grid Modernization Lab Consortium to evaluate how microgrids could support continuance of critical services in certain post-storm flood conditions. In 2017, the City is considering distributed-generation pilot options to apply learning from this study. Meanwhile, Entergy is underway with a comprehensive gas pipeline upgrade project and recently provided City Council with a proposal to roll out advanced metering infrastructure. The City and the Sewerage and Water Board are working with Veolia and Swiss Re on an analysis of strategic improvements to critical water and city service infrastructure, and exploring ways to be more energy efficient and make use of clean technologies to reduce demand on the grid and improve reliability of their energy services. 
+We can also do more. Energy planning must prioritize our community’s resilience and climate action goals alongside cost to ratepayers and cost-recovery for the utility. As part of its regulation of our energy utility, the City Council should inform its resource-planning and supply- acquisition decisions with independent analysis of the community’s energy assets, such as our transmission and distribution capacity 
+and reliability; electricity quality as delivered to critical community services; and generation assets including the city’s thousands of solar installations, co-generation, and district heating and cooling system. We ask City Council to work with the Office of Resilience and Sustainability to commission the City’s first energy resilience study to be funded by ratepayers and to review this analysis with stakeholders for shared understanding, informed dialogue, and decision-making. 
+
+32 City of New Orleans 
+  
+CHALLENGE IN CONTEXT 
+ 
+Water Purification Plant 
+Water use is also 
+electricity use in 
+New Orleans. 
+All potable, or drinkable, water must be pumped into the city and all water, whether wastewater or stormwater, must be pumped out as well. 
+         
+Mississippi River 
+        
+New Orleans’ water supply is drawn from the Mississippi River and purified at two plants: the Carollton Plant treats and distributes about 135 million gallons of water daily to the East Bank and the Algiers plant purifies about 11 million gallons for the West Bank. Once treated, the water is pumped through about 1,600 miles of pipe to homes and businesses. 
+Wastewater Treatment Plant 
+After water is used by New Orleanians to cook, bathe and consume, it flows into our sewerage system, which is about 1,600 miles long, and uses 83 electrically operated pump and lift stations. Water is collected and pumped to two treatment plants. The plants treat the water and discharge it back into the Mississippi. As the waste in the water decomposes, it creates methane, a potent greenhouse gas. When the water is sent back to the Mississippi, another greenhouse gas, nitrous oxide, is also released in small quantity. 
+Drainage Pumping Station 
+Much of New Orleans is below sea level, requiring that the city pump stormwater out when it rains. The city generates electricity at the Carrollton Plant daily and uses that plus power from Entergy to run 24 drainage stations that are staffed 24 hours a day and 13 stations under the highways that are automatically turned on during significant rain. Most rainwater is pumped into Lake Pontchartrain with some sent to the Intracoastal Waterway and Industrial Canal. The drainage system, the second largest in the world, can pump up to 32 billion gallons a day—that’s a flow rate bigger than the Ohio River, the nation’s 5th largest—through about 180 miles of canals. 
+Purification & Distribution 
+                 
+Wastewater 
+              
+Climate Action for a Resilient New Orleans 33 
+Drainage 
+ 
+
+Lake Pontchartrain 
+  
+           
+IMPROVE OUR TRANSPORTATION CHOICES 
+Strategies: 
+Transform infrastructure to reduce car dependence 
+Encourage active transportation 
+Increase fuel efficiency, clean fuel use, and shared-use mobility services 
+  
+TRANSPORTATION 
+34 City of New Orleans 
+ 
+2030 Goal: 50% non-automobile trips 
+  
+Climate Action for a Resilient New Orleans 35 
+ 
+TRANSPORTATION 
+36 
+City of New Orleans 
+Improve Our Transportation Choices 
+Resilience value: Increasing our walking, biking and transit use reduces household costs, increases economic opportunity, and improves health. 
+How we choose to move around the city can increase or reduce our greenhouse gas pollution. Most of our local travel is in cars, often driving alone, which adds significantly to our greenhouse gas and particulate air pollution. More cars on the road also means more traffic congestion, reduced community interaction, and less pedestrian traffic to our local businesses. 
+Transportation accounts for 44% of our total greenhouse gas pollution, or about 1.5 million metric tons CO2e. Most of these emissions come from the combustion of fossil fuels in our personal vehicles that release carbon dioxide, methane, and nitrous oxide into the atmosphere. Electric vehicles are a cleaner choice than petroleum combustion cars; however, their overall reduction of climate pollution depends on where the electricity used to power them is generated. On an increasingly clean grid, electric vehicles are a very low- carbon choice. 
+We can make it easier, safer, and more enjoyable to get around actively— walking, biking, and taking mass transit, and thereby shifting many trips to non- auto travel—by prioritizing connecting our transit system to regional jobs and vital services; increasing our housing development in well-served public transit and walking corridors; and improving 
+our infrastructure for transportation alternatives to cars. New Orleans’ urban core was largely developed before cars 
+dominated our landscape, making it well suited to restore transportation alternatives for most trips. Additionally, many New Orleanians do not own cars. The more we choose to move around town without using private cars, the more we can reduce our greenhouse gas pollution impact, while increasing community connection, improving accessibility, and enabling transit and cycling infrastructure to better serve those who already depend upon it. 
+We have made progress in the past few years. Bicycling magazine ranked New Orleans among the top 20 U.S. cities for daily biking in 2016, citing the 2015 opening of the Lafitte Greenway, a 2.6- mile linear park connecting the French Quarter and City Park, and the city’s more than 100 total miles of bikeways. However, it was also noted that nearly half of our lanes are shared rather than protected and that we could do a better job making the case for and completing cycling infrastructure improvements. New Orleans also launched a new streetcar line in 2016 and we recently embarked upon 
+a $2.4 billion investment in our roadways that will also include improvements to our sidewalks. This past year we also added a mobility specialist to City staff, who 
+is working with various stakeholders on alternative transportation options and advancing the actions outlined in this strategy. 
+The Regional Transit Authority (RTA) is developing a strategic plan that will focus on making public transportation more relevant and useful to more people who need and want to ride it. Meanwhile, the City of New Orleans is updating its master plan to increase the focus on transit-oriented development throughout the city—especially in the CBD—where many new housing units are being developed in a major regional job center. 
+Most jobs are 
+inaccessible by transit 
+Connecting to economic opportunity in Greater New Orleans is often much more difficult for transit riders than for drivers. According to RIDE New Orleans, the average New Orleanian with a car can reach 89% of jobs in the region within 30 minutes. However, the same New Orleanian depending on transit can only reach 44% of those jobs within a full hour. With approximately 10% of working households lacking access to an automobile,14 economic disparities due to transportation challenges are a reality for many New Orleanians. 
+SYSTEM IN CONTEXT 
+Data Source: 
+Ride New Orleans 
+Jobs accessible within 
+60 mins by transit + walking 
+
+0-10% 10-20% 20-30% 30-40% 40-50% 50-60% 60-70% 70-80% 80-90% 90-100% 
+Jobs accessible within 
+30 mins by driving 
+
+Climate Action Plan 37 
+0-10% 10-20% 20-30% 30-40% 40-50% 50-60% 60-70% 70-80% 80-90% 90-100% 
+  
+ 
+TRANSPORTATION 
+Transform infrastructure to reduce car dependence 
+       
+ACTION 
+Design streets that are safe and useful for all 
+HOW IS THIS A CLIMATE ACTION? 
+Cumulative improvements to encourage walking, biking, and transit can reduce vehicle miles travelled by making it safer and easier to not travel by car. 
+
+38 City of New Orleans 
+In order to prioritize the safety of our streets, the City will establish a citywide policy that prioritizes public right-of-way use in the following order: walking, biking, public transit, and driving a motor vehicle. 
+The City is developing a “Complete Streets” program and is now preparing for detailed implementation. Following the passage of an enabling ordinance and the establishment of a Complete Streets working group, the City will create guidelines to design street projects that consider all users. These guidelines will help identify which alternate modes to prioritize when redesigning a street based on the specific context. The working group will also direct available capital funds to augment existing streets projects to accommodate pedestrians, bicycles, and transit. 
+  
+ACTION 
+  
+ACTION 
+Redesign the regional public transit system to increase access, capacity, and efficiency 
+After several years of rapid growth, transit ridership has leveled off even with an expansion of later evening bus service in spring 2016. Several factors likely contribute to this trend. One major issue widely recognized is the route network has not been redesigned in decades, despite many changes in the city and economy. Many routes continue to follow the streetcar lines they replaced and new regional routes have not been developed to address shifts in where people, jobs, and services are located today. 
+The entire RTA route network, in collaboration with Jefferson Parish Transit Authority, needs to be redesigned to address these changes. Redesigning the network also represents an opportunity to plan the system for ridership growth. Other enhancements to improve travel speed are also critical to increasing ridership such as pre-paid boarding and transit priority lanes. The City of New Orleans will work with the RTA, business leaders, and transit organizations to prioritize these improvements as part of its strategic planning process over the next year, with an emphasis on equity in transit system service. 
+Invest in safe, low-stress, and comprehensive bicycle infrastructure 
+While great strides have been made in adding bike lanes throughout the city, we must be strategic and safety-focused as we continue to develop our bicycle network. In planning future routes, we must target projects that connect existing routes and improve cycling infrastructure through the development of separated lanes and protected intersections in order to further increase ridership. A study of attitudes toward cycling in Portland, Oregon, a city known for its high proportion of commuters who cycle, noted that 60% of the population would bike if it were safer. Designing bike lanes that are protected from moving and parked cars can be as simple as vertical plastic posts to meet those safety needs and perceptions. The City’s pilot Baronne Street bike lane has reinforced this issue as it is frequently ignored by cars. Other methods include specially designated neighborhood streets, sometimes called “bicycle boulevards,” that limit through-traffic for cars, but not for bicycles. 
+With the opening of the Lafitte Greenway and the existing Jefferson Davis bikeway, the City has begun the development of a safe, low-stress network. Critical gaps connecting one end of the Greenway to City Park and the other end to the French Quarter must be closed to safely link major destinations. These links and new corridors connecting other parts of the city will attract more riders, which increases safety and inspires more people to ride. The City was one of ten selected in January 2017 for People for Bikes Big Jump Project to support efforts to expand the low-street bicycle network. 
+
+Climate Action for a Resilient New Orleans 39 
+ 
+TRANSPORTATION 
+Encourage active transportation 
+       
+ACTION 
+Incentivize public transit ridership, biking, and walking 
+HOW IS THIS A CLIMATE ACTION? 
+Walking, biking, and transit reduce vehicle miles traveled in polluting cars. 
+
+40 City of New Orleans 
+Credit: NORDC 
+In addition to making our multimodal transportation systems safer, more efficient, and more reliable, incentive programs and awareness campaigns can further encourage residents to ride, bike, and walk more. The City will work with RTA to explore Transit Pass incentive programs for employers, tourists, and students and Free Ride Days that encourage new riders to use the system. We will also work with local businesses to promote discounts and other benefit programs for people who travel via active transit modes. To encourage commuters to drive less, we will work with local employers to enact a policy requiring employers who provide subsidized parking to employees to offer a cash allowance in lieu of a parking space. 
+The City will also explore requirements and incentives for new developments that encourage less driving. We will explore opportunities to lower minimum parking requirements or institute maximum parking requirements for new buildings to limit the total number of parking spaces, and we will also work with local developers to encourage bicycle parking and car sharing in new developments. 
+ 
+Designing safer bike routes 
+Bike network map 
+CHALLENGE IN CONTEXT 
+Over the past 8 years, New Orleans has created over 100 miles of new bikeways across the City, making it safer than ever for people to ride bikes. But there is still work to do to increase the connectivity of the system and improve the safety and comfort of existing infrastructure. 
+Low Stress Bikeways 
+off-street path protected bike lane buffered bike lane bus/bike lane 
+bike lane shared lane 
+Data Source: City of New Orleans 
+ 
+ACTION 
+Promote walkable neighborhoods and transit- oriented development in priority areas 
+Just as important as expanding and improving transit is enabling more people, jobs, and services to locate near areas already well- served by transit. The City will identify those areas by creating and maintaining a transit accessibility mapping resource and establishing four to six priority areas based on potential for greater infill development. Working with the Master Plan update process, we will identify regulatory and zoning changes needed to address these areas. We will work with existing non-profits, such as Housing NOLA, the Urban Land Institute, and the American Institute of Architects to facilitate workshops to identify additional barriers and incentives with representatives in the building, renovation, sale, and lease of housing. 
+ 
+Climate Action for a Resilient New Orleans 41 
+ 
+ 
+TRANSPORTATION 
+Increase fuel efficiency, clean fuel use, and shared-use mobility services 
+       
+ACTION 
+Maximize fuel efficiency of public transit fleet 
+HOW IS THIS A CLIMATE ACTION? 
+Fuel efficient public transit reduces air pollution and greenhouse gas emissions. This action is second only to cleaning the electricity on our grid in terms of potential impact for our reductions. 
+Transit agencies around the country are working to reduce the greenhouse gas pollution of their fleets by investing in electric vehicles and clean and renewable fuels. Currently, the RTA bus fleet runs on B5 biodiesel fuel blends (5% biodiesel, 95% petrodiesel) while the streetcars are powered electrically. Soot from diesel vehicles is one of the major contributors to particulate air pollution and some cities like Paris, Madrid, and Mexico City have gone so far as to ban all diesel in their city by 2025. We must dramatically clean the fuel mix of our transit fleet and have several options from renewable diesel to electrification drawing from our cleaner grid. 
+Cities such as Indianapolis and San Bernardino have already begun incorporating battery electric busses (BEBs) into their fleets, and have seen significant savings in maintenance and fuel. BEBs currently cost more than conventional diesel busses, but the prices are dropping rapidly – 25% in the last 5 years. Recent research by the National Renewable Energy Laboratory and Columbia University have shown BEBs are four times more fuel efficient than compressed natural gas (CNG) busses and estimate payback of the higher purchase costs over a conventional bus in seven years based on these operational savings. These economics will only improve as BEB costs continue to fall. 
+The current RTA bus fleet was replaced entirely over a few years following massive losses in the flooding after Katrina. As a result, the RTA will be looking at major fleet replacement starting in 2020 based on a standard 12-year replacement cycle. Getting this replacement choice right is critical to meeting our climate action goals. The City will work with RTA to explore opportunities to increase the fuel efficiency of public transit in New Orleans, particularly opportunities with renewable fuels and BEBs. The City will also work with RTA to explore opportunities to generate renewable energy, such as solar panels, to further reduce costs to streetcars and any future BEB fleet. 
+
+42 City of New Orleans 
+  
+ACTION 
+Launch bicyle and car share 
+Bike share has quickly emerged as an increasingly viable and popular transportation system around the world. Following several years of lobbying by community groups and advocates, the City of New Orleans and the Regional Planning Commission conducted a feasibility study, which showed New Orleans could support a very large bike share program. The City is partnering with Social Bicycles to finance, build, and operate a system. It will launch in Fall of 2017 with 700 bicycles and 70 stations and grow to a minimum of 900 bicycles and 90 stations by 2021. 
+The City will work to expand coverage to more residents, jobs, and other destinations. At the same time, the City will work with RTA to develop a roadmap for integrating transit and bike share payment systems into a single mobility card. 
+Car share has also been identified as an opportunity to close gaps in transportation access for New Orleans. Most major cities have a car share program and in some cases several companies are competing for customers. Recent studies have found that both car share and on-demand services reduce the number of vehicles on the road and even reduce car ownership. One study of car sharing effects in North America found that for every shared car up to 13 cars are removed from the road. The City will research car share models, identify those most appropriate to our community, and determine the implementation steps necessary to introduce car share to New Orleans. 
+  
+ACTION 
+
+Credit: Jeff Cantin 
+Expand access to clean fuel and electric vehicles 
+Electric vehicles, hybrid electric vehicles, and clean-fuel vehicles like those powered by natural gas emit less GHG pollution. Clean-fuel and electric vehicles can also save their owners approximately $750-$1,200 per year on fueling costs. 
+The City of New Orleans is developing policies to support the expansion of electric vehicle charging around the city to increase the accessibility and convenience of electric vehicles. These include enabling third-party companies to provide charging and requiring new developments to be “charge-ready.” The City will continue discussions with stakeholders and encourage adoption of electric vehicles. 
+Climate Action for a Resilient New Orleans 43 
+  
+TRANSPORTATION 
+44 City of New Orleans 
+Credit: Gnovick 
+
+Transportation of Goods Port of New Orleans 
+For nearly 300 years, New Orleans has been a port city. They city’s strategic location near the mouth of the Mississippi River and the Gulf of Mexico, plus the more than 14,500-mile inland waterway system of the Mississippi watershed has made it ideal for shipping goods throughout North America and to the rest of the world. Today, the New Orleans region is home to more than 30 port systems, including the Port of New Orleans, which operates in the city limits. Chartered in 1896, the port moves a variety of goods such as steel, rubber, coffee, containers, and manufactured goods, facilitating transit for about 34 million tons of cargo (2015), and hosting a cruise terminal, which welcomes about 1 million visitors to the city annually. 
+At this time, the New Orleans community greenhouse gas inventory does not account for port traffic in our calculations. Our inventory is “geographically bound,” which indicates that it only counts climate pollution that is created through energy, transportation, or waste within a specific geographic location—in our case, Orleans Parish. Much of our port traffic comes from goods transported through our region and not destined for use in the city. Consequently, the climate pollution from that port traffic is not technically counted in our inventory. 
+Some cities are beginning to develop consumption-based inventories—in addition to geographical—and we will explore adding that to our work in the future, in partnership with our local ports. As we gain experience in this work, we may also start tracking movement through the city, but great care must be taken to not double-count emissions. Some of that traffic is likely to be counted by other cities in their inventories. 
+Meanwhile, port business continues to contribute significantly to our local economy and environment. The Port of New Orleans recently calculated its own greenhouse gas emissions inventory as part of its master planning process, assessing that its operations account for 64,845 tonnes of CO2e. It has also been increasing operational efficiency and reducing its environmental impact through a voluntary program called Green Marine and a clean-diesel program with the EPA. 
+
+636 
+People engaged in Port environmental outreach programs 
+3,013 
+Electric vehicle miles driven 
+2,351 
+Pounds of Mardi Gras beads recycled 
+1st 
+Maritime participant in Louisiana Department of Environmental Quality Leadership Program 
+68 
+Stormwater compliance inspections 
+38 
+    
+Port spill prevention plan work procedures and ISO 14001 EMS procedures created 
+8,228 
+Pounds of trash 
+prevented from reaching waterways 
+2,141 
+Hours of environmental training complete 
+$727,000 
+Grant funding received for voluntary programs 
+                
+Credit: Port of New Orleans 
+Climate Action for a Resilient New Orleans 45 
+REDUCE OUR WASTE 
+Strategies: 
+Launch a comprehensive recycling and waste reduction initiative 
+Generate value from our waste 
+  
+WASTE 
+46 City of New Orleans 
+ 
+Goals: 
+50% diverted from landfills by 2030 
+ 
+   
+Zero Waste achieved by 2050 Support development of the 
+circular economy 
+    
+Climate Action for a Resilient New Orleans 47 
+ 
+WASTE 
+Reduce Our Waste 
+Resilience value: Increasing our options to recycle and developing a zero-waste culture helps to keep our neighborhoods cleaner and supports environmental awareness and personal efficacy in environmental action. Composting destroys pathogens in waste material. Increased recycling and resource efficiency may also help create new jobs and support local business development. The reuse of limited materials 
+also results in less energy usage overall as less energy is needed to manufacture new products. Finally, less litter and fewer greenhouse gas emissions will contribute to cleaner air and a cleaner environment for the residents of New Orleans. 
+How we manage our waste contributes to our greenhouse gas pollution in the following two ways: first, in the amount of solid waste we send to landfills, and second, in the way in which we process wastewater at our wastewater treatment plant. The decomposition of organic material in landfills results in both carbon dioxide and methane emissions, and these gases are emitted even after a 
+landfill is closed. The treatment of our wastewater also produces nitrous oxide (N2O), a much stronger heat-trapping gas than carbon dioxide (CO2) or methane. These emissions occur as ammonia is processed at the plant and as wastewater effluent is discharged into the Mississippi River. 
+The City estimates that waste sector emissions account for approximately 6% of community-wide emissions, or about 208,000 metric tons CO2e. Though emissions from waste account for the smallest proportion of total GHG pollution, the process of solid waste disposal and wastewater treatment directly impacts the quantity of GHG emissions from other sectors such as transportation emissions from hauling solid waste and energy emissions from the operation of wastewater treatment facilities and pumps. To reduce our greenhouse gas pollution and increase economic value from our waste, we aim to develop a zero-waste culture and circular economy in New Orleans over the long-term and will measure our progress with a goal to divert 50% or more of our waste from landfills by 2030. 
+What is zero waste? All discarded material is reused, recycled, or composted and minimal amounts are sent to landfill. 
+What is the circular economy? An economy that reduces waste and pollution by promoting increased resource productivity with biological materials absorbed safely back into the biosphere and technical materials reused or recycled to keep components and materials at their highest utility, in contrast to the current more common model of “taking, making, and disposing.” 
+48 City of New Orleans 
+
+SYSTEM IN CONTEXT 
+
+Private Waste Collection 
+Hotels, restaurants, bars, multifamily properties containing more than four units, and businesses generating more than 95 gallons of solid waste per collection (35 gallons in the French Quarter and the Downtown Development District) are not eligible for City service and contract for curbside pick- up with private haulers directly. 
+
+Other City Collection 
+Illegal dumping, public litter cans and solid waste from City facilities are picked up by City- operated trucks. 
+
+City Curbside Waste Collection 
+Curbside waste pick-up is provided by the City for small businesses, single-family dwellings and multi-family dwellings with four or fewer units. The City contracts with three different waste-collection companies. 
+                                    
+Landfill 
+All household solid waste is hauled to River Birch Landfill in Jefferson Parish (~20 miles from City Hall). 
+Recycling 
+Recycling is picked up once a week from larger city buildings by City Sanitation and curbside by the three waste haulers and taken to one of three sorting facilities. Businesses that contract with private waste haulers may also contract with recycling contractors but are not required to. 
+ 
+Drop-off Recycling 
+The City also hosts a recycling drop off every 2nd Saturday of the month and a hazardous waste drop off once a year. The following materials are then sent to different recycling facilities in the region: 
+Plastic 
+Small Metals 
+Cardboard & Paper 
+Glass 
+Electronics 
+Paint 
+Oils 
+        
+Climate Action for a Resilient New Orleans 
+49 
+ 
+WASTE 
+Launch a comprehensive recycling and waste reduction initiative 
+        
+ACTION 
+Increase recycling rates 
+HOW IS THIS A CLIMATE ACTION? 
+Less waste decomposing in our landfill means less methane raising global temperatures and less waste of our reusable resources. 
+
+50 City of New Orleans 
+Credit: Katie Gruzd 
+Currently, about 41% of New Orleans residents have requested and received recycling bins. On average, curbside recycling diverts about 5% of what we send to the landfill. The City also holds monthly drop- off events at which the community recycles additional material, and several organizations throughout the city provide recycling service both for- or not-for-profit. The City does not currently provide curbside recycling for larger businesses, though many recycle through private contracts. As decisions about how to manage much of the city’s waste stream are decentralized and waste and recycling is handled by several different companies, reducing our waste and related greenhouse gas pollution will require a coordinated effort across the public and private sector to prioritize these actions effectively. 
+In late 2017, the City will lead a comprehensive initiative to partner with industry, businesses, residents, and other stakeholders to better understand current waste and recycling practices citywide and to address barriers to recycling and other waste diversion methods and increase recycling rates. Development of this initiative will include evaluation of local and regional recycling economics and public-private partnership models and funding approaches. Diversion rates will vary based on sector and it will take resources to increase recycling rates over time. We will set milestone goals based on this evaluation to ramp up recycling rates over time. Through partnership and prioritization, we will launch targeted pilot initiatives. 
+  
+ACTION 
+Pilot organic waste program 
+Decomposition of organic waste is the most significant source of emissions in our waste stream and reducing the amount of organic waste in our landfills is critically important in meeting our goals. We will launch an organic waste program for yard waste and evaluate the best approach for the City to pick up and process it to reduce greenhouse gas pollution and waste. As part of 
+the pilot, we will evaluate potential for including food waste and look at existing composting and oyster-shell recycling initiatives led by nonprofits, partnering where feasible. 
+ACTION 
+
+Credit: Coalition to Restore Coastal Louisiana 
+ 
+Reduce impact of waste-related transit 
+In 2016, the City commenced a new contract with residential and small business waste haulers that requires use of lower-emissions fuels in their trucks. The City will open a central waste transfer facility in 2017 
+for residents and small businesses that will reduce the number of vehicle miles needed to transport waste. By using this facility, we can reduce the number of trips to local landfills and the amount of illegal dumping. 
+
+Climate Action for a Resilient New Orleans 51 
+ 
+WASTE 
+Generate value from our waste 
+       
+ACTION 
+Explore opportunities for our solid waste and wastewater 
+HOW IS THIS A CLIMATE ACTION? 
+Using waste to make energy enables us to use less fossil fuels, reducing the carbon intensity of our energy supply. Not all waste to energy is good for our air quality though, so we need to be thoughtful about how we use waste for energy. 
+
+52 City of New Orleans 
+The gases generated through decomposition of materials in landfills and our wastewater treatment plants—largely methane—do not have to go to waste. The U.S. is home to 77 waste-to-electricity facilities in 22 states and together they generated more than 14 million megawatt hours (MWh) in 2014.14 Most waste in New Orleans is transported 
+to River Birch landfill in Jefferson Parish, which collects its landfill gases and compresses and feeds those to a pipeline as high BTU renewable natural gas. Their reclaimed and recycled gas is equivalent to producing almost 30,000 gallons of diesel fuel per day. We will explore the feasibility of this kind of methane capture, as well as other waste-to-energy solutions to generate value from our solid waste and wastewater. 
+  
+ACTION 
+
+Develop a device donation program 
+The City and businesses through our community regularly update their computers, phones and other hardware creating e-waste and jettisoning tools that may be useful to someone else before their useful life is complete. The City’s Information Technology and Innovation office is exploring development of a more comprehensive Citywide device donation program through which local businesses can donate used computers and other devices to be refurbished and sold at deep discount on income qualification and recycled if refurbishment is not possible. 
+ 
+ACTION 
+
+Credit: Katie Gruzd 
+Explore zero-waste and circular-economy opportunities 
+Many cities are committing to zero waste and the circular economy is a growing sector worldwide in which markets pull all value from the waste stream and reinvest it. We will explore zero-waste and circular-economy initiatives in other cities and determine how New Orleans could best achieve zero waste and which circular economy opportunities could best support local economic growth. We will develop policies and programs that support implementation based on this research. 
+Climate Action for a Resilient New Orleans 53 
+CREATE A CULTURE OF AWARENESS & ACTION 
+Strategies: 
+Grow the local low-carbon economy Enable data-driven decision-making 
+and collaboration Connect culture and climate action 
+  
+CULTURE 
+54 City of New Orleans 
+ 
+Goal: 
+Increase awareness and 
+action among residents, businesses, and visitors 
+      
+ 
+Climate Action for a Resilient New Orleans 55 
+ 
+CULTURE 
+Create a Culture of Awareness and Action 
+Resilience value: Connecting climate action to our culture and values helps New Orleanians embrace a dynamic future for our city and have a sense of efficacy about making our city a better place to live, work, and play. It connects our community and helps us be more prepared for the effects of climate change and other shocks. 
+The resilience of New Orleans is often attributed to our history and culture. Our collective memory is shaped by the experiences of those people from around the world who for nearly three centuries have built and adapted our city in the challenging delta landscape of Southeast Louisiana. Today, we are looking to the wisdom of the past to help us adapt to our changing environment by relearning to live with water. We are both a city of the past and the future, 
+already experiencing the climate change impacts other cities are only beginning to consider. 
+The future New Orleans depends upon our ability to grow our culture of adaptability into a culture of stewardship and action. Our schools, our businesses, and our festivals are all places where we must build awareness and inspire action to care for our city and our planet. We will not succeed unless we work together. 
+For almost 300 years, New Orleans has been a trade capital not just for goods, but also for cultures and ideas from around the world. Today, New Orleans has the benefit of visibility to millions of visitors each year. In the past, we have effectively marketed our celebratory traditions of abundance, and we now have the opportunity to showcase the adaptability of our city and our embrace of a low-carbon future. We are joining 
+a global movement to reduce our contributions to climate change, and we have a responsibility to share our progress with the world. 
+
+56 
+City of New Orleans 
+      
+Climate Action for a Resilient New Orleans 57 
+Credit: Energy Wise 
+ 
+CULTURE 
+Grow the local low-carbon economy ACTION 
+       
+Promote sustainable business practices and jobs 
+HOW IS THIS A CLIMATE ACTION? 
+Climate action has created new ways of doing things, which can mean new jobs and new business opportunities. Supporting development of those supports our local economy which can grow as we reduce our greenhouse gas pollution. 
+
+58 City of New Orleans 
+Climate action creates opportunities for the city to invest in itself, inspiring many new ways of doing things and supporting development of new industries, businesses, and jobs. Working with professional associations, economic development agencies, and small businesses, we will actively promote the development and continued success of local businesses engaged in the low-carbon or “green” economy— delivering services such as solar installations, energy efficiency improvements, green building, and materials reuse and recycling. We will also support businesses with education and training to incorporate sustainability practices into their daily operations to improve their bottom line and reduce their impact on the environment. 
+We will also work with local community colleges and professional associations to provide technical assistance and education to support job creation and workforce skills development to support these industries. 
+Climate Action Workforce 
+Creating a modern electricity system will create jobs and business opportunities upgrading lighting, insulating buildings, improving energy management, and installing solar. According the 2017 U.S. Energy and Employment Report from the Department of Energy, solar jobs represent more than 50% of the electricity generation jobs in Louisiana. A December 2016 report from E2 estimates about 25,000 Louisianans are employed in energy efficiency jobs, the majority in heating, ventilation, and air-conditioning. A 2015 solar jobs census from the Solar Foundation noted the U.S. solar installation sector employed 77% more people than the domestic coal mining industry, and created more jobs than oil and gas pipeline construction and crude petroleum and natural gas extraction combined 
+in 2015. The 2016 update to the solar report noted that one out of every 50 new jobs added in the United States in 2016 was created by the solar industry, representing 2% percent of all new jobs and that Louisiana has 2,922 solar jobs statewide, ranking 24th nationally and 18th per capita. Meanwhile, local businesses focused on developing value in our local waste stream and improving transportation infrastructure will decrease our greenhouse gas pollution and also increase accessibility to jobs and services, stimulating our local economy. Expanding development of green infrastructure creates jobs while it also beautifies our city, improves our water management, and reduces our electricity use. 
+
+77% 
+more U.S. solar jobs than coal jobs in 2015 
+Solar 
+Zero Waste 
+2,922 
+statewide solar jobs 
+25,000 
+statewide energy efficiency jobs 
+Energy Efficiency 
+    
+Climate Action for a Resilient New Orleans 59 
+Active Transit 
+ 
+CULTURE 
+Enable data-driven decision-making and collaboration 
+       
+ACTION 
+Utilize digital climate adaptation tools to prioritize, design, and engage 
+HOW IS THIS A CLIMATE ACTION? 
+Many climate adaptation actions also mitigate our climate impact. Data driven choices about where to focus our actions help us maximize their value. 
+
+60 City of New Orleans 
+The City of New Orleans has partnered with the Trust for Public Land and Deltares to launch a suite of climate adaptation tools tailored to New Orleans’ unique landscape, climate, and built environment. The City is committed to using these tools, which incorporate data covering urban heat island effect, transportation access, infrastructure vulnerabilities, hydrology, and social and demographic information, to collaborate with stakeholders in the prioritization and design process of capital projects, such as green infrastructure and bicycle lane planning. The City will also continue to refine the data in concert with local organizations to increase accuracy and applicability across sectors and projects. These tools will enable both public sector and private sector actors to more effectively plan and design local climate mitigation projects. 
+In collaboration with iSeeChange, the City is piloting a community outreach and engagement strategy that includes citizen science in and around major infrastructure and community development projects. The iSeeChange platform will invite residents across the Gentilly Resilience District and throughout the city to report and discuss climate- dependant conditions, such as extreme heat and flooding challenges, and the data will then be integrated with other mapping and data analysis tools, including the City’s efforts in partnership with the Trust for Public Land. 
+  
+ACTION 
+Conduct a tree survey of our urban forest and plant 40,000 trees by 2030 
+Urban forests are critical to any city’s efforts to slow climate change as trees capture and store carbon, and New Orleans has a great opportunity to benefit from investment in ours. Through comprehensive tree surveys, other cities have quantified the value of their tree canopies for climate change mitigation and environmental benefit at millions of dollars. The City has committed to a policy of no net tree loss in our Master Plan, and as part of our efforts to build awareness of climate action and use data to drive our decisions, we will complete a tree survey to quantify the value of our urban forest. We will continue to build upon that value, and based on the survey we will continue to engage the community in planting trees where they are needed to replenish our urban forest with a goal of 40,000 new trees by 2030. New Orleans lost more than 100,000 trees during Hurricane Katrina, and through coordinated leadership from the City’s Department of Parks and Parkways and the NOLA Tree Project, we have planted more than 60,000 trees since Katrina and engaged more than 85,000 volunteers. 
+  
+ACTION 
+Assemble and make data available for analysis and action 
+Knowledge is power and increasingly cities are harnessing data to help multiple stakeholders understand how energy, transportation, and waste systems work and where savings and improvements can be found. In New Orleans, several organizations contribute to our community’s understanding of these and related systems through data analysis, such The Data Center with its “New Orleans Index,” and Ride New Orleans with its annual “State of Transit” report. The City of New Orleans has already fostered data transparency with an Open Data Policy signed in 2016 and a public 
+data catalogue—available online at data.nola.gov. To better enable the local market to address opportunities in support of climate action, the City will include climate- action related data and work with partners to implement sector-based strategies for community greenhouse gas pollution reduction and monitor important performance indicators, such as waste and recycling volumes and energy mix and usage. 
+The City of New Orleans will submit data annually to the Carbon Disclosure Project (CDP), a voluntary climate change reporting platform for cities and companies. To support accurate annual reporting, Entergy New Orleans will provide the City with an electricity emissions factor that reflects the power mix delivered that year. 
+
+Climate Action for a Resilient New Orleans 61 
+ 
+CULTURE 
+Connect culture and climate action ACTION 
+       
+Engage residents and local businesses in climate action 
+HOW IS THIS A CLIMATE ACTION? 
+Each of us contributes to our greenhouse gas pollution and each of us can reduce our impact if we know what to do. Educating each other about our risks and opportunities enables us to work together to make our city more sustainable. 
+
+62 City of New Orleans 
+The connection between our daily habits and collective contribution to climate change is not well understood by many New Orleanians. Moreover, many are not aware of the unique challenges and opportunities our community has with regard to climate adaptation and resilience. 
+The City will partner with the Greater New Orleans Foundation and with public and private organizations including businesses, community organizations, and arts and culture organizations to develop initiatives that highlight our community’s connection to climate change and promote actions that can reduce greenhouse gas pollution and support resilience. 
+This may include initiatives in schools, neighborhoods, and businesses and range from broad education campaigns to targeted engagement- to-action projects such as arts partnerships and programs for residents related to waste reduction and energy savings. 
+  
+ACTION 
+Engage visitors to New Orleans in climate action 
+New Orleans hosts more than 10 million visitors annually. Many visit for conferences and business in addition to the millions of revelers drawn to the city by its world-famous festivals and special events, local culture, and cuisine. 
+Several locally hosted conferences and event facilities have taken significant steps to be more energy and waste efficient. For example, the Convention Center committed to a 65% waste diversion rate to host the Greenbuild Conference in 2014—achieving an actual rate of 78%— and implemented a series of energy savings measures that cut their monthly electric bill in half. In 2011, the Superdome installed a state- of–the-art light-emitting diode (LED) system that uses only 10 kilowatts to light 26,000 lights on the iconic building. Many initiatives to save energy, reduce waste and reduce our emissions can be done behind the scenes at conferences, hotels, and events that help cut costs and improve visitors’ experiences. The City will work with the Convention and Visitors Bureau (CVB) and hotels, event spaces, presenters, and attractions to explore ways to reduce emissions related to our hospitality industry. 
+At the same time, many visitors to our city are familiar with our low elevation and the challenges that presents. The City will partner with public and private organizations including businesses, community organizations, hospitality providers and arts and culture organizations to tell our resilience story, and develop initiatives that highlight our community’s connection to climate change and promote actions that can reduce greenhouse gas pollution and support resilience. Actions may include coordination on a citywide green conference protocol, promotion of eco-tourism offerings, resilience-related arts festivals and events, and special packages for visitors to reduce the climate impact of their trip. 
+
+Climate Action for a Resilient New Orleans 63 
+ 
+APPENDIX 
+IMPLEMENTATION & MONITORING 
+Implementation of the strategy is underway. The rate at which our climate is changing is rapidly increasing and tools and techniques to curb climate change are also advancing quickly. Our climate action strategy is intended to get us started in actively reducing our emissions, and like other cities engaged in this work, our strategy will evolve over time. The Office of Resilience and Sustainability (ORS) will conduct and publish an annual inventory of our greenhouse gas emissions and a progress report on our actions, and will update this strategy in 2020, 2025 and 2030. 
+Our key performance indicators (KPIs) will be a reduction trend in greenhouse gas emissions; progress toward meeting the milestone goals outlined in this strategy in the energy, transportation, and waste sections; and achievement of the tasks as outlined in the table below. 
+Our plan is designed to be ambitious in order to meet the scope of the challenge before us, and it will not be easy to achieve our goals. We will need to dedicate resources within the designated lead and partners departments and hold those teams accountable to their goals. It is also critical that the City ensure continuity in our focus on resilience and sustainability and maintain the ORS to provide centralized coordination and leadership on this and the resilience strategy. Some of our climate action tasks relate to improving data availability, and we will update our indicators as we are able to assemble or access better data. Like other cities, we have gaps in our data, and as the U.S Community Protocol and the Global Protocol for Community-Scale Greenhouse Gas Emission Inventories (GPC) direct, we have used default factors or estimated values to provide that information and estimate GHG pollution as accurately as possible. As we are able to fill those gaps with better local data, we will update our methodology for data collection and indicators accordingly. 
+Below is a table of featured strategies, tasks and actions and our intended timing for implementation. This table will provide the basis along with the inventory on page 18 for our annual progress reports. 
+Strategies 
+Actions 
+Tasks 
+Lead 
+Status 
+ENERGY 
+Reduce our reliance on carbon-intensive fuels 
+Implement a 100% low-carbon power standard 
+Adopt a 100% low-carbon electricity standard Develop implementation plan for standard 
+End our use of coal 
+Transition coal to cleaner supply source 
+Grow our local solar economy 
+City Council 
+City Council, Entergy 
+City Council 
+City Council 
+ORS 
+City Council 
+CPC 
+ORS 
+Proposed 
+Proposed 
+Proposed 
+Proposed 
+Proposed 
+Proposed 
+Underway 
+In development 
+              
+*City Action 
+Set local solar goal of 255 megawatts by 2030 
+Survey financing tools and funding opportunities to support initiatives 
+Develop solar program 
+Evaluate and update permitting and interconnection processes for best practices 
+Install solar on city property 
+ 
+64 
+City of New Orleans 
+
+Strategies 
+Actions 
+Tasks 
+Lead 
+Status 
+ENERGY 
+Save energy and make our savings a sustainable resource 
+Increase annual energy savings 
+         
+*City Action *City Action 
+Continue to increase energy savings goal 0.2% annually through 2030 Benchmark, disclose, and reduce energy use in commercial buildings Launch energy challenge with Downtown Development District Include energy information in MLS 
+Benchmark and reduce energy use in City buildings Meet City energy savings goal of 15% by 2020 
+City Council 
+ORS 
+ORS 
+HousingNOLA 
+ORS 
+CAO, Property Management 
+Proposed 
+In development 
+In development 
+In development 
+Underway 
+Underway 
+In development 
+Proposed 
+Proposed 
+In development 
+Proposed 
+Proposed 
+In development 
+Underway 
+In development 
+Underway 
+Underway 
+In development 
+Underway 
+In development 
+In development 
+Proposed 
+  
+Innovate regulation and integrate demand-side management into resource planning 
+ 
+Make Energy Smart a comprehensive DSM program and ensure it is robust and sustainable 
+Align utility regulation and incentives with the City’s goal to reduce GHG pollution 
+Reduce the energy burden for low-income New Orleanians 
+Pilot targeted low-income support programs Implement utility allowances for energy efficiency units 
+Increase resilience of our energy, water, and sewer infrastructure 
+City Council, Entergy 
+City Council, CURO, ORS 
+City Council 
+HANO, Housing NOLA 
+      
+Evaluate critical utility assets and align on reliability, resilience, and climate action 
+
+Conduct energy resilience study, map community energy assets, and develop recommendations 
+Convene energy resilience workshop Implement pilot(s) for energy resilience Make resilience improvements to critical water & drainage infrastructure 
+City Council, ORS 
+ORS 
+ORS 
+SWBNO, DPW 
+City Council, ORS 
+CAO 
+ORS, Committee 
+       
+TRANSPORTATION 
+Transform infrastructure to reduce car dependence 
+Design streets that are safe and useful for all 
+Establish citywide policy that prioritizes right-of-way use: walking, biking, transit, and motor vehicle 
+Establish “Complete Streets” committee 
+Create guidelines to prioritize street design for all users 
+    
+Redesign the regional public transportation system to increase access, capacity, and efficiency 
+
+Assess the route network and prioritize route development for population needs 
+Prioritize access, capacity, and efficiency in RTA planning process 
+Set goals for increased ridership with 2030 horizon and incorporate into RTA plan 
+Invest in safe, low-stress, and comprehensive bicycle infrastructure 
+Develop comprehensive inventory of critical gaps in safe, low-stress bicycle network 
+Prioritize filling critical gaps in coordination with street improvements 
+RTA 
+RTA 
+RTA 
+ORS, DPW 
+ORS, CPC, DPW 
+      
+Climate Action for a Resilient New Orleans 65 
+ 
+APPENDIX 
+Strategies 
+Actions 
+Tasks 
+Lead 
+Status 
+TRANSPORTATION 
+Encourage active transportation 
+Launch awareness campaigns and incentives to increase public transit ridership, biking, and walking 
+
+Develop Transit Pass programs for employers, tourists, and students 
+Pilot promotions that encourage new riders to use the system 
+Develop promotions and other benefits with local businesses 
+Enact a policy requiring employers who subsidize parking to offer a cash allowance in lieu of parking space 
+Explore requirements and incentives for new developments that encourage less driving 
+Encourage bicycle parking and car sharing in new developments 
+RTA 
+RTA 
+ORS 
+City Council 
+CPC 
+CPC 
+In development 
+Proposed 
+Proposed 
+Proposed 
+In development 
+Proposed 
+In development 
+In development 
+Underway 
+Proposed 
+In development 
+In development 
+Proposed 
+Underway 
+Underway 
+In development 
+In development 
+In development 
+In development 
+In development 
+Proposed 
+Proposed 
+Proposed 
+In development 
+In development 
+        
+Promote walkable neighborhoods and transit-oriented development in priority areas 
+
+Create and maintain a transit accessibility mapping resource 
+Establish 4-6 priority areas based on potential for greater infill development 
+Identify regulatory and zoning changes for Master Plan updates 
+Conduct 2-3 workshop sessions to discuss goals and identify additional barriers and incentives 
+Increase fuel efficiency, clean fuel use, and shared-use mobility services 
+Maximize fuel efficiency of public transit fleet 
+Explore opportunities to increase fuel efficiency of public transit in RTA master plan 
+Evaluate feasibility of electric buses & shifting streetcars to renewables 
+Explore opportunities to generate renewable energy for use by fleet *City Action Improve fuel efficiency and use of alternative fuels by City fleet 
+Launch bicycle and car share 
+Finance, build, and operate bike share system Expand bike share coverage to more residents, jobs and destinations 
+Develop roadmap for integrating transit and bike share payments into single mobility card 
+Research car-share models & identify most appropriate for New Orleans 
+Expand access to clean fuel and electric vehicles 
+Facilitate the development of electric vehicle charging stations throughout the city 
+ORS, CPC 
+ORS, CPC 
+ORS, CPC 
+ORS, CPC 
+RTA 
+RTA 
+RTA 
+CAO 
+ORS 
+ORS, DPW, CPC 
+ORS, RTA 
+ORS 
+ORS, DPW, CPC, Entergy 
+ORS, Sanitation 
+ORS, Sanitation 
+ORS, Sanitation 
+ORS, Sanitation 
+CAO, Sanitation 
+ORS, Sanitation 
+                        
+WASTE 
+Launch a comprehensive recycling and waste reduction initiative 
+Increase recycling rates 
+        
+*City Action 
+Analyze current waste and recycling practices and barriers to recycling 
+Evaluate public-private funding approaches and financing 
+Launch targeted test initiatives as determined by research 
+Convene working group to develop and implement coordinated public-private plan 
+Implement recycling at all City facilities 
+
+Pilot organic waste program 
+Launch limited pilot to evaluate organic waste program opportunities 
+Reduce impact of waste-related transit 
+Open a central waste transfer facility 
+ORS, Sanitation 
+Underway 
+   
+66 
+City of New Orleans 
+
+Strategies 
+Actions 
+Tasks 
+Lead 
+Status 
+WASTE 
+Generate value from our waste 
+Explore opportunities for our solid waste and wastewater 
+*City Action Evaluate feasibility for methane capture, composting, etc. at Gentilly Landfill 
+*City Action Evaluate feasibility for composting, waste-to-energy, etc. at SWBNO water treatment plants 
+Develop a device donation program 
+Develop a device donation program 
+Explore zero-waste and circular-economy opportunities 
+Explore zero waste and circular-economy in other global cities and evaluate fit 
+CULTURE OF AWARENESS & ACTION 
+Grow the local low-carbon economy 
+Promote sustainable business practices and jobs 
+ORS, Sanitation 
+ORS, Sanitation 
+ITI, ORS, Sanitation 
+ORS, Sanitation 
+ORS, Economic Development 
+ORS, Economic Development 
+ORS, City Procurement 
+City, SWBNO 
+ORS, TPL, iSeeChange 
+Parks and Parkways, ITI 
+Parks and Parkways 
+ORS, ITI 
+ORS, ITI 
+ORS 
+Entergy 
+ORS 
+ORS, CVB 
+Proposed 
+Proposed 
+Proposed 
+Proposed 
+Proposed 
+Proposed 
+Proposed 
+Underway 
+In development 
+In development 
+In development 
+In development 
+Underway 
+Underway 
+Underway 
+In development 
+Proposed 
+           
+*City Action 
+Promote local business engagement in low-carbon or the "green" economy 
+Technical assistance and training for sustainablity in local businesses, professional associations, and community colleges 
+Implement sustainable contracting and procurement policies and processes 
+
+Enable data-driven decision-making and collaboration 
+Utilize digital climate adaptation tools to prioritize, design, and engage 
+Launch and utilize suite of climate adaptation tools Pilot neighbor engagement with iSeeChange tool 
+Conduct a tree survey of our urban forest and plant 40,000 trees by 2030 
+Conduct tree survey 
+Plant 40,000 trees 
+Assemble and make data available for analysis and action 
+Add climate action data to open data policy and catalogue 
+Partner with data organizations to provide sector-based data for collaborative initiatives 
+Submit annual data to the Carbon Disclosure Project Provide annual electricity emissions factor for New Orleans power mix 
+Connect culture and climate action 
+Inform and engage residents and local business about action opportunities 
+Develop initiatives that promote actions that can reduce GHG pollution and support resilience 
+Engage visitors to New Orleans in climate action 
+Work with CVB, hotels, special events to provide visitors ways to reduce emissions 
+                   
+Climate Action for a Resilient New Orleans 67 
+ 
+APPENDIX 
+68 
+City of New Orleans 
+INVENTORY METHODOLOGY 
+The 2014 Baseline GHG Inventory was assembled according to the Global Protocol for Community-Scale Greenhouse Gas Emission Inventories (GPC), a reporting standard developed for cities by the World Resources Institute (WRI), C40 Cities Climate Leadership Group and ICLEI-Local Governments for Sustainability (ICLEI). It is an inventory 
+of community-scale GHG emissions that result from processes and activities occurring within the boundaries of Orleans Parish, which in 2014 comprised a population of approximately 385,000. 
+The community-scale GHG inventory is broken down into three major categories, or sectors, including stationary energy emissions (e.g., emissions from the use of electricity and fuel in residential, commercial, and institutional buildings, the use of electricity and fuel for manufacturing industries, and fugitive emissions from natural gas systems), transportation emissions (e.g., emissions from on-road transportation, railways, and waterborne navigation), and waste emissions (e.g., emissions from the disposal of solid waste, incineration of waste, and the treatment and discharge of wastewater). This inventory does not include emissions as a result of industrial processes, agriculture and forestry, or aviation and off-road transportation. 
+Additionally, in order to understand the impact of its own operations, the City conducted an inventory solely of GHG emissions created as a result of city government operations, including electricity and fuel usage by municipal facilities, streetlights and traffic signals, fleet vehicles, as well as water delivery, drainage, and wastewater treatment processes. This inventory was developed using the Local Government Operations Protocol (LGO Protocol) developed by ICLEI-Local Governments for Sustainability (ICLEI). Emissions from this inventory are also included 
+in the communitywide inventory in the appropriate sectors, and this inventory is meant to be illustrative only and should not be added to the community wide inventory as that will count some emissions more than once. 
+Greenhouse Gases 
+The 2014 Baseline GHG Inventory accounted for the following GHG gases: carbon dioxide (CO2), methane (CH4), and nitrous oxide (N2O). Non-CO2 gases were converted to carbon dioxide equivalent (CO2e) using recognized Global Warming Potential (GWP) factors developed by the Intergovernmental Panel on Climate Change (IPCC). This inventory did not include emissions from the following gases: (HFCs), perfuorocarbons (PFCs), sulfur hexafuoride (SF6), and nitrogen trifuoride (NF3). 
+Protocol 
+The City cannot rely on a direct measurement of GHG emissions at their source; therefore, this inventory employs a calculation-based methodology which involves the conversion of GHG-inducing activities into emissions based on specific emissions factors. The City relied on three published and widely utilized protocols for calculating GHG emissions: the Global Protocol for Community-Scale Greenhouse Gas Emission Inventories, the U.S. Community Protocol for Accounting and Reporting of Greenhouse Gas Emissions, and the Local Government Operations Protocol. These protocols provide a framework for identifying inventory boundaries and categorizing emissions sources, as well as guidelines for choosing emissions factors according to best practices. 
+It is important to note that GHG emission figures represented in the 2014 Baseline GHG Inventory are estimates and should not be taken as exact emissions figures. Notwithstanding, the results are based on an analysis of real data and were obtained using nationally and globally accepted frameworks for identifying 
+and calculating GHG emissions. Though 
+
+the inventory relies on assumptions and estimates, its findings can provide helpful information to the City of New Orleans and assist in policy development and community motivation. 
+Data Collection and Emissions Factors 
+The City obtained numerous data from multiple agencies related to specific fuel and electricity usage in order to calculate CO2e emissions. 
+For the purpose of this methodology, activity data is defined as a quantitative measurement of a level of activity or process that results in GHG emissions (i.e., number of vehicle miles travelled, volume of gas used, etc.). Activity data is generated either through observation, user reporting, or modeling of various activities in the community, such as vehicle miles travelled and electricity consumed. 
+Activity data were calculated with specific emissions factors to quantify an estimated amount of corresponding CO2e emissions. 
+An emission factor is a measure of the mass of GHG emissions relative to a unit of a GHG-producing activity. The City relied on the different emissions factors for different fuels or activity levels as recommended by protocols. 
+Details about specific activity data collected for each sector and emissions factors are available on nola.gov/ climateaction. 
+Electricity Emissions Factor 
+In developing an emissions factor for electricity usage, the City relied on the 2014 emissions factor for CO2 from Entergy, because Entergy New Orleans (ENO) has a unique power mix with over half of its power mix coming from nuclear fuel that is markedly different from regional power mix. However, Entergy New Orleans does not have emissions factors for CH4 or N2O, and therefore, the City used the CH4 and N2O factors from EPA eGrid, for the SERC Mississippi Valley (SRMV) region, for the most recently available year when the inventory was completed. 
+By using the more local factor, which Entergy affirmed it can update annually, we get a more accurate picture of our impact and will be better able to see the results of our efforts to curb climate pollution based on the shifting resource mix and reduced emissions in the inventory over time. See the difference in fuel mix in the figure below. Nuclear creates much lower emissions than coal or natural gas. 
+SRMV 2014 Mix 
+Other Fossil 2% 
+Hydro Biomass 1% 2% 
+ENO 2014 Mix 
+Coal 4% 
+Gas 18% 
+Power Mix (MWh) for eGrid SERC Mississippi Valley (SRMV) and Entergy New Orleans (ENO), 2014 
+ 
+Nuclear 19% 
+Gas 49% 
+Coal 26% 
+Other Purchased 21% 
+Oil 1% 
+Climate Action for a Resilient New Orleans 69 
+Nuclear 57% 
+ 
+APPENDIX 
+70 City of New Orleans 
+Resilient New Orleans 70 
+GHG Accounting Method for Solid Waste 
+Calculating emissions as a result of solid waste disposal is a complex process and there are still several uncertainties as it relates to GHG impact. Methane generation and subsequent emissions resulting from waste deposited in 
+a landfill are a complex mixture of biological, chemical, engineering, and management factors. The accuracy of any calculation varies with knowledge of a particular landfill’s operating conditions and how those conditions change over time. It should be noted that the City relied on several estimations and default assumptions in generating an inventory for waste emissions; therefore, it is possible that the figure reported falls short of representing the true pollution impact of solid waste management practices in New Orleans. 
+The city currently sends solid waste to two landfills. The primary area landfill, which accepts almost all types of waste, is the River Birch Landfill located in Avondale, LA. The River Birch Landfill has a landfill gas recovery system (or waste-to-energy system). The second area landfill, the Gentilly Landfill, is a construction and demolition debris (C&D) landfill and is only permitted to accept construction and demolition debris, wood waste, and yard trash. The Gentilly Landfill is located within the Orleans Parish boundaries, while the River Birch Landfill is located outside. To estimate GHG emissions, the City utilized the methane commitment 
+method as recommended by the Global Community Protocol. This method assigns a CH4 emissions figure to the year 2014 based on 2014 solid waste deposits at the landfills. However, the actual CH4 emissions will be emitted over time as the solid waste decomposes. The Department of Sanitation and River Birch, Inc. provided the estimation of total short tons deposited in 2014. The City relied on a default ratio for the composition of the solid waste and on a standard collection efficiency rate of 75% in estimating 
+total methane emissions from the River Birch Landfill and a default C&D ratio for Gentilly Landfill. 
+GHG Accounting Method for Wastewater Treatment The City has two sewerage water treatment plants and our wastewater 
+is treated aerobically (in presence of oxygen) in continuous fluid beds, which generates nitrous oxide (N2O). We also incinerate the sludge that is created in this process. To calculate emissions, the City used both the U.S. Protocol and the Global Community Protocol to evaluate emissions created by incinerating the sludge, the discharge of effluent water after treatment and small amounts of nitrous oxide released in the aerobic processing. Information about how the water is treated, the amount of sludge incinerated and the number of people served in 2014 was provided by the Sewerage and Water Board. 
+
+REFERENCES 
+	1.	NOAA National Centers for Environmental Information, State of the Climate: Global Climate Report for Annual 2016, published online January 2017, retrieved on May 1, 2017 from https://www.ncdc.noaa.gov/sotc/ global/201613  
+	2.	Milman, O. (2016) “Sea ice extent in Arctic and Antarctic reached record lows in November”. The Guardian. Retrieved from https://www.theguardian.com/environment/2016/dec/06/arctic-antarctic-ice-melt- november-record  
+	3.	http://resilientnola.org/  
+	4.	Riebeek, H. (2010) Global Warming. The Earth Observatory. EOS Project Science Office. Retrieved from http://earthobservatory.nasa.gov/Features/GlobalWarming/page3.php  
+	5.	Carey, B. (2013) “Climate Change on pace to occur 10 times faster...” Stanford Report. Retrieved from http:// news.stanford.edu/news/2013/august/climate-change-speed-080113.html  
+	6.	http://www.coastalmasterplan.la.gov/  
+	7.	Rodrigues, J. (2017) “Our World’s Fragile Cities Need a $78 Trillion Boost” Bloomberg. Retrieved from https://www.bloomberg.com/news/articles/2017-03-23/our-world-s-fragile-cities-need-a-78-trillion-boost  
+	8.	http://www.cop21paris.org/about/cop21  
+	9.	https://www.epa.gov/ozone-layer-protection/recent-international-developments-under-montreal-protocol  
+	10.	Mouawad, J and Davenport, C. (2016). U.N. Agency Proposes Limits on Airlines’ Carbon Emissions. New York Times. Retrieved from https://www.nytimes.com/2016/02/09/business/energy-environment/un-agency- proposes-limits-on-airlines-carbon-emissions.html  
+	11.	NOAA Climate Program Office, https://toolkit.climate.gov/  
+	12.	For this standard, low-carbon is that which is 100 grams CO2e/kWh in median lifecycle emissions or less.  
+	13.	Energy Star Data Trends. Environmental Protection Agency. Retrieved from https://www.energystar.gov/ buildings/about-us/research-and-reports/portfolio-manager-datatrends  
+	14.	http://www.datacenterresearch.org/reports_analysis/assets-opportunity/  
+	15.	Michaels, T (2014) ERC Directory of Waste-to-Energy Facilities. Retrieved from http:// energyrecoverycouncil.org/wp-content/uploads/2016/01/ERC_2014_Directory.pdf  
+Climate Action for a Resilient New Orleans 71 
+ 
+APPENDIX 
+72 
+City of New Orleans 
+ACKNOWLEDGEMENTS 
+The City of New Orleans’ Climate Action Strategy is the result of a great deal of work by many City staff members, technical experts, and program advisors with the support of several key foundation and project partners. We thank the many people who took time to provide input, feedback, and general support to the development of this strategy, in particular the staff of the Office of Resilience and Sustainability and the Mayor’s Office who made this work a reality. We also thank the New Orleans City Council and staff members for their ongoing support of this initiative. 
+Very special thanks to the Greater New Orleans Foundation (GNOF), which funded the FUSE Executive Fellow who managed development of this strategy, and thanks to C40 for their research and technical assistance, ICLEI for their membership support, and 100 Resilient Cities and The Rockefeller Foundation for their ongoing support of the New Orleans’ resilience practice. Thanks especially to Andy Kopplin, Carmen James, and Ella Delio with GNOF; James Weinberg with FUSE Corps; Brendan Shane, Malcolm Shield, and Jonathan Dickinson with C40; and Culley Thomas with AECOM, who provided technical assistance with C40. 
+Several City and municipal agency staff and interns from the Office of Resilience and Sustainability, City Planning Commission, and Sewerage and Water Board worked directly on this strategy including Deputy Mayor Jeff Hebert, Colleen McHugh, Nicolette Jones, Jared Genova, Dwight Norton, Bridget Tydor, Ryan Mast, Katherine Gruzd, Ronald Harper, Anna Feigum, Mario Figueroa, Samuel Gordon, David Lessinger, and Siobhan Foley. 
+Additionally, many municipal staff provided key input, clarification and support including Deputy Mayor Cedric Grant, Deputy Mayor Ryan Berni, Deputy Mayor Judy Reese-Morse, Cynthia Sylvain- Lear, Matt Torri, Ann McDonald, Bruce Adams, Todd Hathaway, Greg Nichols, Jennifer Ruley, Charles Allen, Tyler Antrup, Anne Coglianese, Natalie Manning, Linda Baynham, Ann Wilson, Ron Spooner, Vincent Fouchi, Lisa Martin, Lamar Gardere, Jennifer Terry, Chris Melton, Paul Marina, Melissa Shigoda, Cheryn Robles, Catherine Nguyen, Daniel McElmurray, Jim Austin, Jennifer Longfield, Kimberly LaGrue, Rocsean Spencer, Sarah Babcock, Eric Ogburn, Joanna Farley, Sheryl-Amber Edmondson, Floria Johnson-Mason, Bobbie Mason, Tamara Agins, Craig Belden, Tyronne Walker, Sarah Robertson Miller, Erin Spears, and Paul Harang. 
+Individuals, organizations, and companies that were also helpful to the development of this strategy include: Sewerage and Water Board of New Orleans, Regional Transit Authority, Alliance for Affordable Energy, Entergy, Transdev, Natural Resources Defense Council (NRDC), Green Coast Enterprises, Posigen, Gulf Coast Renewable Energy Association, Sierra Club, 350 Louisiana, Trust for Public Land, iSeeChange, Bike Easy, Ride New Orleans, LifeCity, Housing NOLA, Deep South Center for Environmental Justice, Vote Solar, River Birch landfill, Greater New Orleans, Inc. and 
+the Port of New Orleans. Thanks especially to Logan Atkinson Burke, Jackie Dadakis, Karla Loeb, Julia Kumari Drapkin, Monique Harden, Andreanecia Morris, Jeff Cantin, Seth Cureington, Andrew Owens, Philip Henderson, Forest Wright, Renate Heurich, Liz Shephard, Amelia Pellegrin, David Mauney, Kristian Sonnier, Robin Barnes, and Greg Cook. 
+We also want to thank the following Chief Resilience Officers who provided feedback on this strategy: Greg Guibert (Boulder, Colorado), Arnoldo Matus Kramer (Mexico City, Mexico), and Toby Kent (Melbourne, Australia). 
+ 
+
+July 2017 Office of Resilience & Sustainability 
+nola.gov/climateaction 

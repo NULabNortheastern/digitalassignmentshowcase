@@ -29,7 +29,7 @@ This module will go over podcast anatomy and techniques, tips for getting starte
 ### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/history_information-spring2021-cain/Slides.pdf)
 
 ### Handouts
-[Installing Audacity](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/advanced_writing-fall2019-jackson/handout-install_audacity.pdf)
+[Installing Audacity](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/history_information-spring2021-cain/handout-install_audacity.pdf)
 <br>
 [Introduction to Podcasting](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/advanced_writing-fall2019-jackson/handout-intro_to_audacity.pdf)
 <br>

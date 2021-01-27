@@ -32,6 +32,7 @@ This module will go over podcast anatomy and techniques, tips for getting starte
 [Installing Audacity](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/advanced_writing-fall2019-jackson/handout-install_audacity.pdf)
 <br>
 [Introduction to Podcasting](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/advanced_writing-fall2019-jackson/handout-intro_to_audacity.pdf)
+<br>
 [Fair Use Resources](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/history_information-spring2021-cain/handout-fair_use_resources.pdf)
 
 ## DITI Consultations

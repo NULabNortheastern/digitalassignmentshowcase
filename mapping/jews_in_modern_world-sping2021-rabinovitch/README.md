@@ -29,16 +29,15 @@ This module will go over components of storytelling and how these components may
 
 <h2>Materials</h2>
 
-* [Handout]()
-* [Presentation]()
+* [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/jews_in_modern_world-sping2021-rabinovitch/Handout.pdf)
+* [Presentation](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/jews_in_modern_world-sping2021-rabinovitch/Slides.pdf)
+* [Spreadsheet template](https://docs.google.com/spreadsheets/d/1QmCD2ktPEzvBtkX-RMPWCFnM8z-0yJAF4-PaXX7w8m4/edit?usp=sharing)
 * [Video Tutorial on KnightLab's StoryMap](https://www.youtube.com/watch?v=X33ud7RYZFg&feature=youtu.be)
 * [Demo map](https://uploads.knightlab.com/storymapjs/5f1a88e4fe4ea4133fa2896d45955bbb/diti-demo-map-boston-concert-venues/index.html)
-* [HTML Templates]()
-
-
-
+* [HTML Templates](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/jews_in_modern_world-sping2021-rabinovitch/HTML_templates.txt)
 
 <h2>DITI Consultant</h2>
 
-* Sarah Connell
 * Jonathan Sullivan
+* Milan Skobic
+* Julianna Wessels

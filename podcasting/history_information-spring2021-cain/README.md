@@ -35,5 +35,5 @@ This module will go over podcast anatomy and techniques, tips for getting starte
 <br>
 [Fair Use Resources](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/history_information-spring2021-cain/handout-fair_use_resources.pdf)
 
-## DITI Consultations
-Created by Caroline Grand and Talia Brenner
+## DITI Consultants
+Created by Caroline Grand

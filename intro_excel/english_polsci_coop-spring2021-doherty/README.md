@@ -27,7 +27,7 @@ Students will be able to use Excel to store, organize, and analyze data for co-o
 
 ### Handouts
 
-[Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_excel/english_polsci_coop-spring2021-doherty/Handout.pdf)
+[Introduction to Excel](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_excel/english_polsci_coop-spring2021-doherty/Handout.pdf)
 
 [Installing Excel](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_excel/english_polsci_coop-spring2021-doherty/Installing%20Excel.pdf)
 

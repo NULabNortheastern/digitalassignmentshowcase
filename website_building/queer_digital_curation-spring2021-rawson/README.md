@@ -13,8 +13,11 @@ Spring 2021
 This module is an introduction to using Omeka and teaches basic terminology, how to navigate the program, how to add items and metadata, and how to organize items.
 
 ## Learning Goals
--Learn how to navigate Omeka and add items and metadata
+-Learn how to navigate Omeka and add items and metadata <br>
 -Learn different ways to organize items in Omeka
+
+## Learning Objectives
+Students will be able to use Omeka to curate items. Students will be able to successfully navigate Omeka and add items, metadata, collections, tags, item types, simple pages, and exhibits.
 
 ## Documents for Module
 

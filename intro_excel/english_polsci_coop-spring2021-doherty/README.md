@@ -40,7 +40,7 @@ Students will be able to use Excel to store, organize, and analyze data for co-o
 [Demo Data](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_excel/english_polsci_coop-spring2021-doherty/Demo%20Data.xlsx)
 
 
-## DTI Consultants
+## DITI Consultants
 Created by: <br>
 Jonathan Sullivan <br>
 [Talia Brenner](brenner.t@northeastern.edu)

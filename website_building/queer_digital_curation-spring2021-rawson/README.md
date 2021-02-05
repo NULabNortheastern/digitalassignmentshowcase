@@ -30,5 +30,8 @@ Students will be able to use Omeka to curate items. Students will be able to suc
 <br>
 [Fair Use Resources](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/history_information-spring2021-cain/handout-fair_use_resources.pdf)
 
-## DITI Consultations
-Created by Talia Brenner, Sarah Connell, and Adam Tomasi
+## DITI Consultants:
+Created by: <br>
+Talia Brenner <br>
+Sarah Connell <br>
+Adam Tomasi

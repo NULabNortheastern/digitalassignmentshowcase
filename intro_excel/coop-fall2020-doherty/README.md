@@ -33,7 +33,7 @@ Students will learn how to use several different functions on a sample data stru
 [Demo Data](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_excel/coop-fall2020-doherty/Demo%20Data.xlsx)
 
 
-## DTI Consultants
+## DITI Consultants
 Created by: <br>
 Jonathan Sullivan <br>
 [Talia Brenner](brenner.t@northeastern.edu)

@@ -21,14 +21,7 @@ Students will be able to use Omeka to curate items. Students will be able to suc
 
 ## Documents for Module
 
-### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/history_information-spring2021-cain/Slides.pdf)
-
-### Handouts
-[Installing Audacity](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/history_information-spring2021-cain/handout-install_audacity.pdf)
-<br>
-[Introduction to Podcasting](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/history_information-spring2021-cain/handout-intro_to_audacity.pdf)
-<br>
-[Fair Use Resources](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/history_information-spring2021-cain/handout-fair_use_resources.pdf)
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/queer_digital_curation-spring2021-rawson/Slides.pdf)
 
 ## DITI Consultants:
-Created by Talia Brenner, Sarah Connell, and Adam Tomasi
+Created by Talia Brenner and Adam Tomasi with Sarah Connell and Patrick Murray-John

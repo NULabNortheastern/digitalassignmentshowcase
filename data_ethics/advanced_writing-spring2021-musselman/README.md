@@ -2,10 +2,15 @@
 
 ## Individual Class Info
 Advanced Writing in the Disciplines – Three courses
+<br>
 Cecelia Musselman
+<br>
 Spring 2021
+<br>
 Number of Students: 19 in each course
+<br>
 Date: Friday February 12th 11:45-1:25
+<br>
 Location: Remote
 
 ## Summary of Module
@@ -24,9 +29,9 @@ This module will discuss data ethics, big data, and the biases embedded in the e
 
 ## Documents for Module
 
-### [Slides]()
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_ethics/advanced_writing-spring2021-musselman/Slides.pdf)
 
-### [Handout]()
+### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_ethics/advanced_writing-spring2021-musselman/Handout-adopt_or_not.pdf)
 
 ## DITI Consultants
 Created by Cara Marta Messina

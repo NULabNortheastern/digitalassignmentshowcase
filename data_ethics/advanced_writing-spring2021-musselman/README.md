@@ -35,4 +35,5 @@ This module will discuss data ethics, big data, and the biases embedded in the e
 
 ## DITI Consultants
 Created by Cara Marta Messina
+<br>
 Updated by Vaishali Kushwaha and Milan Skobic

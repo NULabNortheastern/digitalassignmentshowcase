@@ -23,8 +23,6 @@ This module will go over components of storytelling and how these components may
 * Understand how to insert data into KnightLab TimelineJS, including text and various media elements
 * Navigate presenting the relation between events, processes, and periods of various duration in the timeline
 
-
-
 ## Documents for Module
 
 ### [Slides]()

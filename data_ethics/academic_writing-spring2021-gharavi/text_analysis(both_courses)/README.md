@@ -26,11 +26,11 @@ This module goes over computational text analysis for a corpus of texts, specifi
 
 [Slides]()
 
-[Sample Text]()
+[Sample Text](Sample_Text)
 
-[Stopwords]()
+[Stopwords](Stopwords.txt)
 
-[Links and Resources Handout]()
+[Links and Resources Handout](Handouts)
 
 ## DITI Consultants
 Created by:

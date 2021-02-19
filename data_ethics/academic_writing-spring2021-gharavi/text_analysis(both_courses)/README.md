@@ -1,7 +1,7 @@
 # Computational text analysis for content analysis
 
 ## Class Info
-ENGW 1111 and ENGW 3315 - Academic writing
+ENGW 1111 and ENGW 3315 - Academic Writing
 <br>
 Maryam Monalisa Gharavi
 <br>
@@ -24,9 +24,9 @@ This module goes over computational text analysis for a corpus of texts, specifi
 
 ## Documents for Module
 
-### [Slides]()
+[Slides]()
 
-### [Data: City Resilience Plans of Boston, DC, Philadelphia, New Orleans and Miami]()
+[Sample Text]()
 
 [Stopwords]()
 

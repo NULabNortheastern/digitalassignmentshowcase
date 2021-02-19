@@ -1,0 +1,43 @@
+# Computational text analysis for content analysis
+
+## Class Info
+ENGW 1111 and ENGW 3315 - Academic writing
+<br>
+Maryam Monalisa Gharavi
+<br>
+Spring 2021
+<br>
+Monday, February 22nd. 9:15-10:20 and 6:00-7:40
+
+## Summary of Module
+This module goes over computational text analysis for a corpus of texts, specifically policy documents. The module includes a brief discussion on what is computation text analysis, how it is useful, the browser tools that can be used to do this method of analysis, and how to interpret the results.
+
+## Learning Goals
+- Learn best practices for building a small textual corpus, some basic vocabulary, and steps for preparing a corpus.
+- Understand computational text analysis methods.
+- Understand how to use a variety of tools for text analysis and interpret the results .
+
+## Learning Objectives
+- Know basic vocabulary around doing text analysis, such as corpus and stop words.
+- Learn steps for best practices when doing web-based computational text analysis.
+- Use web-based computational text analysis programs, such as Voyant and Lexos.
+
+## Documents for Module
+
+### [Slides]()
+
+### [Data: City Resilience Plans of Boston, DC, Philadelphia, New Orleans and Miami]()
+
+[Stopwords]()
+
+[Links and Resources Handout]()
+
+## DITI Consultants
+Created by:
+Vaishali Kushwaha (2021)
+
+Julianna Wessels (2021)
+
+Cara Marta Messina (2019)
+
+Garrett Morrow (2019)

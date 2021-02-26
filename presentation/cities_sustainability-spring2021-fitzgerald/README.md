@@ -1,5 +1,6 @@
 ## PowerPoint Presentation
-* Making creative and effective presentations.
+
+Making creative and effective presentations.
 
 
 ## Individual Class Info
@@ -38,7 +39,5 @@ How to make creative and effective presentation slides so as to deliver a visual
 
 ## DITI Consultants
 
-* Vaishali Kushwaha
-* Adam Tomasi
-* Julianna Wessels
+Vaishali Kushwaha, Adam Tomasi and Julianna Wessels
 

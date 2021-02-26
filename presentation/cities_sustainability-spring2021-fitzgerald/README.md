@@ -1,18 +1,21 @@
-## 200~PowerPoint Presentation
+## PowerPoint Presentation
 * Making creative and effective presentations.
 
 
 ## Individual Class Info
 
-	LPSC 7312: Cities, Sustainability, and Climate Change
-	Joan Fitzgerald
-	February 22nd, 6.15 - 8.35 pm
-	Location: Remote
+LPSC 7312: Cities, Sustainability, and Climate Change
+Joan Fitzgerald
+February 22nd, 6.15 - 8.35 pm
+Location: Remote
 
 
 ## Summary of Module
 
-	This module will go over the tips and best practices for making creative and effective presentations. Specifically, this in-class workshop will teach students how to use the Microsoft PowerPoint software to make impactful presentation slides. This module will share best practices and tips, show examples, and provide step-by-step instructions for key functions for students to learn from as they make their own presentations.
+This module will go over the tips and best practices for making creative and effective presentations. 
+Specifically, this in-class workshop will teach students how to use the Microsoft PowerPoint software to make impactful presentation slides. 
+This module will share best practices and tips, show examples, and provide step-by-step instructions for key functions for students 
+to learn from as they make their own presentations.
 
 
 ## Learning Goal
@@ -35,7 +38,7 @@ Handout
 
 ## DITI Consultants
 
-Vaishali Kushwaha
-Adam Tomasi
-Julianna Wessels
+* Vaishali Kushwaha
+* Adam Tomasi
+* Julianna Wessels
 

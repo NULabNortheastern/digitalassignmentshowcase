@@ -4,10 +4,10 @@
 
 ## Individual Class Info
 
-* LPSC 7312: Cities, Sustainability, and Climate Change
-* Joan Fitzgerald
-* February 22nd, 6.15 - 8.35 pm
-* Location: Remote
+LPSC 7312: Cities, Sustainability, and Climate Change <br>
+Joan Fitzgerald <br>
+February 22nd, 6.15 - 8.35 pm <br>
+Location: Remote <br>
 
 
 ## Summary of Module

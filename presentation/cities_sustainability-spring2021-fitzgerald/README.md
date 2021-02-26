@@ -4,10 +4,10 @@
 
 ## Individual Class Info
 
-LPSC 7312: Cities, Sustainability, and Climate Change
-Joan Fitzgerald
-February 22nd, 6.15 - 8.35 pm
-Location: Remote
+* LPSC 7312: Cities, Sustainability, and Climate Change
+* Joan Fitzgerald
+* February 22nd, 6.15 - 8.35 pm
+* Location: Remote
 
 
 ## Summary of Module
@@ -32,8 +32,8 @@ How to make creative and effective presentation slides so as to deliver a visual
 
 ## Materials for Module
 
-Slides 
-Handout
+* Slides 
+* Handout
 
 
 ## DITI Consultants

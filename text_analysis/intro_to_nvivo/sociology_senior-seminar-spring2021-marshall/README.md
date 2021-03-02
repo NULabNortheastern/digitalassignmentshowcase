@@ -1,7 +1,7 @@
 # Qualitative Coding with NVivo
 
 ## Individual Class Info
-SOCL 4400 Senior Sociology Seminar
+SOCL 4600 Senior Sociology Seminar
 <br>
 Ineke Marshall
 <br>
@@ -28,12 +28,10 @@ Qualitative Coding with NVivo
 
 ## Documents for Module
 
-### [Slides]()
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/intro_to_nvivo/sociology_senior-seminar-spring2021-marshall/slides-NVivo.pdf)
 
 ### Handouts
-[Installing NVivo]()
-<br/>
-[Intro to NVivo for Qualitative Coding]()
+[Intro to NVivo for Qualitative Coding](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/intro_to_nvivo/sociology_senior-seminar-spring2021-marshall/handout-NVivo.pdf)
 
 ## DITI Consultants
 Created by Garret Morrow and Cara Marta Messina

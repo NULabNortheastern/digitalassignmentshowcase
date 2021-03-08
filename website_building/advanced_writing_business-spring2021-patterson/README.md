@@ -22,7 +22,6 @@ This module will cover creating and designing a website using Wix or WordPress. 
 ### [Handout]()
 
 ## DITI Consultants
-Created by:
-Colleen Nugent
-[Talia Brenner](brenner.t@northeastern.edu)
-[Adam Tomasi](tomasi.a@northeastern.edu)
+Colleen Nugent <br> 
+[Talia Brenner](brenner.t@northeastern.edu) <br>
+[Adam Tomasi](tomasi.a@northeastern.edu) <br>

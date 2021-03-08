@@ -18,8 +18,8 @@ This module will cover creating and designing a website using Wix or WordPress. 
 
 ## Documents for Module
 
-### [Slides]()
-### [Handout]()
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/advanced_writing_business-spring2021-patterson/Slides.pdf)
+### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/advanced_writing_business-spring2021-patterson/Handout.pdf)
 
 ## DITI Consultants
 Colleen Nugent <br> 

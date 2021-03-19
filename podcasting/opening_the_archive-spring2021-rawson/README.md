@@ -26,14 +26,13 @@ This module will introduce students to podcasting and the basics of Audacity.
 
 ## Documents for Module
 
-### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/history_information-spring2021-cain/Slides.pdf)
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/opening_the_archive-spring2021-rawson/Slides.pdf)
 
 ### Handouts
-[Installing Audacity](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/history_information-spring2021-cain/handout-install_audacity.pdf)
+[Installing Audacity](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/opening_the_archive-spring2021-rawson/Installing%20Audacity%20Handout.pdf)
 <br>
-[Introduction to Podcasting](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/history_information-spring2021-cain/handout-intro_to_audacity.pdf)
-<br>
-[Fair Use Resources](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/history_information-spring2021-cain/handout-fair_use_resources.pdf)
+[Introduction to Audacity](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/opening_the_archive-spring2021-rawson/Intro%20to%20Audacity%20Handout.pdf)
+
 
 ## DITI Consultants
 Created by Caroline Grand

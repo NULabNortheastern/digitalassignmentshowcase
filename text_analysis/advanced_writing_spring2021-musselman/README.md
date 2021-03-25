@@ -24,6 +24,7 @@ This module goes over computational text analysis for a corpus of texts, specifi
 ## Documents for Module
 
 [**Handouts**](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/text_analysis/advanced_writing_spring2021-musselman/handouts)
+
 [**Sample Corpus: Wikipedia entries related to endangered species**](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/advanced_writing_spring2021-musselman/writingforsciences_corpus.zip)
 
 ## DITI Consultants

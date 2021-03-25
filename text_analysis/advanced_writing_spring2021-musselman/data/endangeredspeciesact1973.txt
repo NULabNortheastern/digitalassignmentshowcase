@@ -1,0 +1,361 @@
+The Endangered Species Act of 1973 (ESA or "The Act"; 16 U.S.C. § 1531 et seq.) is the primary law in the United States for protecting imperiled species. Designed to protect critically imperiled species from extinction as a "consequence of economic growth and development untempered by adequate concern and conservation", the ESA was signed into law by President Richard Nixon on December 28, 1973. The U.S. Supreme Court called it “the most comprehensive legislation for the preservation of endangered species enacted by any nation".[1] The purposes of the ESA are two-fold: to prevent extinction and to recover species to the point where the law's protections are not needed. It therefore “protect[s] species and the ecosystems upon which they depend" through different mechanisms. For example, section 4 requires the agencies overseeing the Act to designate imperiled species as threatened or endangered. Section 9 prohibits unlawful ‘take,’ of such species, which means to “harass, harm, hunt...” Section 7 directs federal agencies to use their authorities to help conserve listed species. The Act also serves as the enacting legislation to carry out the provisions outlined in The Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES).[2] The Supreme Court found that "the plain intent of Congress in enacting" the ESA "was to halt and reverse the trend toward species extinction, whatever the cost."[1] The Act is administered by two federal agencies, the United States Fish and Wildlife Service (FWS) and the National Marine Fisheries Service (NMFS).[3] FWS and NMFS have been delegated the authority to promulgate rules in the Code of Federal Regulations to implement the provisions of the Act. History
+Calls for wildlife conservation in the United States increased in the early 1900s because of the visible decline of several species. One example was the near-extinction of the bison, which used to number in the tens of millions. Similarly, the extinction of the passenger pigeon, which numbered in the billions, also caused concern.[4] The whooping crane also received widespread attention as unregulated hunting and habitat loss contributed to a steady decline in its population. By 1890, it had disappeared from its primary breeding range in the north central United States.[5] Scientists of the day played a prominent role in raising public awareness about the losses. For example, George Bird Grinnell highlighted bison decline by writing articles in Forest and Stream.[6]
+
+To address these concerns, Congress enacted the Lacey Act of 1900. The Lacey Act was the first federal law that regulated commercial animal markets.[7] It also prohibited the sale of illegally killed animals between states. Other legislation followed, including the Migratory Bird Conservation Act, a 1937 treaty prohibiting the hunting of right and gray whales, and the Bald and Golden Eagle Protection Act of 1940.[8]
+
+Endangered Species Preservation Act of 1966
+
+Whooping crane
+Despite these treaties and protections, many populations still continued to decline. By 1941, only an estimated 16 whooping cranes remained in the wild.[9] By 1963, the bald eagle, the U.S. national symbol, was in danger of extinction. Only around 487 nesting pairs remained.[10] Loss of habitat, shooting, and DDT poisoning contributed to its decline.
+
+The U.S. Fish and Wildlife Service tried to prevent the extinction of these species. Yet, it lacked the necessary Congressional authority and funding.[11] In response to this need, Congress passed the Endangered Species Preservation Act (Pub.L. 89–669 on October 15, 1966. The Act initiated a program to conserve, protect, and restore select species of native fish and wildlife.[12] As a part of this program, Congress authorized the Secretary of the Interior to acquire land or interests in land that would further the conservation of these species.[13]
+
+The Department of Interior issued the first list of endangered species in March 1967. It included 14 mammals, 36 birds, 6 reptiles, 6 amphibians, and 22 fish.[14] A few notable species listed in 1967 included the grizzly bear, American alligator, Florida manatee, and bald eagle. The list included only vertebrates at the time because the Department of Interior's limited definition of "fish and wildlife."[13]
+
+Endangered Species Conservation Act of 1969
+Main article: Endangered Species Conservation Act of 1969
+The Endangered Species Conservation Act of 1969 (Pub.L. 91–135) amended the Endangered Species Preservation Act of 1966. It established a list of species in danger of worldwide extinction. It also expanded protections for species covered in 1966 and added to the list of protected species. While the 1966 Act only applied to ‘game’ and wild birds, the 1969 Act also protected mollusks and crustaceans. Punishments for poaching or unlawful importation or sale of these species were also increased. Any violation could result in a $10,000 fine or up to one year of jail time.[15]
+
+Notably, the Act called for an international convention or treaty to conserve endangered species.[16] A 1963 IUCN resolution called for a similar international convention.[17] In February, 1973 a meeting in Washington D.C. was convened. This meeting produced the comprehensive multilateral treaty known as CITES or the Convention on International Trade of Endangered Species of Wild Fauna and Flora.[18]
+
+The Endangered Species Conservation Act of 1969 provided a template for the Endangered Species Act of 1973 by using the term “based on the best scientific and commercial data.” This standard is used as a guideline to determine if a species is in danger of extinction.
+
+Endangered Species Act of 1973
+In 1972, President Nixon declared current species conservation efforts to be inadequate.[19] He called on the 93rd United States Congress to pass comprehensive endangered species legislation. Congress responded with the Endangered Species Act of 1973, which was signed into law by Nixon on December 28, 1973 (Pub.L. 93–205).
+
+The ESA was a landmark conservation law. Academic researchers have referred to it as “one of the nation's most significant environmental laws.”[11] It has also been called “one of the most powerful environmental statutes in the U.S. and one of the world’s strongest species protection laws.”[20]
+
+Continuing need
+The available science highlights the need for biodiversity protection laws like the ESA. About one million species worldwide are currently threatened with extinction.[21] North America alone has lost 3 billion birds since 1970.[22] These significant population declines are a precursor to extinction. Half a million species do not have enough habitat for long-term survival. These species are likely to go extinct in the next few decades without habitat restoration.[21] Along with other conservation tools, the ESA is a critical instrument in protecting imperiled species from major ongoing threats. These include climate change, land use change, habitat loss, invasive species, and overexploitation.
+
+Endangered Species Act
+Endangered Species Act.pdf
+President Richard Nixon declared current species conservation efforts to be inadequate and called on the 93rd United States Congress to pass comprehensive endangered species legislation.[23] Congress responded with a completely rewritten law, the Endangered Species Act of 1973, which was signed by Nixon on December 28, 1973 (Pub.L. 93–205). It was written by a team of lawyers and scientists, including Dr. Russell E. Train, the first appointed head of the Council on Environmental Quality (CEQ), an outgrowth of the National Environmental Policy Act (NEPA) of 1969.[24][25] Dr. Train was assisted by a core group of staffers, including Dr. Earl Baysinger at EPA, Dick Gutting, and Dr. Gerard A. "Jerry" Bertrand, a Ph.D Marine Biologist by training (Oregon State University, 1969), who had transferred from his post as the senior scientific adviser to the Commandant of the U.S. Army Corps of Engineers, office of the Commandant of the Corps., to join the newly formed White House Council on Environmental Quality. The staff, under Dr. Train's leadership, incorporated dozens of new principles and ideas into the landmark legislation but also incorporated previous laws, as was desired by Congressman John Dingle (D-Michigan) when he first proposed the idea of a "Endangered Species Act", crafting a document that completely changed the direction of environmental conservation in the United States. Among the staff, Dr. Bertrand is credited with having written major parts of the Act, including the infamous "takings" clause, 16 U.S.C. § 1538. "We didn't know what we couldn't do," Dr. Bertrand has said about the Act. "We were doing what we thought was scientifically valid and right for the environment."[26]
+
+The stated purpose of the Endangered Species Act is to protect species and also "the ecosystems upon which they depend." California historian Kevin Starr was more emphatic when he said: "The Endangered Species Act of 1972 is the Magna Carta of the environmental movement."[27]
+
+The ESA is administered by two federal agencies, the United States Fish and Wildlife Service (FWS) and the National Marine Fisheries Service (NMFS). NMFS handles marine species, and the FWS has responsibility over freshwater fish and all other species. Species that occur in both habitats (e.g. sea turtles and Atlantic sturgeon) are jointly managed.
+
+In March 2008, The Washington Post reported that documents showed that the Bush Administration, beginning in 2001, had erected "pervasive bureaucratic obstacles" that limited the number of species protected under the act:
+
+From 2000 to 2003, until a U.S. District Court overturned the decision, Fish and Wildlife Service officials said that if that agency identified a species as a candidate for the list, citizens could not file petitions for that species.
+Interior Department personnel were told they could use "info from files that refutes petitions but not anything that supports" petitions filed to protect species.
+Senior department officials revised a longstanding policy that rated the threat to various species based primarily on their populations within U.S. borders, giving more weight to populations in Canada and Mexico, countries with less extensive regulations than the U.S.
+Officials changed the way species were evaluated under the act by considering where the species currently lived, rather than where they used to exist.
+Senior officials repeatedly dismissed the views of scientific advisers who said that species should be protected.[28]
+In 2014, the House of Representatives passed the 21st Century Endangered Species Transparency Act, which would require the government to disclose the data it uses to determine species classification.
+
+In July 2018, lobbyists, Republican legislators, and the administration of President Donald Trump, proposed, introduced, and voted on laws and amendments to the ESA. One example was from the Interior Department which wanted to add economic considerations when deciding if a species should be on the "endangered" or "threatened" list.[29]
+
+In October 2019, at the urging of the Pacific Legal Foundation and the Property and Environment Research Center,[30][31] the USFWS and the NMFS under President Donald Trump changed the §4(d) rule to treat "threatened" and "critically endangered" species differently, legalizing private recovery initiatives and habitats for species that are merely "threatened."[32] Environmental opponents criticized the revision as "crashing like a bulldozer" through the act and "tipping the scales way in favour of industry."[33][34][35] Some critics, including the Sierra Club, have pointed out these changes come just months after the IPBES released its Global Assessment Report on Biodiversity and Ecosystem Services, which found that human activity has pushed a million species of flora and fauna to the brink of extinction, and would only serve to exacerbate the crisis.[36][37][38] The California legislature passed a bill to raise California regulations to thwart Trump's changes, but it was vetoed by Governor Newsom.[39] In January 2020, the House Natural Resources Committee reported similar legislation.[40] In December 2020, the Trump Administration further rolled back the Endangered Species Act by reducing habitat protections for at-risk species, and now restricts protections to where they currently live, not where they lived previously or where they might migrate to as a result of climate change.[41]
+
+Content of the ESA
+The ESA consists of 17 sections. Key legal requirements of the ESA include:
+
+The federal government must determine whether species are endangered or threatened. If so, they must list the species for protection under the ESA (Section 4).
+If determinable, critical habitat must be designated for listed species (Section 4).
+Absent certain limited situations (Section 10), it is illegal to “take” an endangered species (Section 9). “Take” can mean kill, harm, or harass (Section 3).
+Federal agencies will use their authorities to conserve endangered species and threatened species (Section 7).
+Federal agencies cannot jeopardize listed species' existence or destroy critical habitat (Section 7).
+Any import, export, interstate, and foreign commerce of listed species is generally prohibited (Section 9).
+Endangered fish or wildlife cannot be taken without a take permit. This also applies to certain threatened animals with section 4(d) rules (Section 10).
+Section 4: Listing and Recovery
+Section 4 of the ESA sets forth the process by which species are designated as endangered or threatened. Species with these designations receive protections under federal law. Section 4 also requires critical habitat designation and recovery plans for those species.
+
+Petition and listing
+To be considered for listing, the species must meet one of five criteria (section 4(a)(1)):
+
+1. There is the present or threatened destruction, modification, or curtailment of its habitat or range.
+2. An over utilization for commercial, recreational, scientific, or educational purposes.
+3. The species is declining due to disease or predation.
+4. There is an inadequacy of existing regulatory mechanisms.
+5. There are other natural or manmade factors affecting its continued existence.
+
+Potential candidate species are then prioritized, with "emergency listing" given the highest priority. Species that face a "significant risk to their well being" are in this category.[42]
+
+A species can be listed in two ways. The United States Fish and Wildlife Service (FWS) or NOAA Fisheries (also called the National Marine Fisheries Service) can directly list a species through its candidate assessment program, or an individual or organizational petition may request that the FWS or NMFS list a species. A "species" under the act can be a true taxonomic species, a subspecies, or in the case of vertebrates, a "distinct population segment." The procedures are the same for both types except with the person/organization petition, there is a 90-day screening period.
+
+During the listing process, economic factors cannot be considered, but must be " based solely on the best scientific and commercial data available."[43] The 1982 amendment to the ESA added the word "solely" to prevent any consideration other than the biological status of the species. Congress rejected President Ronald Reagan's Executive Order 12291 which required economic analysis of all government agency actions. The House committee's statement was "that economic considerations have no relevance to determinations regarding the status of species."[44]
+
+The very opposite result happened with the 1978 amendment where Congress added the words "...taking into consideration the economic impact..." in the provision on critical habitat designation.[45] The 1978 amendment linked the listing procedure with critical habitat designation and economic considerations, which almost completely halted new listings, with almost 2,000 species being withdrawn from consideration.[46]
+
+Listing process
+After receiving a petition to list a species, the two federal agencies take the following steps, or rulemaking procedures, with each step being published in the Federal Register, the US government's official journal of proposed or adopted rules and regulations:
+
+1. If a petition presents information that the species may be imperiled, a screening period of 90 days begins (interested persons and/or organization petitions only). If the petition does not present substantial information to support listing, it is denied.
+
+2. If the information is substantial, a status review is started, which is a comprehensive assessment of a species' biological status and threats, with a result of : "warranted", "not warranted," or "warranted but precluded."
+
+A finding of not warranted, the listing process ends.
+Warranted finding means the agencies publish a 12-month finding (a proposed rule) within one year of the date of the petition, proposing to list the species as threatened or endangered. Comments are solicited from the public, and one or more public hearings may be held. Three expert opinions from appropriate and independent specialists may be included, but this is voluntary.
+A "warranted but precluded" finding is automatically recycled back through the 12-month process indefinitely until a result of either "not warranted" or "warranted" is determined. The agencies monitor the status of any "warranted but precluded" species.[47]
+Essentially the "warranted but precluded" finding is a deferral added by the 1982 amendment to the ESA. It means other, higher-priority actions will take precedence.[48] For example, an emergency listing of a rare plant growing in a wetland that is scheduled to be filled in for housing construction would be a "higher-priority".
+
+3. Within another year, a final determination (a final rule) must be made on whether to list the species. The final rule time limit may be extended for 6 months and listings may be grouped together according to similar geography, threats, habitat or taxonomy.
+
+The annual rate of listing (i.e., classifying species as "threatened" or "endangered") increased steadily from the Ford administration (47 listings, 15 per year) through Carter (126 listings, 32 per year), Reagan (255 listings, 32 per year), George H. W. Bush (231 listings, 58 per year), and Clinton (521 listings, 65 per year) before decline to its lowest rate under George W. Bush (60 listings, 8 per year as of 5/24/08).[49]
+
+The rate of listing is strongly correlated with citizen involvement and mandatory timelines: as agency discretion decreases and citizen involvement increases (i.e. filing of petitions and lawsuits) the rate of listing increases.[49] Citizen involvement has been shown to identify species not moving through the process efficiently,[50] and identify more imperiled species.[51] The longer species are listed, the more likely they are to be classified as recovering by the FWS.[52]
+
+Public notice, comments and judicial review
+Public notice is given through legal notices in newspapers, and communicated to state and county agencies within the species' area. Foreign nations may also receive notice of a listing. A public hearing is mandatory if any person has requested one within 45 days of the published notice.[53] "The purpose of the notice and comment requirement is to provide for meaningful public participation in the rulemaking process." summarized the Ninth Circuit court in the case of Idaho Farm Bureau Federation v. Babbitt.[54]
+
+Listing status
+
+U.S. Endangered Species Act (ESA)
+Listing status and its abbreviations used in Federal Register and by federal agencies like the U.S. Fish and Wildlife Service:[55][56][57]
+
+E = endangered (Sec.3.6, Sec.4.a [55]) – any species which is in danger of extinction throughout all or a significant portion of its range other than a species of the Class Insecta determined by the Secretary to constitute a pest.
+T = threatened (Sec.3.20, Sec.4.a [55]) – any species which is likely to become an endangered species within the foreseeable future throughout all or a significant portion of its range
+Other categories:
+C = candidate (Sec.4.b.3 [55]) – a species under consideration for official listing
+E(S/A), T(S/A) = endangered or threatened due to similarity of appearance (Sec.4.e [55]) – a species not endangered or threatened, but so closely resembles in appearance a species which has been listed as endangered or threatened, that enforcement personnel would have substantial difficulty in attempting to differentiate between the listed and unlisted species.
+XE, XN = experimental essential or non-essential population (Sec.10.j [55]) – any population (including eggs, propagules, or individuals) of an endangered species or a threatened species released outside the current range under authorization of the Secretary. Experimental, nonessential populations of endangered species are treated as threatened species on public land, for consultation purposes, and as species proposed for listing on private land.
+Critical habitat
+The provision of the law in Section 4 that establishes critical habitat is a regulatory link between habitat protection and recovery goals, requiring the identification and protection of all lands, water and air necessary to recover endangered species.[58] To determine what exactly is critical habitat, the needs of open space for individual and population growth, food, water, light or other nutritional requirements, breeding sites, seed germination and dispersal needs, and lack of disturbances are considered.[59]
+
+As habitat loss is the primary threat to most imperiled species, the Endangered Species Act of 1973 allowed the Fish and Wildlife Service (FWS) and National Marine Fisheries Service (NMFS) to designate specific areas as protected "critical habitat" zones. In 1978, Congress amended the law to make critical habitat designation a mandatory requirement for all threatened and endangered species.
+
+The amendment also added economics into the process of determining habitat: "...shall designate critical habitat... on the basis of the best scientific data available and after taking into consideration the economic impact, and any other impact, of specifying... area as critical habitat."[45] The congressional report on the 1978 amendment described the conflict between the new Section 4 additions and the rest of the law:
+
+"... the critical habitat provision is a startling section which is wholly inconsistent with the rest of the legislation. It constitutes a loophole which could readily be abused by any Secretary ... who is vulnerable to political pressure or who is not sympathetic to the basic purposes of the Endangered Species Act."-- House of Representatives Report 95-1625, at 69 (1978)[60]
+
+The amendment of 1978 added economic considerations and the 1982 amendment prevented economic considerations.
+
+Several studies on the effect of critical habitat designation on species' recovery rates have been done between 1997 and 2003. Although it has been criticized,[61] the Taylor study in 2003[62] found that, "species with critical habitat were... twice as likely to be improving...."[63]
+
+Critical habitats are required to contain "all areas essential to the conservation" of the imperiled species, and may be on private or public lands. The Fish and Wildlife Service has a policy limiting designation to lands and waters within the U.S. and both federal agencies may exclude essential areas if they determine that economic or other costs exceed the benefit. The ESA is mute about how such costs and benefits are to be determined.
+
+All federal agencies are prohibited from authorizing, funding or carrying out actions that "destroy or adversely modify" critical habitats (Section 7(a) (2)). While the regulatory aspect of critical habitat does not apply directly to private and other non-federal landowners, large-scale development, logging and mining projects on private and state land typically require a federal permit and thus become subject to critical habitat regulations. Outside or in parallel with regulatory processes, critical habitats also focus and encourage voluntary actions such as land purchases, grant making, restoration, and establishment of reserves.[64]
+
+The ESA requires that critical habitat be designated at the time of or within one year of a species being placed on the endangered list. In practice, most designations occur several years after listing.[64] Between 1978 and 1986 the FWS regularly designated critical habitat. In 1986 the Reagan Administration issued a regulation limiting the protective status of critical habitat. As a result, few critical habitats were designated between 1986 and the late 1990s. In the late 1990s and early 2000s, a series of court orders invalidated the Reagan regulations and forced the FWS and NMFS to designate several hundred critical habitats, especially in Hawaii, California and other western states. Midwest and Eastern states received less critical habitat, primarily on rivers and coastlines. As of December, 2006, the Reagan regulation has not yet been replaced though its use has been suspended. Nonetheless, the agencies have generally changed course and since about 2005 have tried to designate critical habitat at or near the time of listing.
+
+Most provisions of the ESA revolve around preventing extinction. Critical habitat is one of the few that focus on recovery. Species with critical habitat are twice as likely to be recovering as species without critical habitat.[52]
+
+Recovery plan
+Fish and Wildlife Service (FWS) and National Marine Fisheries Service (NMFS) are required to create an Endangered Species Recovery Plan outlining the goals, tasks required, likely costs, and estimated timeline to recover endangered species (i.e., increase their numbers and improve their management to the point where they can be removed from the endangered list).[65] The ESA does not specify when a recovery plan must be completed. The FWS has a policy specifying completion within three years of the species being listed, but the average time to completion is approximately six years.[49] The annual rate of recovery plan completion increased steadily from the Ford administration (4) through Carter (9), Reagan (30), Bush I (44), and Clinton (72), but declined under Bush II (16 per year as of 9/1/06).[49]
+
+The goal of the law is to make itself unnecessary, and recovery plans are a means toward that goal.[66] Recovery plans became more specific after 1988 when Congress added provisions to Section 4(f) of the law that spelled out the minimum contents of a recovery plan. Three types of information must be included:
+
+A description of "site-specific" management actions to make the plan as explicit as possible.
+The "objective, measurable criteria" to serve as a baseline for judging when and how well a species is recovering.
+An estimate of money and resources needed to achieve the goal of recovery and delisting.[67]
+The amendment also added public participation to the process. There is a ranking order, similar to the listing procedures, for recovery plans, with the highest priority being for species most likely to benefit from recovery plans, especially when the threat is from construction, or other developmental or economic activity.[66] Recovery plans cover domestic and migratory species.[68]
+
+Delisting
+
+Northern flying squirrel
+To delist species, several factors are considered: the threats are eliminated or controlled, population size and growth, and the stability of habitat quality and quantity. Also, over a dozen species have been delisted due to inaccurate data putting them on the list in the first place.
+
+There is also "downlisting" of a species where some of the threats have been controlled and the population has met recovery objectives, then the species can be reclassified to "threatened" from "endangered"[69]
+
+Two examples of animal species recently delisted are: the Virginia northern flying squirrel (subspecies) on August, 2008, which had been listed since 1985, and the gray wolf (Northern Rocky Mountain DPS). On April 15, 2011, President Obama signed the Department of Defense and Full-Year Appropriations Act of 2011.[70] A section of that Appropriations Act directed the Secretary of the Interior to reissue within 60 days of enactment the final rule published on April 2, 2009, that identified the Northern Rocky Mountain population of gray wolf (Canis lupus) as a distinct population segment (DPS) and to revise the List of Endangered and Threatened Wildlife by removing most of the gray wolves in the DPS.
+
+The US Fish and Wildlife Service's delisting report lists four plants that have recovered:[71]
+
+
+Eggert's sunflower (Helianthus eggertii)
+
+ 
+
+Robbins' cinquefoil (Potentilla robbinsiana), an alpine wildflower found in the White Mountains of New Hampshire
+
+ 
+
+Maguire daisy (Erigeron maguirei)
+
+ 
+
+Tennessee purple coneflower (Echinacea tennesseensis)
+
+
+Section 7: Cooperation and Consultation
+
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.
+Find sources: "Endangered Species Act of 1973" – news · newspapers · books · scholar · JSTOR (December 2020) (Learn how and when to remove this template message)
+Overview
+Section 7 of the Endangered Species Act requires cooperation among federal agencies to conserve endangered or threatened species.[72] Section 7(a)(1) directs the Secretary of the Interior and all federal agencies to proactively use their authorities to conserve such species. This directive is often referred to as an ‘affirmative requirement.’ Section 7(a)(2) of the Act requires federal agencies to ensure their actions do not jeopardize listed species or adversely modify critical habitat. Federal agencies (referred to as “action agencies”) must consult with the Secretary of the Interior before taking any action which may affect listed species. Section 7(a)(2) is often referred to as the consultation process.
+
+The two agencies that administer the Act are the National Marine Fisheries Service (NMFS) and the U.S. Fish and Wildlife Service (FWS). These two agencies are often collectively referred to as “the Services” and lead the consultation process. FWS is responsible for the recovery of terrestrial, freshwater, and catadromous species. NMFS is responsible for marine species and anadromous fish. NMFS manages recovery for 165 endangered and threatened marine species including 66 foreign species. As of January 2020, the Services have listed 2,273 species worldwide as endangered or threatened. 1,662 of these species occur in the United States.
+
+Section 7(a)(1)
+Section 7(a)(1) requires federal agencies to work with FWS and NMFS to coordinate endangered and threatened species conservation. Federal agencies should also account for any effects on endangered or threatened species in planning their activities.
+
+An example of the 7(a)(1) process is the Army Corps of Engineers’ management of the Lower Mississippi River. Since the early 2000s, a division of the U.S. Army Corps of Engineers has worked with FWS and the states to resolve endangered species and ecosystem management issues. ESA-listed species in the area include the least tern (Sterna antillarum), pallid sturgeon (Scaphirhynchus albus), and the fat pocketbook (potamilus capax).[73] The goal of this 7(a)(1) conservation plan is to protect listed species while allowing the Corps to carry out its civil works responsibilities. As part of the plan, the Corps undertakes projects that will benefit those species. It also considers species ecology as a part of project design. All three listed species in the Lower Mississippi River have increased in numbers since the plan was established.
+
+Section 7(a)(2)
+An action agency is required to consult with the Services if it has reason to believe that a species listed under the ESA may be present in the proposed project area. It also must consult if the agency believes the action will likely affect the species. This requirement, established by section 7(a)(2), is commonly referred to as the consultation process.
+
+Informal consultation phase
+Consultation typically begins informally at the request of an action agency in the early stages of project planning.[74] Discussion topics include listed species in the proposed action area and any effect(s) the action may have on those species. If both agencies agree that the proposed action is not likely to affect the species, the project moves forward. However, if the agency's action may affect a listed species, the agency is required to prepare a biological assessment.
+
+Biological assessments
+A biological assessment is a document prepared by the action agency. It lays out the project's potential effects, particularly on listed species. The action agency must complete a biological assessment if listed species or critical habitat may be present. The assessment is optional if only proposed species or critical habitat are present.
+
+As a part of the assessment, the action agency conducts on-site inspections to see whether protected species are present. The assessment will also include the likely effects of the action on such species. The assessment should address all listed and proposed species in the action area, not only those likely to be affected.
+
+The biological assessment may also include conservation measures. Conservation measures are actions the action agency intends to take to promote the recovery of listed species. These actions may also serve to minimize the projects’ effects on species in the project area.
+
+There are three possible conclusions to a biological assessment: “no effect”, “not likely to adversely affect”, or “likely to adversely affect” listed or proposed species.
+
+The action agency may reach a “no effect” conclusion if it determines the proposed action will not affect listed species or designated critical habitat. The action agency may reach a “not likely to adversely affect” decision if the proposed action is insignificant or beneficial. The Services will then review the biological assessment and either agree or disagree with the agency's findings. If the Services agree the project's potential impacts have been eliminated, they will concur in writing. The concurrence letter must outline any modifications agreed to during informal consultation. If an agreement cannot be reached, the Services advise the action agency to initiate formal consultation.
+
+If the Services or the action agency finds the action “likely to adversely affect” protected species, this triggers formal consultation.
+
+Formal consultation
+During formal consultation, the Services establish the project's effects on listed species. Specifically, they address whether the project will jeopardize the continued existence of any listed species or destroy/adversely modify species’ designated critical habitat.
+
+“Jeopardy” is not defined in the ESA, but the Services have defined it in regulation to mean “when an action is likely to appreciably reduce a species’ likelihood of survival and recovery in the wild.” In other words, if an action merely reduces the likelihood of recovery but not survival then the standard of jeopardy is not met.
+
+To assess the likelihood of jeopardy, the Services will review the species’ biological and ecological traits. These could include the species’ population dynamics (population size, variability and stability), life-history traits, critical habitat, and how any proposed action might alter its critical habitat. They also consider how limited the species’ range is and whether the threats that led to species listing have improved or worsened since listing.
+
+The Services have defined adverse modification as “a diminishment of critical habitat that leads to a lower likelihood of survival and recovery for a listed species.” The diminishment may be direct or indirect. To assess the likelihood of adverse modification, biologists will first verify the scope of the proposed action. This includes identifying the area likely to be affected and considering the proximity of the action to species or designated critical habitat. The duration and frequency of any disturbance to the species or its habitat is also assessed.
+
+A formal consultation may last up to 90 days. After this time the Services will issue a biological opinion. The biological opinion contains findings related to the project's effects on listed and proposed species. The Services must complete the biological opinion within 45 days of the conclusion of formal consultation. However, the Services may extend this timeline if they require more information to make a determination. The action agency must agree to the extension.
+
+Finding of no jeopardy or adverse modification
+The Services may issue a finding of “no jeopardy or adverse modification” if the proposed action does not pose any harm to listed or proposed species or their designated critical habitat. Alternatively, the Service could find that proposed action is likely to harm listed or proposed species or their critical habitat but does not reach the level of jeopardy or adverse modification. In this case, the Services will prepare an incidental take statement. Under most circumstances, the ESA prohibits “take” of listed species. Take includes harming, killing or harassing a listed species. However, the ESA allows for “incidental” take that results from an otherwise lawful activity that is not the direct purpose of the action.
+
+An incidental take statement will be agreed to between the Services and the action agency. The statement should describe the amount of anticipated take due to the proposed action. It will also include “reasonable and prudent measures” to minimize the take. Incidental take cannot pose jeopardy or potential extinction to species.
+
+Finding of jeopardy or adverse modification
+Following formal consultation, the Services may determine that the action will result in jeopardy or adverse modification to critical habitat. If this is the case, this finding will be included in the biological opinion.
+
+However, during consultation, the Services may find there are actions that the agency may take to avoid this. These actions are known as reasonable and prudent alternative actions. In the event of a jeopardy or adverse modification finding, the agency must adopt reasonable and prudent alternative actions. However, the Services retain final say on which are included in the biological opinion.
+
+According to regulation, reasonable and prudent alternative actions must:
+
+be consistent with the purpose of the proposed project
+be consistent with the action agency's legal authority and jurisdiction
+be economically and technically feasible
+in the opinion of the Services, avoid jeopardy
+Given a finding of jeopardy or adverse modification, the action agency has several options:
+
+Adopt one or more of the reasonable and prudent alternative actions and move forward with the modified project
+Elect not to grant the permit, fund the project, or undertake the action
+Request an exemption from the Endangered Species Committee. Another possibility is to re-initiate consultation. The action agency would do this by first proposing to modify the action
+Propose reasonable and prudent alternatives not yet considered
+The action agency must notify the Services of its course of action on any project that receives a jeopardy or adverse modification opinion.
+
+In the past ten years, FWS has made jeopardy determinations in three cases (delta smelt, aquatic species in Idaho, and South Florida water management), each of which has included reasonable and prudent alternatives. No project has been stopped as a result of FWS finding a project had no available path forward.
+
+In rare cases, no alternatives to avoid jeopardy or adverse modification will be available. An analysis of FWS consultations from 1987 to 1991 found only 0.02% were blocked or canceled because of a jeopardy or adverse modification opinion with no reasonable and prudent alternatives.[75] In this scenario, the only option that the action agency and applicant are left with is to apply for an exemption. Exemptions are decided upon by the Endangered Species Committee.
+
+Exemptions
+An action agency may apply for an exemption if: (1) it believes it cannot comply with the requirements of the biological opinion; or (2) formal consultation yields no reasonable and prudent alternative actions. The exemption application must be submitted to the Secretary of the Interior within 90 days of the conclusion of formal consultation.
+
+The Secretary can then recommend the application to the Endangered Species Committee (informally known as “The God Squad”). This Committee is composed of several Cabinet-level members:
+
+The Secretary of Agriculture
+The Secretary of the Army
+The Secretary of the Interior
+The Chairman of the Council of Economic Advisers
+The Administrator of the Environmental Protection Agency
+The Administrator of the National Oceanic and Atmospheric Administration
+One representative from each affected State (appointed by the President of the United States)
+Endangered Species Committee decisions
+
+Northern spotted owl
+The governor of each affected state is notified of any exemption applications. The governor will recommend a representative to join the committee for this application decision. Within 140 days of recommending an exemption, the Secretary should submit to the Committee a report that gives:
+
+the availability of reasonable and prudent alternatives
+a comparison of the benefits of the proposed action to any alternative courses of action
+whether the proposed action is in the public interest or is of national or regional significance
+available mitigation measures to limit the effects on listed species
+whether the action agency made any irreversible or irretrievable commitment of resources
+Once this information is received, the committee and the secretary will hold a public hearing. The committee has 30 days from the time of receiving the above report to make a decision. In order for the exemption to be granted, five out of the seven members must vote in favor of the exemption.[76] The findings can be challenged in federal court. In 1992, one such challenge was the case of Portland Audubon Society v. Endangered Species Committee heard in the Ninth Circuit Court of Appeals.[77]
+
+The court found that three members had been in illegal ex parte contact with the then-President George H.W. Bush, a violation of the Administrative Procedures Act. The committee's exemption was for the Bureau of Land Management's timber sale and "incidental takes" of the endangered northern spotted owl in Oregon.[77]
+
+Rarely does the Endangered Species Committee consider projects for exemption. The Endangered Species Committee has only met three times since the inception of the ESA. An exemption was granted on two of these occasions.
+
+Erroneous beliefs and misconceptions
+Section 7 of the Endangered Species Act provides the Services with powerful tools to conserve listed species, aid species' recovery, and protect critical habitat. At the same time, it is one of the most controversial sections. One reason for the controversy is a misconception that it stops economic development. However, because the standard to prevent jeopardy or adverse modification applies only to federal activities, this claim is misguided. A 2015 paper published in the Proceedings of the National Academy of Sciences analyzed ESA consultation data from 2008 to 2015. Of the 88,290 consultations included, not a single project was stopped as a result of the FWS finding adverse modification or jeopardy without an alternative available.[78]
+
+An earlier study from the World Wildlife Fund examined more than 73,000 FWS consultations from 1987 to 1991. The study found that only 0.47% consultations resulted in potential jeopardy to a species. As a result, projects were required to implement reasonable and prudent alternatives, but were not canceled altogether. Only 18 (0.02%) consultations canceled a project because of the danger it posed to species.[79]
+
+Section 10: Permitting, Conservation Agreements, and Experimental Populations
+Section 10 of the ESA provides a permit system that may allow acts prohibited by Section 9. This includes scientific and conservation activities.  For example, the government may let someone move a species from one area to another. This would otherwise be a prohibited taking under Section 9. Before the law was amended in 1982, a listed species could be taken only for scientific or research purposes. The combined result of the amendments to the Endangered Species Act have created a more flexible ESA.
+
+More changes were made in the 1990s in an attempt by Secretary of the Interior Bruce Babbitt to shield the ESA from a Congress hostile to the law. He instituted incentive-based strategies that would balance the goals of economic development and conservation.[80]
+
+Habitat conservation plans
+Section 10 may also allow activities that can unintentionally impact protected species.  A common activity might be construction where these species live. More than half of habitat for listed species is on non-federal property.[81] Under section 10, impacted parties can apply for an incidental take permit (ITP). An application for an ITP requires a Habitat Conservation Plan (HCP).[82] HCPs must minimize and mitigate the impacts of the activity. HCPs can be established to provide protections for both listed and non-listed species. Such non-listed species include species that have been proposed for listing. Hundreds of HCPs have been created. However, the effectiveness of the HCP program remains unknown.[83]
+
+If activities may unintentionally take a protected species, an incidental take permit can be issued. The applicant submits an application with an habitat conservation plan (HCP). If approved by the agency (FWS or NMFS) they are issued an Incidental Take Permit (ITP). The permit allows a certain number of the species to be "taken." The Services have a "No Surprises" policy for HCPs. Once an ITP is granted, the Services cannot require applicants to spend more money or set aside additional land or pay more.[84]
+
+To receive the benefit of the permit the applicant must comply with all the requirements of the HCP. Because the permit is issued by a federal agency to a private party, it is a federal action. Other federal laws will apply such as the National Environmental Policy Act (NEPA) and Administrative Procedure Act (APA). A notice of the permit application action must be published in the Federal Register and a public comment period of 30 to 90 days offered.[85]
+
+Safe Harbor Agreements
+The "Safe Harbor" agreement (SHA) is similar to an HCP. It is voluntary between the private landowner and the Services.[86] The landowner agrees to alter the property to benefit a listed or proposed species. In exchange, the Services will allow some future "takes" through an Enhancement of Survival Permit. A landowner can have either a "Safe Harbor" agreement or an HCP, or both. The policy was developed by the Clinton Administration.[87] Unlike an HCP the activities covered by a SHA are designed to protect species. The policy relies on the "enhancement of survival" provision of Section §1539(a)(1)(A). Safe harbor agreements are subject to public comment rules of the APA.
+
+Candidate Conservation Agreements With Assurances
+HCPs and SHAs are applied to listed species. If an activity may "take" a proposed or candidate species, parties can enter into Candidate Conservation Agreements With Assurances (CCAA).[88] A party must show the Services they will take conservation measures to prevent listing. If a CCAA is approved and the species is later listed, the party with a CCAA gets an automatic "enhancement of survival" permit under Section §1539(a)(1)(A). CCAAs are subject to the public comment rules of the APA.
+
+Experimental populations
+Experimental populations are listed species that have been intentionally introduced to a new area. They must be separate geographically from other populations of the same species. Experimental populations can be designated "essential" or "non-essential"[89] "Essential" populations are those whose loss would appreciably reduce the survival of the species in the wild. "Non-essential" populations are all others. Nonessential experimental populations of listed species typically receive less protection than populations in the wild.
+
+Effectiveness
+Positive effects
+As of January 2019, eighty-five species have been delisted; fifty-four due to recovery, eleven due to extinction, seven due to changes in taxonomic classification practices, six due to discovery of new populations, five due to an error in the listing rule, one due to erroneous data and one due to an amendment to the Endangered Species Act specifically requiring the species delisting.[90] Twenty-five others have been downlisted from "endangered" to "threatened" status.
+
+Some have argued that the recovery of DDT-threatened species such as the bald eagle, brown pelican and peregrine falcon should be attributed to the 1972 ban on DDT by the EPA. rather than the Endangered Species Act. However, the listing of these species as endangered led to many non-DDT oriented actions that were taken under the Endangered Species Act (i.e. captive breeding, habitat protection, and protection from disturbance).
+
+As of January 2019, there are 1,467 total (foreign and domestic)[91] species on the threatened and endangered lists. However, many species have become extinct while on the candidate list or otherwise under consideration for listing.[49]
+
+
+Key deer
+Species which increased in population size since being placed on the endangered list include:
+
+Bald eagle (increased from 417 to 11,040 pairs between 1963 and 2007); removed from list 2007
+Whooping crane (increased from 54 to 436 birds between 1967 and 2003)
+Kirtland's warbler (increased from 210 to 1,415 pairs between 1971 and 2005)
+Peregrine falcon (increased from 324 to 1,700 pairs between 1975 and 2000); removed from list 1999
+Gray wolf (populations increased dramatically in the Northern Rockies and Western Great Lakes States)
+Mexican wolf (increased to minimum population of 109 wolves in 2014 in southwest New Mexico and southeast Arizona)
+Red wolf (increased from 17 in 1980 to 257 in 2003)
+Gray whale (increased from 13,095 to 26,635 whales between 1968 and 1998); removed from list (Debated because whaling was banned before the ESA was set in place and that the ESA had nothing to do with the natural population increase since the cease of massive whaling [excluding Native American tribal whaling])
+Grizzly bear (increased from about 271 to over 580 bears in the Yellowstone area between 1975 and 2005)
+California's southern sea otter (increased from 1,789 in 1976 to 2,735 in 2005)
+San Clemente Indian paintbrush (increased from 500 plants in 1979 to more than 3,500 in 1997)
+Florida's Key deer (increased from 200 in 1971 to 750 in 2001)
+Big Bend gambusia (increased from a couple dozen to a population of over 50,000)
+Hawaiian goose (increased from 400 birds in 1980 to 1,275 in 2003)
+Virginia big-eared bat (increased from 3,500 in 1979 to 18,442 in 2004)
+Black-footed ferret (increased from 18 in 1986 to 600 in 2006)
+State endangered species lists
+Section 6 of the Endangered Species Act[92] provided funding for development of programs for management of threatened and endangered species by state wildlife agencies.[93] Subsequently, lists of endangered and threatened species within their boundaries have been prepared by each state. These state lists often include species which are considered endangered or threatened within a specific state but not within all states, and which therefore are not included on the national list of endangered and threatened species. Examples include Florida,[94] Minnesota,[95] and Maine.[96]
+
+Penalties
+There are different degrees of violation with the law. The most punishable offenses are trafficking, and any act of knowingly "taking" (which includes harming, wounding, or killing) an endangered species.
+
+The penalties for these violations can be a maximum fine of up to $50,000 or imprisonment for one year, or both, and civil penalties of up to $25,000 per violation may be assessed. Lists of violations and exact fines are available through the National Oceanic and Atmospheric Administration web-site.[97]
+
+One provision of this law is that no penalty may be imposed if, by a preponderance of the evidence that the act was in self-defense. The law also eliminates criminal penalties for accidentally killing listed species during farming and ranching activities.[98]
+
+In addition to fines or imprisonment, a license, permit, or other agreement issued by a federal agency that authorized an individual to import or export fish, wildlife, or plants may be revoked, suspended or modified. Any federal hunting or fishing permits that were issued to a person who violates the ESA can be canceled or suspended for up to a year.
+
+Use of money received through violations of the ESA
+A reward will be paid to any person who furnishes information which leads to an arrest, conviction, or revocation of a license, so long as they are not a local, state, or federal employee in the performance of official duties. The Secretary may also provide reasonable and necessary costs incurred for the care of fish, wildlife, and forest service or plant pending the violation caused by the criminal. If the balance ever exceeds $500,000 the Secretary of the Treasury is required to deposit an amount equal to the excess into the cooperative endangered species conservation fund.
+
+Challenges
+Successfully implementing the Act has been challenging in the face of opposition and frequent misinterpretations of the Act's requirements. One challenge attributed to the Act, though debated often, is the cost conferred on industry. These costs may come in the form of lost opportunity or slowing down operations to comply with the regulations put forth in the Act. Costs tend to be concentrated in a handful of industries. For example, the requirement to consult with the Services on federal projects has at times slowed down operations by the oil and gas industry. The industry has often pushed to develop millions of federal acres of land rich in fossil fuels. Some argue the ESA may encourage preemptive habitat destruction or taking listed or proposed species by landowners.[99] One example of such perverse incentives is the case of a forest owner who, in response to ESA listing of the red-cockaded woodpecker, increased harvesting and shortened the age at which he harvests his trees to ensure that they do not become old enough to become suitable habitat.[100] Some economists believe that finding a way to reduce such perverse incentives would lead to more effective protection of endangered species.[101] According to research published in 1999 by Alan Green and the Center for Public Integrity (CPI) there are also loopholes in the ESA are commonly exploited in the exotic pet trade. These loopholes allow some trade in threatened or endangered species within and between states.[102]
+
+As a result of these tensions, the ESA is often seen as pitting the interests of conservationists and species against industry. One prominent case in the 1990s involved the proposed listing of Northern spotted owl and designation of critical habitat. Another notable case illustrating this contentiousness is the protracted dispute over the Greater sage grouse (Centrocercus urophasianus).
+
+Extinctions and species at risk
+Critics of the Act have noted that despite its goal of recovering species so they are no longer listed, this has rarely happened. In its almost 50-year history, less than fifty species have been delisted due to recovery.[103] Indeed, since the passage of the ESA, several species that were listed have gone extinct. Many more that are still listed are at risk of extinction.  This is true despite conservation measures mandated by the Act. As of January 2020 the Services indicate that eleven species have been lost to extinction. These extinct species are the Caribbean monk seal, the Santa Barbara song sparrow; the Dusky seaside sparrow; the Longjaw cisco; the Tecopa pupfish; the Guam broadbill;  the Eastern puma; and the Blue pike.
+
+The National Marine Fisheries Service lists eight species among the most at risk of extinction in the near future. These species are the Atlantic salmon; the Central California Coast coho; the Cook Inlet beluga whale; the Hawaaian monk seal; the Pacific leatherback sea turtle; the Sacramento River winter-run chinook salmon; the Southern resident killer whale; and last, the White abalone. Threats from human activities are the primary cause for most being threatened. The Services have also changed a species’ status from threatened to endangered on nine occasions. Such a move indicates that the species is closer to extinction. However, the number of status changes from endangered to threatened is greater than vice versa.[104]
+
+However, defenders of the Act have argued such criticisms are unfounded. For example, many listed species are recovering at the rate specified by their recovery plan.[105] Research shows that the vast majority of listed species are still extant[106] and hundreds are on the path to recovery.[107]
+
+Species awaiting listing
+A 2019 report found that FWS faces a backlog of more than 500 species that have been determined to potentially warrant protection. All of these species still await a decision. Decisions to list or defer listing for species are supposed to take 2 years. However, on average it has taken the Fish and Wildlife Service 12 years to finalize a decision.[108] A 2016 analysis found that approximately 50 species may have gone extinct while awaiting a listing decision.[107] More funding might let the Services direct more resources towards biological assessments of these species and determine if they merit a listing decision.[109] An additional issue is that species still listed under the Act may already be extinct.  For example, the IUCN Red List declared the Scioto madtom extinct in 2013. It had last been seen alive in 1957.[110] However, FWS still classifies the catfish as endangered.[111]
+
+Misconceptions and misinformation
+Certain misconceptions about the ESA and its tenets have become widespread. These misconceptions have served to increase backlash against the Act.[112] One widely-held opinion is that the protections afforded to listed species curtail economic activity.[113] Legislators have expressed that the ESA has been “weaponized,” particularly against western states, preventing these states from utilizing these lands.[114]
+
+However, given that the standard to prevent jeopardy or adverse modification applies only to federal activities, this claim is often misguided. One analysis looked at 88,290 consultations from 2008 to 2015. The analysis found that not a single project was stopped as a result of potential adverse modification or jeopardy.[115]
+
+Another misguided belief is that critical habitat designation is akin to establishment of a wilderness area or wildlife refuge. As such, many believe that the designation closes the area to most human uses.[116] In actuality, a critical habitat designation solely affects federal agencies. It serves to alert these agencies that their responsibilities under section 7 are applicable in the critical habitat area. Designation of critical habitat does not affect land ownership; allow the government to take or manage private property; establish a refuge, reserve, preserve, or other conservation area; or allow government access to private land.[117]

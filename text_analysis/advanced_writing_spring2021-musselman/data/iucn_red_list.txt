@@ -1,0 +1,106 @@
+The International Union for Conservation of Nature (IUCN) Red List of Threatened Species (also known as the IUCN Red List or Red Data Book), founded in 1964, is the world's most comprehensive inventory of the global conservation status of biological species. It uses a set of criteria to evaluate the extinction risk of thousands of species and subspecies. These criteria are relevant to all species and all regions of the world. With its strong scientific base, the IUCN Red List is recognized as the most authoritative guide to the status of biological diversity. A series of Regional Red Lists are produced by countries or organizations, which assess the risk of extinction to species within a political management unit.
+
+The IUCN Red List is set upon precise criteria to evaluate the extinction risk of thousands of species and subspecies. These criteria are relevant to all species and all regions of the world. The aim is to convey the urgency of conservation issues to the public and policy makers, as well as help the international community to try to reduce species extinction. According to IUCN the formally stated goals of the Red List are to provide scientifically based information on the status of species and subspecies at a global level, to draw attention to the magnitude and importance of threatened biodiversity, to influence national and international policy and decision-making, and to provide information to guide actions to conserve biological diversity.[1]
+
+Major species assessors include BirdLife International, the Institute of Zoology (the research division of the Zoological Society of London), the World Conservation Monitoring Centre, and many Specialist Groups within the IUCN Species Survival Commission (SSC). Collectively, assessments by these organizations and groups account for nearly half the species on the Red List.
+
+The IUCN aims to have the category of every species re-evaluated at least every ten years, or every five years if possible. This is done in a peer reviewed manner through IUCN Species Survival Commission Specialist Groups, which are Red List Authorities responsible for a species, group of species or specific geographic area, or in the case of BirdLife International, an entire class (Aves).[2]
+
+The number of species which have been assessed for the Red List has been increasing over time.[3] As of 2019, of 105,000 species surveyed, 28,338 are considered at risk of extinction because of human activity, in particular overfishing, hunting and land development.[4] History
+
+The percentage of species in several groups which are listed as   critically endangered,   endangered, or   vulnerable on the 2007 IUCN Red List.
+1964 Red List of Threatened Plants
+The 1964 IUCN Red List of Threatened Plants used the older pre-criteria Red List assessment system. Plants listed may not, therefore, appear in the current Red List. IUCN advise that it is best to check both the online Red List and the 1997 plants Red List publication.[5]
+
+2006 release
+The 2006 Red List, released on 4 May 2006 evaluated 40,168 species as a whole, plus an additional 2,160 subspecies, varieties, aquatic stocks, and subpopulations.
+
+2007 release
+On 12 September 2007, the World Conservation Union (IUCN) released the 2007 IUCN Red List of Threatened Species. In this release, they have raised their classification of both the western lowland gorilla (Gorilla gorilla gorilla) and the Cross River gorilla (Gorilla gorilla diehli) from endangered to critically endangered, which is the last category before extinct in the wild, due to Ebola virus and poaching, along with other factors. Russ Mittermeier, chief of Swiss-based IUCN's Primate Specialist Group, stated that 16,306 species are endangered with extinction, 188 more than in 2006 (total of 41,415 species on the Red List). The Red List includes the Sumatran orangutan (Pongo abelii) in the Critically Endangered category and the Bornean orangutan (Pongo pygmaeus) in the Endangered category.[6]
+
+2008 release
+The 2008 Red List was released on 6 October 2008 at the IUCN World Conservation Congress in Barcelona and "confirmed an extinction crisis, with almost one in four [mammals] at risk of disappearing forever". The study shows at least 1,141 of the 5,487 mammals on Earth are known to be threatened with extinction, and 836 are listed as Data Deficient.[7]
+
+2012 release
+The Red List of 2012 was released 19 July 2012 at Rio+20 Earth Summit;[8] nearly 2,000 species were added,[9] with 4 species to the extinct list, 2 to the rediscovered list.[10] The IUCN assessed a total of 63,837 species which revealed 19,817 are threatened with extinction.[11] 3,947 were described as "critically endangered" and 5,766 as "endangered", while more than 10,000 species are listed as "vulnerable".[12] At threat are 41% of amphibian species, 33% of reef-building corals, 30% of conifers, 25% of mammals, and 13% of birds.[11] The IUCN Red List has listed 132 species of plants and animals from India as "Critically Endangered".[13]
+
+Categories
+Conservation status
+by IUCN Red List category
+Bufo periglenes, the Golden Toad, was last recorded on May 15, 1989
+Extinct
+Extinct (EX)
+Extinct in the Wild (EW)
+(list)
+(list)
+Threatened
+Critically Endangered (CR)
+Endangered (EN)
+Vulnerable (VU)
+(list)
+(list)
+(list)
+Lower Risk
+Near Threatened (NT)
+Conservation Dependent (CD)
+Least Concern (LC)
+(list)
+(list)
+Other categories
+Data Deficient (DD)
+Not Evaluated (NE)
+(list)
+Related topics
+International Union for the
+Conservation of Nature (IUCN)
+IUCN Red List
+NatureServe status
+Lists of organisms by population
+IUCN Red List category abbreviations (version 3.1, 2001)
+Comparison of Red list classes above
+and NatureServe status below
+NatureServe category abbreviations
+vte
+Species are classified by the IUCN Red List into nine groups,[14] specified through criteria such as rate of decline, population size, area of geographic distribution, and degree of population and distribution fragmentation. There is an emphasis on the acceptability of applying any criteria in the absence of high quality data including suspicion and potential future threats, "so long as these can reasonably be supported".:6[15]
+
+Extinct (EX) – beyond reasonable doubt that the species is no longer extant.
+Extinct in the wild (EW) – survives only in captivity, cultivation and/or outside native range, as presumed after exhaustive surveys.
+Critically endangered (CR) – in a particularly and extremely critical state.
+Endangered (EN) – very high risk of extinction in the wild, meets any of criteria A to E for Endangered.
+Vulnerable (VU) – meets one of the 5 red list criteria and thus considered to be at high risk of unnatural (human-caused) extinction without further human intervention.
+Near threatened (NT) – close to being at high risk of extinction in the near future.
+Least concern (LC) – unlikely to become extinct in the near future.
+Data deficient (DD)
+Not evaluated (NE)
+In the IUCN Red List, "threatened" embraces the categories of Critically Endangered, Endangered, and Vulnerable.
+
+1994 categories and 2001 framework
+The older 1994 list has only a single "Lower Risk" category which contained three subcategories:
+
+Conservation Dependent (LR/cd)
+Near Threatened (LR/nt)
+Least Concern (LR/lc)
+In the 2001 framework, Near Threatened and Least Concern became their own categories, while Conservation Dependent was removed and its contents merged into Near Threatened.
+
+Possibly extinct
+The tag of "possibly extinct" (PE)[16] is used by Birdlife International, the Red List Authority for birds for the IUCN Red List.[17] BirdLife International has recommended PE become an official tag for Critically Endangered species, and this has now been adopted, along with a "Possibly Extinct in the Wild" tag for species with populations surviving in captivity but likely to be extinct in the wild (e.g. Spix's macaw).
+
+Versions
+
+Comparing the number of species in each category of IUCN Red List.
+There have been a number of versions, dating from 1991, including:[18][19]
+
+Version 1.0 (1991)
+Version 2.0 (1992)
+Version 2.1 (1993)
+Version 2.2 (1994)
+Version 2.3 (1994)
+Version 3.0 (1999)
+Version 3.1 (2001)
+Version 4 (2015)
+Criticism
+Icons for Red List categories
+1994 IUCN Red List categories (version 2.3), used for species which have not been reassessed since 2001.
+In 1997, the IUCN Red List received criticism on the grounds of secrecy (or at least poor documentation) surrounding the sources of its data.[20] These allegations have led to efforts by the IUCN to improve its documentation and data quality, and to include peer reviews of taxa on the Red List. The list is also open to petitions against its classifications, on the basis of documentation or criteria.[21]
+
+It has been suggested that the IUCN Red List and similar works are prone to misuse by governments and other groups that draw possibly inappropriate conclusions on the state of the environment or to affect exploitation of natural resources.[22]

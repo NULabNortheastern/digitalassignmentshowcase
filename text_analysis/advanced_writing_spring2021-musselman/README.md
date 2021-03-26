@@ -25,7 +25,7 @@ This module goes over computational text analysis for a corpus of texts, specifi
 
 [**Handouts**](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/text_analysis/advanced_writing_spring2021-musselman/handouts)
 
-[**Slides**]
+[**Slides**](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/0c796af39359dd9a91da92fef255338153d15de6/text_analysis/advanced_writing_spring2021-musselman/slides)
 
 [**Stopwords**](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/advanced_writing_spring2021-musselman/stopwords.txt)
 

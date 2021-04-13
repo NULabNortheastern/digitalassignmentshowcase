@@ -19,7 +19,7 @@ This module will introduce the structures, rhetoric, and strategies commonly use
 
 ## Documents for Module
 
-### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/history_information-spring2021-cain/Slides.pdf)
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/advanced_writing-spring2021-vestri/Slides.pdf)
 
 
 ## DITI Consultants

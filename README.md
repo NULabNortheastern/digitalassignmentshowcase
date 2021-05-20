@@ -1,4 +1,4 @@
-﻿# Digital Assignment Showcase
+# Digital Assignment Showcase
 
 The goal of the Digital Integration Teaching Initiative (DITI) is to integrate methods into courses in a way that mirrors the themes of the course and can enhance digital literacies.  All of the work put into each module or workshop is posted here, including copies of the slides, handouts, examples and activities used in each class.
 
@@ -32,4 +32,5 @@ Scroll up to the folders for a comprehensive list of modules, grouped by digital
 If you are a Northeastern faculty member interested in working with the Digital Teaching Integration team, please reach out to us via email: nulab.info@gmail.com.
 
 # Contributors
-These resources and materials have been created by Sarah Connell, Cara Marta Messina, Laura Nelson, Alexis Yohros, Molly Nebiolo, Garrett Morrow, Laura Johnson, Jeffrey Sternberg, Colleen Nugent, Jonathan Sullivan, Claire Tratnyek, Tieanna Graphenreed, Caroline Grand, Talia Brenner, Adam Tomasi, Vaishali Kushwaha, Julianna Wessels, Milan Skobic, and Yana Mommadova. 
+These resources and materials have been created by Sarah Connell, Cara Marta Messina, Laura Nelson, Alexis Yohros, Molly Nebiolo, Garrett Morrow, Laura Johnson, Jeffrey Sternberg, Colleen Nugent, Jonathan Sullivan, Claire Tratnyek, Tieanna Graphenreed, Caroline Grand, Talia Brenner, Adam Tomasi, Vaishali Kushwaha, Julianna Wessels, Milan Skobic, and Mommadova Yana. 
+

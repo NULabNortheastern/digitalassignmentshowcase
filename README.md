@@ -26,15 +26,11 @@ If you are interested in modules about...
 Scroll up to the folders for a comprehensive list of modules, grouped by digital tool or skill. 
 <br>
 
-# Fall 2020 Office Hours
-The DITI office hours will be held <strong>Tuesdays 3 to 4 pm; Thursdays 12 to 1 pm and Thursdays 3 to 4 pm; virtually by appointment</strong>. Students learning new tools such as NVivo, R, Python, and text analysis tools are welcome to drop in. Instructors are also welcome to drop by and ask questions.
 
 # Contact Information
 
-If you are a Northeastern faculty member interested in working with the Digital Teaching Integration team, please reach out to us via email:
+If you are a Northeastern faculty member interested in working with the Digital Teaching Integration team, please reach out to us via email: nulab.info@gmail.com.
 
-- Sarah Connell, Digital Integration Teaching Initiative Co-Director. connell.sa@northeastern.edu
-- Laura Nelson, Digital Integration Teaching Initiative Co-Director. nelson.l@northeastern.edu
 - Caroline Grand, DITI Research Fellow. grand.c@northeastern.edu
 - Talia Brenner, DITI Research Assistant. brenner.t@northeastern.edu
 - Adam Tomasi, DITI Research Fellow. tomasi.a@northeastern.edu

@@ -31,12 +31,5 @@ Scroll up to the folders for a comprehensive list of modules, grouped by digital
 
 If you are a Northeastern faculty member interested in working with the Digital Teaching Integration team, please reach out to us via email: nulab.info@gmail.com.
 
-- Caroline Grand, DITI Research Fellow. grand.c@northeastern.edu
-- Talia Brenner, DITI Research Assistant. brenner.t@northeastern.edu
-- Adam Tomasi, DITI Research Fellow. tomasi.a@northeastern.edu
-- Kushwaha Vaishali, DITI Research Fellow. v.kushwaha@northeastern.edu
-- Julianna Wessels, DITI Research Fellow. wessels.j@northeastern.edu
-- Milan Skobic, DITI Research Fellow. skobic.m@northeastern.edu
-
 # Contributors
-These resources and materials have been created by Sarah Connell, Cara Marta Messina, Laura Nelson, Alexis Yohros, Molly Nebiolo, Garrett Morrow, Laura Johnson, and Jeffrey Sternberg. 
+These resources and materials have been created by Sarah Connell, Cara Marta Messina, Laura Nelson, Alexis Yohros, Molly Nebiolo, Garrett Morrow, Laura Johnson, Jeffrey Sternberg, Colleen Nugent, Jonathan Sullivan, Caroline Grand, Talia Brenner, Adam Tomasi, Vaishali Kushwaha, Julianna Wessels, and Milan Skobic. 

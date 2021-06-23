@@ -28,9 +28,10 @@ Understanding how to consider accessibility in designing presentations
 
 ## Materials for Module
 
-PowerPoint Handout
+### [PowerPoint Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/0812f3a552c16b793c12b1dde6e664ece502e31a/presentation/germany_today_summer2021-fuchs/Handout_PowerPoint_diti-summer2021-fuchs.pdf)
 
-PowerPoint Slides
+### [PowerPoint Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/0812f3a552c16b793c12b1dde6e664ece502e31a/presentation/germany_today_summer2021-fuchs/Slides_PowerPoint_diti-summer2021-fuchs.pdf)
+
 
 ## DITI Consultants 
 

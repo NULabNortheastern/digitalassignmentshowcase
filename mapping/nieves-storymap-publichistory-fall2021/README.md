@@ -2,7 +2,7 @@
 
 <h2> Individual Class Info </h2>
 
-HIST 5237: Issues and Methos in Public History
+HIST 5237: Issues and Methods in Public History
 
 Angel David Nieves 
 

@@ -32,11 +32,11 @@ This module will go over components of storytelling and how these components may
 
 [KnightLab StoryMap Presentation Slides]()
 
-[Handout: KnightLab StoryMap]()
+[Handout: KnightLab StoryMap](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/avery-miller-firstyearwriting-fall2021-storymap/StoryMap%20Handout.pdf) 
 
-[Handout: Spreadsheet Template User Guide]()
+[Handout: Spreadsheet Template User Guide](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/avery-miller-firstyearwriting-fall2021-storymap/Handout_Storymap-Spreadsheet-Template.pdf) 
 
-[Handout: Copyright and Fair Use]()
+[Handout: Copyright and Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/avery-miller-firstyearwriting-fall2021-storymap/Copyright-fair-use-handout.pdf)
 
 [Spreadsheet Template](https://docs.google.com/spreadsheets/d/1bGPGdqDG_N42nPODBgWL718iv-711S36IhmkfvL1wmo/edit#gid=0)
 

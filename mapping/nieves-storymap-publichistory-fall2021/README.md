@@ -2,11 +2,11 @@
 
 <h2> Individual Class Info </h2>
 
-ENGW 111: First Year Writing
+HIST 5237: Issues and Methods in Public History
 
-Emily Avery-Miller
+Angel David Nieves
 
-October 19, 9:50 AM-10:50 AM
+October 4, 5:00 PM-6:15 PM
 
 Fall 2021
 
@@ -30,15 +30,15 @@ This module will go over components of storytelling and how these components may
 
 <h2> Materials for Module </h2>
 
-[KnightLab StoryMap Presentation Slides]()
+[KnightLab StoryMap Presentation Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/nieves-storymap-publichistory-fall2021/Intro-to-StoryMap-Slides.pdf)  
 
-[Handout: KnightLab StoryMap](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/avery-miller-firstyearwriting-fall2021-storymap/StoryMap%20Handout.pdf) 
+[Handout: KnightLab StoryMap](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/nieves-storymap-publichistory-fall2021/StoryMap%20Handout.pdf) 
 
-[Handout: Spreadsheet Template User Guide](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/avery-miller-firstyearwriting-fall2021-storymap/Handout_Storymap-Spreadsheet-Template.pdf) 
+[Handout: Spreadsheet Template User Guide](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/nieves-storymap-publichistory-fall2021/Handout_Storymap-Spreadsheet-Template.pdf) 
 
-[Handout: Copyright and Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/avery-miller-firstyearwriting-fall2021-storymap/Copyright-fair-use-handout.pdf)
+[Handout: Copyright and Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/nieves-storymap-publichistory-fall2021/Copyright-fair-use-handout.pdf) 
 
-[Spreadsheet Template](https://docs.google.com/spreadsheets/d/1bGPGdqDG_N42nPODBgWL718iv-711S36IhmkfvL1wmo/edit#gid=0)
+[Spreadsheet Template](https://docs.google.com/spreadsheets/d/1eJrqp30nJp__-l1V4tiRICiL4PLm40Esmg0WvcDAFII/edit#gid=0) 
 
 DITI's [Intro to StoryMap Video](https://youtu.be/X33ud7RYZFg)
 
@@ -46,4 +46,4 @@ DITI's [Intro to StoryMap Video](https://youtu.be/X33ud7RYZFg)
 
 Colleen Nugent
 
-Yana Mommadova
+Tieanna Graphenreed 

@@ -1,4 +1,4 @@
-<h1> Introducction to KnightLab StoryMap </h1>
+<h1> Introduction to KnightLab StoryMap </h1>
 
 <h2> Individual Class Info </h2>
 

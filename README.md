@@ -1,46 +1,60 @@
-# Introduction to Excel for Statistics
-This module will introduce students to Excel for statistical analysis.
+# Introduction to KnightLab StoryMaps
+This module will introduce students to go over components of storytelling and how these components may be integrated in maps.
 
 ## Individual Class Info
-ECON 1291 Development Economics
+HUSV 2401: Food Justice & Community Development
 <br>
-Silvia Prina
+Becca Berkey
 <br>
 Fall 2021
 <br>
-
+Sep. 20, 11:45 AM
+<br>
 
 ## Summary of Module
-This module is an introduction to using Excel, including basic terminology, navigating the software, basic functions, and forms of data analysis like pivot tables and charts. This module also introduces some more advanced techniques, like creating a regression model using Excel’s LINEST function.
+This workshop will teach students how to use Knight Lab’s StoryMaps web-browser application by providing step-by-step instructions, a sample map, and sample data for students to use to practice building their own maps.
+<br> 
+<br>
 
 ## Learning Goals
-- Understand the basic terminology and anatomy of Excel
-- Learn how to use basic Excel functions, such as =ADD and =SUM
-- Understand how data can be analyzed using pivot tables and charts
-- Learn more advanced calculations like regression models
+Understand components for compelling storytelling
+<br> 
+Understanding the particular choices made when building a map
+<br>
+Understanding how to collect data for mapping
+<br>
+Understanding KnightLab StoryMap’s interface and where it gathers its information
+<br>
+<br>
+
+
 
 ## Learning Objectives
-- Use several different functions on a sample data structure
-- Create charts, pivot tables, and model calculations in Excel
+<br> 
+Articulate particular choices made when telling a story using a map
+<br>
+Follow a step-by-step guide for creating, saving, and publishing maps using KnightLab StoryMaps
+<br>
+Implement data into KnightLab StoryMaps, including location information, images, and text
+<br>
+Navigate StoryMaps’ map markers and location-finding system
+Materials for Module
 
-## Documents for Module
 
-### Handouts
 
-[Installing Excel and Using Northeastern University's License](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_excel/development_economics-fall2020-prina/handout-install_excel.pdf)
+## DITI’s Intro to StoryMap video
+ https://youtu.be/X33ud7RYZFg 
+
+
+## Materials for Module
+
+
+[Module handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_excel/development_economics-fall2020-prina/handout-install_excel.pdf)
 <br/>
-[Excel basics](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_excel/development_economics-fall2021-prina/handout.pdf)
+[Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_excel/development_economics-fall2021-prina/handout.pdf)
 <br/>
-[Problem set](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_excel/development_economics-fall2021-prina/ECON1291_2020-excel_training.pdf)
 
-### Presentation Materials
 
-[Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_excel/development_economics-fall2021-prina/prina-fall2021-slides.pdf)
-
-### Data
-This Excel data has been provided by Silvia Prina specifically to have students practice using Excel
-<br/>
-[Excel Data](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_excel/development_economics-fall2021-prina/ECON1291exceltutoring.xlsx)
 
 ## DITI Consultants
-Created by Cara Marta Messina and Garrett Morrow
+Yana Mommadova and Claire Tratnyek 

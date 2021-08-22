@@ -49,9 +49,9 @@ Materials for Module
 ## Materials for Module
 
 
-[Module handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_excel/development_economics-fall2020-prina/handout-install_excel.pdf)
+[Module handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/food_justice_fall2021_berkey/Handout_Storymap-Spreadsheet-Template.pdf)
 <br/>
-[Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_excel/development_economics-fall2021-prina/handout.pdf)
+[Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/food_justice_fall2021_berkey/StoryMap_slides.pdf)
 <br/>
 
 

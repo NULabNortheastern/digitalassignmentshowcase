@@ -1,5 +1,5 @@
 # Introduction to KnightLab StoryMaps
-This module will introduce students to go over components of storytelling and how these components may be integrated in maps.
+This module will go over components of storytelling and how these components may be integrated in maps.
 
 ## Individual Class Info
 HUSV 2401: Food Justice & Community Development

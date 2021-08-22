@@ -2,14 +2,22 @@
 This module will introduce students to go over components of storytelling and how these components may be integrated in maps.
 
 ## Individual Class Info
-HUSV 2401: Food Justice & Community Development
+World Languages Center
 <br>
-Becca Berkey
+Carolin Fuchs and Ruth Sondermann
 <br>
 Fall 2021
 <br>
-Sep. 20, 11:45 AM
+10/27/2021 8:35 AM
 <br>
+11/1/2021 11:05 AM
+<br>
+11/8/2021 8:35 AM
+<br>
+11/15/2021 11:05 AM
+<br>
+
+
 
 ## Summary of Module
 This workshop will teach students how to use Knight Lab’s StoryMaps web-browser application by providing step-by-step instructions, a sample map, and sample data for students to use to practice building their own maps.
@@ -49,12 +57,12 @@ Materials for Module
 ## Materials for Module
 
 
-[Module handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_excel/development_economics-fall2020-prina/handout-install_excel.pdf)
+[Module handout](insert link here)
 <br/>
-[Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_excel/development_economics-fall2021-prina/handout.pdf)
+[Slides](insert pdf link here)
 <br/>
 
 
 
 ## DITI Consultants
-Yana Mommadova and Claire Tratnyek 
+Yana Mommadova  

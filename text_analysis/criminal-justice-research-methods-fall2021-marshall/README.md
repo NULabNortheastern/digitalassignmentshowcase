@@ -29,6 +29,7 @@ Qualitative Coding with NVivo
 
 ### Handouts
 [NVivo Installation Document](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/criminal-justice-research-methods-fall2021-marshall/handout-installingNVivo.pdf)
+<br>
 [Intro to NVivo for Qualitative Coding](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/criminal-justice-research-methods-fall2021-marshall/handout-NVivo.pdf)
 
 ## DITI Consultants

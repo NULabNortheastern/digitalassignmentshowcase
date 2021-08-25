@@ -8,6 +8,7 @@ PPUA 5264 Energy Democracy and Climate Resilience
 
 Jennie Stephens
 
+
 October 4th, 3:45pm and October 18th, 4:30pm 
 
 <h2>Summary of Module</h2>
@@ -45,4 +46,3 @@ Tieanna Graphenreed
 Colleen Nugent
 
 Vaishali Kushwaha
-

@@ -25,10 +25,12 @@ Qualitative Coding with NVivo
 
 ## Documents for Module
 
-### [Slides](here)
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/criminal-justice-research-methods-fall2021-marshall/nvivo-slides-fall2021-marshall.pdf)
 
 ### Handouts
-[Intro to NVivo for Qualitative Coding](here)
+[NVivo Installation Document](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/criminal-justice-research-methods-fall2021-marshall/handout-installingNVivo.pdf)
+<br>
+[Intro to NVivo for Qualitative Coding](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/criminal-justice-research-methods-fall2021-marshall/handout-NVivo.pdf)
 
 ## DITI Consultants
 Created by Garret Morrow and Cara Marta Messina

@@ -1,60 +1,35 @@
-# Introduction to KnightLab StoryMaps
-This module will introduce students to go over components of storytelling and how these components may be integrated in maps.
+# Qualitative Coding with NVivo
 
 ## Individual Class Info
-HUSV 2401: Food Justice & Community Development
+Criminal Justice Research Methods
 <br>
-Becca Berkey
+Ineke Marshall
 <br>
 Fall 2021
 <br>
-Sep. 20, 11:45 AM
-<br>
+
 
 ## Summary of Module
-This workshop will teach students how to use Knight Lab’s StoryMaps web-browser application by providing step-by-step instructions, a sample map, and sample data for students to use to practice building their own maps.
-<br> 
-<br>
+This module will go over the basics of how to install NVivo and use the software as a qualitative text analysis research tool. Students will be introduced to the basic concepts of NVivo and then taught how to import documents, and create nodes and basic analytical visualizations and queries.
 
 ## Learning Goals
-Understand components for compelling storytelling
-<br> 
-Understanding the particular choices made when building a map
-<br>
-Understanding how to collect data for mapping
-<br>
-Understanding KnightLab StoryMap’s interface and where it gathers its information
-<br>
-<br>
-
-
+Qualitative Coding with NVivo
+* Define qualitative coding and why it can be useful while doing research
+* Understand what NVivo is as a research tool and what it can do
+* Learn important NVivo-specific vocabulary to aid independent research  
 
 ## Learning Objectives
-<br> 
-Articulate particular choices made when telling a story using a map
-<br>
-Follow a step-by-step guide for creating, saving, and publishing maps using KnightLab StoryMaps
-<br>
-Implement data into KnightLab StoryMaps, including location information, images, and text
-<br>
-Navigate StoryMaps’ map markers and location-finding system
-Materials for Module
+* Create a basic set of nodes using sample transcripts
+* Learn out to import data, create nodes, code data, and see/interpret results of coding
+* Use NVivo to begin creating nodes and coding example material as well as their own material
 
+## Documents for Module
 
+### [Slides](here)
 
-## DITI’s Intro to StoryMap video
- https://youtu.be/X33ud7RYZFg 
-
-
-## Materials for Module
-
-
-[Module handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/food_justice_fall2021_berkey/Handout_Storymap-Spreadsheet-Template.pdf)
-<br/>
-[Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/food_justice_fall2021_berkey/StoryMap_slides.pdf)
-<br/>
-
-
+### Handouts
+[Intro to NVivo for Qualitative Coding](here)
 
 ## DITI Consultants
-Yana Mommadova and Claire Tratnyek 
+Created by Garret Morrow and Cara Marta Messina
+

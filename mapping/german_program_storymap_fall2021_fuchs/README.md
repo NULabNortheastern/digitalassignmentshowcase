@@ -4,9 +4,11 @@ This module will introduce students to go over components of storytelling and ho
 ## Individual Class Info
 World Languages Center
 <br>
-Carolin Fuchs and Ruth Sondermann
+Modules developped for Carolin Fuchs and Ruth Sondermann
 <br>
 Fall 2021
+<br>
+Meeting times:
 <br>
 10/27/2021 8:35 AM
 <br>
@@ -57,11 +59,12 @@ Materials for Module
 ## Materials for Module
 
 
-[Module handout](insert link here)
+[Module handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/german_program_storymap_fall2021_fuchs/Handout_Storymap-Spreadsheet-Template.pdf)
 <br/>
-[Slides](insert pdf link here)
+[Slides 1](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/german_program_storymap_fall2021_fuchs/Slides_Class1.pdf)
 <br/>
-
+[Slides 2](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/german_program_storymap_fall2021_fuchs/Slides_Class2.pdf)
+<br/>
 
 
 ## DITI Consultants

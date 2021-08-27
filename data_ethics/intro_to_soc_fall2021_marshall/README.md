@@ -6,11 +6,7 @@ SOCL 1101 Introduction to Sociology
 <br>
 Ineke Marshall
 <br>
-Fall 2020
-<br>
-Number of students: 69
-<br>
-Date and Time: September 17, 10:30–11:35
+Fall 2021
 <br>
 Location: Remote
 <br>
@@ -31,10 +27,10 @@ This module will introduce what “big data” is and cover the ethical question
 
 ## Documents for Module
 
-### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_ethics/intro_to_soc-fall2020-marshall/slides.pdf)
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_ethics/intro_to_soc_fall2021_marshall/intro%20to%20soc%20fall%202021%20pr%20marshall%20de%20slides.pptx.pdf)
 
-### ["Adopt or Not?" Activity Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_ethics/intro_to_soc-fall2020-marshall/Adopt%20or%20Not%20Handout.pdf)
+### ["Adopt or Not?" Activity Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_ethics/intro_to_soc_fall2021_marshall/intro%20to%20soc%20fall21%20pr%20marshall%20DE%20Adopt%20or%20Not_%20Handout.docx-2.pdf)
 
 ## DTI Consultants
 Created by Cara Marta Messina
-Taught by Milan Skobic
+

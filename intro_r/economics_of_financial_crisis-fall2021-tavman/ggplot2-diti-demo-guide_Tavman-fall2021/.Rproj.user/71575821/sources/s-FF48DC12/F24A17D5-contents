@@ -1,0 +1,232 @@
+---
+title: "ggplot2-demo-tavman"
+author: "Tieanna Graphenreed and Colleen Nugent"
+date: "8/7/2021"
+output: html_document
+---
+
+# Introduction to ggplot2
+
+This document is an introduction to the basics of ggplot2. It contains an overview of ggplot2 as a data visualization package in RStudio, an introduction to the types of graphs that ggplot2 can generate, the basics of using the `ggplot()` function for data visualization, and instructions for making two types of graphs in RStudio: a line graph and a scatter plot. There is also a glossary of the terms covered in this tutorial at the end of the document.
+
+## ggplot2 and `ggplot()` for data visualization
+*ggplot2* is an open-source data visualization package meant for use with the programming language R. It is a system for creating graphics, based on the *The Grammar of Graphics*.  
+
+`ggplot()` is the specific *function* used to turn data into compelling and persuasive visualizations. The `ggplot()` function provides the environment for how variables are mapped to aesthetics, specific graph types, style, and other details. 
+
+## Installing ggplot2
+
+The ggplot2 package is free to download and install on personal computers. 
+
+If you don't already have ggplot2, use the following code to install the package:
+
+```{r}
+install.packages("ggplot2")
+```
+
+Don't forget to load the package to ensure that ggplot2 is active in your current working session. You can do this with the `library()` function. Run the code below to load the ggplot2 package.
+
+```{r}
+library(ggplot2)
+```  
+
+Please note: you must load the ggplot2 package using the `library()` function every time you reopen RStudio. 
+
+Now you're all set to start experimenting with data visualizations using ggplot2. 
+
+# Using the `ggplot()` function
+When you want to visualize data using ggplot2, you will typically start with `ggplot()`, supply a data set, and supply an *aesthetic mapping* with `aes()`. Then, you will choose a *`geom()` layer* (i.e., graph/chart type). 
+
+Aesthetic mappings describe how variables in a data set are mapped to visual properties (or, aesthetics) of the geom. You can set the aesthetic mapping within the `ggplot()` function and within individual layers.   
+
+There are several `geom()` layers to choose from using ggplot2. Here are a few you might use in Economics-related research: 
+
+`geom_bar()`: bar charts
+`geom_histogram()`: histograms
+`geom_point()`: point plot/scatter plots
+`geom_line()`: line graphs
+
+For a much more comprehensive list of graph and chart types available using ggplot2, see the overview by Hadley Wickham et al. here: https://ggplot2.tidyverse.org/reference/. 
+
+## Setting up a `ggplot()` function
+The first step to create a graph using ggplot2 is defining a ggplot "object," or data source. To do this, you will use the `ggplot()` function and include an argument specifying the data source for the graph. 
+
+The data source you will use for this workshop is the trial-dataset.csv file located in the data folder within the project folder you were provided for this exercise. This data set was sourced from the Organization for Economic Co-operation and Development (OECD), and includes the gross domestic product (GDP) of Canada and Australia from 1970 to 2020. In the data set, Canada is abbreviated as CAN and Australia is AUS. 
+
+*Step 1: Check your working directory.* If you opened this RStudio session by using the project file for this exercise, your working directory should be in the right place. But, it's always good to check, so run the line of code below to confirm that your working directory is the ggplot2-diti_Tavman folder. If you ever need to change your working directory, you can use `setwd()`.
+
+```{r}
+getwd()
+```
+
+*Step 2: Read the data set into your R session.* To make things easier, we'll set up a variable called "data" whose value is the trial-dataset.csv file as we've read it in with the `read.csv()` function. We've supplied the file path you will need to read in the file for this exercise. To use a different file, you can replace the code within the quotation marks. Remember that the file path will be relative to your current working directory, and that you can use tab completion to make it easier to fill in file paths. 
+
+```{r}
+data = read.csv("data/trial-dataset.csv")  
+```
+
+*Step 3: Plot your data with `ggplot()`*
+Now that we have created our "data" variable, we can begin to construct a plot with it. We'll break this down, so that you can see how the pieces fit together. 
+
+The components we will need to generate a plot are: the data object we will be plotting, the fields we are selecting within that object and how these map to axes on the plot, and the type of plot to generate. Let's look at each of these in turn.
+
+**Step 3a: select the data object to be plotted** 
+First, we can set "data" as the source for our plot by running the code below:
+
+```{r}
+ggplot(data,)
+```
+
+The plot should pop up automatically, but if it doesn't, click the Plots tab in the Files pane. As you can see, the plot that has been generated is blank. This is because all we've done so far is tell `ggplot()` which data object to map.
+
+**Step 3b: set the aesthetic mapping** 
+We also need to give the function specific instructions about what information to pull from our data. These instructions come from the *aesthetic mapping*.
+
+In general, you should set your axes and other values based on your chart type. Not all charts require both x and y axes. 
+
+For both line charts and scatter plots, you would assign both an *x axis* and a *y axis*, separated by commas.  
+
+For example, try running this line of code:
+
+```{r}
+ggplot(data, aes(x=TIME, y=Value))
+```
+
+Within the Plots pane, you will see that we now have the basic skeleton for a graph, including axes pulled from our data source. But, the graph itself is empty; this is because we have not yet told ggplot2 what type of graph to use. 
+
+If you want to try plotting different fields, make sure to use the same column names as those in your data set. If even the capitalization is different, `ggplot()` won't pull in the data.
+
+**Step 3c: select the type of plot to generate** 
+We now need to select a geometric object *geom* layer. 
+
+This demo will give you instructions on how to create two different kinds of plots: a line graph created with `geom_line()` and a point plot/scatter plot created with `geom_point()`. We'll show line graphs first so that you can see the full process of creating a plot, and then talk about additional options for customization with scatter plots. 
+
+Using the addition sign (+) add the function `geom_line()` to the `ggplot()` function you just set up:
+
+```{r}
+ggplot(data, aes(x=TIME, y=Value)) + geom_line()
+```
+
+*Comment from Sarah* It looks like the graph is combining AUS and CAN. Is that intentional? I thought we’d decided to have those as two different lines? 
+
+You have now created a basic line graph! There are many ways that this plot might be improved, but hopefully it gives you a sense of how the various components of a plot come together. 
+
+Now, let's look into making a scatter plot and cover more options for customizing the graphs you generate.
+
+## Making a scatter plot and additional customization
+When using ggplot2, the correct geometry for a scatter plot (or "point" plot) is `geom_point()`.
+
+To recap, here's what we've covered so far:
++ *Step 1*: Check the working directory
++ *Step 2*: Read in the data set we want to plot
++ *Step 3*: Plot the data with `ggplot()` by: specifying the data to be plotted, setting the aesthetic mapping, and specifying the type of plot to be generated. 
+
+We don't need to repeat steps 1 and 2, because we are using the same data set and we still have the RStudio Session open. Let's take a look at step 3: constructing the components that we need to plot the data with `ggplot()`.
+
+Scatter plots or "point" plots require both x and y axes. As we did with the line graph, let's set the x axis to x=TIME and the y axis to y=Value. That will make it easier for us to compare what these two kinds of plots make visible.
+
+As a reminder of what a basic plot looks like before you set any specific geometric object, run the code below. 
+
+```{r}
+ggplot(data, aes(x=TIME, y=Value))
+```
+
+With the aesthetic mapping and data object in place, it's time to set the geometric object for a scatter plot. To do so, we will use the function `geom_point()`. 
+
+Using the addition sign (+) add the function `geom_point()` following the `ggplot()` function you just completed. Try running the code below:
+
+```{r}
+ggplot(data, aes(x=TIME, y=Value)) + geom_point()
+```
+
+
+*Customizing your plot: Changing your plot points*
+
+As you see the graph is a mass of black dots, making it difficult to differentiate between AUS and CAN. Let's add additional aesthetic mapping to help differentiate between the two data sets. 
+
+Since we are differentiating between the GDP information based primarily on location (country of origin), let's use the "LOCATION" column to change the appearance of the plot points. We can use color= and shape= arguments to make this change. 
+
+*Comment from Sarah*: Just making sure that the = is part of the standard way that arguments are notated for ggplot. I haven't seen this before, so wanted to check!
+
+Try running this line of code:
+
+```{r}
+ggplot(data, aes(x=TIME, y=Value, color=LOCATION, shape=LOCATION)) + geom_point() 
+```
+
+You should now see a legend on your plot as well as newly changed icons differentiating between AUS and CAN. 
+
+*Comment from Sarah:* Here, I am imagining students would want to know how they would tweak the defaults (e.g., pick different colors or shapes). We might not need to include any sample code, but it would be helpful to include a quick note on how these can be adjusted. 
+
+*Customizing your plot: Adding additional geom layers to scatter plots*
+
+For any plot type in ggplot2, you can add additional geometric objects to your final graph based on the information you need to represent. A common example of this is when scatter plots are paired with line graphs to show data correlation. 
+
+You can add a regression line to your scatter plot by adding the function `geom_smooth()`. You can use the method= argument to the set model type and the se= argument to set the confidence interval. For this exercise, we can set the method to the linear model for a straight line. Try running the following code with and without the confidence interval argument "se=". 
+
+```{r}
+ggplot(data, aes(x=TIME, y=Value, color=LOCATION, shape=LOCATION)) + geom_point() + geom_smooth(method = lm, se=FALSE)
+```
+
+*Customizing your plot: themes and labels*
+
+Additional design choices like themes and labels will affect the appearance of your chart for viewers, as well as their understanding of the material. For example, you might choose to add a label that tells viewers about the content of the plot. This helps eliminate ambiguity about the subject matter of your data visualization.
+
+You can add labels to any graph. However, the axes available for labels vary according to the plot type; in particular, the y axis label may not be applicable for all visualizations. The labels available to be changed are: the x axis (x="x label"), the y axis (y="y label"), the title (title="title"), the subtitle (subtitle="subtitle"), and the caption (caption="caption"). 
+
+To add or change a label you use the scale function: `labs()`. Typically, this will fall between the `ggplot()` function and the `geom_line()` or `geom_point()` function. 
+
+Here’s an example of how that code might look: 
+
+*Comment from Sarah:* 
+This code also includes some additional customization for geom_point that's not discussed. Is that deliberate? The resulting chart looks fairly difficult to read, for me at least. Also, this section's header mentioned themes but the only thing discussed here seems to be labels. 
+
+```{r}
+ggplot(data, aes(x=TIME, y=Value, color=LOCATION, shape=LOCATION)) + labs(x="Year", y="Gross Domestic Product")  + geom_point(size=5,shape=23, color="red" ) + geom_smooth(method = lm, se=FALSE) 
+```
+
+# Conclusions 
+
+ggplot2 allows for a variety of visualizations. RStudio provides documentation about packages (including ggplot2) in the "Packages" tab, which can be used to further explore the possibilities of ggplot2.
+
+Here are two last tips to keep in mind as you continue working within R and with ggplot2: 
+
+*Clean your data.* Good data visuals start from well organized data (usually in tabular format). Be sure to choose clear, concise names for your columns that are friendly for exportation and easy to remember.
+
+*Make an accessibility-forward design.* Consider how font sizes, typeface, color choice, and other design elements might impact your user. Check your handout for resources from Towards Data Science: https://towardsdatascience.com/data-visualization-and-accessibility-three-recommended-reads-and-top-tips-9c5e862b464e. 
+
+Remember that visualizations do not themselves prove an argument, but they can be compelling accompaniments to an argument. 
+
+## Key concepts and terminology
+
+As a programming language, R has a set syntax and grammar. Like any new language, it is important to familiarize yourself with key vocabulary.
+
++ *Argument*:  the inputs provided to functions. Functions can have multiple arguments, or none at all.
++ *Aesthetics*: descriptions of how variables are mapped to visual properties or, "aesthetics"; uses `aes()` function. Used to dictate the appearance of a geom by connecting a data source with the information displayed on a graph. This is one of the functions used most when graphing with ggplot2. 
++ *Aesthetic Mapping*: a set of aesthetic mappings. Usually a sequence of aesthetic-variable pairs. 
++ *Console*: the pane in RStudio that displays the code being run by R.
++ *Coordinates*: a system that determines how different x and y elements combine to position elements on the graph/plot. 
++ *Data Frame*: data frames are the R version of tabular data, like CSVs or TSVs, that can contain numerical and textual data, and be created and edited by code.
++ *Environment*: a coding environment is the context in which code is being run or executed, meaning all of the variables and working directory for a machine—whether it is local or on a server.
++ *Facet*: an alternative way to set aesthetics and display variables. 
++ *Function*: functions in R are code that performs a specific task.
++ *Geom*: the function used to select the type of geometric object for data visualization. Geoms will always have aesthetics as parameters to control how the visualization is displayed. ggplot2 supplies numerous geom functions for almost every graphing need. 
++ *Layer*: in ggplot2, layers are used to create graphs. Layers help define geometry, define and set scales, change styles, and more. 
++ *Programming language*: a programming language is a vocabulary and set of grammatical rules used to instruct computers to perform specific tasks.
++ *Project*: a project in R is a file that is associated with a working directory, meaning that it preserves the layout and files within your R environment and can be saved and re-opened in a new session.
++ *R*: is a programming language and environment used for statistical computation, textual analysis, and graphics.
++ *RMarkdown*: R Markdown is a document format that contains both text and snippets of code that you can edit and run directly in the file.
++ *RStudio*: RStudio is an integrated development environment for R, or an interface editor where you can access the console, terminal, environment, working directory, and source files.
++ *Scale*: scales control the details of how data values are translated to visual properties. You can use scale functions to tweak the appearance of x/y axes, legend keys, limits, and even color. 
++ *Script*: a script in R is a collection of code that, usually, is in a text form and contains all of the code that you would enter in the command line.
++ *Terminal*: the direct interface with the console where you can write text-based commands, or do command-line coding.
++ *Variable*: a variable is a character or group of characters (like x,y,x or words like "text" or "words") that you define and that R treats as a data object,  stored in working memory for later processing.
++ *Working Directory*: a working directory for computing is a hierarchical file system, or the set of files that you are working in.
+
+## Works Cited
+"Gross domestic product." Organization for Economic Co-operation and Development (OECD): https://data.oecd.org/gdp/gross-domestic-product-gdp.htm 
+
+## Credit and thanks
+
+This tutorial was developed as part of the DITI teaching module on R Studio at Northeastern University. The exercises were specialized to be taught for Professor Yaprak Tavman's students at the New College of the Humanities in London. 
+Special thanks to the OECD for supplying the demo data set. 

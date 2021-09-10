@@ -33,10 +33,10 @@ This module will review best practices for data cleaning using R & RStudio. More
 * Learning how to download, install, and use ggplot for data visualization
  
 ### Materials for this Module
-### [Presentation Slides]
-### [Introduction to R, R Studio, and ggplot (Installation Guide) Handout] ()
-### [Best Practices for Data Cleaning Using R & RStudio Handout] ()
-### [Data and RMD file] ()
+### [Presentation Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_r/economics_of_financial_crisis-fall2021-tavman/Slides_Data-Visualization-in-ggplot2_tavman.pdf)
+### [Best Practices for Data Visualization Using R & RStudio Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_r/economics_of_financial_crisis-fall2021-tavman/Handout_Using-ggplot2-for-data-visualization.pdf)
+### [Best Practices for Data Cleaning Using R & RStudio Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_r/economics_of_financial_crisis-fall2021-tavman/Handout_Best-Practices-for-Data-Cleaning_diti-fall2021-tavman.pdf)
+### [Data and RMD file](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/intro_r/economics_of_financial_crisis-fall2021-tavman/ggplot2-diti-demo-guide_Tavman-fall2021)
 
 ## Data
 

@@ -1,10 +1,10 @@
 # Best Practices for Data Cleaning and Visualization Using R, RStudio, and ggplot 
 
-Introduction to R
-- Basics of R
-- Answering research questions about data 
-- Statisical Summaries
-- Visualizations
+Introduction to ggplot2 in R
+- Basics of Data Visualization in R using ggplot2
+- Understanding ggplot functions in R
+- Practicing Data Visualization 
+- Making design choices for data visualizations
 
 ## Individual Class Info
 NCHEC663: Economics of Financial Crisis

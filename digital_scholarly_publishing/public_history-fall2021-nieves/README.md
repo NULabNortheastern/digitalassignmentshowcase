@@ -1,49 +1,30 @@
 # Digital Publishing with Scalar
 This presenetaion shows the basics for understanding Scalar and how to create a digital Scalar book. 
 
-Day 1:
-- Introduction to WordPress
-- WordPress for building a digital archive
-- Feminist practices for collaboration
-
-Day 2:
-- Workshopping collaborative WordPress pages
-- Introducing other archival approaches (Knight Lab's Timeline and StoryMaps)
-
 ## Individual Class Info
-Feminist Resistance (cross listed in WGSS, History, Sociology)
+HIST5237 Issues & Methods of Public History
 <br>
 Angel Nieves
 <br>
 Fall 2021
 <br>
-Number of students: 19
+Date and Time: Monday 9/27/2021 5:00pm
 <br>
-Date and Time: Mondays and Wednesdays 2:50-4:30
+Location: Remote synchronous
 <br>
-Location: 301 Meserve Hall<br>
 
 ## Summary of Module
-This module will go over the process for creating a collaborative digital archive using WordPress. Because of the nature of the course, this module incldues discussions about and tips for collaborative feminist practices. The second day of the course mainly revists important WordPess functions and introduces Knight Lab's StoryMaps and Timeline, while the rest of the time is dedicated to workshopping students' collaborative WordPress sites and answering questions. 
+This module will go over the basic architecture, vocabulary, and processes of setting up a project with non-linear narrative structures in Scalar.   
 
 ## Learning Goals
-- Understand feminist collaborative practices
-- Understand choices to be made when creating digital archives
-- Understand the basics and complexities of WordPress
-- Understand intellectual property rights and where archival materials belong
-
-## Learning Objectives
-- Create a collaborative WordPress
-- Use basic WordPress functions, like pages, posts, tagging, themes, and widgets 
-- Articulate particular choices made when building the digital archival project
+- Understand key functionalities of Scalar as a digital humanities platform and as a platform for digital public history
+- Learn how to set up a Scalar account
+- Start thinking about how to use Scalar with your classmates for your course project
+- Learn how to add pages and media to a Scalar book project, and think about how to link these pages and media through paths, tags, comments, annotations, and more.
 
 ## Documents for Module
-
-### Day 1
-[Presentation](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/digital_archives/feminist_resistance-spring2019-walters/day1-presentation.pdf)
-
-### Day 2
-[Digital Archive Resources](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/digital_archives/feminist_resistance-spring2019-walters/day2-handout.pdf)
+- Scalar Handout
+- Scalar Slide Deck
 
 ## DTI Consultants
-Created by Cara Marta Messina
+Claire Tratnyek & Tieanna Graphenreed

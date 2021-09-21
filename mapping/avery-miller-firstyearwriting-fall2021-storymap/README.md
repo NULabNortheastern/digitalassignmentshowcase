@@ -44,6 +44,6 @@ DITI's [Intro to StoryMap Video](https://youtu.be/X33ud7RYZFg)
 
 <h2> DITI Consultants </h2>
 
-Colleen Nugent
+Tieanna Graphenreed
 
-Yana Mommadova 
+Claire Tratnyek

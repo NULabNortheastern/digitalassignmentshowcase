@@ -27,12 +27,12 @@ Qualitative Coding with NVivo
 
 ## Documents for Module
 
-### [Slides]()
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/intro_to_nvivo/capstone_fall2021_singer/Singer_%20FA21_%20NVivo%20slides.pdf)
 
 ### Handouts
-[Installing NVivo]()
+[Installing NVivo](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/intro_to_nvivo/capstone_fall2021_singer/Installing%20NVivo.pdf)
 <br/>
-[Intro to NVivo for Qualitative Coding]()
+[Intro to NVivo for Qualitative Coding](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/intro_to_nvivo/capstone_fall2021_singer/handout-NVivo.pdf)
 
 
 ## DITI Consultants

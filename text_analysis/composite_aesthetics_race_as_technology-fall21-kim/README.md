@@ -54,4 +54,4 @@ This module goes over computational text analysis for a corpus of texts. The mod
 ## DTI Consultants
 - Tieanna Graphenreed
 - Colleen Nugent 
-=======
+

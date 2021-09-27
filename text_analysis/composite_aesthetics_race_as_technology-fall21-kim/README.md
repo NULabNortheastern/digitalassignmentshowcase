@@ -17,7 +17,7 @@ Number of students: 9
 Date and Time: October 12, 1:40pm
 
 ## Summary of Module
-This module goes over computational text analysis for a corpus of texts. The module includes a brief discussion on what is computation text analysis, how it is useful, the browser tools that can be used to do this method of analysis, and how to interpret the results. 
+This module goes over computational text analysis for a corpus of texts. The module includes a brief discussion on what is computational text analysis, how it is useful, the browser tools that can be used to do this method of analysis, and how to interpret the results. 
 
 ## Learning Goals
 - Understand best practices for collecting and storing textual data when performing basic computational text analysis

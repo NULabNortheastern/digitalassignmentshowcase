@@ -1,12 +1,12 @@
 # Digital Storytelling
-This module will cover four main methods of digital storytelling
-- Mapping with Knight Lab’s StoryMap
-- Timelines with Knight Lab’s Timeline
-- Podcasts using Audacity
-- Video creation with OpenShot Video Editor
+This module will cover four main tools for computational text analysis including:
+- Word Counter
+- Word Tree
+- Lexos
+- Voyant
 
 ## Individual Class Info
-ENG 3375 Writing Boston
+ENG 3161 Poetry Workshop
 <br>
 Eunsong Kim
 <br>
@@ -53,4 +53,8 @@ This module goes over computational text analysis for a corpus of texts. The mod
 
 ## DTI Consultants
 Tieanna Graphenreed
+<<<<<<< Updated upstream
 Colleen Nugent 
+=======
+Colleen Nugent
+>>>>>>> Stashed changes

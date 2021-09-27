@@ -31,5 +31,7 @@ This module will introduce what “big data” is and cover the ethical question
 ### ["Can you adopt this dog?" Activity Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_ethics/criminal_justice_research_methods_fall2021_marshall/Can%20you%20adopt%20this%20dog_%20Handout.docx.pdf)
 
 ## DTI Consultants
-Created by Cara Marta Messina
+Claire Tratnyek
+Tieanna Graphenreed
+Yana Mommadova
 

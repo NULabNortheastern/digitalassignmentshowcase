@@ -8,35 +8,49 @@ This module will cover four main methods of digital storytelling
 ## Individual Class Info
 ENG 3375 Writing Boston
 <br>
-Somy Kim
+Eunsong Kim
 <br>
-Spring 2020
+Fall 2021
 <br>
-Number of students: 25
+Number of students: 9
 <br>
-Date and Time: February 10, 11:45am-1:25pm
+Date and Time: October 12, 1:40pm
 
 ## Summary of Module
-This module will describe aspects of digital storytelling; provide several methods for digital storytelling; fair use policies; and discuss the collection, sharing, and preservation of information, especially for community organizing. We go over four main approaches and software for storytelling: Knight Lab’s StoryMap, Knight Lab’s Timeline, Audacity for Podcast and audio editing, and OpenShot Video Editor for video editing. 
+This module goes over computational text analysis for a corpus of texts. The module includes a brief discussion on what is computation text analysis, how it is useful, the browser tools that can be used to do this method of analysis, and how to interpret the results. 
 
 ## Learning Goals
-- Understand the importance of digital storytelling, especially for communities, and how digital storytellers are accountable to the communities
-- Understand the different methods for storytelling, including creating maps, timelines, videos, and audio files
-- Understand copyright and fair use policies
-- Understand preservation tactics, such as storing files in cloud storage or on flash drives, and making sure organizers have access to these
+- Understand best practices for collecting and storing textual data when performing basic computational text analysis
+- Understand how web-based computational text analysis programs work, such as in their behind-the-scenes data preparation
+- Understand how to interpret the results from your text analysis
 
 ## Learning Objectives
-- Learn steps for creating a digital story: collect, share, and preserve
-- Know several different preservation methods
-- Learn how to use Knight Lab’s different tools
-- Know how to import, cut, and edit both video and audio files using Audacity and OpenShot Video Editor
+- Define computational text analysis
+- Follow along in a demonstration of web-based text analysis tools by DITI Fellows
+- Word Counter, Word Trees, Lexos, Voyant
+- Experiment with text analysis tools on your own
+
+
 
 
 ## Documents for Module
 
-### Slides
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/composite_aesthetics_race_as_technology-fall21-kim/Slides_textanalysis_kim_2021.pdf)
 
-### Handout
+### Handouts
+[Corpus Building Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/composite_aesthetics_race_as_technology-fall21-kim/Corpus%20Building%20handout.pdf)
+<br>
+[Lexos Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/composite_aesthetics_race_as_technology-fall21-kim/Lexos%20Handout.pdf)
+<br>
+[Voyant Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/composite_aesthetics_race_as_technology-fall21-kim/Voyant%20Handout.pdf)
+<br>
+[Additional Links and Resources Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/composite_aesthetics_race_as_technology-fall21-kim/Links%20%26%20Resources.pdf)
+
+### Data
+[Browne_corpus folder](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/text_analysis/composite_aesthetics_race_as_technology-fall21-kim/browne_corpus)
+<br>
+[stopwords.txt](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/composite_aesthetics_race_as_technology-fall21-kim/browne_corpus/stopwords.txt)
 
 ## DTI Consultants
-Created by Cara Marta Messina and Laura Johnson
+Tieanna Graphenreed
+Colleen Nugent 

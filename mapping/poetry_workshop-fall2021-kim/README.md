@@ -2,11 +2,11 @@
 
 <h2> Individual Class Info </h2>
 
-HIST 5237: Issues and Methods in Public History
+ENGL 3377: Poetry Workshop
 
-Angel David Nieves
+Eunsong Kim
 
-October 4, 5:00 PM-6:15 PM
+October 12, 3:30 PM
 
 Fall 2021
 
@@ -30,13 +30,13 @@ This module will go over components of storytelling and how these components may
 
 <h2> Materials for Module </h2>
 
-[KnightLab StoryMap Presentation Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/nieves-storymap-publichistory-fall2021/Intro-to-StoryMap-Slides.pdf)  
+[KnightLab StoryMap Presentation Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/poetry_workshop-fall2021-kim/StoryMap_slides_kim.pdf)  
 
-[Handout: KnightLab StoryMap](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/nieves-storymap-publichistory-fall2021/StoryMap%20Handout.pdf) 
+[Handout: KnightLab StoryMap](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/poetry_workshop-fall2021-kim/StoryMap%20Handout.pdf) 
 
-[Handout: Spreadsheet Template User Guide](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/nieves-storymap-publichistory-fall2021/Handout_Storymap-Spreadsheet-Template.pdf) 
+[Handout: Spreadsheet Template User Guide](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/poetry_workshop-fall2021-kim/Handout_%20Storymap%20Spreadsheet%20Template.pdf) 
 
-[Handout: Copyright and Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/nieves-storymap-publichistory-fall2021/Copyright-fair-use-handout.pdf) 
+[Handout: Copyright and Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/poetry_workshop-fall2021-kim/Copyright-fair-use-handout.pdf) 
 
 [Spreadsheet Template](https://docs.google.com/spreadsheets/d/1eJrqp30nJp__-l1V4tiRICiL4PLm40Esmg0WvcDAFII/edit#gid=0) 
 
@@ -44,6 +44,5 @@ DITI's [Intro to StoryMap Video](https://youtu.be/X33ud7RYZFg)
 
 <h2> DITI Consultants </h2>
 
-Colleen Nugent
-
 Tieanna Graphenreed 
+Colleen Nugent

@@ -1,0 +1,1019 @@
+Through the Door of No Return
+The door is a place, real, imaginary and imagined. As islands and dark continents
+are. It is a place which exists or existed. The door out of which Africans
+were captured, loaded onto ships heading for the New World. It was the
+door of a million exits multiplied. It is a door many of us wish never existed.
+—Dionne Brand, A Map to the Door of No Return: Notes to Belonging
+In early August 1785, English social reformer Jeremy Bentham set out from
+Brighton, England, destined for Krich.v, Russia. It was in Russia where
+Bentham would first conceive of the Panopticon in a series of letters “from
+Crecheff in White Russia, to a friend in England.” At one point during his
+journey, in an attempt to reach Constantinople, he embarked from Smyrna
+on a cramped Turkish ca.que with “24 passengers on the deck, all Turks;
+besides 18 young Negresses (slaves) under the hatches.”1 Much of Bentham’s
+writings that addressed slavery were written before this voyage. In
+those texts he touches on such topics as sugar production, punishment,
+and abolition. Writing during the 1770s on “afflictive capital punishment,”
+that being when the degree of pain imposed upon the body surpasses that
+necessary to produce death, Bentham details the severe methods of torture
+and punishment reserved for “negro slaves” of the European colonies in
+the West Indies for the crime of rebellion, a crime so named, he writes, “because they are the weakest, but which, if they were the strongest would
+be called an act of self-defense.”
+2 While acknowledging Europe’s desire for
+“sugar and coffee” and other crops produced through enslaved labor in
+the colonies, he suggests that when these goods are obtained by keeping
+people enslaved “in a state in which they cannot be kept but by the terror
+of such execution: are there any considerations of luxury or enjoyment that
+can counterbalance such evils?”3 On the terror of the codes that governed
+slave life in the West Indies, Bentham has this to say: “let the colonist reflect
+upon this: if such a code be necessary the colonies are a disgrace and
+an outrage on humanity; if not necessary, these laws are a disgrace to the
+colonists themselves.”4 Bentham arrived in Krichëv in February 1786. One
+can only wonder if he thought of the terror of “capital punishment” and of
+the slave’s “self-defense”
+when he came across those eighteen “young Negresses”
+held captive in the hatches of that cramped Turkish caïque.
+That somewhere along a journey that ends in The Panopticon; or, The Inspection
+House Jeremy Bentham traveled with “18 young Negresses (slaves)”
+guides me to question the ways that the captive black female body asks
+us to conceptualize the links between race, gender, slavery, and surveillance.
+In other words, how must we grapple with the Panopticon, with the
+knowledge that somewhere within the history of its formation are eighteen
+“young Negresses” held “under the hatches”? If Bentham’s Panopticon depended
+on an exercise of power where the inspector sees everything while
+remaining unseen, how might the view from “under the hatches” be another
+site from which to conceptualize the operation of power? This chapter
+asks that we rethink the Panopticon (1786) through the plan of the slave
+ship Brooks (1789), as a way to link surveillance studies to black feminist
+scholarship.
+The first section of this chapter offers an overview of the Panopticon, disciplinary
+power, and sovereign power. In the second section I discuss some
+of the ways that the Panopticon and panopticism have been put to use in
+theorizing surveillance, and in particular three analytical concepts derived
+from this model of social control: synopticon, banopticon, and postpanopticism.
+In the third section I discuss the plan of the slave ship. Following
+this, I examine surveillance technologies of slavery, such as advertisements
+for runaway slaves and the census, as well as a set of rules from the 1800s
+for the management of slaves on an East Texas plantation. I do this in order
+to understand how racializing surveillance functioned through these technologies.
+I end this chapter by looking to black feminist theorizing of sur-veillance, including bell hooks on “talking back” (1989) and “black looks”
+(1992) and Patricia Hill Collins’s concept of “controlling images” (2000)
+as a way to situate surveillance as both a discursive and a material practice.
+I also look to artist Robin Rhode’s Pan’s Opticon (2008) and artist Adrian
+Piper’s video installation What It’s Like, What It Is #3 (1991), as these creative
+texts offer ways to understand black looks and talking back as oppositional
+practices that challenge the stereotyped representations of controlling images
+and their material effects. My use of Rhode’s Pan’s Opticon and Piper’s
+What It’s Like, What It Is #3 is a way of drawing on black creative practices in
+order to articulate a critique of the surveillance of blackness. In this fashion,
+these works open up a way to think creatively about what happens if we
+center the conditions of blackness when we theorize surveillance.
+Seeing without Being Seen: The Plan of the Panopticon
+The Panopticon was conceived by Jeremy Bentham in 1786 and then
+amended and produced diagrammatically in 1791 with the assistance of English
+architect Willey Reveley. Bentham first came upon the idea through
+his brother Samuel, an engineer and naval architect who had envisioned
+the Panopticon as a model for workforce supervision. Pan, in Greek mythology,
+is the god of shepherds and flocks, the name derived from paien,
+meaning “pasture” and hinting at the root word of “pastoral,” and in this
+way the prefix pan- gestures to pastoral power. Pastoral power is a power
+that is individualizing, beneficent, and “essentially exercised over a multiplicity
+in movement.”5 Bentham imagined the Panopticon to be, as the name
+suggests, all- seeing and also polyvalent, meaning it could be put to use in
+any establishment where persons were to be kept under watch: prisons,
+schools, poorhouses, factories, hospitals, lazarettos, or quarantine stations.
+Or, as he wrote, “No matter how different, or even opposite the purpose:
+whether it be that of punishing the incorrigible, guarding the insane, reforming
+the vicious, confining the suspected, employing the idle, maintaining the helpless,
+curing the sick, instructing the willing in any branch of industry, or training the
+rising race in the path of education.”6 Of course, “the willing,” “the idle,” and
+the so-called rising race might be more able to leave this enclosure at will or
+by choice than “the suspected” or “the incorrigible.” With this “seeing machine,”
+the unverified few could watch the many and “the more constantly
+the persons to be inspected are under the eyes of the persons who should inspect them, the more perfectly will the purpose of the establishment have
+been attained.”7 This is control by design, where population management
+and the transmission of knowledge about the subject could, as Bentham
+explains, be achieved, “all by a simple idea of Architecture!”8
+The Panopticon’s floor plan is this: a circular building where the prisoners
+would occupy cells situated along its circumference (figure 1.1). With the
+inspector’s lodge, or tower, at the center, his field of view is unobstructed:
+at the back of each cell, a window, and in its front a type of iron grating
+thin enough that it would enable the inspector to observe the goings-on
+in the prisoner cells. The cells in the Panopticon make use of “protracted
+partitions”—where the partitions extend beyond the iron grating that covers
+the front of the cell—so that communication between inmates is minimized,
+and making for “lateral invisibility.”9 In this enclosed institution the
+watched are separated from the watchers; the inspector’s presence is unverifiable;
+and there is said to be no privacy for those that are subject to
+this architecture of control. Security in the Panopticon, as Bentham asserts,
+is achieved by way of small lamps, lit after dark and located outside each
+window of the inspection tower, that worked to “extend to the night the
+security of the day” through the use of reflectors.10 By employing mirrors in
+this fashion, a blinding light was used as a means of preventing the prisoner
+from knowing whether or not the inspection tower was occupied. Power,
+in the Panopticon, is exercised by a “play of light,” as Michel Foucault put it,
+and by “glance from center to periphery.”11 The inspection tower is
+divided into quarters, by partitions formed by two diameters to the
+circle, crossing each other at right angles. For these partitions the
+thinnest materials might serve; and they might be made removeable
+at pleasure; the height, sufficient to prevent the prisoners seeing over
+them from cells. Doors to these partitions, if left open at any time,
+might produce the thorough light, to prevent this, divide each partition
+into two, at any part required, setting down the one- half at such
+distance from the other as shall be equal to the aperture of a door.12
+With Bentham’s plan for prison architecture, we can see how light, shadows,
+mirrors, and walls are all employed in ways that are meant to engender
+in many a prisoner a certain self- discipline under the threat of external
+observation, as was its intended function. The Panopticon would allow for
+a disciplinary exercise of power. Such exercises of power are not ones of
+pomp and pageantry, like a queen’s coronation, a state funeral, or a royal wedding, or of the overt kind of spectacular violence that often accompanies
+sovereign power. Instead, in this instance, power is covert and achieved
+by a play of light.
+If an act that is deemed criminal is an assault on the sovereign’s power,
+an exercise of sovereign power is that which seeks to make the sovereign’s
+surplus power plainly understood by all. It is spectacular and episodic, and
+functions “to make everyone aware,” often through ceremonial terror, “of
+the unrestrained presence of the sovereign.”13 This is a power exercised
+through excessive means and force, like the public execution of Damiens
+the regicide, the gruesome scene that opens Foucault’s Discipline and Punish:
+The Birth of the Prison (1975). In 1757, Robert- Fran.oise Damiens was
+made to make the amende honorable, a symbolic apology for his crime against the sovereign. He was carted through the streets of Paris, France,
+holding a burning torch in one hand and his weapon of choice, a knife, in
+the other. Boiling resin, sulfur, wax, and oil were combined and poured into
+his open wounds, and he was drawn by horses, quartered, and eventually
+hacked apart for his attempt on the life of Louis xv, king of France. With
+onlookers surrounding, Damiens’s body was burned and his ashes were
+“thrown to the winds.”14
+Another, but less well- known, public execution took place twenty- three
+years before that of Damiens the regicide in Paris. This time it was in the
+French colony of Nouvelle- France, and it was a black woman who was subjected
+to this gruesome exercise of sovereign power. Marie- Joseph Ang.lique,
+a Portuguese- born enslaved black woman, was tried and convicted
+of setting a fire that left much of the town of Montr.al in ruins in 1734,
+the arson itself ruled to be an affront to that same sovereign that Damiens
+the regicide attempted to assassinate, King Louis xv.15 Ang.lique arrived
+in Montr.al from New England after being sold to Fran.ois Poulin de
+Francheville in 1725. After Francheville’s death in 1733, his wife, Th.r.se de
+Couagne, became Ang.lique’s sole mistress, but through escape, insolence,
+unruliness, and talking back, Ang.lique was never quite fully under Madame
+Francheville’s complete control. Madame Francheville would later
+make arrangements to sell Ang.lique for six hundred pounds of gunpowder.
+That sale was never fulfilled as, on the evening of April 10, 1734, a fire
+broke out on the roof of the Francheville home and Ang.lique was named
+the arsonist and arrested the morning after. Claude Thibault, a white indentured
+servant from France who was under contract to Madame Francheville,
+was named as Ang.lique’s accomplice. Thibault was Ang.lique’s lover.
+Ang.lique and Thibault had escaped from Montr.al that previous winter,
+but were captured and returned. Days after the fire, Thibault disappeared
+and was never arrested. Ang.lique’s trial lasted two months. Under interrogation
+she reportedly stated, “No one told me to set the fire. No one helped
+me, because I did not do it.”16 Later, under repeated torture, she recanted
+that assertion of her innocence—“C’est moi. It’s me and no one else. I want
+to die. C’est moi.”17 Condemned to death, she was carted through the streets
+of Montr.al, made to make the amende honorable with a burning torch
+held in her hand at the door of the town’s parish, and hanged. Ang.lique’s
+body hung in the street for all to observe for hours after her execution, was
+later burned and her ashes thrown to the winds, as was the ceremony prescribed
+for the capital punishment of an arsonist according to French law. 
+The ceremony of Ang.lique’s execution, according to Katherine Mc-
+Kittrick, achieved at least two things: “spectacular punishment of someone
+and something that is said not to exist,” that something being blackness
+in and of Canada as absented presence; and “the destroying of bodily evidence.”
+19 The trial and hanging of Ang.lique points to the criminalization
+of black women’s resistance to captivity. The will of the sovereign was violently
+inscribed in Ang.lique’s excruciating and spectacular death (both a
+public spectacle and spectacularly elaborate in its excessive violence) and
+made known for all who observed it—both free and enslaved—the expendability
+of slave life.
+Foucault chose to begin “The Body of the Condemned,” the first chapter
+of Discipline and Punish, with the brutal public execution of Robert-
+Fran.oise Damiens in order to set up, in stark contrast, his discussion of
+the discrete and also distributed way that exercises of disciplinary power
+operate in the form of rules “for the House of young prisoners in Paris,”
+where regulation of the subject happened through observation and also
+through routines, repetition, self- discipline, and by following instructions
+and timetables. For example, the delinquent’s day would be structured like
+this: “Art. 18 Rising. At the first drum roll, the prisoners must rise and dress
+in silence, as the supervisor opens the cell doors”; “Art. 20. Work. . . . They
+form into work teams and go off to work, which must begin at six in the
+summer and seven in the winter”; and “Art. 22. School. At twenty minutes
+to eleven, at the drum- roll, the prisoners form into ranks, and proceed in
+divisions to the school. The class lasts two hours and consists alternately of
+reading, writing, drawing and arithmetic.”20 The rules for the management
+of delinquents came eighty years after the execution of Damiens. Foucault
+cites both the execution and the rules to say that “they each define a
+certain penal style” and mark the decline of punishment as a public spectacle.
+21 Disciplinary power did not do away with or supplant the majestic
+and often gruesome instantiations of sovereign power, however. Instead, at
+times, both formulations of power—sovereign and disciplinary—worked
+together. In reading punishment as public spectacle in the Old France and
+the New, I chose to recount the hanging of Marie- Joseph Ang.lique here
+because her torture and killing evidences blackness and slavery in Canada
+pre– Book of Negroes (1783), pre– Underground Railroad escape of black
+people from the United States to Canada (early nineteenth century), and
+pre- Confederation (1867). Putting the life of Marie- Joseph Ang.lique in
+conversation with the death of the regicide Robert- Fran.oise Damiens is my way of interrupting Foucault’s reading of discipline and the birth of
+the prison, as doing so points to an alternative archive from which to understand
+the hold of both disciplinary and sovereign power on black life
+under slavery. While Foucault argued that the decline of the spectacle of
+public torture as punishment might have marked “a slackening of the hold
+on the body,” this chapter contends that when that body is black, the grip
+hardly loosened during slavery and continued post- Emancipation with, for
+example, the mob violence of lynching and other acts of racial terrorism.22
+Panopticon, Panoptical, Panopticism:
+A Critical Reinterpretation
+Various surveillance studies theorists have employed the Panopticon as an
+analytical tool in order to question how social control operates on certain
+bodies and in certain spaces, as well as a way to conceptualize disciplinary
+power and the ways that it comes to be internalized by some. Some
+theorists of surveillance have used the metaphor of the Panopticon to
+generate other ways of conceptualizing surveillance. For example, Thomas
+Mathiesen’s synopticon (1997) is a reversal of the panoptic schema where
+the many watch the few in a mass- mediated fashion (think here of the
+reality television show Big Brother, where a television audience, as well as
+an Internet- based one, observe “houseguests” as they compete for prizes by
+way of twenty- four- hour continuous camera feeds), or Didier Bigo’s banopticon,
+where those whom the state abandons are often banned based on a
+racialization of risk. Bigo takes the view that the practice of profiling and
+categorizing some into risk categories and then “projecting them by generalization
+upon the potential behaviour of each individual pertaining to the
+risk category” is the disposition of U.S.-led security measures and practices,
+and increasingly so post- 9/11.23 With the banopticon, certain groups and
+individuals are labeled as potentially dangerous. This labeling as dangerous
+is then massively applied to certain nations and their citizens and to those
+outside the bounds of citizenship, where anxieties and the anticipation of
+risk stemming from those deemed “dangerous minorities” then shape security
+measures at borders, on city streets, and other spaces that come to
+be associated with risk, or with being at risk of becoming risky. According
+to Bigo, the banopticon is “characterized by the exceptionalism of power
+(rules of emergency and their tendency to become permanent), by the way it excludes certain groups in the name of their future potential behaviour
+(profiling) and by the way it normalizes the non- excluded through its
+production of normative imperatives, the most important of which is free
+movement.”24 The banopticon might look like trusted traveler programs
+that speed up border crossings for preapproved travelers who provide some
+form of biometric- based verification, or free trade zones where goods can
+be manufactured, transported, imported, and exported without duties or
+other barriers to trade. The banopticon could also take the form of stopand-
+frisk policing practices where categories of suspicion could include
+“furtive movements,” or “fits a relative description,” or “change direction at
+the sight of an officer,” or “inappropriate attire for season.”25
+Some scholars have pointed to what they see as an apparent overreliance
+on the Panopticon in the field of surveillance studies that leaves the
+role of visibility overstated. Others have suggested that the Panopticon is
+no longer useful, or that at least as a way of theorizing disciplinary power
+in the contemporary moment it cannot offer a complete account of, for
+example, surveillance and exercises of power within social media and cell
+phone usage, or by way of digital information databases and data aggregators.
+On this point, Roy Boyne offers a critique of panopticism in which
+he contends that “post- Panoptical subjects reliably watch over themselves”
+without need of the physical structure of the Panopticon.26 He suggests
+that panopticism has been “transcended by the emergent practice of previsualization”
+where simulation, profiling, and prevention occur, rather
+than merely observation.27 Also, Boyne names the “reversal of the Panoptical
+polarity,” where the many watch the few, as operating in conjunction
+with the Panopticon, where the few watch the activities of the many, in this
+way echoing Thomas Mathiesen on the synopticon.28 John Gilliom and Torin
+Monahan, in their analysis of social media sites such as Facebook, argue
+that “rather than being a prisonlike panopticon where trapped people follow
+the rules because they’re afraid someone is watching, with Facebook
+and similar sites people are probably more afraid that no one is watching,
+that no one cares what they’re up to.”29 With this apparent fear of not being
+noticed, Gilliom and Monahan say that social media users “discipline
+themselves in a different way by divulging as much as possible about their
+lives and thoughts.”30 Other theories, like the “social sorting” of people and
+populations into categories of risk, are offered as a means of qualifying and
+understanding forms of surveillance that are sometimes overlooked. On
+the overrepresentation of the panopticon and accounts that take power as unilaterally exercised, Lyon writes that “not only does this kind of account
+distract attention from the subtle interplay between surveillance power and
+the attitudes and activities of those subject to surveillance, it also places
+all the emphasis on forms of rational control.”31 Likewise, Kevin Haggerty
+names the Panopticon as “oppressive,” not only because of an overreliance
+placed upon it as an explanatory metaphor in works that analyze surveillance,
+but also for the way “the panoptic model has become reified, directing
+scholarly attention to a select subset of attributes of surveillance,” which
+has resulted in the panoptic schema being applied in areas where it is, as he
+argues, “ill- suited, and important attributes of surveillance that cannot be
+neatly subsumed under the ‘panoptic’ rubric have been neglected.”32 One
+area of contention that Haggerty points to is the claim that in the panoptic
+schema, who, or what, does the watching is irrespective, or, as Foucault
+wrote, “Stones can make people docile and knowable.”33 For Haggerty, it is
+a mistake not to take into account the “attitudes, predispositions, biases,
+prejudices and personal idiosyncrasies” of those who do the surveillance
+for how these factors inform the “form, intensity and regularity” of their
+responses.34
+The very failure of panopticism to produce docile subjects is an important
+point of criticism, where, as Boyne puts it, “that failure is announced
+in many places: prison riots, asylum sub- cultures, ego survival in Gulag or
+concentration camp.”35 In her observation and interviews at intensive management
+units housed within prisons run by the Washington State Department
+of Corrections, Lorna Rhodes names aggressive behavior (throwing
+feces, urine, and other bodily fluids), passive behavior (such as refusals to
+eat), and self- harm as instances in which the body is used as a means of resistance,
+and she argues that these acts are expressions of inmates’ struggles
+with the panopticon.36 Intensive management units, or special housing
+units, are solitary confinement units where certain inmates are segregated
+from the general prison population, spending up to twenty- three hours a
+day in their individual cells. Prolonged isolation in solitary confinement for
+many leads to depression, hallucinations, and acts of self- mutilation.
+While the prisoner’s body is “the very ground of the panoptical relation,”
+under such conditions, as Rhodes contends, “it is also its potential undoing;
+he has within himself the makings of a perverse opacity.”37 Rhodes cites
+Lyon here in her naming of this “perverse opacity,” a term that, as Lyon
+explains, points to the idea that such “resistance may not be liberatory—indeed, it invites further control—but it calls in question both the panopticon
+and our representations of it.”38 Like Rhodes and Lyon, Boyne also
+calls the Panopticon into question, but he advises us not to do away with
+it completely as a way to understand our contemporary condition. Instead,
+he suggests that we “draw a line through the terms Panopticon, Panoptical,
+Panopticism. To place these terms under erasure, drawing a black line
+through them, allowing the idea to be seen at the same time as denying its
+validity as description, could be the most honest resolution.”39
+Unarguably the most cited work in surveillance studies on the Panopticon
+as a metaphor for disciplinary exercises of power is Foucault’s Discipline
+and Punish: The Birth of the Prison, first published in 1974 as Surveiller
+et punir: Naissance de la Prison, with the book’s French title alluding
+more closely to its focus on surveillance. In Discipline and Punish, Foucault
+argues that “discipline makes individuals” and achieves its success by employing
+“simple instruments”: hierarchical observation (the greater over
+lesser authority, whether through physical structures or choreographed
+gazes), normalizing judgment (quantitative measurements, comparisons,
+establishment and adherence to set rules and norms, exclusions), and the
+examination.40 Broadly, Foucault explains that hierarchical observation and
+normalizing judgment combine in the examination. Hierarchical observation
+works “as a piece of machinery” designed for “the uninterrupted play
+of calculated gazes.”41 With this play of gazes in the disciplinary institution,
+such as the penitentiary or the school campus, surveillance “functioned
+like a microscope of conduct” and sought to objectify, transform, and improve
+individuals through architectural arrangements, registration, examination,
+and documentation.42 Foucault describes normalizing judgment
+as that which normalizes by singling out and correcting “that which does
+not measure up to the rule, that departs from it” with a glance, a gaze that
+classifies, ranks, and measures.43 So although disciplinary power is individualizing,
+by way of normalizing judgment, individual actions are referred
+“to a whole that is at once a field of comparison, a space of differentiation
+and the principle of a rule to be followed.”44 The examination places the
+individual in a “network of writing” as it is “accompanied at the same time
+by a system of intense registration and of documentary accumulation.”45
+The examination in the disciplinary institution seeks to objectify and transform
+individuals through architectural arrangements, registration, and
+documentation. and
+eighteenth- century disciplinary institutions that Foucault lays out in
+Discipline and Punish, the architectural design, registration, documentation,
+and examination at slave trafficking forts and ports, through the Door
+of No Return, and on slave ships during the Middle Passage voyage from
+Africa to the auction blocks and plantations of the New World were subject
+defining, but always violent. The violent regulation of blackness as spectacle
+and as disciplinary combined in the racializing surveillance of the
+slave system. On this point, Robyn Wiegman states that “the disciplinary
+power of race, in short, must be read as implicated in both specular and
+panoptic regimes.”46 Here, black children, women, and men were subject
+to these “simple” but violent instruments—branding irons fashioned out
+of silver wire, ships’ registers in which African lives were recorded as units
+of cargo, or listed alongside livestock on slave auction notices, and census
+categories, estate records, and plantation inventories that catalogued enslaved
+people as merchandise. The branding of enslaved people as a means
+of accounting for a particular ship’s cargo, for example, was not only individualizing
+but also a “massifying” practice that constituted a new category
+of subject, blackness as saleable commodity in the Western Hemisphere.
+Plantation rules laid out for overseers the prescribed measures for regulating
+plantation life and “social death.”47 In using Foucault’s schemas of sovereign
+power, discipline, and normalization, as well as the concept of panopticism,
+I am mindful of their limitations for theorizing the role of trauma,
+vulnerability, and violence in the making and marking of blackness as property.
+However, for the concept of racializing surveillance, Foucault’s contributions
+to understanding sovereign power and its “policy of terror” and to
+conceptualizing discipline and the imposition of norms, for example, offer
+us a way to understand how acts of making the black body legible as property
+were put to work in the production of the slave as vendable object to
+be bought, sold, and traded.48
+Complicating Foucault’s panopticism through the archive of slavery and
+black feminist scholarship on surveillance is a way of offering a critical reinterpretation
+of the concept—by “drawing a black line” through it. To do
+this I now turn to the plan of the slave ship. Drawing a line through panopticism
+by way of the slave ship is another means of interrupting Foucault’s
+reading of discipline, punishment, and the birth of the prison, because, as
+Marcus Rediker put it, the slave ship was “a mobile, seagoing prison at a
+time when the modern prison had not yet been established on land.”
+“2 feet 7 inches”: The Plan of the Slave Ship
+The prison didn’t come to exist where it does just by happenstance. Those who
+inhabit it and feed off its existence are historical products.
+—George L. Jackson, Soledad Brother
+Through its creative remembering of the brutalities of slavery and its afterlife,
+Caryl Phillips’s short story “The Cargo Rap” (1989) makes links
+between the Panopticon, captivity, the slave ship, plantation slavery, racism,
+and the contemporary carceral practices of the U.S. prison system.
+Racism is, as Ruth Wilson Gilmore explains, “the state- sanctioned or extralegal
+production and exploitation of group- differentiated vulnerability
+to premature death.”50 Rudi (or sometimes “Rudy”) Leroy Williams, the
+protagonist of “The Cargo Rap,” was sentenced to prison at nineteen years
+of age for the attempted theft of forty dollars. Rudi narrates this slow, statesanctioned
+death that is the “negative inheritance” of the slave’s progeny
+that Stephen Best and Saidiya Hartman alert us to: “the ongoing production
+of lives lived in intimate relation to premature death (whether civil,
+social or literal).”51
+Phillips writes “The Cargo Rap” in epistolary form—as a series of letters
+penned by Rudi, namely to family members and to his defense committee,
+over the course of eighteen months. In this way, “The Cargo Rap”
+follows George L. Jackson’s Blood in My Eye letters, written right before his
+death on August 21, 1971, in San Quentin State Prison in California. Like
+Rudi, Jackson was convicted and incarcerated for armed robbery, accused
+of stealing seventy dollars from a gas station while still a teenager in 1961.
+On Jackson’s sentence, Foucault had this to say: “ten years in prison for
+70 dollars is a political experience—an experience of hostage, of a concentration
+camp, of class warfare, an experience of the colonized.”52 In one of
+his letters written in Soledad Prison on June 10, 1970, Jackson states that
+for the black man “being born a slave in a captive society and never experiencing
+any objective basis for expectation had the effect of preparing me
+for the progressively traumatic misfortunes that led so many black men to
+the prison gate. I was prepared for prison. It required only minor psychic
+adjustments.”53 Both Foucault and Jackson speak of incarceration as a condition
+of colonization and of captivity.
+In “The Cargo Rap” letters, we witness Rudi make sense of the traumatic
+misfortunes of the world outside of his solitary confinement, where such
+prolonged isolation makes his life one of constant exposure to fluorescent. 
+light and permanent illumination, living in “neither daytime nor nighttime.
+It is no time,” as he put it.54 To understand this constant and tortuous
+play of light on the body, Rudi asks his reader to “take a desk lamp and
+shine it into your face. Try to relax, think, act, concentrate, do everything
+in this position for twenty- four hours.”55 In an attempt to cope with the
+deliberate disorientation of “no time,” Rudi cultivates an ability to tell time
+by way of certain noises and silences, as some silences are “closer to dawn
+than others.”56 Rudi tells of isolation, routinization, inspections, premature
+death, and the harmful toll of prison life: deteriorating eyesight, The
+Wretched of the Earth, a ten- by- four- foot cell, a body atrophied, and the suffering
+of brutalities at the hands of the prison guards. This is a type of corporeal
+violence that was reported to Lo.c Wacquant in his study of the Los
+Angeles County Jail system as “getting the flashlight treatment,” where after
+violent beatings at the hands of prison guards one would be able to “read
+the brand of their flashlight” on the prisoner’s body.57 During Rudi’s brief
+sojourn in the general prison population, he writes: “I can have darkness.
+My eyes can rest easy at night.”58 He writes of his desperation to escape the
+“high- security barracoon” that holds him and of the travels and works of
+the black activists, writers, athletes, and artists that sustain him while living
+a slow- motion death in prison: Muhammad Ali, W. E. B. DuBois, Frantz
+Fanon, Marcus Garvey, Toussaint L’Ouverture, Paul Robeson, Harriet
+Tubman, Phillis Wheatley.
+Readers of Phillips’s “The Cargo Rap” are not privy to the responses, if
+any, to Rudi’s letters by his family members or his other correspondents.
+Instead, we are left only with Rudi’s thoughts. His letters are, he writes,
+“a little cargo rap about the children of Africa who arrived in this country
+by crossing the water.”59 Rudi’s first letter is to his mother, Alice, a domestic
+worker. In it he writes on Darwinism and self- preservation and he relates
+how unthinkable it is for her to even imagine trading places with the
+wealthy white women who employ her to work in their homes. With each
+of his letters, the plantation metaphor becomes even more direct as Rudi’s
+physical and mental conditions deteriorate further. Incarceration is a slowmotion
+death. Rudi’s last letter is dated August 1968, in a year that saw the
+assassinations of both Martin Luther King Jr. and Robert F. Kennedy, the
+passing of the Fair Housing Act meant to end discrimination in housing
+in the United States, riots in over one hundred U.S. cities, student coalitions
+occupying buildings on university and college campuses demanding
+education reform, and the black- gloved fists raised in protest by Af-rican American track and field medalists John Carlos and Tommie Smith
+during their medal ceremony at the Summer Olympic Games in Mexico
+City. Rudi’s last letter is addressed to his by-then- deceased mother. In it he
+writes, “the plantation is wide and stretches beyond the horizon. . . . We
+toil from ‘can’t see’ in the morning to ‘can’t see’ at night. The master is cruel,
+but nobody ‘knows’ him better than his slaves. There is strength in this.”60
+By now disoriented from doing time under the deliberately disorienting
+conditions of “no time,” in this letter Rudi inquires about the crops and tells
+of his capture by slavers and his hopes for return to Africa. In this plantation
+cum prison, he says, “Thirty feet above me a man sits on a watchtower
+with a rifle.”61 This final letter speaks of loss, prison time management, plantation
+rules, the Panopticon’s inspection tower, and survival of the Middle
+Passage’s cargo hold.
+I chose an excerpt from Dionne Brand’s A Map to the Door of No Return
+as this chapter’s epigraph to point to a symbolic moment and space of diaspora
+and belonging. This door, while located at La Maison des Esclaves
+(House of Slaves) museum on Gor.e Island, off the coast of Senegal, stands
+as a symbolic memorial of forced migrations that led to the mass vending
+of black people across the Atlantic Ocean. On it, Brand writes, “I think that
+Blacks in the Diaspora feel captive despite the patent freedom we experience,
+despite the fact that we are several hundred years away from the Door
+of No Return, despite the fact that the door does not exist.”62 This captive
+feeling that Brand describes is one of the vestiges of unfinished emancipations.
+A key aim of this chapter is to question how what Bob Marley names
+“the Babylon system,” and what Howard Winant situates as “the legacy and
+lessons of the Atlantic slave system,”63 can help us to think about how blackness
+is often absented from surveillance studies. “Babylon System” is the
+fourth track from the album Survival by Bob Marley and the Wailers, which
+was released in 1979. In it, Marley sings of refusal, freedom, and rebellion,
+with lyrics like, “from the very day we left the shores” and “we’ve been
+taken for granted much too long.” On the cover of the album is a schematic
+diagram of a slave ship with tiny figures meant to represent its human cargo.
+Superimposed on this diagram is the album’s title, Survival. In 1789, the
+London Committee of the Society for Effecting the Abolition of the Slave
+Trade produced and distributed Description of a Slave Ship (figure 1.2). Unlike
+Bentham’s blueprint of the Panopticon, this schematic diagram of a
+maritime prison is populated with tiny figures dressed in loincloths to represent
+the legally allotted amount of enslaved human cargo that the slave vessel Brooks (often referred to as Brookes) could transport under the Dolben
+Act of 1788, an act that regulated slave carrying and overcrowding.
+Some background regarding this plan is necessary here.64 The ship
+Brooks was built in 1781, commissioned by Liverpool- based slave merchant
+Joseph Brooks Jr. It was large as slave vessels go, weighing in at around 320
+tons and at one point carrying 609 enslaved captives during a 1787 voyage
+from the Gold Coast of Africa to Kingston, Jamaica.65 It took its final
+voyage in 1804 to Montevideo, Uruguay, under Captain William Murdock,
+where over three hundred people disembarked as slaves after a sixty- two-day voyage from West Africa. Description of a Slave Ship was fashioned by
+the London Committee in the hope of making “an instantaneous impression
+of horror upon all who saw it.”66 A similar rendering of a slave ship was
+produced in December 1788 by the Plymouth Committee of the Society
+for Effecting the Abolition of the Slave Trade. Named the Plan of an African
+Ship’s lower Deck with Negroes stowed in the Proportion of only One to
+a Ton, this earlier version featured an overview of an African ship’s cargo
+hold along with text that laid out the Plymouth Committee’s agenda, including
+the demand that the “cruelty and inhumanity of this trade must be
+universally admitted and lamented,” and advocated for “an end to a practice,
+which may, without exaggeration be stiled one of the greatest evils at
+this day existing upon the earth.”67 Copies were circulated in and around
+Plymouth, with some copies sent to the London Committee. By April 1789
+the London Committee had produced their version, which featured seven
+different views of the Brooks: a cutaway longitudinal view of the ship, cross
+sections of the stern deck and midship, and an overview of the plan of the
+lower deck with figures of the enslaved lying in a plank position, crammed
+into all available space. In a later version, Stowage of the British Slave Ship
+“Brookes” under the Regulated Slave Trade Act of 1788, the note for “Figure 3”
+detailed this cramped configuration: “the stowage of 130 additional slaves
+round the wings or sides of the lower deck by means of platforms or shelves
+(in the manner of galleries in a church) the slaves stowed on the shelves or
+below them have only a height of 2 feet 7 inches between the beams and far
+less under the beams.”68 Two feet and seven inches. The violence of slavery
+crudely reduced to geometric units, with room allotted for forty women,
+twenty-four
+boys, and sixty men, arranged in a “perfect barbarism,” as abolitionist
+Thomas Clarkson described this formation.69 This arrangement
+was, as W. E. B. DuBois put it, “a foretaste of hell.”70 Slave trader Theodore
+Canot outlined the stowing process:
+The second mate and boatswain descend into the hold, whip in hand,
+and range the slaves in their regular places: those on the right side of
+the vessel facing forward, and lying in each other’s lap, while those on
+the left are similarly stowed with their faces towards the stern. In this
+way each negro lies on his right side, which is considered preferable
+for the action of the heart.71
+Without such “strict discipline,” Canot wrote, “every negro would accommodate
+himself as if he were a passenger.”72 This spatial arrangement made for a crushing asphyxia: “The men therefore, instead of lying on their backs,
+were placed, as is usual, in full ships, on their sides, or on each other. In
+which last situation they are not unfrequently found dead in the morning.”
+73 The cargo hold is a slow- motion death.74 Some cheek- by- jowl, this
+crude arrangement made known that those crossing the Atlantic Ocean
+in this manner were not “passengers,” as they were allotted “half the room
+afforded soldiers, emigrants or convicts on ships of the same period,” but
+were instead to disembark, if alive, as slaves and as unfree.75 Rediker names
+the slave ship as “containing a war within,” in which sailors and other crew
+would function as prison guards who “battled slaves (prisoners)” when
+attempts at insurrection and other types of resistance were made.76 Other
+forms of resistance to this shipping arrangement came by way of refusals
+to eat, suicides, with some accounts telling of captives rushing all at once
+to the leeward end of the vessel “in a gale of wind, on purpose to upset the
+ship, choosing rather to drown themselves” than be subject to a life in slavery.
+77 They died from “grief, rage and despair,” C. L. R. James remarks in The
+Black Jacobins as he describes how some jumped overboard “uttering cries
+of triumph as they cleared the vessel and disappeared below the surface.”78
+Noted on one popular version of the Brooks diagram is this text:
+The “Brookes” after the Regulation Act of 1788, was allowed to carry
+454 Slaves, She could stow this number by following the rule adopted
+in this plate. Namely of allowing a space of 6 ft. by 1 ft. 4 in. to each
+man; 5 ft. 10 in. by 1 ft. 4 in. to each woman, & 5 ft. by 1 ft. 2 in. to
+each boy, but so much space as this was seldom allowed even after
+the Regulation Act. It was proved by the confession of the Slave Merchant
+that before the above Act the Brookes had at one time carried
+as many as 609 Slaves. This was done by taking some out of Irons &
+locking them spoonwise (to use the technical term) that is by stowing
+one within the distended legs of the other.79
+With women, men, girls, and boys locked spoonwise and segregated by age
+and sex, the production and containment of gendered difference is apparent.
+This stowage plan is what Hortense Spillers calls the making of “scaled
+inequalities.”80 Such accounting and architectural practices highlight the
+scale of the violence and trauma of the Middle Passage, a passage so named
+as it formed the middle leg of a triangular journey (the Middle Passage was
+bracketed between the journey from Europe to Africa and that from the
+New World to Europe). The London Committee version, Description of a Slave Ship, states that the male cargo would be shackled at the ankles, “two
+by two; the right leg of one to the left leg of the other, and their hands are
+secured in the same manor,”81 while the figures representing women and
+children were, in that rendering, unshackled, but in closer proximity to the
+captain’s cabin. The London Committee noted, “The principal difference is
+in the men. It must be observed, that the men, from whom only insurrections
+are to be feared, are kept continually in irons, and must be stowed in
+the room allotted for them, which is of a more secure construction of the
+rest.”82 The plan then, in its various versions, highlights the gendering of
+sexual violence, while diagrammatically and textually absenting the possibilities
+of women’s leadership and resistance in insurrections, as “only
+insurrections are to be feared” from men.83
+The Brooks diagram, “in serving the cause of the injured African,”84 offers
+an overview of the stowage plan of the slave merchant’s ship and forces
+me to reflect on my own surveillance practices in reading the archive of
+transatlantic slavery. The slave ship schematic is clinical in its architectural
+logic and provides an almost aerial viewpoint, overlooking the tiny black
+figures set to represent the enslaved drawn “like so many cartoon figures,”
+as Spillers describes.85 What does it mean that I now look to this plan, but
+not from the elevated and seemingly detached manner as it was first intended
+to be looked upon? When the plan was first fashioned, this vantage
+point was meant to be that of the predominantly white and male abolitionists
+and lawmakers. I am reminded here of what Donna Haraway calls
+the “conquering gaze from nowhere,” a gaze that is always unmarked, and
+therefore already markedly white and male, and one that claims a power
+to “represent while escaping representation.”86 I am also reminded here of
+Frantz Fanon’s moment of awareness of a “racial epidermal schema” on
+that train in France and “battered by tom- toms” and “slave- ships” and “dissected
+under white eyes, the only real eyes,” when he says, “I took myself far
+off from my own presence, far indeed and made myself an object.”87 What
+this visual representation of the slave ship points to is the primacy given
+in these abolitionist texts to white gazes and vantage points to the trauma
+of slavery, where the tiny black figures are made to seem androgynous,
+interchangeable, and replicable. This is the “god- trick of seeing everything
+from nowhere,” and, as Haraway warns, “this eye fucks the world.”88 So it
+gets a little tricky when I do this looking, seemingly an aerial reconnaissance
+mission of the archive of surveillance and of slavery. In the versions
+of the Brooks diagram that were produced in the United States, the slave ship plan as abolitionist text was made clear. A version published in the
+periodical American Museum in May 1789 noted that it was “published by
+order of the Pennsylvania Society for promoting the abolition of slavery.”
+89 Capitalization of all letters in “abolition” served an express purpose
+here, from the call for an end to the transatlantic slave trade to one for the
+abolition of slavery itself. Further, in this version the making of premature
+death through the stowage arrangements was described in this manner:
+“and reduced nearly to the state of being buried alive, with just air enough
+to preserve a degree of life sufficient to make them sensible of all the horror
+of their situation.”90 These conditions of premature death left many
+who traveled the Middle Passage as captives just on the cusp of survival.
+“Buried alive, with just air enough.” According to Rediker, the mortality
+rate onboard the Brooks was 11.7 percent, which was “high for its own day
+(average for British ships between 1775 and 1800 was 7.95 percent).”91 With
+a closer look at the Description of a Slave Ship, one can see that each of the
+tiny black figures are not replicas of each other; rather, some have variously
+crossed arms, different gestures, or seem to turn to face one another, while
+some stare and look back at the gaze from nowhere, and in so being the
+Description of a Slave Ship can also be understood as depicting black looks
+and the trauma of Middle Passage as multiply experienced and survived,
+and as hinting at the possible imaginings of what Omise’eke Natasha Tinsley
+terms “erotic resistance,” that being the same- sex relationships forged
+because of and in spite of this shipping arrangement, where the formation
+of such relationships—like the intimate bond of shipmates—itself was an
+act of resistance to “imperial desires for Africans’ living death.”92 Such resistance
+was a refusal of the Babylon system, or, as Bob Marley sings in
+“Babylon System”: “we refuse to be what you want us to be / we are what
+we are.”
+Racializing Surveillance
+The historical formation of surveillance is not outside of the historical
+formation of slavery. Using narratives of ex-slaves, runaway slave advertisements,
+the census, and a set of plantation rules as primary source data,
+what follows is a historicizing of some of the concepts and concerns that
+now shape the field of surveillance studies, approached by examining slave
+surveillance practices. The continuities that this archive reveals offer social theorists, I argue, new ways of understanding surveillance in contemporary
+life.
+Plantations, Passes, and Runaways
+In the ten “General” and nineteen “Particular” rules for overseers recorded
+in the mid- nineteenth century by Charles William Tait for the governing
+of enslaved laborers on Sylvania, his 6,000-acre plantation in Columbus,
+Texas, Tait listed the prescribed methods for crop cultivation and clearing
+land, specified food rations, noted the daily schedule around meals and
+rest (“they must be ready to go to work by sunrise”), and detailed his punishment
+regime (“always attempt to govern by reason in the first instance
+and resort to force only when reason fails”), as well as postnatal procedures
+and back- to-work legislation for new mothers (“never require field- work
+of a woman, until the expiration of four weeks after confinement”).93 With
+the eighth general rule, Tait noted that “a regular and systematic plan of
+operation is greatly promotive of easy government. Have all matters therefore,
+as far as possible reduced to a system.”94 Tait’s directives on the managerial
+control of slaves demonstrate how disciplinary power operated by
+way of set rules, instructions, routines, inspection, hierarchical observation,
+the timetable, and the examination. The timetable, then, was a means
+of regimenting enslaved labor through repetition where there was an attempt
+to account for every moment of enslaved life: “always require the negroes
+to eat their breakfast before they go to work” and “every negro- cabin
+to be inspected every sunday morning to see that it is kept clean. Every
+negro to appear in the field on Monday morning in clean clothes.” Tait’s
+fifteenth particular rule prescribed that “no profane or obscene language
+to be allowed among the negroes.” The seventh general rule on punishment
+was an explicit directive regarding the overseer’s performance that
+accompanied the punishment, as Tait wrote, “Never act in such a way as to
+leave the impression on the mind of the negro that you take pleasure in his
+punishment, your manner should indicate that his punishment is painful.”
+So the prescribed punishment must be performed as a pain experienced
+by the overseer, who is not to express the possibility of pleasure taken in
+performing acts of violence. That a rule needed to be put in place in order
+to prevent such displays of violent delight should leave us to question the
+rates at which such pleasure was really expressed when, as Saidiya Hartman
+tells us, plantation practices sought to “make discipline a pleasure, and
+vice versa.”95 Importantly, this rule shows that for Tait, this pained perfor-mance by the overseer was a suffering that was meant to be remembered
+in the mind of the punished. Overseers were instructed by Tait’s ninth
+general rule that “Negroes lack the motive of self- interest to make them
+careful and diligent,” so in order to incentivize enslaved workers, “do not
+therefore notice too many small omissions of duty.” What Tait’s rules for
+overseers also make known is that plantation surveillance was an exercise
+of both sovereign power and racialized disciplinary power, working simultaneously,
+discretionarily, and in a prescribed fashion, as both were put to
+use in plantation societies to render slave life expendable.
+In Tait’s rules for what he called the “easy government” of his East Texas
+plantation, the specific rules on bureaucratic management and surveillance
+of slave mobilities, notably escape, were also made plain with particular
+rule “17th the negroes are never to be allowed to leave the plantation unless
+by special permission, and a written pass” and particular rule “18th no
+strange negro to be allowed to visit the plantation, unless by permission of
+the overseer, & a written pass from his master.” The slave pass system relied
+on the notion that the slave could be known through a written identification
+document. Christian Parenti’s writings on the kinds of surveillance
+practices employed during chattel slavery in the southern United States
+name the “information technologies” of the written slave pass, wanted
+posters and advertisements for runaway slaves and servants, and organized
+slave patrols as key features of this system.96 Parenti situates plantation surveillance
+as the earliest form of surveillance practiced in the Americas. This
+was a system of surveillance that was regulated through violence and the
+written word.
+The following accounts from Born in Slavery: Slave Narratives from the
+Federal Writers’ Project, 1936– 1938 detailing the slave pass system further this
+point:
+By 1845 there were many laws on the Statute books of Georgia concerning
+the duties of patrols. . . . Every member of the patrol was required
+to carry a pistol while on duty. They were required to arrest
+all slaves found outside their master’s domain without a pass, or who
+was not in company with some white person. He was empowered to
+whip such slave with twenty lashes.97
+The pattie- rollers was something else. I heard folks say they would
+beat the daylights almost out of you if they caught you without no
+pass.
+In the plantation system, the restriction of the mobility and literacy of the
+enslaved served as an exercise of power. The racializing surveillance of the
+slave pass system was a violent regulation of black mobilities. On and off
+the plantation, black mobility needed to be tightly regulated in order for
+slave owners to maintain control, so, as ex-slave Anderson Furr put it, one
+had to “git a pass for dis and a pass for dat.”99 This was a system that also
+relied on the publication and circulation of newspaper advertisements for
+runaway slaves and truant servants that announced not only those who
+escaped or went missing from plantations, but also those people who left
+enslavement in private homes and establishments, like shops, inns, and taverns
+in cities and urban spaces.
+Runaway slave advertisements reveal a lot about black flight to freedom,
+as these notices of escape would not only name those who left enslavement
+and made their own way, but also provide a physical description and list
+the monetary rewards, if any, that awaited those who aided in their capture
+and return. These ads would list their talents, occupations and skills, vices,
+languages spoken and whether or not they could read or write, strategies
+they might have used to escape, and what they were wearing and took with
+them when they made their way. Also listed would be clothing, musical
+instruments, and other items that could be sold, traded, bartered, or used to
+support the appearance of being free. An advertisement for a runaway slave
+might read like so: “RUN away, a Negro Man named Tom, born in Jamaica,
+but last from Havannah,” “blubber Lips, yellow Complexion, his Hair is
+neither right Negro nor Indian, but between both,” “His eyes very full, as if
+they were starting out of his head,” “had on when he went away a felt Hat,
+a Cotton Cap, a Homespun Coat with brass Buttons, a West- coat without
+sleeves, an Oznabrigs shirt, Leather Breeches with Brass Buttons, a pair of
+worsted Stockings and a pair of yarn ones, two pair of peak’d toe’d Shoes,”
+“his great Toes have been froze, and have only little pieces of nails on them,”
+“plays well on the Fiddle, and can read and write; perhaps he may have a
+false pass,” “is plausible and smooth in speaking, and may pass himself for
+a Sailor, having been used to a boat,” whoever secures said Negro shall have
+a reward of five pounds.100
+An unusually long 1762 advertisement for “a Mulatto Servant man
+named Charles Roberts” states not only his age and height, but the condition
+of the clothes he carried, “several other Waistcoats, Breeches, and Pair
+of Stocking; a blue Great Coat, and a Fiddle.” John Holt placed this ad, and
+in it he states that Roberts spoke “smoothly and plausibly, and generally with a cringe and a smile,” and was good at arithmetic and accounting, leading
+Holt to charge that Roberts had probably forged documents to pass as
+a free man although he had “no legal claim to freedom.” Holt laments that
+he placed confidence in Roberts, “which he has villainously abused; having
+embezzled Money sent him to pay for Goods, borrowed money and taken
+up goods” in Holt’s name, unbeknownst to him. The reward for Roberts’s
+capture in New York City was five pounds, and if found elsewhere the award
+would be greater. Anyone who captured him, the ad instructed, was to leave
+any money found on Roberts’s person with the magistrate and was warned
+to be careful and “very watchful against an Escape, or being deceived by
+him, for he is one of the most artful of Villains.”101 Through their detailing
+of physical descriptions, the surveillance technology of the runaway slave
+advertisement was put to use to make the already hypervisible racial subject
+legible, borrowing again from John Fiske here, as “out of place.”102
+Runaway slave advertisements were not only about ascribing physical
+details to the runaway, but also offered the slave owner’s assessment of the
+fugitive’s character. One example of the role of runaway slave advertisements,
+and similarly wanted posters, in upholding racial categorization is
+a March 15, 1783, advertisement in the Royal Gazette offering a “Two Dollars
+reward” for “a Mulatto, or Quadroon Girl, about 14 years of age, named
+Seth, but calls herself Sall.” This runaway advertisement states that Seth
+“sometimes says she is white and often paints her face to cover that deception.”
+Seth’s duplicity is not limited to her use of the alias “Sall,” as this notice
+informs its readers, but also to her racial ambiguity, in her apparent
+choosing to self- identify or pass as white, rather than as “a Mulatto” (one
+black parent and one white parent) or a “Quadroon Girl” (one black grandparent),
+which was the racial nomenclature of the one- drop rule arising
+out of slavery and continuing beyond that institution. This advertisement
+also remarks that Sall has been “seen dancing” and “is well known in town,
+and particularly at the Fly- Market, for many wicked tricks.” The Fly- Market
+in Lower Manhattan served as the city’s market for provisions and other
+goods up until the early nineteenth century. Sall’s ability to evade surveillance
+through makeup, wicked tricks, and hiding in plain sight exposes the
+one- drop rule as a social construction that, for some, could be subverted by
+performing whiteness. Seth’s, or sometimes Sall’s, hiding in plain sight—
+by identifying as white and using an alias—was a freedom practice to evade
+surveillance, and in so being a form of dark sousveillance. An 1836 runaway advertisement describes Edmund Kenney, who escaped enslavement by
+passing as white, thus: “he has straight hair, and complexion so nearly
+white, that it is believed a stranger would suppose there was no African
+blood in him.”103 An 1845 advertisement boasting a five hundred dollar reward
+for “a negro woman named Fanny” described her as a Bible- carrying,
+literate, “intelligent woman” who was “as white as most white women, with
+straight light hair, and blue eyes, and can pass herself for a white woman.”104
+The Census
+In 1848 when Ellen and William Craft made their way out of Georgia and escaped
+chattel slavery by trains and by ships, they were able to do so through
+the ways in which Ellen’s body was able to trouble the one- drop rule. Born
+to a black mixed- raced mother and fathered by the white man who owned
+her mother, Ellen was, at the time, labeled a quadroon but able to pass as
+white, as sometimes deaf and an “invalid gentleman” named “Mr. William
+Johnson.” She passed as her husband’s owner in order to secure his freedom
+as well as her own.105 She used a poultice and put it in a white handkerchief
+“worn under the chin, up the cheeks, and to tie over the head,” hoping that
+this disguise would hide “the expression of the countenance, as well as the
+beardless chin.”106 Because she could not read or write at the time of her
+escape, she feigned inflammatory rheumatism and placed her right arm in
+a sling in order to evade detection if, for example, she were asked to sign
+her name in a hotel’s guest register. With Craft, her passing in terms of race,
+passing in terms of gender, passing in terms of class, and passing in terms of
+disability all played a role in her and William’s passing into freedom.107 The
+Crafts eventually left Boston to later arrive in England, where they lived for
+nineteen years before returning to the United States, where they opened
+a school for children and a cooperative farm in Georgia. In the 1850 census,
+Ellen was listed as residing in Boston and her race is recorded as Black
+(or rather ″ for “ditto,” as it was recorded in the column under William’s).
+The 1850 census marked the first time that the federal census included slave
+schedules for some states in order to enumerate each enslaved person held
+in a household or dwelling. By the 1890 census, Ellen Craft was recorded as
+“M” for Mulatto and her occupation as “keeping house” in Bryan County,
+Georgia.
+In the United States, racial nomenclature as a form of population management
+was made official with the taking of the first federal census in 1790, which asked questions regarding the number of free white males, free white
+females, other free people, and slaves in a household. Census enumeration
+is a means through which a state manages its residents by way of formalized
+categories that fix individuals within a certain time and a particular space,
+making the census a technology that renders a population legible in racializing
+as well as gendering ways. The census is a form of “state stocktaking,”
+as David Theo Goldberg puts it, which discloses “population size, shape,
+distribution, quality and flow of labor supply, taxation and conscription
+pools, political representation, voter predictability, and the necessities of
+population reproduction.”108 While such “state stocktaking” sees the census
+informant respond to a series of questions, including date of birth, how
+many people live in a single dwelling, and whether or not the dwelling is
+rented or owned, it takes the form of racializing surveillance through its
+very reinscription of racial categories. As an example, in terms of racial categories
+and the U.S. census form, there has remained a constant, unspecified
+whiteness as a racial category. Rather than employing an alphabetical
+order, “White” is always listed first among the boxes from which to choose
+in order to answer the question of the census informant’s race. The proliferation
+of racial categories from which to choose, or have one’s answer
+assigned, was first reserved for the management of blackness, with other
+groupings later added to reflect changing immigration patterns. In the 1890
+census, Mulatto, Quadroon, and Octoroon appeared as subcategories of
+“Black,” but by the 1900 census these subcategories were “collapsed into
+the singularity of an unqualified blackness,” reflecting the one- drop rule.109
+“Mu” for Mulatto was reintroduced in 1910 and in the 1930 census it was
+replaced with “Neg” for Negro, a racial category that would fall in and out
+of favor, depending on each subsequent decennial enumeration. For the
+2010 census, “Black, African- Am or Negro” were subsumed under one box
+and in 2013 the Census Bureau announced that “Negro” would be dropped
+from its surveys. As Goldberg writes, when the category “Mexican” was
+first introduced, it was understood as meaning not white unless the census
+informant “explicitly and accurately claimed white descent.”110 In this way,
+it was left to the census taker to judge whether the census informant’s claim
+to the category of whiteness was valid, rather than accepting at face value
+the informant’s self- identification as white. The 2010 questionnaire asks
+if the census informant is “of Hispanic, Latino, or Spanish origin,” and, if
+“yes,” the informant can choose “Mexican, Mexican Am., Chicano,” Puerto
+Rican, or Cuban or fill in the blank to specify “another Hispanic, Latino, or Spanish origin.” From its inception, the census has been a technology
+of disciplinary power that classifies, examines, and quantifies populations.
+What It’s Like, What It Is:
+Controlling Images and Black Looks
+In Fighting Words: Black Women and the Search for Justice, while referring
+not specifically to prison surveillance or plantation slavery but to the postslavery,
+segregated southern United States, Patricia Hill Collins writes
+that while racial segregation was aimed at black people as a group or class
+and sought to erase individuality by making black people seemingly interchangeable,
+surveillance “highlights individuality by making the individual
+hypervisible and on display.”111 As part of the practice of “racial etiquette”
+in the segregated South, surveillance, Collins tells us, was a way of
+ensur ing that “Blacks would stay in their designated, subordinate places in
+white- controlled public and private spheres.”112 Collins situates the bodies
+and lives of black women who labored as domestic workers and the
+white- controlled private homes in which they were employed as the “testing
+ground for surveillance as a form of control” that was enacted by way of
+“techniques of surveillance,” including close scrutiny, sexual harassment,
+assault, violence, or the threat thereof. For the white women who employed
+them, Collins argues, this arrangement was predicated on the illusion that
+“the Black women workers whom they invited into their private homes felt
+like ‘one of the family,’ even though they actually had second- class citizenship
+in the family.”113 Yet within these labor conditions of hypervisibility,
+black domestic workers needed to assume a certain invisibility where, as
+bell hooks observes, “reduced to the machinery of bodily physical labor,
+black people learned to appear before whites as though they were zombies,
+cultivating the habit of casting the gaze downward so as not to appear
+uppity.”114 Seemingly “invisible to most white people, except as a pair of
+hands offering a drink on a silver tray,” this signifying act was performed
+by many domestic laborers so that they would be assumed to be readily
+manageable and nonthreating.115 Coupled with this system of scrutinizing
+black women’s domestic labor in private white homes was the controlling
+image of “the mammy,” one of “several interrelated, socially constructed
+controlling images of Black women, each reflecting the dominant group’s
+interest in maintaining Black women’s subordination.”116 The mammy as a representational practice relies on the circulation of stereotyped images
+and ideologies of black womanhood that seek to position black women
+as “the faithful, obedient domestic servant.”117 The mammy is depicted as
+caring for the family in which she is employed, often to the sacrifice of her
+own. This social control mechanism was “created to justify the economic
+exploitation of house slaves and sustained to explain Black women’s longstanding
+restriction to domestic service,” representing, as Collins puts it,
+“the normative yardstick used to evaluate all Black women’s behavior.”118 In
+so being, the mammy served as a symbol of “the dominant group’s perceptions
+of the ideal Black female relationship to elite White male power.”119
+She is content, deferential, forgiving, nurturing, and loyal to the family
+that she cares for, operating with some authority, however marginal, while
+still knowing “her ‘place’ as obedient servant.”120 Such exaggerated representational
+strategies work to rationalize the economic exploitation and
+sexual subjugation of black domestic workers and of those who labor in
+low- paying conditions in the service sector. This mammy image circulates
+throughout dominant culture, from films such as Gone with the Wind (1939)
+to The Help (2011), to what Patricia A. Turner calls “contemptible collectibles,”
+those distorted depictions of blackness that often take the shape of
+figurines, postcards, kitchen utensils, and lawn ornaments. Simply put,
+“Mammy is the public face that Whites expect Black women to assume for
+them.”121 Of course, many black women who labored in white households
+forged loving and nurturing relations with their own families, despite the
+harsh working conditions of white supremacy.122
+In her discussion of the black gaze and looking relations during slavery
+and during the racial apartheid of Jim Crow in the southern United States,
+hooks notes that although black people “could be brutally punished for
+looking, for appearing to observe the whites they were serving, as only a
+subject can observe or see,” the violent ways in which blacks were denied
+the right to look back “had produced in us an overwhelming longing to
+look, a rebellious desire, an oppositional gaze.”123 “Black looks” were politicized
+and transformative when, as hooks states, “by courageously looking,
+we defiantly declared: ‘Not only will I stare. I want my look to change
+reality.’ ”124 This stare is the type of “eyeballing disposition” that disrupts
+racializing surveillance where, as Maurice O. Wallace discusses, such looks
+challenge the “fetishizing machinations of the racial gaze.”125
+Disruptive staring is the focus of Pan’s Opticon, a fifteen- panel photograph
+by South African artist Robin Rhode (figure 1.3). In it, Rhode’s sub-ject, a black man and Rhode’s doppelg.nger, is smartly dressed in a fashion
+similar to that of the subjects that South African photographer Ernest Cole
+documented in his 1967 book House of Bondage as they toiled, were relocated
+or banished, defied, and survived under passbook laws and the racist
+repression of apartheid South Africa. It can also be said that Rhode’s subject
+gestures to the tsotsi aesthetic popularized by Soweto youth and those in
+other townships of Johannesburg in the 1940s, a style and fashioning of masculinity
+that reflected working- class township life: a dark pinstriped jacket,
+white- collared shirt, and a straw boater hat.126 His back is to the camera as
+he faces a concrete wall. His stare is accessorized with inside calipers—like
+compasses, but with the needles at each end curving outward—that appear
+to jut out from each of his eyes. The inside caliper first appeared around the
+sixteenth century as a measuring device often used to determine the dimensions
+of an aperture, that being the space through which light rays pass and
+come into focus on an image surface. In photography, the aperture’s diameter
+regulates the amount of light that reaches the image surface. The smaller the
+aperture size, the darker the surface will appear. For the astronomical telescope,
+the aperture is the optical element that gathers light and brings the
+atmosphere into focus. No telescope, so far, can make dark matter visible.
+Rhode’s subject in the Pan’s Opticon series is suited up with a prosthetic
+look. His ocular interrogation confronts the Panopticon and the architecture
+of surveillance—corners, shadows, reflections, and light—covering
+the wall with dark matter. On the subject of walls and architecture, Rhode
+writes that “when one speaks of walls, one speaks of security, privacy, and
+demarcation.”127 Rhode’s Pan’s Opticon is a play on Bentham’s Panopticon.
+Rhode’s naming of his series of photographs with the possessive noun Pan’s
+is a claiming of Bentham’s eighteenth- century plan for “obtaining power of
+mind over mind.”128 Rhode’s black subject is not backed into a corner, but
+facing it, confronting and returning unverified gazes. That Rhode is a South
+African artist based in Germany points to the ways that disruptive staring
+can be transnational, as transnational as the structures that it disrupts. The
+stenciled circumferences of incomplete circles of black spray paint seemingly
+emanate from his eyes onto the wall’s surface. With each frame of the
+storyboard, the circles refracted by the subject’s eyes multiply, overlapping
+each other like disorganized Venn diagrams until the corner is completely
+covered in dark matter. In one frame, no neat stenciled circles appear, just
+two solid but smaller black circles of spray paint dripping down from the
+calipers onto the concrete wall, suggesting, perhaps, a peephole for a cu-rious spectator’s stolen vision, or the excesses of black looks that bleed
+outside stenciled borders, color outside the lines, and are out of place.
+The disruptive stare of the subject in Adrian Piper’s video installation
+What It’s Like, What It Is #3 (figure 1.4) is one such act of courageous looking.
+At the center of this installation is a four- sided column, like the Panopticon’s
+inspection tower, but with each side of the column fitted with a
+television screen. Each screen plays prerecorded video of the front, back,
+and profile views of a black man (actor John L. Moore) who stares at those
+watching Piper’s installation as he states his refusals of the stereotypes
+placed upon blackness: “I’m not pushy. I’m not sneaky. I’m not lazy. I’m not
+noisy.” After listing four such refusals, he turns to face another direction
+and then lists four more: “I’m not vulgar. I’m not rowdy. I’m not horny. I’m
+not scary.” He looks directly at the viewers of this installation, who can be
+either standing or seated on the bleacher- like seating that surrounds the
+center column. The installation is all- white and through its use of mirrors,
+the video is reflected throughout. In this setting like a lecture hall, viewers of this installation are then instructed by the lists of refusals of the critique
+coming from the bodiless head in the column. In this way, What It’s Like,
+What It Is #3 can be read as confronting the surveillance imposed upon
+black life. The soundtrack to the nearly five- minute video of the installation
+is the Commodores’ song “Zoom” (1977), playing in the background while
+the subject tells what it’s like to live with antiblack racism, racial stereotyping,
+and the scrutiny of white supremacy coming from all sides: “I’m not
+shiftless. I’m not crazy. I’m not servile. I’m not stupid.” His list of what black
+people are not is looped in repetition, leaving a space for alternative imaginings
+of what blackness really is and could be, while the voice of Commodores
+lead singer Lionel Richie croons in the background track, singing,
+“Zoom. I’d like to fly far away from here . . . where everybody can be what
+they want to be” and “I wish the word they call freedom someday would
+come.” The song’s lyrics express hope for escape, freedom, and a new way
+of being. In this way, Piper’s piece offers us a look at oppositional gazing
+and talking back to the normalizing judgment and hierarchical observa-tion of disciplinary, controlling images. Talking back is, as hooks puts it,
+“the expression of our movement from object to subject” and a “gesture of
+defiance that heals, that makes new life and new growth possible.”129 Talking
+back, then, is one way of challenging surveillance and its imposition of
+norms.

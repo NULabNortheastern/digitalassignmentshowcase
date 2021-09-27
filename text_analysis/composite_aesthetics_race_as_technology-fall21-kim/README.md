@@ -52,6 +52,6 @@ This module goes over computational text analysis for a corpus of texts. The mod
 [stopwords.txt](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/composite_aesthetics_race_as_technology-fall21-kim/browne_corpus/stopwords.txt)
 
 ## DTI Consultants
-Tieanna Graphenreed
-Colleen Nugent 
+- Tieanna Graphenreed
+- Colleen Nugent 
 =======

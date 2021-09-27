@@ -1,4 +1,4 @@
-# Digital Storytelling
+# Computational Text Analysis Suite
 This module will cover four main tools for computational text analysis including:
 - Word Counter
 - Word Tree

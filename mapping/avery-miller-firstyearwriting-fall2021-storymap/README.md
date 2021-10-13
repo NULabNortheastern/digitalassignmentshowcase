@@ -38,6 +38,8 @@ This module will go over components of storytelling and how these components may
 
 [Handout: Copyright and Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/avery-miller-firstyearwriting-fall2021-storymap/Copyright-fair-use-handout.pdf)
 
+[Handout: Preparing for Today's Session](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/avery-miller-firstyearwriting-fall2021-storymap/Preparing%20for%20Today's%20DITI%20Session_%20ENGW%201111.pdf)
+
 [Spreadsheet Template](https://docs.google.com/spreadsheets/d/1bGPGdqDG_N42nPODBgWL718iv-711S36IhmkfvL1wmo/edit#gid=0)
 
 DITI's [Intro to StoryMap Video](https://youtu.be/X33ud7RYZFg)

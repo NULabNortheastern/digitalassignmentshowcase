@@ -46,10 +46,5 @@ DITI's [Intro to StoryMap Video](https://youtu.be/X33ud7RYZFg)
 
 <h2> DITI Consultants </h2>
 
-Tieanna Graphenreed
-
-<<<<<<< HEAD
-Claire Tratnyek 
-=======
+Tieanna Graphenreed and
 Claire Tratnyek
->>>>>>> 333138e9a2752308be9bb6bff30cac368c5e77ad

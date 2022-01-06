@@ -6,12 +6,9 @@ HUSV 3900: Social Policy
 <br>
 Emily Mann
 <br>
-Fall 2020
+Spring 2022
 <br>
-Number of students: 19
-<br>
-MW 2:50–4:30
-<br>
+
 
 ## Summary of Module
 This module will go over the basics of Audacity. The second portion of this module will be supporting students and asking questions while they edit and piece together their podcasts later in the semester.
@@ -30,13 +27,12 @@ This module will go over the basics of Audacity. The second portion of this modu
 ## Documents for Module
 
 ### Handouts
-- [Handout on Installing Audacity](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/social_policy-spring2020-mann/handout-install_audacity.pdf)
-- [Handout on Using Audacity](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/social_policy-spring2020-mann/handout-intro_to_audacity.pdf)
-- [Handout on Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/social_policy-spring2020-mann/handout-fair_use_resources.pdf)
+- [Handout on Installing Audacity](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/social_policy-spring2022-mann/handout-install_audacity.pdf)
+- [Handout on Using Audacity](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/social_policy-spring2022-mann/handout-intro_to_audacity.pdf)
+
 
 ### Slides
-- [Day 1: Introduction to Audacity](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/social_policy-spring2020-mann/slides-day1.pdf)
-- [Day 2: Audacity Workshop](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/social_policy-spring2020-mann/slides-day2.pdf)
+- [Introduction to Audacity](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/social_policy-spring2022-mann/Audacity%20Slides.pdf)
 
 ### Audio Samples
 - "Footsteps, Dry Leaves, F.wav" by InspectorJ (www.jshaw.co.uk) of Freesound.org

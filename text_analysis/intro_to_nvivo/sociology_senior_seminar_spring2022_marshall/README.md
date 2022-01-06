@@ -32,9 +32,9 @@ Qualitative Coding with NVivo
 ### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/intro_to_nvivo/sociology_senior_seminar_spring2022_marshall/Slides-NVivo.pdf)
 
 ### Handouts
-[Installing NVivo](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/intro_to_nvivo/sociology_senior_seminar_spring2022_marshall/handout-installingNVivo.docx)
+[Installing NVivo](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/intro_to_nvivo/sociology_senior_seminar_spring2022_marshall/handout-installingNVivo.pdf)
 <br/>
-[Intro to NVivo for Qualitative Coding](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/intro_to_nvivo/sociology_senior_seminar_spring2022_marshall/handout-NVivo.docx)
+[Intro to NVivo for Qualitative Coding](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/intro_to_nvivo/sociology_senior_seminar_spring2022_marshall/handout-NVivo.pdf)
 
 ### Sample Data
 [Sample Transcript](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/intro_to_nvivo/sociology_senior_seminar_spring2022_marshall/California%20Prison%20Inmates%20Interview.pdf)

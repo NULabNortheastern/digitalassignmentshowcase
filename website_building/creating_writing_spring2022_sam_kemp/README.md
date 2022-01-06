@@ -1,27 +1,33 @@
-# Introduction to Omeka
+# Introduction to Wix and WordPress
 
 
 ## Individual Class Info
-ENGL 7380: Queer Digital Curation
+Creative Writing
 <br>
-K.J. Rawson
+Sam Kemp
 <br>
-Spring 2021
+Spring 2022
 <br>
 
 ## Summary of Module
-This module is an introduction to using Omeka and teaches basic terminology, how to navigate the program, how to add items and metadata, and how to organize items.
+This module will cover creating and designing a website using WordPress. It demonstrates how to sign up for an account with the WordPress content management systems (CMS), create a website through your specific CMS's username, choose templates, and customize your website based on audience, project themes, media to be included, and more. 
 
 ## Learning Goals
--Learn how to navigate Omeka and add items and metadata <br>
--Learn different ways to organize items in Omeka
+-Understand the layout and choices available through WordPress <br>
+-Better articulate your intended audience and design choices to appeal to that audience
 
 ## Learning Objectives
-Students will be able to use Omeka to curate items. Students will be able to successfully navigate Omeka and add items, metadata, collections, tags, item types, simple pages, and exhibits.
+●	Create a WordPress website <br>
+●	Use specific CMS features, like the “Add” function <br>
+●	Create a blog section on the WordPress website
+
 
 ## Documents for Module
 
 ### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/queer_digital_curation-spring2021-rawson/Slides.pdf)
+### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/creating_writing_spring2022_sam_kemp/Handout_WordPress.docx)
+### [Template](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/creating_writing_spring2022_sam_kemp/Template_Kemp_WebsiteBuilding-Critical-Thinking-Activities.docx)
 
 ## DITI Consultants:
-Created by Talia Brenner and Adam Tomasi with Sarah Connell and Patrick Murray-John
+Vaishali Kushwaha,
+Yana Mommadova

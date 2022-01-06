@@ -25,8 +25,8 @@ This module will cover creating and designing a website using WordPress. It demo
 ## Documents for Module
 
 ### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/queer_digital_curation-spring2021-rawson/Slides.pdf)
-### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/creating_writing_spring2022_sam_kemp/Handout_WordPress.docx)
-### [Template](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/creating_writing_spring2022_sam_kemp/Template_Kemp_WebsiteBuilding-Critical-Thinking-Activities.docx)
+### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/creating_writing_spring2022_sam_kemp/Handout_WordPress.pdf)
+### [Template](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/creating_writing_spring2022_sam_kemp/Template_Kemp_WebsiteBuilding-Critical-Thinking-Activities.pdf)
 
 ## DITI Consultants:
 Vaishali Kushwaha,

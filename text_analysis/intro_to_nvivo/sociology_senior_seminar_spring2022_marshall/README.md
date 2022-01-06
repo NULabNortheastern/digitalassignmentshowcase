@@ -1,46 +1,44 @@
 # Qualitative Coding with NVivo
 
 ## Individual Class Info
-CRIM 3600 Research Methods
+SOCL 4600 Senior Seminar
 <br>
-Stacie St. Louis
+Ineke Marshall
 <br>
-Summer 2 - 2020
+Spring 2022
 <br>
-Number of students: 11
-<br>
-Date and Time: July 28, 12-2:00
-<br>
-Location: Remote
- <br>
+
 
 ## Summary of Module
-This module will ask students to choose one person to interview, transcribe that interview, and qualitatively code it using Nvivo. For this portion, we will use sample transcript excerpts as well as the students’ transcripts of their interviews to practice qualitative coding and visualizing results with NVivo.
+This module will go over the basics of how to install NVivo and use the software as a literature review and research tool. Students will be introduced to the basic concepts of NVivo and then taught how to import documents, create nodes, and basic analytical visualizations and queries.
+This module will ask students to choose one person to interview, transcribe that interview, and qualitatively code it using Nvivo. For this portion, we will use a sample source as well as the students’ transcripts of their interviews to practice qualitative coding and visualizing results with NVivo. 
+
 
 ## Learning Goals
-- Define qualitative coding and why it can be useful while doing research
-- Understand what NVivo is as a research tool and what it can do
-- Learn important NVivo-specific vocabulary to aid independent research
+Qualitative Coding with NVivo
+●	Define qualitative coding and why it can be useful while doing research
+●	Understand what NVivo is as a research tool and what it can do
+●	Learn important NVivo-specific vocabulary to aid independent research  
+
 
 ## Learning Objectives
-- Create a basic set of nodes using sample transcripts
-- Learn out to import data, create nodes, code data, and see/interpret results of coding
-- Use Nvivo to begin creating nodes and coding their own interview transcripts
+●	Create a basic set of nodes using sample transcripts
+●	Learn out to import data, create nodes, code data, and see/interpret results of coding
+●	Use Nvivo to begin creating nodes and coding their own interview transcripts 
+
 
 ## Documents for Module
 
-### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/intro_to_nvivo/research_methods-summer2020-st_louis/Slides%20NVivo.pdf)
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/intro_to_nvivo/sociology_senior_seminar_spring2022_marshall/Slides-NVivo.pdf)
 
 ### Handouts
-[Installing NVivo](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_analysis/soc_research_methods-fall2019-marshall/day2-NVivo/handout-installingNVivo.pdf)
+[Installing NVivo](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/intro_to_nvivo/sociology_senior_seminar_spring2022_marshall/handout-installingNVivo.docx)
 <br/>
-[Intro to NVivo for Qualitative Coding](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/intro_to_nvivo/research_methods-summer2020-st_louis/handout-installingNVivo.pdf)
+[Intro to NVivo for Qualitative Coding](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/intro_to_nvivo/sociology_senior_seminar_spring2022_marshall/handout-NVivo.docx)
 
 ### Sample Data
-[Sample Transcript 1](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/intro_to_nvivo/research_methods-summer2020-st_louis/sample-interview-transcript1.pdf)
-<br/>
-[Sample Transcript 2](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/intro_to_nvivo/research_methods-summer2020-st_louis/sample-interview-transcript2.pdf)
+[Sample Transcript](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/intro_to_nvivo/sociology_senior_seminar_spring2022_marshall/California%20Prison%20Inmates%20Interview.pdf)
 
 ## DITI Consultants
 Created by Cara Marta Messina
-Updated and presented by Milan Skobic
+Updated and presented by Yana Mommadova and Tieanna Graphenreed

@@ -2,11 +2,9 @@
 
 <h2> Individual Class Info </h2>
 
-ENGL 3380: Critical Art & Culture Writing
+SPNS 2101: Intermediate Spanish
 
-Eunsong Kim
-
-April 5, 1:35 - 3:15PM
+Monica Canavan
 
 Spring 2022
 
@@ -30,15 +28,15 @@ This module will go over components of storytelling and how these components may
 
 <h2> Materials for Module </h2>
 
-[KnightLab StoryMap Presentation Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/kim-critical_art_and_culture-spring2022/StoryMap_slides.pdf) 
+[KnightLab StoryMap Presentation Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/canavan-intermediate_spanish-spring2022/StoryMap_slides.pdf) 
 
-[Handout: KnightLab StoryMap](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/kim-critical_art_and_culture-spring2022/StoryMap%20Handout.pdf)
+[Handout: KnightLab StoryMap](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/canavan-intermediate_spanish-spring2022/StoryMap%20Handout.pdf)
 
-[Handout: Spreadsheet Template User Guide](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/kim-critical_art_and_culture-spring2022/Handout_%20Storymap%20Spreadsheet%20Template.pdf)
+[Handout: Spreadsheet Template User Guide](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/canavan-intermediate_spanish-spring2022/Handout_%20Storymap%20Spreadsheet%20Template.pdf)
 
-[Handout: Copyright and Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/kim-critical_art_and_culture-spring2022/Copyright-fair-use-handout.pdf)
+[Handout: Copyright and Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/canavan-intermediate_spanish-spring2022/Copyright-fair-use-handout.pdf)
 
-[Handout: Black Heritage Trail demo](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/kim-critical_art_and_culture-spring2022/Black%20Heritage%20Trail%20%5Bdemo%5D.pdf)
+[Handout: Parks demo](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/canavan-intermediate_spanish-spring2022/Park%20Locations%20and%20Descriptions.docx.pdf)
 
 [Spreadsheet Template](https://docs.google.com/spreadsheets/d/1bGPGdqDG_N42nPODBgWL718iv-711S36IhmkfvL1wmo/edit#gid=0)
 

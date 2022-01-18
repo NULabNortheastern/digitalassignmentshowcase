@@ -2,13 +2,13 @@
 
 <h2> Individual Class Info </h2>
 
-ENGW 111: First Year Writing
+ENGL 3380: Critical Art & Culture Writing
 
-Emily Avery-Miller
+Eunsong Kim
 
-October 19, 9:50 AM-10:50 AM
+April 5, 1:35 - 3:15PM
 
-Fall 2021
+Spring 2022
 
 <h2> Summary of Module </h2>
 
@@ -30,15 +30,15 @@ This module will go over components of storytelling and how these components may
 
 <h2> Materials for Module </h2>
 
-[KnightLab StoryMap Presentation Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/avery-miller-firstyearwriting-fall2021-storymap/Intro-to-StoryMap-Slides.pdf) 
+[KnightLab StoryMap Presentation Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/kim-critical_art_and_culture-spring2022/StoryMap_slides.pdf) 
 
-[Handout: KnightLab StoryMap](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/avery-miller-firstyearwriting-fall2021-storymap/StoryMap%20Handout.pdf)
+[Handout: KnightLab StoryMap](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/kim-critical_art_and_culture-spring2022/StoryMap%20Handout.pdf)
 
-[Handout: Spreadsheet Template User Guide](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/avery-miller-firstyearwriting-fall2021-storymap/Handout_Storymap-Spreadsheet-Template.pdf)
+[Handout: Spreadsheet Template User Guide](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/kim-critical_art_and_culture-spring2022/Handout_%20Storymap%20Spreadsheet%20Template.pdf)
 
-[Handout: Copyright and Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/avery-miller-firstyearwriting-fall2021-storymap/Copyright-fair-use-handout.pdf)
+[Handout: Copyright and Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/kim-critical_art_and_culture-spring2022/Copyright-fair-use-handout.pdf)
 
-[Handout: Preparing for Today's Session](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/avery-miller-firstyearwriting-fall2021-storymap/Preparing%20for%20Today's%20DITI%20Session_%20ENGW%201111.pdf)
+[Handout: Black Heritage Trail demo](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/kim-critical_art_and_culture-spring2022/Black%20Heritage%20Trail%20%5Bdemo%5D.pdf)
 
 [Spreadsheet Template](https://docs.google.com/spreadsheets/d/1bGPGdqDG_N42nPODBgWL718iv-711S36IhmkfvL1wmo/edit#gid=0)
 
@@ -47,4 +47,4 @@ DITI's [Intro to StoryMap Video](https://youtu.be/X33ud7RYZFg)
 <h2> DITI Consultants </h2>
 
 Tieanna Graphenreed and
-Claire Tratnyek
+Colleen Nugent

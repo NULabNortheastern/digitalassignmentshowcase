@@ -1,4 +1,4 @@
-# Computational Text Analysis
+# Computational Text Analysis for Literature Reviews
 
 ## Individual Class Info
 POLS 2395 Environmental Politics
@@ -9,7 +9,7 @@ Spring 2022
 <br>
 
 ## Summary of Module
-This module goes over computational text analysis for a corpus of texts, specifically policy documents. The module includes a brief discussion on what is computation text analysis, how it is useful, the browser tools that can be used to do this method of analysis, and how to interpret the results.
+This module goes over computational text analysis for a corpus of texts, specifically literature in a particular discipline. The module includes a brief discussion on big data, how computational text analysis is useful, the browser tools that can be used to do this method of analysis, and how to interpret the results. 
 
 ## Learning Goals
 - Learn best practices for building a small textual corpus, some basic vocabulary, and steps for preparing a corpus.
@@ -23,15 +23,15 @@ This module goes over computational text analysis for a corpus of texts, specifi
 
 ## Documents for Module
 
-### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/resilient_cities_spring2021-aldrich/slides/Resilient%20Cities_Text%20Analysis%20slides.pdf)
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/aldrich-environmental_politics-spring2022/Aldrich_Environmental%20Politics_Text%20Analysis_Slides.pdf)
 
-### [Handouts](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/resilient_cities_spring2021-aldrich/slides/Resilient%20Cities_Text%20Analysis%20slides.pdf)
+### [Handouts](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/text_analysis/aldrich-environmental_politics-spring2022/Handouts)
 
-### [Data: City Resilience Plans of Boston, DC, Philadelphia, New Orleans and Miami](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/text_analysis/resilient_cities_spring2021-aldrich/data)
+### [Corpus](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/text_analysis/aldrich-environmental_politics-spring2022/Corpus)
 
-[Stopwords](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/resilient_cities_spring2021-aldrich/stopwords.txt)
+[Stopwords](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/aldrich-environmental_politics-spring2022/Stopwords.txt)
 
-[Links and Resources Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/text_analysis/resilient_cities_spring2021-aldrich/handouts)
+[Links and Resources Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/aldrich-environmental_politics-spring2022/Links%20%26%20Resources.pdf)
 
 ## DITI Consultants
 Vaishali Kushwaha 

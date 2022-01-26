@@ -1,0 +1,1708 @@
+ GROWING STRONGER:
+TOWARD A CLIMATE-READY PHILADELPHIA
+Report by the Mayor’s Office of Sustainability and ICF International
+NOVEMBER 2015
+  
+ Shifts in weather patterns and increasingly frequent extreme storms are challenging communities around the world, includ- ing Philadelphia, and inspiring many cities to begin the important work of understanding how climate change will impact municipal assets and operations. The City of Philadelphia is responsible for a broad swath of activities including protecting
+public safety; enforcing zoning and building standards; supporting improvements in public health; guiding physical and econom- ic development; constructing and maintaining bridges and streets; collecting trash and recycling from more than half-a-million households; and operating two airports, one of the largest urban park systems in the world, and an integrated water, wastewater, and stormwater utility. To continue providing these services to our 1.5 million residents, nearly 35,000 businesses, and approx- imately 250,000 workers who commute into the city, the City of Philadelphia needs to understand and prepare for the specific changes in climate coming to our corner of the world.
+We recognized our climate adaptation efforts would be most successful with the participation of departments and agencies that will need to adjust to the coming warmer and wetter weather. In 2012, the Mayor’s Office of Sustainability (MOS) convened the Climate Adaptation Working Group (CAWG), a group of 10 agencies and departments committed to guiding the city’s work to prepare for climate change. Together we commissioned Useful Climate Information for Philadelphia: Past and Future to under- stand what we need to prepare for. The CAWG and MOS then used the report to help city departments understand climate projections and how they can include the information in their decision-making processes.
+While we acknowledge that climate change will influence Philadelphia citywide, we decided to focus Growing Stronger: Toward a Climate-Ready Philadelphia on beginning to assess vulnerabilities and preparation opportunities for municipal government, and identifying relatively low-barrier and high-impact internal actions we can take while we begin to grapple with larger questions such as how to assess and minimize risks to environmental health, neighborhood investments, and quality of life. We are confi- dent that this first phase of work will help reduce risk, decrease stressors on city infrastructure and services, and guide proactive projects with benefits extending far beyond municipal operations.
+Climate adaptation planning will need to be a continuous process, and we are committed to moving the recommendations in this report forward while also expanding the focus beyond government to ensure that Philadelphia continues to be an attractive place to live, work, and play, whatever the weather may bring.
+City of Philadelphia Climate Adaptation Working Group
+CITY OF PHILADELPHIA LAW DEPARTMENT
+MAYOR’S OFFICE OF SUSTAINABILITY
+MAYOR’S OFFICE OF TRANSPORTATION AND UTILITIES OFFICE OF EMERGENCY MANAGEMENT
+OFFICE OF THE DIRECTOR OF FINANCE
+PHILADELPHIA CITY PLANNING COMMISSION PHILADELPHIA DEPARTMENT OF PUBLIC HEALTH PHILADELPHIA INDUSTRIAL DEVELOPMENT CORPORATION PHILADELPHIA PARKS & RECREATION
+PHILADELPHIA WATER
+GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+2
+    
+ TABLE OF CONTENTS
+1 Project Background 4 5
+2 Summary 8 6
+3 Why Climate Change Matters 7 to Philadelphia 10
+Climate Projections for the
+Philadelphia Region 11
+Philadelphia’s Key Climate Vulnerabilities 13 The Costs of Climate Change to
+Philadelphia 19
+4
+Looking Forward 58 Appendix 6-1 Endnotes 7-1
+Reducing the Risks 20 PHYSICAL INFRASTRUCTURE AND
+SERVICE DELIVERY 23 Department of Public Property 24 Office of Fleet Management 26 Philadelphia Department of Public Health 27 Philadelphia International Airport 30 Philadelphia Parks & Recreation 33 Philadelphia Streets Department 36 Philadelphia Water 39
+Interdependencies and Opportunities
+for Interdepartmental Cooperation 43
+POLICY, PLANNING, AND FINANCE 46 Office of Emergency Management 46
+Office of the Director of Finance
+(Budget, Risk Management) 49
+Philadelphia City Planning Commission 50 Philadelphia Department of Commerce 52
+Interdependencies and Opportunities
+for Interdepartmental Cooperation 53
+COVER: PHOTO BY B. KRIST FOR VISIT PHILADELPHIATM
+GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+3
+
+ GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+   1
+  PROJECT BACKGROUND
+
+In 1976, gasoline cost 59 cents per gallon, a first-class postage stamp cost 13 cents, the United States celebrated its bicentennial, and millions of theatergoers nationwide watched Rocky Balboa make his iconic run up the steps of the Philadelphia Museum of Art.
+1976 was also the last year in which the Earth’s average temperature was below the 20th cen- tury mean.1 Every year since then—38 years and counting—has been warmer than average, and the climate throughout much of the world is very different than it was then.
+Expected effects of climate change in Philadelphia fall into three broad categories:
+1
+New Normals
+THE CITY’S BUILDINGS AND INFRASTRUC- TURE WERE DESIGNED TO WITHSTAND PAST CLIMATE CONDITIONS, NOT THOSE THAT SCIENTISTS EXPECT WILL OCCUR IN THE FUTURE. OVER TIME, PROLONGED EXPOSURE TO HIGHER TEMPERATURES AND CHANGING PRECIPITATION PATTERNS MAY LEAD TO SAFE- TY HAZARDS, SERVICE OUTAGES, AND HIGHER MAINTENANCE COSTS.
+2
+Changing Extremes
+EXTREME EVENTS SUCH AS HEAT WAVES, INTENSE RAIN OR SNOWSTORMS, AND TROP- ICAL STORMS AND HURRICANES ARE EXPECT- ED TO BECOME MORE FREQUENT AND/OR MORE SEVERE AS THE CLIMATE CHANGES.
+3
+Rising Seas
+ALTHOUGH PHILADELPHIA IS 90 MILES INLAND FROM THE MOUTH OF THE DELAWARE BAY, HIGHER SEA LEVELS WILL RAISE WATER LEVELS IN THE DELAWARE AND SCHUYLKILL RIVERS. HIGHER BASELINE RIVER LEVELS WOULD
+NOT ONLY PERMANENTLY INUNDATE PARTS OF PHILADELPHIA BUT ALSO INCREASE THE DEPTH AND EXTENT OF FLOODING IN AND AROUND THE CITY FROM STORM SURGES.
+PROJECT BACKGROUND
+ FIGURE 1
+ANNUAL TEMPERATURE TREND FOR PHILADELPHIA, 1948–2014
+ The horizontal line represents the average temperature in Philadelphia from 1948–2000.2
+Philadelphia’s climate is no exception (see Figure 1). Since 2010, Philadelphia has experi- enced a variety of extreme weather, including the snowiest winter, the two warmest summers, the wettest day, and the two wettest years on record, as well as two hurricanes and a derecho (a severe windstorm—usually associated with thunderstorms—that produces damage along a relatively straight path). Forty-nine daily high temperature records have been set in Philadelphia since the year 2000, 18 of them since the year 2010.3 And the sea level around Philadelphia has been rising at a rate of roughly 0.11 inches per year since 1900, equivalent to an increase of nearly one foot in 100 years.4
+Scientists expect these trends to continue in the future, at an accelerating pace and with increasing severity. The best available climate information suggests that weather in Philadelphia will become warmer and wetter during all seasons in the years and decades ahead, and that the rate of sea level rise will increase, especially toward the end of this century.4
+Changes in climate matter to Philadelphia. Storms, heat waves, and floods already pose risks to residents and infrastructure, and the city is responsible for responding to these events by plowing the streets, managing stormwater, keeping Philadelphians safe during storms, and leading cleanup efforts when the storms clear. Philadelphia needs to build resilience to accom- modate today’s extremes while accounting for expected changes in the frequency of these events in the future.
+GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+5
+
+PROJECT BACKGROUND
+ FIGURE 2
+Images (clockwise, from top left) of the Schuylkill River in its current state, an actual photo during Hurricane Irene, a simulation of four feet of sea level
+rise, which is the expected sea level rise in 2100 under a scenario of moderate greenhouse gas emissions, and a simulation of four feet of sea level rise plus a Category 1 storm, which is the expected sea level rise in 2100 plus the most severe hurricane the region has ever experienced. (The sea level rise and hurricane scenario does not include overland flooding, only coastal water storm surge traveling up the river. Actual flooding will likely be higher due to additional flood- ing from upriver rainfall.)
+ Greenworks, Philadelphia’s comprehensive sustainability plan, works to measure and reduce greenhouse gas emissions to mitigate the caus- es of climate change. Between the 2009 release of the Greenworks plan and the beginning of the City of Philadelphia’s climate adaptation plan- ning process in 2012, extreme weather events increasingly convinced cities that—as the entities responsible for emergency services, stormwa- ter management, and street plowing—municipal governments are the first responders to the results of climate change. As Philadelphia joined the burgeoning community of practice undertaking municipal climate adaptation planning, the Mayor’s Office of Sustainability (MOS) along with the Climate Adaptation Working Group (CAWG), a group of 10 agencies and departments committed to guiding the city’s work to pre- pare for climate change, explored models of adaptation in other cities and selected the approach outlined in Figure 3 to understand and pre-
+pare for the impacts of a changing climate.
+This report is the outcome of a process in which MOS, the CAWG,
+and a variety of city departments worked with consultant ICF Inter- national5 to examine climate vulnerabilities and adaptation options for Philadelphia’s municipal government. With ICF’s support, MOS conducted scenario planning workshops, department interviews, vul- nerability mapping, and economic analyses to determine how climate change might affect operations. MOS and ICF also developed a set of adaptation options for the city that could reduce vulnerabilities and build resilience to future impacts. By undertaking this work, the city will better understand how to integrate climate considerations in rel- evant decision making, protect Philadelphia’s vulnerable populations, and be better positioned to help residents and businesses with similar resilience-building efforts.
+GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+6
+
+80 BY 50 ANALYSIS
+Preparing for future changes in climate is only one critical piece of climate planning, which is incomplete without also working to reduce the causes of climate change. In parallel with this analysis of vulnerabilities and adaptation options, a research team at Drexel University is partnering with MOS to analyze potential pathways for Philadel- phia to reduce its greenhouse gas emissions to 80 percent below 2012 levels by 2050. A number of leading cities across the country and internationally are setting aggressive reduction goals, in line with scientific recommendations to avoid dangerous interference with the climate system. The city wants to understand the feasibility of this goal as well as the scenari- os that would be required to meet this reduction schedule. This work will help inform the city’s next greenhouse gas emissions goal, after the current Greenworks goal
+to reduce emissions by 20 percent from 1990 levels by 2015 expires.
+Philadelphia’s coordinated approach to addressing the risks of climate change recognizes the need to limit future impacts—by reducing greenhouse gas emissions and thus helping to stabi- lize the climate—while simultaneously preparing the city and its inhabitants for the unavoidable changes ahead.
+FIGURE 3
+PROCESS AND TIMELINE FOR DEVELOPING AND IMPLEMENTING CLIMATE ADAPTATION ACTIONS FOR PHILADELPHIA
+PROJECT BACKGROUND
+   GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+7
+MOS committed to a climate adaptation process in 2012. Growing Stronger: Toward a Climate-Ready Phila- delphia is the culmination of adaptation work undertaken by the city to date, and MOS and its partners will continue to identify and implement actions from this report, assess their effectiveness, and consider new climate data to integrate into future adaptation planning processes.
+
+ GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+    2
+ SUMMARY
+IMAGE COURTESY OF FLICKR USER CAMERALUV
+
+SUMMARY
+Climate change poses significant risks to Philadelphia, but also creates opportunities for the city to make smart investments that will yield multiple benefits for years to come. By taking advantage of those opportunities, Philadelphia can grow stronger in the face of a changing cli-
+mate. The adaptation strategies presented in this report, based on scenario planning workshops, department interviews, vulnerability mapping, and economic analyses, can improve the city’s re- silience to today’s weather extremes while ensuring it can handle the changes projected in the years and decades ahead.
+The forecast for Philadelphia’s future climate can be summed up as “warmer and wetter,” but much of that warmth and moisture will be concentrated in the form of heat waves and heavy precipitation events (rain or snow)—posing challenges to infrastructure, city services, businesses, and residents.
+Although Philadelphia lies 90 miles from the coast, its tidal rivers make sea level rise, which is likely to reach two feet by 2050 and four feet by 2100, a particularly important risk for the city. By the end of this century, more than 30 city-owned facilities would be highly or moderately vulner-
+The forecast for Philadelphia’s future climate can be summed up as “warmer and wetter,” but much of that warmth and moisture will be concentrated in the form of heat waves and heavy precipitation events (rain or snow)—posing challenges to infrastructure, city services, businesses, and residents.
+able to flooding from sea level rise alone. Combining sea level rise with storm surge from a hurricane or tropical storm would place hundreds more facilities at risk.
+The impacts of climate change in Phil- adelphia will be costly. Just one severe hurricane could cause more than $2 billion in damages citywide. On top of these ad-
+ditional disaster costs, climate change will increase the everyday cost of doing business. Taking action will help to avoid costs and provide social and economic benefits citywide.
+This report identifies vulnerabilities, existing climate resilient strategies, and highly effective, low-barrier adaptation opportunities for 11 departments that manage infrastructure, provide ser- vices, or help govern and plan Philadelphia’s future growth. The report also outlines opportunities for departments to cooperate and reduce shared vulnerabilities.
+Work that the city completed for this report, including downscaled regional climate projec- tions, updated inundation modeling, and planning guidance for flood protection of new facilities, is available publicly and can be used to inform citywide preparations for climate change.
+Opportunities outlined in this report are important first steps toward responsibly addressing the City of Philadelphia’s vulnerabilities to a warmer and wetter future. Looking forward, the City of Philadelphia will need to continue climate adaptation work at the municipal level, and at the same time, work with residents, businesses, and infrastructure managers to develop a citywide roadmap for adapting to our changing climate.
+ GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+9
+
+ GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+   3
+  WHY CLIMATE CHANGE MATTERS TO PHILADELPHIA
+
+WHY CLIMATE CHANGE MATTERS TO PHILADELPHIA
+While air conditioning, central heating, indoor plumbing, and other conveniences have reduced the impacts of climate and weather extremes on daily life and city services, Philadelphia and its residents are far from being “climate proof.” Recent weather extremes such as heat waves and hurricanes have exposed vulnerabilities that Philadelphia is likely to confront with increasing frequency in the years ahead as the climate changes. These new weather patterns
+have the potential to decrease quality of life, disrupt business con- tinuity, reduce the attractiveness of Philadelphia to businesses and residents, and damage built infrastructure and the natural environ- ment—but the changes also provide opportunities to prevent these harms while providing additional benefits to Philadelphians.
+Climate Projections for the Philadelphia Region
+The first step in adapting to climate change is to understand the na- ture and extent of anticipated changes. In 2014, the Mayor’s Office of Sustainability (MOS) worked with ICF International to analyze and update projected climate changes in the Philadelphia region and re- lease Useful Climate Information for Philadelphia: Past and Future.4
+The projections, which indicate that Philadelphia will experience warmer and wetter condi- tions in all seasons over the course of this century (see Figure 4), informed the vulnerability assess- ment and the development of adaptation actions presented in this report, and could be useful to other organizations in the region that undertake their own adaptation planning processes.
+Climate projections suggest that Philadelphia may experience four to 10 times as many days per year above 95°F, and as many as 16 days a year above 100°F by the end of the century, up from the 1950–1999 average of fewer than one. More of these hot days may arrive together as heat waves, increasing the risk of residents experiencing heat-related health problems such as dehydration, heat exhaustion, and heat stroke.
+FIGURE 4
+PROJECTED CHANGES IN AVERAGE ANNUAL TEMPERATURE AND TOTAL ANNUAL PRECIPITATION IN PHILADELPHIA, UNDER FOUR CARBON EMISSIONS SCENARIOS
+Since 2010, Philadelphia has experienced:
+• THE SNOWIEST WINTER ON RECORD.
+• THE TWO WARMEST SUMMERS ON RECORD.
+• THE WETTEST DAY ON RECORD.
+• THE TWO WETTEST YEARS ON RECORD. • TWO HURRICANES.
+• A DERECHO.
+ See “CLIMATE MATTERS” on pages 23, 29, and 42 for examples of Phila- delphia’s vulnera- bilities to current climate and weather extremes.
+  Scenarios RCP4.5 and B1 assume relatively low emissions, while RCP8.5 and A2 assume moderately high emissions.4
+GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+11
+
+ TABLE 1
+HISTORICAL AND PROJECTED FUTURE TEMPERATURE INDICATORS FOR PHILADELPHIA
+Philadelphia is also projected to experience a greater frequency of heavy and extremely heavy precipitation events, with the largest increase occurring in precipitation that falls during winter months. Heavy precipitation and flooding can be caused by a variety of weather systems, including tropical storms and hurricanes, thunderstorms, and frontal activity. When these heavy precipitation events fall as rain, they often exceed the capacity of the city’s storm sewer infra- structure; when they fall as snow, they require many city resources to manage. Some of these projections are already becoming a reality, as Philadelphia has experienced an increase in the intensity and frequency of storm events over the last decade, which has on occasion resulted in significant flooding.
+Rising seas (see Figure 5) affect water levels in the Delaware and Schuylkill Rivers bordering Philadelphia. Higher sea levels will increase the depth and extent of flooding in and around the city from storm surges, such as those occurring during hurricanes and other tropical storms. Low-lying areas already experience localized flooding during heavy storm events, and both mu- nicipal infrastructure and private development exist along the two rivers.
+FIGURE 5
+SEA LEVEL RISE PROJECTIONS FOR THE PHILADELPHIA REGION
+Average summer temperature
+Average annual precipi- tation (inches)
+OBSERVED (1950– 1999)
+84.5°F
+OBSERVED (1950– 1999)
+44.0
+WHY CLIMATE CHANGE MATTERS TO PHILADELPHIA
+ PROJECTIONS FOR 2081–2099
+ Average number of days above 95°F
+3 17–52
+89–93.7°F
+    Average number of days above 100°F
+  0
+  2–16
+  Hottest
+7-day average 92°F temperature
+97–102°F
+  SOURCE: Useful Climate Information for Philadelphia: Past and Future
+TABLE 2
+HISTORICAL AND PROJECTED FUTURE PRECIPITATION INDICATORS FOR PHILADELPHIA
+  PROJECTIONS FOR 2081–2099
+ Winter precipi- tation (inches)*
+Spring precipi- tation (inches)
+Fall precipita- tion (inches)
+9.9 11.2–12.1
+11.4 12.2–13.1
+10.5 11.0–11.5
+Developed by scientists at Columbia University as part of the Consortium for Climate Risk in the Urban Northeast, and the Climate and Urban Systems Partnership.6
+47.1–49.5
+    Largest 3-day precipitation event-
+Winter (inches)
+  2.0
+  2.3–3.5
+  Summer precipitation (inches)
+  12.2
+  12.5–13.3
+  * One inch of winter precipitation equates to one inch of rain, two inches of sleet, or 13 inches of snow.
+SOURCE: Useful Climate Information for Philadelphia: Past and Future
+GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+12
+
+ Photo credit: Peter Tobia
+Philadelphia’s Key Climate Vulnerabilities
+Vulnerability to the impacts of climate change is determined by three factors: sensitivity, expo- sure, and adaptive capacity. The simplest way to explain these concepts is through an example:
+Older adults (those aged 65 years and older) tend to be sensitive to extreme heat. During heat waves, the highest number of mortalities occurs among older adults. Older adults are also more susceptible to heat exhaustion, heat stroke, and dehy- dration during periods of extreme heat. But sensitivity alone does not determine whether older adults are vulnerable: they also have to be exposed. Older adults who remain in an air-conditioned building during a heat wave will not be exposed to heat, and thus would not be considered vulnerable. The third component of vulnerability, adaptive capacity, refers to an ability to adapt to new conditions. For example, an older person living in an apartment without air conditioning may be both sensitive and exposed to extreme heat, but if she can afford to buy an air conditioner she can avoid future exposure. That means she has strong adaptive capacity, and would not be considered vulnerable compared with a person who could not afford to buy or use an air conditioner.7
+The vulnerability assessment conducted for this report considered these three factors to eval- uate the vulnerability of city departments and city-owned assets to key impacts of climate change. The assessment evaluated exposure of all 2,698 city-owned facilities to flooding, and identified the locations of populations potentially vulnerable to extreme heat (including older adults, young children, low-income populations, and those without nearby access to cooling centers). The as- sessment also evaluated the flooding vulnerabilities of evacuation routes, vulnerable populations, stormwater outfalls, and assets rated as “critical” by the Philadelphia Office of Emergency Man- agement (OEM). Critical assets include those with high safety, cultural, economic, and environ- mental value.
+Heat Impacts in Philadelphia
+include the elderly, the very young, people with low socioeconomic status, and people
+without access to air-conditioned spaces. Nearly 27 percent of Philadelphia’s popu- lation lives under the poverty level, more than 12 percent of the population is aged 65 years or older, and seven percent is un- der five years old.12
+Heat can have both direct physiologi-
+cal impacts on health (such as heat stroke) and indirect impacts: for example, hot weather encour- ages the formation of ground-level ozone, which reduces air quality and poses risks to individuals with respiratory conditions such as asthma.13 In 2010, nearly a quarter of children in Philadelphia County had asthma, among the highest rates in the nation.14
+Extreme heat can also affect city services and infrastructure. For example, interviews with city departments indicated that hotter days may require construction activities (including street pav- ing and repairs) to shift to night hours, and pavement may require longer curing times. Extreme heat that persists for multiple days and nighttime temperatures that remain elevated magnify these impacts.
+WHY CLIMATE CHANGE MATTERS TO PHILADELPHIA
+Extreme heat is likely to increase risks to the health of vulnerable populations in the city. As noted above, heat events and hot days are projected to increase substantially in Philadelphia by the end of this century. Populations that
+are potentially vulnerable to extreme heat
+ + FURTHER READING
+Information on specific heat-related vulner- abilities in Philadelphia (including risks to public health) is provided in the depart- ment-by-department discussion starting on page 21.
+GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+13
+11
+Extreme heat is responsible for more deaths in Pennsylvania than all other natural disasters combined,8 killing an average of 50 people per year between 1997 and 2004.9 A 10-day heat wave that hit Philadelphia in July 1993 resulted in 118 deaths.10
+
+WHY CLIMATE CHANGE MATTERS TO PHILADELPHIA
+GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+14
+The heat island effect exacerbates extreme heat events in most cities, including Philadelphia. Urban areas contain many heat-absorbing surfaces and have less vegetation than their surround- ings, causing cities to be warmer than nearby suburban and rural areas. Cities also cool off more slowly at night due to the slow release of heat from urban infrastructure.15
+FIGURE 6
+AVERAGE SURFACE TEMPERATURES BY CENSUS BLOCK, 2013-15
+  Data are for the seven hottest days on which mostly cloud-free Landsat imagery was available. Image courtesy of David Hondula, Arizona State University
+Flooding
+Rising sea levels are expected to increase the frequency and severity of flooding in Philadelphia. Coastal storms combined with higher sea levels will cause more extensive flooding than the same storms would cause today, although tides, saturation of the ground, ground temperature, and other factors can vary the degree of flooding experienced from two storms with the same amount of rainfall.
+Flooding...is the most frequent and costly of all hazards in Pennsylvania.8
+Flooding presents many risks to Phila- delphia, including public health and safety hazards, interruptions in key services, and damage to buildings and infrastructure. Floods can disrupt transportation, hamper-
+ing emergency services and evacuation efforts. Because fuel pumps and sump pumps require electricity to operate, a power failure during a flood could limit the availability of fuel for genera- tors and vehicles, and allow water levels to rise in buildings and other facilities.
+To understand which of the city’s assets will be most vulnerable to flooding as the climate changes, the project team analyzed a wide range of scenarios across three different sources of flooding: sea level rise, storm surge (i.e., a rise in water level generated by a storm, over and above normal tides), and riverine flooding, which occurs when heavy rainfall causes water in rivers or creeks to overtop their banks. Six of the resulting scenarios are outlined in the following bullets and referenced in later sections of the report.
+
+  Kelly Drive during the April 30 - May 1, 2014 flood. Photo courtesy Philadelphia Water
+• SEA LEVEL RISE (SLR): Two scenarios consider just the im- pacts of sea level rise: two feet (the local projection for 2050 assuming moderate carbon emissions worldwide) and four feet (the projection for 2100 given the same emissions as- sumptions).16
+• SLR WITH STORM SURGE: Two scenarios modeled storm surge by pairing the elevated base sea levels described above (two and four feet) with the impacts of a Category 1 storm. Category 1 is the strongest storm to have ever di- rectly hit the Philadelphia region.17
+• RIVERINE FLOODING: Two riverine flooding scenarios use the Federal Emergency Man- agement Agency (FEMA)’s 2007 100- and 500-year floodplain maps, which indicate areas that have a one and 0.2 percent chance of flooding annually, respectively.18
+Several maps in the report also show the area that would be inundated under six feet of sea level rise, which is included to show potential flooding risks at the end of this century under a high-carbon-emissions scenario.
+Because of Philadelphia’s topography and its location next to tidal rivers, many facilities and other properties are vulnerable to sea level rise, even under conservative sea level rise scenarios. For example, the Philadelphia International Airport and at least a dozen other city facilities would be exposed to flooding with two feet of sea level rise, a scenario that is likely to occur by mid- century. Thirteen city-owned historic properties are located within the current (2007) 100-year floodplain (areas with a one percent chance of flooding in any given year).
+Figure 7 shows the flooding vulnerability (low, medium, and high) of all city-owned facilities under six scenarios. Under the mid-century sea level rise scenario (SLR2, indicating two feet of sea level rise), only one facility is highly vulnerable to flooding, but under the end-of century sea level rise scenario (SLR4, or four feet of sea level rise), 19 facilities are highly vulnerable and another 12 facilities are moderately vulnerable. Hundreds of additional facilities are highly vulnerable to both riverine flooding and the combination of sea level rise and storm surge.
+WHY CLIMATE CHANGE MATTERS TO PHILADELPHIA
+ FIGURE 7
+NUMBER OF VULNERABLE CITY-OWNED ASSETS UNDER SIX SCENARIOS, BY VULNERABILITY LEVEL
+ The high, moderate, and low portions of the bars indicate the number of assets that would have high, moderate, and low vulnerability under each scenario. Source: Master Facilities Database
+GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+15
++ FURTHER READING
+More information on the scenarios used for this analysis can be found on page 6-8 in the Appendix.
+
+WHY CLIMATE CHANGE MATTERS TO PHILADELPHIA
+ FIGURE 8
+POTENTIAL INUNDATION FROM SEA LEVEL RISE
+ Areas in Philadelphia at risk of inundation under two feet of sea level rise, which is the expected sea level rise in 2050 under a scenario of moderate green- house gas emissions; four feet of sea level rise, which is the expected sea level rise in 2100; and six feet of sea level rise, which is the expected level in 2100 under a high-greenhouse-gas emissions scenario.
+GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+16
+
+WHY CLIMATE CHANGE MATTERS TO PHILADELPHIA
+ FIGURE 9
+POTENTIAL INUNDATION FROM SEA LEVEL RISE AND SEVERE STORM
+ Areas in Philadelphia at risk of inundation by a Category 1 storm on top of two feet of sea level rise, which is the expected sea level rise in 2050 under a scenario of moderate greenhouse gas emissions; four feet of sea level rise, which is the expected sea level rise in 2100; and six feet of sea level rise, which is the expected level in 2100 under a high-greenhouse-gas emissions scenario. A Category 1 storm represents the most severe hurricane the region has ever experienced.
+Storm Surge/Sea Level Rise Information courtesy of Energy Infrastructure Modeling and Analysis, Office of Electricity Delivery and Energy Reliability, U.S. Department of Energy. Original data produced by NOAA with analysis by ICF.
+GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+17
+
+WHY CLIMATE CHANGE MATTERS TO PHILADELPHIA
+ FIGURE 10
+POTENTIAL INUNDATION FROM 100- AND 500-YEAR FLOODS
+ Areas of Philadelphia at risk of inundation under a 100-year flood (a flood with a one percent chance of happening any year) and a 500-year flood (a flood with a 0.2 percent chance of happening any year).
+GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+18
+
+ TABLE 3
+POTENTIAL COSTS OF FLOODING AND HURRICANE DAMAGES IN PHILADELPHIA
+The Costs of Climate Change to Philadelphia
+Climate change will increase both the risk of expensive extreme events and the regular, recurring costs of doing business, along with equally important but less quantifiable costs to quality of life in Philadelphia. Municipal government, residents, and businesses will share these costs. Proactive planning for climate change can help to reduce many of these costs, both public and private.
+Increased Disaster Costs
+Climate change is increasing the intensity of extreme storms, and just one severe hurricane could cause more than $2 billion in damages citywide, a cost equivalent to roughly one-half of the city’s entire yearly operating budget. Philadelphia will also see more frequent extreme storms with higher winds and more flooding, due in part to sea level rise combined with heavy rains. Depending on severity, each of these storms could cause between $20 million and $900 million in damages citywide, as outlined in Table 3.
+Increased Operating Costs
+In addition to increasing disaster costs, higher heat and more precipitation will increase the ev- eryday cost of doing business for Philadelphia government, businesses, and residents. A small subset of illustrative examples is outlined below.19 These examples suggest that a comprehensive tally of increased operating costs from climate change across all sectors would total a significant economic impact in the city. Much of these costs will be borne by city departments in combination with state and federal government; others will fall directly on the private sector.
+Yearly costs of climate change to the City of Philadelphia will include a variety of increases ranging from energy and maintenance costs to the increasing costs of continuing to provide ser- vices. As examples of these costs, the city expects climate change to:
+• Increase annual electricity costs by up to $1 million due to increased demand for air con- ditioning.
+• Create an additional $2 to $4 million in roadway maintenance costs from rutting (perma- nent pavement indentations from traffic) caused by precipitation, rutting caused by freeze- thaw cycles, and cracking during periods of high temperatures.
+• Double or nearly triple the annual cost, currently around $20,000, of running the Heatline, a helpline service the city runs during heat emergencies to advise callers about how to avoid heat stress and refer those in need of help to emergency services.
+Citywide, Philadelphia will face a variety of increased costs due to climate change. For exam- ple, higher levels of ozone resulting from climate change will increase the incidence and costs associated with a variety of diseases, including asthma, cardiovascular disease, COPD, and other respiratory diseases. Citywide, the higher costs for medical treatment and lost productivity as- sociated with these diseases will approach $20 million by 2050. Regional transit will be affected
+as well: SEPTA has estimated that without additional resilience investments beyond those implemented to date, its increased operational costs and damages from climate change could rise by almost $2 million per year.
+WHY CLIMATE CHANGE MATTERS TO PHILADELPHIA
+ IMPACT CATEGORY
+ POTENTIAL COSTS
+ Cost of an additional 100-year flood
+Direct economic loss due to hurricane winds
+Gusts of 73-78 mph (1% chance of occurrence each year)
+Gusts of 81-86 mph (0.5% chance of occur- rence each year)
+Gusts of 92-96 mph (.2% chance of occurrence each year)
+$600,000,000
+$20,000,000
+$90,000,000
+$300,000,000
+                              GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+19
++ FURTHER READING
+Additional information on the cost estimates and underlying data sources appears in the Appendix, starting on page 6-11.
+
+ GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+    4
+ REDUCING THE RISKS
+PETER TOBIA
+
+REDUCING THE RISKS
+To successfully adapt to the changing climate, the City of Philadelphia will need to make changes at multiple scales. Because many budgeting, asset ownership and management, and programmatic decisions take place at the department or agency level, each has unique vulnerabilities to climate change and individual opportunities to address its issues. At the same time, effective strategies to mitigate risks posed by climate change and weather extremes will require cooperation and coordination among city departments, and also with systems and agencies external to the city, such as electric utilities and the power grid, telecommunications providers and their systems, regional and state transportation and planning agencies, and re- gional transportation systems.
+The city is already taking many steps to reduce vulnerabilities and build its resilience to future impacts, but more opportunities exist to reduce long-term vulnerabilities while addressing near- term goals. After reviewing best practices and consulting with ICF International and the Climate Adaptation Working Group, the Mayor’s Office of Sustainability (MOS) selected the following criteria to qualitatively evaluate potential actions that could help the city continue to provide effective services and maintain infrastructure as the climate changes:
+• CAPITAL COSTS: Up-front capital investment required.
+• RECURRING COSTS: Costs incurred repeatedly and periodically over the lifetime of an
+adaptation strategy.
+• FLEXIBILITY: The ability to make mid-course corrections.
+• CO-BENEFITS: Additional benefits, such as economic development, preserving or ex- panding green space, protecting vulnerable and marginalized populations, reducing emissions, and increasing tourism, provided by adaptation activities.
+• OTHER BARRIERS NOT CAPTURED IN OTHER EVALUATION CRITERIA: Political, legal, or physical barriers to implementation.
+Each action or strategy received a ranking of low, medium, or high for each of the five evalu- ation criteria, and the average of these rankings served as a qualitative score of current feasibility. Each strategy also received an efficacy score, a low, medium, or high ranking of the extent to which a strategy, if successfully implemented, will reduce risk.
+This section describes risks identified in the vulnerability assessment that apply to city depart- ments that own or manage assets and run programs, provide services, or make policies that will need to adapt to a changing climate. It also describes specific adaptation actions and strategies for those departments, including opportunities to continue or enhance actions they are already taking to reduce their risks. It outlines strategies that received high feasibility scores and medi- um-to-high efficacy scores, which departments should consider implementing in the near term.
+The departments are organized below according to whether their primary responsibility in- volves managing physical infrastructure and delivering services, or managing policy, finance, and planning. After a brief description of the department’s roles and responsibilities, information for each department is orga-
+nized into three sections:
+1. RISKS AND VULNERABILITIES: The department’s as- sets or services vulnerable to flooding and heat.
+2. EXISTING RESILIENCE EFFORTS: Current adaptive efforts the department should continue or enhance.
+3. EARLY IMPLEMENTATION OPPORTUNITIES: Highly feasible and highly effective adaptation strategies that the department should consider in the near term and, in some cases, effective adaptation actions identified by departments as priorities.
+ SCENARIO PLANNING WORKSHOPS
+To explore interdependencies and oppor- tunities for cooperation among city depart- ments, MOS held two climate-change-sce- nario planning workshops— one on extreme heat and one on flooding— in April 2015. These workshops brought together members of key departments, as well
+as external stakeholders and quasi-city agencies including PECO, the Philadelphia Industrial Development Corporation, and SEPTA. Discussions from the workshops informed development of the vulnerability assessment, cost estimates, and adaptation actions in this report. More information on the workshops is available in the Appendix, starting on page 6-3.
+ GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+21
+
+REDUCING THE RISKS
+Both the Physical Infrastructure & Service Delivery and the Policy, Planning, and Finance sections conclude with a discussion of interdependencies and opportunities for interdepartmen- tal coordination, which include high-efficacy adaptation actions that require more investment of time, funds, and coordination effort. As departments complete their early implementation strate- gies and funding opportunities for climate adaptation work arise, the city should consider seeking support for and implementing these longer-term, transformative adaptation actions.
+A Guide to the Tables
+The descriptions of risks and vulnerabilities for departments with assets vulnerable to flooding include tables similar to the example below. The explanatory balloons and the guide to abbrevi- ations under the table are provided to help readers interpret these tables.
+SAMPLE TABLE
+NUMBER OF PHILADELPHIA FLEETS ASSETS AND BUILDINGS AT RISK OF FLOODING UNDER A RANGE OF SCENARIOS
+     TYPE OF ASSET
+Garages/Maintenance Building
+[Total number = 17]
+SLR 2 = sea level rise of two feet. SLR 4 = sea level rise of four feet. SLR2 + Cat1 = storm surge from a Category 1 hurricane on top of a two-foot sea level rise. SLR4 + Cat1 = storm surge from a Category 1 hurricane on top of a four-foot sea level rise. 100-yr = a 100-year flood (a flood with a 1% chance of happening any year). 500-yr = a 500-year flood (a flood with a 0.2% chance of happening any year).
+  Number of assets at risk of being inundated by a Category 1 storm as sea level rises (Category 1 is the strongest storm to ever hit Philadelphia)
+Number of assets at risk of being inundated by two and four feet of sea level rise (projections for mid- and end-of-century, respectively)
+SE
+SLR 2
+Number of assets that are in the 100-year or 500-year floodplain (1% and .2% risk of flooding annually, respectively)
+ ASSETS POTENTIALLY INUNDATED UNDER FLOODING SCENARIOS
+A LEVEL RISE
+SLR 4
+SEA LEVEL RISE
+with storm surge
+SLR2 + Cat1
+SLR4 + Cat 1
+100-yr
+RIVERINE
+FLOODING
+500-yr
+       Overall vulnerability rating for these assets (considers sensitivity, exposure, adaptive capacity))
+Fuel Sites
+[Total number = 59]
+0
+2
+2
+3
+4
+5
+       0
+1
+2
+2
+2
+3
+ GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+22
+Highly Vulnerable
+
+REDUCING THE RISKS
+Physical Infrastructure & Service Delivery
+Climate change is expected to have significant impacts on much of the city’s infrastructure, and by extension the departments responsible for managing it. Physical infrastructure includes fixed assets such as roads, bridges, drinking water and wastewater systems, airports, parks, and tele- communications networks. In addition to affecting infrastructure, climate change is expected to affect many of the key services the city delivers, such as sanitation and public health services. Building resilience to climate impacts will help address near-term vulnerabilities as well as those posed by future climate change.
+SEPTA participated in a pilot program through the Federal Transit Administration (FTA) to undergo a climate adaptation plan for its Manayunk/Norristown Line, and received $87 million in FTA funding in 2014 to implement actions from that report.
+ On July 27, 2005, temperatures in Philadelphia reached 104°F and SEPTA operators put speed restric- tions into effect systemwide. Trains on the Manayunk/Norristown line were unable to proceed through a portion of the track because extreme temperatures caused cat- enary wire (overhead lines) to sag excessively. To compensate, trains had to alternate operating on an unaffected portion of the track. The extreme heat resulted in 5.8 hours of cumulative delays on the M/N line that day.
+In preparation for Hurricane San- dy in October 2012, SEPTA pre- emptively cancelled all service. This helped prevent significant damage, although Regional Rail lines experienced signal power problems, flooded track, downed trees and catenary wires, and track debris.
+SEPTA is a significant contributor to economic value in the region, saving commuter time, reducing crash and travel-related fatalities, improving business efficiency and productivity, reducing pollution, and relieving the stress on park- ing availability. The savings to the public from SEPTA’s operations, in travel time and costs alone, have been estimated at over $2.08 bil- lion annually. 20,21
+ GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+23
+CLIMATE MATTERS
+
+DEPARTMENT OF PUBLIC PROPERTY
+The Department of Public Property (DPP) has the primary responsibility for the acquisition, care, and maintenance of city property and nearly 4.5 million square feet of city-owned facilities, in- cluding City Hall, police facilities, fire facilities, and other buildings. Several of these buildings have historical signif- icance and are more than 100 years old. DPP also manages the design and con- struction of new city facilities.
+RISKS AND VULNERABILITIES
+Because DPP manages all of the city’s property throughout Philadelphia, the department’s vul- nerabilities reflect those of the city in general. Flooding risk is the most significant vulnerability of DPP. Several of the city’s emergency services buildings could be inundated under certain flooding scenarios, as shown in Table 4. In a major flooding event, these police and fire facilities could be at risk.
+DPP also manages many of the city’s backup electrical generators, which may be vulnera- ble to extreme heat—if temperatures exceed the generators’ rated tolerances—and in some cases flooding.
+TABLE 4
+NUMBER OF DEPARTMENT OF PUBLIC PROPERTY ASSETS AT RISK OF FLOODING UNDER A RANGE OF SCENARIOS
+TYPE OF ASSET
+REDUCING THE RISKS
+      ASSETS POTENTIALLY INUNDATED UNDER FLOODING SCENARIOS
+SEA LEVEL RISE
+SLR 2
+0
+SLR 4
+1
+SEA LEVEL RISE
+with storm surge
+SLR2 + Cat1
+2
+SLR4 + Cat 1
+2
+RIVERINE FLOODING
+100-yr
+2
+500-yr
+        Fire Stations
+[Total number = 62]
+4
+       Police Stations/ Substations
+[Total number = 24]
+0
+0
+0
+0
+1
+1
+       Fire Stations Marine [Total number = 2]
+0
+0
+1
+0
+1
+1
+2
+1
+1
+2
+       Police Operations/Unit [Total number = 17]
+2
+2
+             0
+0
+0
+0
+0
+1
+GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+24
+Public Safety Training Center
+[Total number = 2 ]
+Note: These facilities cover those that DPP maintains, not necessarily owns/occupies. DPP maintains buildings that are owned/occupied by other departments. For an explanation of each flooding scenario and its significance, see page 22.
+Moderately Highly Vulnerable Vulnerable
+
+FIGURE 11
+EXISTING RESILIENCE EFFORTS
+DPP is responsible for ensuring that emergency generators in city-main- tained facilities are well maintained and fueled, allowing other city depart- ments to operate and serve the public during emergency situations.
+DPP is in the process of acquiring an asset management database that will be capable of integrating information on climate change vulnerability to in- form investment decisions.
+EARLY IMPLEMENTATION OPPORTUNITIES
+REDUCING THE RISKS
+DEPARTMENT OF PUBLIC PROPERTY
+  All assets exposed at two feet of sea level rise will also be exposed at two feet of sea level rise and Cate- gory 1 storm.
+DPP should consider implementing the follow- ing strategies, which may be feasible in the near term and would measurably reduce vul- nerability to climate change.
+• Including climate risks in the DPP pre- ventive maintenance program’s return on investment (ROI) calculations. ROI calculations produce a ratio that com- pares the total cost of a project to the returns that occur throughout the use- ful life of the structure. Climate change should be integrated into these cal- culations by considering the potential for increased future maintenance and repair costs due to more frequent and severe weather events. These future costs may justify an up-front invest- ment in adaptation strategies.
+• Reviewing equipment specifications to ensure adequacy under future climate conditions. For example, consider up- dating the specifications for air condi- tioners, chillers, and generators to en- sure continued operation under high heat conditions.
+• When possible, site new public infra- structure outside of the sea level rise and storm surge zone.
+• Work with the Budget Office and Plan- ning Commission to integrate climate change into capital programming and budgeting, and to determine appropri- ate freeboard and floodproofing con- struction requirements.
+GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+25
+•
+•
+
+OFFICE OF FLEET MANAGEMENT
+The Office of Fleet Management is re- sponsible for the acquisition and main- tenance of the City of Philadelphia’s vehicles. The agency purchases and maintains vehicles for 43 departments, agencies, and offices. The fleet includes emergency operations and safety vehi- cles that are responsible for assistance during major weather events. In addi- tion, the office operates 17 repair and maintenance facilities, 59 fuel sites, and 100 underground fuel storage tanks lo- cated throughout Philadelphia.
+RISKS AND VULNERABILITIES
+Philadelphia’s fleet plays an important role in the city’s daily operations and emergency efforts. Fleet garages and fuel sites need to be protected from flooding to ensure that the fleet can be deployed during an emergency event to help protect residents and to deliver fuel to generators. Table 5 summarizes the vulnerability of Fleet assets to flooding under a range of scenarios.
+TABLE 5
+NUMBER OF PHILADELPHIA FLEET ASSETS AND BUILDINGS AT RISK OF FLOODING UNDER A RANGE OF SCENARIOS
+TYPE OF ASSET
+Multiple departments, along with Fleet, maintain some of the garage/maintenance buildings. For an explanation of each flooding scenario and its significance, see page 22.
+EARLY IMPLEMENTATION OPPORTUNITIES
+To increase resilience and ensure the Philadelphia fleet is able to recover rapidly following a major flood or high heat event, Fleet Management should consider the following adaptation strategies:
+• Working with departments that operate vehicle fleets to develop a storm protocol that identifies thresholds at which vehicles would be shifted from potentially flooded garages and facilities to locations outside of the storm surge area.
+• Investing in backup power generators at additional key fuel pumps to ensure fuel will be accessible during power outages.
+• Coordinating with the Streets Department to ensure that only one department’s fuel truck is out of service for maintenance or inspection at a time. This will ensure that there is always at least one fuel truck available to refill generators and vehicles during a power outage. Additionally, schedule fuel truck maintenance and recertification to occur outside of peak hurricane season.
+REDUCING THE RISKS
+    ASSETS POTENTIALLY INUNDATED UNDER FLOODING SCENARIOS
+SEA LEVEL RISE
+SLR 2
+SLR 4
+SEA LEVEL RISE
+with storm surge
+SLR2 + Cat1
+SLR4 + Cat 1
+RIVERINE FLOODING
+100-yr
+500-yr
+        Fuel Sites
+[Total number = 59]
+0
+2
+2
+3
+4
+5
+       Garages/ Maintenance Building [Total number = 17]
+0
+1
+2
+2
+2
+3
+        Photo credit: Peter Tobia
+GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+26
+Highly Vulnerable
+
+REDUCING THE RISKS
+ PHILADELPHIA DEPARTMENT OF PUBLIC HEALTH
+The Department of Public Health’s mission is to protect and promote the health of all Philadelphians and to pro- vide a safety net for the most vulnera- ble. The department is composed of 13 divisions that provide services such as chronic disease prevention, disease control, environmental health, food pro- tection, and other health services. The department operates eight health cen- ters that provide medical care to Phila- delphia residents.
+RISKS AND VULNERABILITIES
+Climate change presents a number of risks to public health in Philadelphia, including impacts related to extreme heat, reductions in air quality, and flooding. Climate change can also broaden the range of certain diseases carried by ticks, mosquitoes, and other organisms.
+Extreme Heat
+Older adults and young children are sensitive to heat for mainly physiological reasons. People liv- ing in poverty may also be more sensitive to heat, due mainly to lack of access to air conditioning. In response to the impacts of previous extreme heat events, Philadelphia has established a heat health warning system and a network of cooling centers throughout the city. The Health Department, in partnership with the Philadelphia Corporation for Aging, also runs a Heatline to provide medical support to vulnerable residents during heat emergencies. To identify areas of potential vulnerability to extreme heat, MOS and its contractors mapped the current locations of sensitive populations and their proximity to cooling centers (existing air-conditioned public spac- es that remain open for extended hours during extreme heat events). Figure 12 depicts current conditions rather than projected future vulnerabilities; changes in population demographics over
+time and the designation of new cooling centers may affect existing vulnerabilities.
+FIGURE 12
+POPULATIONS IN PHILADELPHIA VULNERABLE TO EXTREME HEAT
+  The map reveals areas with high populations of older adults and people living below poverty level who are not within easy walking distance of a cooling center, although this in itself is not necessarily an indicator of vulnerability: for example, older adults living in air-conditioned homes would not need access to a cooling cen- ter (as long as electricity is available), and the list of cooling centers does not include privately owned but publicly accessible air-conditioned spaces such as movie theaters and malls.
+GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+27
+
+REDUCING THE RISKS
+PHILADELPHIA DEPARTMENT OF PUBLIC HEALTH
+Air Quality
+Because the formation of ground-level ozone is heat dependent, ozone levels are expected to rise as temperatures increase. Increases in ozone concentrations exacerbate existing cases of asthma and other respiratory diseases, and may lead to new cases of asthma.13 In contrast, increases in precipitation can reduce the formation of ozone and remove particulate matter from the air.
+Flooding
+Following major flooding events, the Health Department is responsible for inspecting food es- tablishments for pests, spoiled food, and stagnant water, which can pose health risks. Increases in flooding frequency could increase the inspection burden on the Health Department, as well as in- crease the risk for mold and other health issues associated with flooding. The Health Department distributes educational materials to help residents keep safe after a flood, and its Environmental Engineering section offers a call-in help line that provides advice on post-flood cleanup.
+The Health Department itself occupies several warehouses, labs, and office buildings, but none of them are vulnerable to flooding.
+EXISTING RESILIENCE EFFORTS
+The Health Department proactively plans for and responds to extreme weather events, including extreme temperatures (both hot and cold), flooding and storms, and other natural events. Some examples of the programs and practices that reduce current and future vulnerabilities to climate change include:
+• Maintaining a continuity of operations plan, which directs staff on how to keep the Health Department running after a disaster or extreme weather event to prevent secondary infec- tions and illnesses.
+• Activating and managing the Philadelphia Corporation for Aging’s Heatline. As needed, the Health Department deploys mobile teams and district environmental health teams in response to Heatline calls.
+• Distributing mold abatement information to businesses and residents after flood events.
+• Declaring Excessive Heat Warnings in coordination with the National Weather Service.
+• Ensuring communication among city agencies during a heat emergency using a notifica- tion system with pre-defined heat emergency contacts.
+• Preparing and distributing public education materials about hot weather precautions, and maintaining a stockpile of supplies for responding to extreme heat events.
+• Educating the public about which items covered by floodwaters are safe to sanitize and which porous household items must be disposed of after a flood event.
+• Investigating and controlling disease-carrying insects, such as mosquitoes, that can trans- mit the West Nile Virus and other diseases typically associated with tropical areas. The Health Department investigates and treats stagnant pools and standing water where mos- quitoes can breed, and helps individuals learn how to protect themselves and their homes from mosquitoes.
+GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+28
+
+REDUCING THE RISKS
+PHILADELPHIA DEPARTMENT OF PUBLIC HEALTH
+EARLY IMPLEMENTATION OPPORTUNITIES
+Overall, the Health Department is well prepared to continue delivering services during extreme weather, now and into the future, but changes to existing plans and programs could improve the department’s preparedness and decrease the influence of climate change on public health in Philadelphia. These changes include:
+• The Health Department Commissioner’s Office should consider updating the Community Health Assessment—an annual review of population health in Philadelphia, highlighting key public health challenges, assets, and improvements—to include climate change and health tracking metrics. The federal Centers for Disease Control proposes the use of the following indicators:22
+Heat stress emergency department visits. Heat stress hospitalizations.
+Heat vulnerability maps.
+Heat-related mortality.
+• Regularly mapping locations of vulnerable populations and using the information to:
+Provide the Office of Emergency Management with information for focused inter- ventions during extreme weather or power outages.
+Target the location of community outreach to at-risk neighborhoods
+• Including information on projected changes in climate and increases in high heat days in health bulletins and outreach materials.
+Existing municipal assets like Philadelphia’s network of public swimming pools can help residents cope with extreme heat.
+ In 1999, heavy rainfall from Hurricane Floyd led to severe flooding in the Eastwick neigh- borhood. Homes and businesses were inundated with stormwater contaminated with sewer water. Thorough cleanup after the flood- waters retreated was required to protect public health. The Depart- ment of Public Health’s Environ- mental Health Services division conducted outreach about what precautions to take while dis- infecting properties and which items needed to be thrown away, such as couches that were soaked with sewer water. The lack of pow- er for two weeks created additional challenges for these critical efforts.
+Source: Interview with Environmental Health Services
+ GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+29
+CLIMATE MATTERS
+
+Philadelphia International Airport
+(PHL) consists of seven terminals and four runways on 2,394 acres. In 2014, the airport accommodated 30.7 mil- lion passengers, including 4.5 million international passengers, and handled 419,253 aircraft takeoffs and landings. Twenty-nine airlines offer nearly 550 dai- ly departures. Commercial airlines and a half-dozen cargo carriers move 404,050 tons of cargo and mail annually.
+RISKS AND VULNERABILITIES
+PHL’s operations are highly affected by precipitation, storms, fog, and periods of high wind. The airport also experiences high cooling costs during periods with consecutive days over 90°F. But sea level rise and flooding pose the greatest risk to the airport due to its low elevation and proximity to the Delaware River. Table 6 summarizes the airport’s assets that could be inundat- ed under a range of flooding scenarios. Many of the airport terminals and other infrastructure, including tunnels, baggage basements, and substations are at risk of inundation under most of these scenarios.
+TABLE 6
+NUMBER OF PHILADELPHIA INTERNATIONAL AIRPORT ASSETS AND BUILDINGS AT RISK OF FLOODING UNDER A RANGE OF SCENARIOS
+TYPE OF ASSET
+REDUCING THE RISKS
+ PHILADELPHIA INTERNATIONAL AIRPORT
+     ASSETS POTENTIALLY INUNDATED UNDER FLOODING SCENARIOS
+SEA LEVEL RISE
+SLR 2
+SLR 4
+SEA LEVEL RISE
+with storm surge
+SLR2 + Cat1
+SLR4 + Cat 1
+RIVERINE FLOODING
+100-yr
+500-yr
+             Supporting Infrastructure (e.g., tunnels, baggage basements, substations)
+[Total number = 20]
+0
+3
+5
+16
+18
+20
+       Terminals and Hangars [Total number = 12]
+0
+5
+10
+11
+11
+11
+       Airport Airfield [Total number = 1]
+0
+0
+1
+1
+0
+0
+       Photo ©Philadelphia International Airport.
+For an explanation of each flooding scenario and its significance, see page 22.
+ GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+30
+Highly Vulnerable
+
+REDUCING THE RISKS
+PHILADELPHIA INTERNATIONAL AIRPORT
+ FIGURE 13
+EXPOSURE OF PHILADELPHIA INTERNATIONAL AIRPORT’S ASSETS
+EARLY RESILIENCE EFFORTS
+PHL has already begun to consider and plan for climate change, and has identified the following key strategies to increase the resil- ience of the airport to sea level rise, increased precipitation, more extreme temperature, and more frequent and intense storms:
+• Integrating climate change issues into strategic planning and operational ac- tivities.
+• Screening existing and planned infra- structure for climate risks.
+• Considering longer time horizons for airport planning to ensure the consid- eration and accommodation of future climate changes. There is currently a discord between the airport’s 20-year planning period and both the design life of infrastructure and the escalating impacts of climate change.
+• Upgrading electrical substations. In response to past extreme rainfall and flooding events that resulted in power outages and a shutdown of the airport, PHL has invested in upgrades to elec- trical substations to ensure continued operation. These upgrades will also increase the resilience of the airport to power outages from other climate stressors, such as extreme heat and snowstorms.
+ GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+31
+
+REDUCING THE RISKS
+PHILADELPHIA INTERNATIONAL AIRPORT
+EARLY IMPLEMENTATION OPPORTUNITIES
+The following strategies have been identified as moderately to highly effective at reducing PHL’s vulnerability to climate change, and as feasible for implementation in the near term. These strate- gies would build upon the steps that PHL has already taken to prepare for climate change.
+• Working cooperatively with the Federal Aviation Administration and others to encour- age integration of climate change and extreme weather impacts into major infrastructure projects. This coordination will be essential because future construction at the airport that uses federal funding will have to adhere to the revised Federal Flood Risk Management Standard, which requires increased elevations for all new construction projects.
+• Continuing coordination with other city, state, and federal agencies active in climate change issues. The Airport Cooperative Research Program (ACRP) is currently developing a climate change planning tool and suite of best practices that may highlight ways to en- gage with other actors. Anticipated release of the ACRP planning tool is in autumn 2015.
+• Implementing a new asset management system. This system, which PHL is already in the process of implementing, should be designed to work with other city asset management systems, and it should integrate data that could be used to inform more resilient decision making. This may include using the system to better track weather-related causes of fail- ure, repair costs, and other metrics.
+• Including consideration of future sea level rise, storm surge, and hurricane risks when updating the Airport Flood Emergency Response Plan. PHL should ensure that a protocol for capturing the costs of responding to storm events is included in the plan.
+• Revising physical standards to address climate change as a risk in the most recent set of Architectural and Engineering Design Standards. While PHL has recognized climate change as a risk, it has not revised the physical standards to directly address it (see cur- rent Volume 2, Section 2.5 of the PHL Design Standards). PHL should consider changing the infrastructure design and materials standards to be more resilient to climate change. These changes may include a higher standard elevation for new construction, required floodproofing standards, mandatory backup power for critical locations, and a checklist for each project to identify vulnerabilities and record actions taken to increase resilience.
+GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+32
+
+PHILADELPHIA PARKS & RECREATION
+Philadelphia Parks & Recreation (PPR) connects people to the extensive Fair- mount Park System, 204 recreation cen- ters citywide, and a variety of physical and social opportunities. The hundreds of parks and recreation facilities in Phila- delphia occupy more than 10,000 acres. The Division of Urban Forestry and Eco- system Management protects and man- ages Philadelphia’s natural resources. The Division of Planning, Preservation, and Property Management plans, pro- tects, interprets, and manages Phila- delphia’s public parks and facilities. The Operations Division is tasked with up- keep of the department’s public assets including buildings, fields, and parks. The Programs Division oversees several offices, and is responsible for programs and activities.
+RISKS AND VULNERABILITIES
+Many of the recreational facilities in Philadelphia such as neighborhood parks, baseball fields, pavilions, playgrounds, and tennis courts are prone to flooding. However, the adaptive capacity of recreational facilities is higher than that of other assets, because PPR can often restrict use during flood events.
+Historic houses and sites are also under the care of PPR. These have low adaptive capacity and are therefore likely vulnerable when exposed to flooding. Table 7 summarizes PPR’s vulnera- bilities to flooding under a range of scenarios.
+TABLE 7
+NUMBER OF PHILADELPHIA PARKS & RECREATION ASSETS AT RISK OF FLOODING UNDER A RANGE OF SCENARIOS
+TYPE OF ASSET
+REDUCING THE RISKS
+      Historic Houses/Sites [Total number = 79]
+ASSETS POTENTIALLY INUNDATED UNDER FLOODING SCENARIOS
+SEA LEVEL RISE
+SLR 2
+0
+SLR 4
+0
+SEA LEVEL RISE
+with storm surge
+SLR2 + Cat1
+1
+SLR4 + Cat 1
+6
+RIVERINE FLOODING
+100-yr
+    13
+500-yr
+    24
+       Garages/ Maintenance Buildings [Total number = 46]
+0
+0
+1
+1
+4
+6
+       Barns/Stables [Total number = 28]
+Recreation Centers and Buildings
+[Total number = 426]
+0
+0
+0
+0
+0
+3
+       Bridges
+[Total number = 1]
+0
+0
+0
+0
+1
+1
+        0
+1
+5
+9
+21
+27
+       Restrooms
+[Total number = 26]
+0
+0
+1
+1
+5
+10
+       0
+0
+1
+2
+1
+3
+GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+33
+Concessions\Retail\ Cafe
+[Total number = 10]
+Note: This table shows facilities that are maintained by PPR, which includes facilities that are owned by other organizations. This table only includes assets that have a moderate or high vulnerability. Other assets (e.g., baseball fields, fountains, neighborhood parks) have a low vulnerability because they are not likely to be used during a flooding event. For an explanation of each flooding scenario and its signifi- cance, see page 22.
+Moderately Highly Vulnerable Vulnerable
+
+ Philadelphia Parks and Recreation employees are responsible for cleanup after major storm events.
+Storms and high winds can cause damage to trees; no single threshold of wind speed indi- cates whether a storm will cause damage. Ice storms can also cause significant tree damage, due to the weight added by ice to branches. PPR leads tree removal efforts and maintains cross-de- partment communication following major storm events. PPR’s budget can currently accommodate around four big storms per year, depending on severity.
+Philadelphia is projected to experience more frequent heavy and very heavy precipitation events in the future, which may increase cleanup costs for PPR. Changes in precipitation patterns can also cause interruptions or delays in the availability of PPR facilities. For example, PPR crews start working as early as February to prepare 150 athletic fields for the summer. Heavy precipita- tion in late winter and early spring can delay these preparations, pushing maintenance tasks into the busy season.
+Warmer temperatures will influence the operation of PPR facilities. Higher temperatures would require higher-capacity cooling facilities for five ice rinks, assuming the rinks continue to operate in the warmer months. Warmer temperatures in the summer may lengthen the swimming season, leading to additional maintenance costs for pool facilities.
+Recreation centers around the city are used as cooling centers during heat emergencies. More frequent and severe heat waves will lead to higher cooling costs for these facilities. As tempera- tures increase, indoor recreation may become more desirable than outdoor activities, driving up the operating costs of recreation centers as they expand or add new equipment to accommodate more users.
+Increasing average temperatures will affect forest, lawn, and landscaping vegetation. Cur- rently, PPR budgets for a set number of mowing cycles per year. If the grass growing season is extended due to warming and an increase in precipitation, PPR will need to mow more frequently, leading to higher costs. A warmer climate may also affect the types of trees and plants that are appropriate to plant. On the positive side, if winter temperatures rise, the tree planting season could extend through at least part of the winter.
+EXISTING RESILIENCE EFFORTS
+PPR currently undertakes a number of actions that will help the department remain resilient to future changes in climate. These include:
+• Clearing vegetation and responding to reports of downed trees to prevent debris from blocking drainage systems.
+• Clearing drainage inlets along PPR-maintained roadways.
+• Moving equipment away from flood-prone areas and closing flood-prone parks when storms are forecast.
+• Replenishing building materials and readying equipment for storm damage repair in ad- vance of an event.
+• Piloting new forest restoration practices at Haddington Woods, where PPR is working with citizen scientists from the community to identify growing practices suitable for Philadel- phia’s changing climate.
+• Participating in the Energy Office’s conservation incentive program, through which de- partments are eligible to receive a portion of the energy savings that their facilities gener- ate, to reduce energy use and decrease reliance on the power grid.
+• Working with the Pennsylvania Historical and Museum Commission and the National Park Service on disaster planning for historic properties in Philadelphia. The disaster planning includes preparing for flooding from sea level rise.
+GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+34
+REDUCING THE RISKS
+PHILADELPHIA PARKS & RECREATION
+
+REDUCING THE RISKS
+PHILADELPHIA PARKS & RECREATION
+EARLY IMPLEMENTATION OPPORTUNITIES
+Several strategies related to vegetation care and maintenance could be implemented relatively easily in the near term and would increase PPR’s resilience. These strategies include:
+• Building on the pilot project at Haddington Woods, ensuring that any newly planted vegetation can handle increased temperatures and heavy rainfall events; reviewing main- tenance schedules to adjust watering, mowing, and other practices, as needed.
+• Monitoring the need to increase new tree watering contracts from one to two years to ensure the trees have sufficient time to take root and establish themselves under warmer temperatures.
+• Prioritizing maintenance of parks and trails along the rivers to ensure continued access to recreation facilities and natural areas.
+• Working to decrease the backlog of more than 2,000 tree maintenance and removal projects to reduce unpruned and dead trees falling on power lines during storm events.
+• Investing in HVAC systems at targeted Recreation Centers that could provide public access to cooling during high heat events.
+In Haddington Woods, PPR is running a set of experiments in collaboration with community stakeholders to understand forest restoration practices appropriate for the weather Philadelphia will experience in the 21st century.
+ GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+35
+
+PHILADELPHIA STREETS DEPARTMENT
+The mission of the Philadelphia Streets Department (Streets) is to provide clean and safe streets in a cost-effective and efficient manner. The department’s San- itation Division and Transportation Engi- neering Division deliver a number of city services that are critical to maintaining public health and safety. The depart- ment’s responsibilities include curbside trash and recycling collection from more than 540,000 households, construction and maintenance of 320 bridges and 2,525 miles of streets and highways, maintenance of all traffic control devic- es and street lighting, and snow and ice removal from streets and highways.
+TABLE 8
+FLOOD RISK FOR PHILADELPHIA’S ROADWAYS, BY ROAD CLASS
+REDUCING THE RISKS
+ RISKS AND VULNERABILITIES
+Many of Philadelphia’s roads are vulnerable to flooding. Table 8 shows the percentage of miles of each road class that would be inundated under a range of flooding scenarios.
+Temporary inundation of roadways from flooding can force road closures and disrupt traffic. In addition, floodwaters can create road washouts and standing water can degrade the road base or lead to pavement softening. Philadelphia has many historic streets that are vulnerable to these impacts, and have higher repair costs than non-historic streets.
+Beyond roadways, a number of other Streets assets are vulnerable to flooding, as shown in Table 9. Traffic signals throughout the city are also vulnerable to flooding; most signal boxes are located at or belowground, where floods may affect them. The Streets Department’s salt sheds, garages and maintenance buildings, and materials yards are not vulnerable to flooding.
+Many Streets assets are also vulnerable to heat events. An extreme heat event limits construc- tion activities on the city’s roads and bridges; projects take longer and require additional water to cool materials between phases. City employees, including sanitation employees and construction workers, must be monitored for heat-related illnesses. In the past, Streets has sent home employ- ees during multiple-day heat events out of concern for their safety. These delays can be costly and can interrupt services such as trash pickup.
+ ROAD CLASS
+DESCRIPTION NOTES
+TOTAL MILES
+ % OF MILES FLOODED
+SLR 2
+SLR 4
+SLR2 + Cat1
+SLR4 + Cat 1
+100-yr
+500-yr
+  Expressway
+Major
+Arterial
+4 Collector
+5 Local
+6 Driveway
+Interstate highways and other limited access roads and primary thoroughfares. Principal routes through the city e.g., I-95, I-76, Roosevelt Expressway
+Semi-limited access road; typically multi-lane and usually divided. e.g., Roosevelt Blvd, West River Dr, Cheltenham Ave, Byberry Rd, Broad St
+Medium-high volume road, feeds traffic to and from limited or semi-limited acces roads. Speed limit about 35 mph. e.g., Market St, 23rd St, Haverford Ave
+Through streets in residential areas. e.g., Morris St, 60th St, Arch St in W. Philly
+Non-through streets in residential areas
+Common driveways
+On- and off-ramps from expressways and major roads
+Interchanges; ramps connecting expressways
+Roads which cannot be driven on. e.g., Wissahickon Dr
+110 13%
+259 4%
+362 0%
+873 0%
+1,122 1%
+2 0%
+19 4%
+41 10%
+42 16%
+2,831 2%
+19% 29% 32%
+9% 11% 12%
+2% 3% 3%
+1% 1% 2% 2% 3% 4% 2% 3% 10% 7% 16% 19%
+27% 42% 53% 26% 20% 30%
+4% 5% 6%
+30% 43%
+18% 21%
+6% 9%
+1% 3% 4% 6% 5% 18% 28% 37%
+45% 63% 65% 67%
+7% 10%
+1 2 3
+            9
+Low speed ramps
+  10 High speed ramps
+12 Non-travelable
+TOTAL
+      Road classes are as provided by the Philadelphia Streets Department. For an explanation of each flooding scenario and its significance, see page 22.
+GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+36
+
+REDUCING THE RISKS
+PHILADELPHIA STREETS DEPARTMENT
+TABLE 9
+NUMBER OF STREETS BUILDINGS AND OTHER FACILITIES AT RISK OF FLOODING UNDER A RANGE OF SCENARIOS
+TYPE OF ASSET
+     ASSETS POTENTIALLY INUNDATED UNDER FLOODING SCENARIOS
+SEA LEVEL RISE
+SLR 2
+SLR 4
+SEA LEVEL RISE
+with storm surge
+SLR2 + Cat1
+SLR4 + Cat 1
+RIVERINE FLOODING
+100-yr
+500-yr
+             Warehouses
+[Total number = 4]
+0
+0
+1
+4
+4
+4
+        Multi-Use/
+Office Buildings [Total number = 10]
+0
+0
+0
+0
+0
+1
+       Transfer Stations [Total number = 3]
+0
+0
+0
+0
+0
+0
+       GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+37
+For an explanation of each flooding scenario and its significance, see page 22.
+Changes in winter weather also affect Streets assets. For example, winters with heavy snowfall require more plowing, which wears down line striping on streets more quickly and leads to higher re-striping costs. Potholes also represent a significant cost. Extreme temperatures, snow, and freezing rain during recent winters have caused a near-record number of potholes on Philadelphia streets. When snow and ice melt, water seeps under the pavement through cracks. When tem- peratures dip back below freezing, the water freezes into ice and expands. Freeze-thaw cycles combined with the weight of traffic cause the pavement to collapse, forming a pothole. Crews filled 52,736 potholes in 2014. During the winter of 2014–2015, several trucks were damaged from falling into potholes. The Streets Department also had to deal with a regionwide shortage of road salt during the winter of 2014–2015 due to long periods of low temperatures. Because funding for pothole repairs, which cost an average of $22 per pothole, comes out of the repaving budget, winters with many potholes lead to less money available for repaving.
+EXISTING RESILIENCE EFFORTS
+The Streets Department engages in several practices that increase resilience to extreme weather events and sea level rise both now and into the future. These include:
+• Cleaning Streets Department drainage inlets to ensure they do not cause backups during flood events.
+• During extreme weather events, tracking traffic signal outages and regularly providing updates to the Emergency Operations Center.
+• Installing concrete pads at bus stops to prevent pavement from rutting on hot days due to the excess pressure exerted when buses brake and accelerate.
+• Developing an asset management strategy and database. Asset management will enable the Streets Department to incorporate data about the risks, costs, and impacts of a chang- ing climate into decisions about resource allocation.
+Moderately Highly Vulnerable Vulnerable
+
+REDUCING THE RISKS
+PHILADELPHIA STREETS DEPARTMENT
+EARLY IMPLEMENTATION OPPORTUNITIES
+The Streets Department could consider implementing several strategies to increase its prepared- ness and decrease climate change risk in the long term, including:
+• Formalizing coordination with the city’s fuel supplier to ensure the Streets mobile fuel truck is full at all times.
+• Reviewing standard pavement-mix specifications to ensure the ability of pavement to withstand (and not deform during) future high heat events.
+• Ensuring battery backup power sources at street intersections are floodproofed or elevat- ed above the floodplain.
+• Implementing a standardized succession planning process and training program to ensure that storm response procedures are not lost with retiring staff.
+• Designing bridge expansion joints to withstand longer periods of high heat per industry standards.
+• Installing high-reflectivity hardscape when resurfacing roads, multi-use paths, and city parking lots.
+• Analyzing vulnerability of Streets-owned bridges and structures to climate change.
+• Exploring the use of warm-mix asphalt to extend the paving season.
+• Coordinating with Philadelphia Water to install green stormwater infrastructure on streets where feasible.
+The Streets Department coordinates with the Office of Emergency Management, Philadelphia Water, and others during flood events.
+ GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+38
+
+The mission of Philadelphia Water is to plan for, operate, and maintain both the infrastructure and the organization necessary to purvey high-quality drink- ing water; to provide an adequate and reliable water supply for all household, commercial, and community needs; and to sustain and enhance the region’s wa- tersheds and quality of life by managing wastewater and stormwater effectively. The utility owns and operates an exten- sive amount of infrastructure to provide integrated stormwater, wastewater, and drinking water services.
+To manage stormwater, the department maintains stormwater pipes and inlets to decrease flood- ing and combined sewer overflows, and to reduce pollution. The department is committed to a balanced “land-water-infrastructure” approach to achieve its watershed management goals, which is evident in the utility’s commitment to use green infrastructure on a large scale to manage stormwater runoff throughout the city.
+Philadelphia Water operates three drinking water treatment plants that treat an average of more than 230 million gallons of water a day and serve more than 1.5 million people. The drink- ing water distribution system contains more than 3,000 miles of linear assets. Philadelphia Water also manages the City of Philadelphia’s wastewater, a task that includes the upkeep of more than 3,000 miles of sewer pipes carrying waste from homes, businesses, and streets to one of three water pollution control plants (Northeast, Southwest, and Southeast facilities). The wastewater system serves approximately 2.2 million people in the City of Philadelphia and 10 municipalities and authorities located in Montgomery, Delaware, and Bucks counties.
+RISKS AND VULNERABILITIES
+Philadelphia Water’s extensive assets and operations face a range of vulnerabilities to increases in precipitation frequency and intensity, sea level rise, and extreme storm events, as many facil- ities are located on or next to rivers. Inundation can exacerbate the wear on pipes and damage essential mechanical and electrical equipment. Stormwater infrastructure is at risk of being over- whelmed during heavy precipitation events.
+To address these impacts and increase resilience, Philadelphia Water recently created a cli- mate change adaptation program that will expand upon the proposed adaptation strategies in this report and will inform Philadelphia Water planning initiatives, including the Water and Waste- water Master Plans and Philadelphia Water’s participation in the Citywide Flood Risk Management Task Force. Philadelphia Water’s climate adaptation program consists of a multi-year initiative that will achieve three main objectives: 1) continue to enhance understanding of the climate change-related vulnerabilities that the utility will face in the near- and long term; 2) identify ad- ditional adaptation strategies that will increase the long-term resilience of Philadelphia Water; and; 3) develop an integration and implementation framework for critical adaptation strategies. Outlined below are examples of the types of vulnerabilities that the Philadelphia Water drinking water, wastewater, and stormwater systems face due to climate change. Table 10 shows the facil- ity types that are vulnerable to the flooding scenarios considered in this report.
+REDUCING THE RISKS
+ PHILADELPHIA WATER
+ TABLE 10
+NUMBER OF PHILADELPHIA WATER ASSETS AT RISK OF FLOODING UNDER A RANGE OF SCENARIOS
+TYPE OF ASSET
+Only a subset of Philadelphia Water’s assets were assessed for vulnerability. For an explanation of each flooding scenario and its significance, see page 22.
+    ASSETS POTENTIALLY INUNDATED UNDER FLOODING SCENARIOS
+SEA LEVEL RISE
+SLR 2
+SLR 4
+SEA LEVEL RISE
+with storm surge
+SLR2 + Cat1
+SLR4 + Cat 1
+100-yr
+RIVERINE FLOODING
+500-yr
+        Water Pollution Control Plants [Total number = 3]
+0
+1
+1
+1
+1
+2
+       Biosolids Recycling Center [Total number = 1]
+0
+1
+1
+1
+1
+1
+       Drinking Water Treatment Plant [Total number = 3]
+0
+0
+0
+0
+0
+0
+       Laboratory [Total number = 1]
+0
+0
+0
+0
+0
+0
+       GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+39
+Highly Vulnerable
+
+ FIGURE 14
+PHILADELPHIA’S STORMWATER AND WASTEWATER SYSTEMS
+REDUCING THE RISKS
+PHILADELPHIA WATER
+Drinking Water Infrastructure
+Based on preliminary analyses, several of the department’s drinking water and stormwater pump- ing stations could be vulnerable to flooding under certain scenarios. Philadelphia Water will con- duct further vulnerability assessments on this infrastructure. Additional precipitation may also increase stormwater runoff, which can affect source water quality and require changes to the drinking water treatment process. One example of a potential change in source water quality could occur during winter, when salt spread on the roads to improve safety can increase the con- ductivity of Philadelphia’s source water.
+The drinking water treatment process may also be affected by changes in temperature. Warm- er temperatures in the rivers lead to an increase in algae and the production of taste and odor compounds, which could lead to higher treatment costs. Warmer temperatures also require more energy use throughout the city. Future increases in energy demand may stress the energy grid and potentially lead to temporary losses of power that could affect water operations.
+Sea level rise creates a risk of the salt line in the Delaware River moving toward Philadelphia. If the salt line approaches the Baxter Water Treatment Plant intake (Baxter intake) due to sea level rise, there could be major consequences for source water quality and treatment. As stated in the Delaware River Source Water Protection Plan,23 the salt line is the location where more dense saline water from the Delaware Bay forms an interface with less dense freshwater from the Dela- ware River. The concentration of sodium and chloride are so high behind the salt front that if the salt line were to reach the Baxter intake, the current intake would have to be closed to prevent contamination of the plant.
+Wastewater Infrastructure
+Philadelphia Water’s water pollution control and storage facilities are vulnerable to flooding from sea level rise, storm surge, and riverine flooding, as shown in Table 10. Intense rainfall events can exceed the capacity of the combined sewer system, which can cause the release of untreated sewage into the waterways as well as basement backups and street flooding. Wastewater op- erations are dependent on power for both treatment and pumping. Severe storms that cause a loss of power could disrupt operations. An increase in precipitation would increase the frequency of high flows to water pollution control facilities, possibly requiring infrastructure expansion and potentially new operating protocols.
+Combined/Sanitary and Storm Sewer Infrastructure
+Stormwater infrastructure consists of drains and pipes, green stormwater infrastructure, water pollution control plants, and outfalls. About 60 percent of the city’s sewered area, typically the older sections of the city, is served by combined sewers that carry away both wastewater and stormwater (see Figure 14). The other 40 percent of the sewered area is served by separate sewer pipes for sewage and stormwater.24
+Increases in precipitation intensity and frequency will lead to increases in stormwater runoff and consequent changes to source water quality.
+Philadelphia has three different types of outfalls: combined sewer, separate sewer, and treat- ed effluent. Combined sewer outfall overflows occur during storm events when the combined sewer system’s capacity is exceeded. Separate outfalls carry stormwater runoff to rivers directly from the separate sewer system drainage network. Treatment outfalls are located at water pollu- tion control plants and send treated effluent into the Delaware River. If sea level rises two feet by 2050, up to 200 outfall structures could be vulnerable to submersion, potentially preventing prop- er drainage from gravity systems into the tidal zones of the Delaware and Schuylkill Rivers during high tides. Additionally, if sea level rise causes the salt line to reach some outfalls, increased sa- linity will affect the lifespan and performance of pipes and other infrastructure. Since preliminary modeling by ICF suggests increased intense precipitation and overland riverine flooding have the potential to inundate many outfalls during extreme weather events, Philadelphia Water will need to conduct a more detailed and thorough vulnerability analysis to evaluate the impacts on the system’s performance.
+ NEED HI-RES
+Source: Philadelphia Water
+GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+40
+
+GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+41
+REDUCING THE RISKS
+PHILADELPHIA WATER
+EXISTING RESILIENCE EFFORTS
+Philadelphia Water has undertaken many initiatives and projects to reduce its vulnerability to flooding events, helping to improve resilience today while working to ensure the utility’s contin- ued resilience as climate changes. Strategies outlined below currently help Philadelphia Water increase resilience:
+• Providing coordination with the Office of Emergency Management to enhance targeted outreach efforts and ensure that adequate preparedness and response measures are im- plemented in the most flood-prone portions of the city.
+• Increasing understanding of flooding vulnerabilities through extensive modeling and mapping of reported customer complaints. Tracking the location and frequency of cus- tomer complaints throughout the city helps to validate flood model results and further informs the existence of potential infrastructure deficiencies. Moving forward, Philadel- phia Water will consider approaches to include climate change impacts in flood model- ing efforts.
+• Promoting green stormwater infrastructure (GSI) as a source control measure to minimize flooding impacts. GSI allows for smaller-scale, decentralized source control projects, pro- viding for an effective and highly adaptive approach to stormwater management. Phila- delphia Water will continue to identify high-impact opportunities for GSI projects in the city to reduce stormwater runoff.
+• Investigating the adequacy of existing flood management operations, including stormwa- ter pump stations. As an example of existing flood management operations, Philadelphia Water’s Mingo Creek Pump Station routinely pumps water from the Eastwick area to the Schuylkill River to avoid flooding. The Eastwick area is particularly vulnerable to flooding since it is below the elevation of the Delaware River at high tide. The existing pumps will continue to serve the city as the sea level rises.
+• Continuing the City of Philadelphia’s partnerships with federal agencies to analyze and understand the potential need for structural flood interventions.
+• Assessing opportunities for projects to manage flood risk.
+• Supporting the reduction of health risks to residents during climate-related events. As an example, the utility does not shut off service to customers with outstanding bill payments during heat emergencies.
+As noted earlier, Philadelphia Water is in the process of implementing a comprehensive climate change adaptation program that will expand on the proposed adaptation strategies in this report. Philadelphia Water has also embarked on a comprehensive department-wide risk assessment to better understand the magnitude and likelihood of climate-related vulnerabilities at the utility.
+EARLY IMPLEMENTATION OPPORTUNITIES
+The near-term adaptation strategies outlined here received high feasibility and efficacy rankings:
+• Increasing preparedness and response capabilities at the water pollution control plants through the following measures:
+Prepare for recovery from flooding by stockpiling response materials and storing them outside of flood-prone areas.
+Maintain turnkey agreements for equipment rental and ensure the contracts provide priority to the water pollution control plants after an event.
+Pre-position emergency power generation capacity, portable pumps, and debris removal equipment in anticipation of extreme storm or flooding events.
+
+REDUCING THE RISKS
+PHILADELPHIA WATER
+• Ensuring sufficient availability of backup power at all critical sites.
+• Prior to major storm events, ensuring that the drainage and collection systems are func- tioning at maximum capacity. As an example, prior to hurricanes or other large storm events, clear debris and other inlet obstructions that could prevent drainage into the collection system.
+• Implementing groundwater instrumentation to better understand short- and long-term changes in the groundwater table.
+• Conducting watershed analyses to identify opportunity sites for green stormwater infra- structure or low-impact development techniques that will improve stormwater and flood control system capacity under conditions of heavier precipitation and changes in the groundwater table.
+• Analyzing elevation of critical operational infrastructure, including electrical equipment, at drinking water treatment plants, water pollution control plants, and pump stations.
+• Adopting design standards for water pollution control plants, pumping stations, and other critical infrastructure that include more robust resilience measures.
+• Incorporating climate change adaptation strategies into the long-term Water and Waste- water Master Plans and flood risk management initiatives.
+• Completing an asset inventory at water pollution control plants that includes elevations for all critical equipment. This measure will enable Philadelphia Water to accurately assess the vulnerability of assets to flooding from sea level rise and extreme storm events.
+• Evaluating flood protection strategies at the Biosolids Recycling Center to ensure continu- ity of operations.
+Philadelphia Water’s Soak It Up Adoption Program provides grants to civic organizations to help maintain the beauty and functionality of green stormwater infrastructure in Philadelphia’s neighborhoods.
+ Hurricane Irene in 2011 sent almost one billion gallons of stormwater to Philadelphia Wa- ter’s water pollution control plants, more than twice the normal vol- ume the plants receive. Prior to the storm, the department proactively prepared by clearing 400 inlets so that stormwater could more easily drain away from the streets. The water pollution control plants maintained performance during the hurricane. This proactive prepa- ration helped reduce the amount of flooding that may have occurred otherwise in the city. After the event, more than 55 Philadelphia Water employees worked over the weekend to answer calls and pump out flooded basements.
+Source: Interview with Philadelphia Water; Philadelphia Water blog.
+ GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+42
+PHOTO COURTESY OF PHILADELPHIA WATER
+CLIMATE MATTERS
+
+REDUCING THE RISKS
+ INTERDEPENDENCIES AND OPPORTUNITIES FOR INTERDEPARTMENTAL COOPERATION
+Existing risk mitigation actions underway across the city, augmented by the department-specific adaptation strategies described above, will support enhanced resilience. However, to achieve transformational adaptation—i.e., risk mitigation measures sufficient to address projected chang- es in Philadelphia’s climate over the mid- and long term—the city must consider implementation of holistic, citywide strategies. These strategies will require participation, buy-in, and investment from a wide range of internal and external stakeholders.
+Interdependencies and opportunities for interdepartmental adaptation efforts to reduce vul- nerabilities of the city’s physical infrastructure and service delivery are described below. Depart- ments at the two scenario-planning workshops held by the Mayor’s Office of Sustainability (MOS) in April 2015 discussed many of these opportunities.
+Asset Management
+The Office of Innovation and Technology and the Department of Public Property are in the pro- cess of procuring an integrated work order and asset management database. Philadelphia Water, the Philadelphia International Airport, the Streets Department, and Philadelphia Parks & Recre- ation are also developing or upgrading their own asset management and work order systems. The development of these systems provides an opportunity to incorporate climate exposure and sen- sitivity information into asset management and monitoring, with the goal of tracking information on the costs of future weather events in a format that meets requirements for Federal Emergency Management Agency (FEMA) post-disaster reimbursement. This information can also be used to inform risk-based planning and investment decisions and build the case for proactively address- ing climate change vulnerabilities.
+Interdepartmental coordination would maximize the usefulness and success of these systems. Philadelphia Water and Philadelphia International Airport are using MAXIMO software for their systems. Parks & Recreation is using Performo by Wizard. If possible, all of the asset management and work order systems should not only integrate climate data, but also “talk” to each other, potentially by using similar data fields and definitions of the scale of assets (e.g., an electrical panel or a building). MOS or another entity could coordinate regular meetings among the system implementers to discuss integration of climate impacts into the databases. These coordination meetings could also serve as working sessions for staff managing the asset management systems, allowing them to develop and discuss ways to ensure that they are keeping the systems up-to- date and using available information to inform decision making.
+Extreme Weather Coordination
+Information sharing before, during, and after extreme weather events is an important area for interdepartmental coordination.
+BEFORE AN EVENT
+• Several departments at the scenario planning workshops identified a need for improved sharing of information ahead of extreme weather events, particularly those that do not re- sult in the activation of the Office of Emergency Management (OEM)’s Emergency Opera- tions Center. Functional cross-partner communication channels between the departments exist but are not formal or well documented.
+• City departments should continue to build on the momentum of the Citywide Flood Risk Management Task Force. The task force has modeled the kind of coordination of resourc- es and information that could significantly improve responses to extreme weather, while simultaneously informing and strengthening interdepartmental support and commitment for expanded response efforts. A similar coordination approach may effectively address interdepartmental concerns about other types of extreme weather and climate changes.
+GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+43
+
+ FIGURE 15
+PHOTO OF BUILDING WITH FUTURE PROJECTED WATER LEVELS ADDED
+DURING AN EVENT
+The workshops identified a number of potential projects with short implementation timelines and relatively low costs to improve information gathering and sharing during extreme weather events. The city should consider:
+• Enhancing communication about access routes during floods.
+• Expanding access to real-time tide and rain gauge information.
+• Assessing whether citizens could report on local weather-related damages (especially the location of flooding) through the 311 system (including the smartphone application).
+• Formalizing coordination of fuel provision among the Fleets fuel truck, the Department of Public Property fuel truck, and external fuel supply contractors.
+AFTER AN EVENT
+Workshop participants pointed out the need for a system to collect post-event cost data for events that are both above and below the national hazard declaration threshold. Among other benefits, a systematic approach would facilitate cost evaluations for extreme events—and more frequent, less extreme weather-related disruptions—and consideration of possible adaptation in- vestments. Better tracking also facilitates the collection of disaster data for reimbursement follow- ing major events. OEM should consider working with the other departments to establish uniform policies and systems to support this tracking effort. The asset management systems discussed above may serve as repositories for this information.
+Flood Protection
+Floodproofing of individual structures or sites (e.g., constructing flood walls, installing removable flood barriers, or raising mechanical and electrical equipment) may be performed either oppor- tunistically or proactively. Opportunistic floodproofing is installed during routine maintenance and upgrades, reducing the incremental cost of installation. Proactive floodproofing may be war- ranted for facilities that have historically experienced significant flooding and are irreplaceable or critical to delivery of services.
+To augment department-specific efforts to identify and consider asset-specific flood risks, MOS has prepared a diagram (See Fig- ure 15) as an example of an approach that the city could employ to understand asset-specific flood risks, develop site-specific floodproofing strategies, and inform capital planning deci- sions. If useful, these kinds of diagrams could be developed and distributed more widely, both as a means to monitor and track vulnera- bilities and to support flood mitigation efforts.
+This former water treatment facility, owned by Philadelphia Water, current- ly faces a 0.2 percent risk of flooding annually (based on FEMA 2007 flood mapping). The horizontal lines show future water levels under scenarios of two feet, four feet, or six feet of sea level rise plus a Category 1 storm surge.
+REDUCING THE RISKS
+ GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+44
+
+  Work on the guaranteed energy savings project in City Hall and three other downtown office buildings was completed in 2015, and the Energy Office is now monitoring these projects to ensure cost and energy savings are realized. Photos by MOS
+System-Based Strategies
+Systems of interconnected infrastructure require a comprehensive, systematic approach for adapting to sea level rise and future storm surges. Implementing strategies at the systems level requires developing a detailed plan that addresses the funding, phasing, and interdependencies of the strategy. A few examples of potential systemwide adaptation strategies include:
+• Increasing stormwater system capacity and functionality in key areas of the city. System capacity improvements could include implementing large-scale green stormwater infra- structure projects, increasing pipe size, installing backflow prevention devices, and install- ing additional pump stations or upgrading and increasing existing pump station capacity.
+• Supporting a regional evaluation of transportation and utility networks that are vulnerable to sea level rise to determine hot spots or weak links that would cause significant disrup- tion to the regional economy and quality of life.
+• Integrating flood protection strategies at vulnerable water and water pollution control plants and pump stations. Flood protection strategies include enhanced real-time moni- toring and controls, creating flood walls, increasing existing flood wall height, increasing pumping capacity, installing removable flood barriers, and elevating mechanical and elec- trical equipment.
+• Determining low-lying substation vulnerabilities and outlining options for adaptation and mitigation; coordinating with DOE on its vulnerable infrastructure studies.
+• Examining the installation of pumps at Philadelphia Water outfalls that discharge from the gravity system into the tidal zones of the Delaware and Schuylkill Rivers.
+Energy Efficiency
+As described in the Costs of Climate Change section (see page 19), an increase in hot days re- quiring cooling at municipal facilities could increase the City of Philadelphia’s annual electricity bill by up to $1 million. Investing in energy efficiency will help reduce these costs, while also contributing to Philadelphia’s goals to mitigate the causes of climate change through reduced greenhouse gas emissions.
+As part of the Greenworks sustainability plan, Philadelphia has committed to improving the energy efficiency of city-owned facilities. The city recently completed construction of a guaran- teed energy savings project in its four largest downtown office buildings and is funding many smaller projects through its Energy Efficiency Fund. Energy efficiency should continue to be pri- oritized as both a climate mitigation and adaptation measure.
+The efficiency of building systems should also be taken into account during the capital plan- ning process. Departments considering repairing, replacing, or adding new cooling capacity in facilities should consider the lifecycle costs of HVAC equipment. Currently, several departments have a requirement that new HVAC equipment must be ENERGY STAR-labeled; expanding this requirement to all departments would better position Philadelphia to mitigate the increase in electricity costs from rising temperatures in the years ahead.
+GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+45
+REDUCING THE RISKS
+
+REDUCING THE RISKS
+Policy, Planning, and Finance
+City departments that work in the areas of policy, planning, and finance will be affected by climate change in many ways, both directly and indirectly. Risks, vulnerabilities, and adaptation opportu- nities are described below.
+OFFICE OF EMERGENCY MANAGEMENT
+ The Office of Emergency Manage- ment (OEM) is responsible for ensuring the city’s readiness for all types of emer- gencies. The office works to accomplish this mission through an integrated and collaborative program that educates the public on how to prepare for emer- gencies, and partners with organizations throughout the city to prepare emergen- cy contingencies, mitigate the impact of emergencies, and enable the city to re- cover from an emergency as quickly as possible. During an emergency, OEM coordinates with a variety of agencies and organizations including Fire, Police, and other emergency response depart- ments to ensure a timely and efficient response. OEM also prepares after-ac- tion reports following events to docu- ment activities and explore possibilities for improving future responses.
+RISKS AND VULNERABILITIES
+Many of Philadelphia’s evacuation routes are at risk for flooding during storms, especially as the sea level rises (see Table 11). Flooding of these roads would make it more difficult to access hos- pitals, schools, and critical infrastructure, as well as to evacuate the city. Flooding of evacuation routes could put vulnerable populations at further risk during a large storm event.
+Under a scenario of two feet of sea level rise, which is projected for Philadelphia by 2050 un- der moderate greenhouse-gas-emissions scenarios, 29.5 miles of the city’s nearly 664 evacuation route miles would be permanently inundated. A Category 1 hurricane, the most intense that has ever hit the Philadelphia region, on top of two feet of sea level rise would flood an additional 48.8 miles of evacuation routes. Evacuation routes for private vehicles are the most vulnerable to flooding, followed by routes for pedestrians and all vehicles. Evacuation routes used only by pedestrians and mass transit are generally less exposed to flooding.
+TABLE 11
+MILES OF EVACUATION ROUTES VULNERABLE TO INUNDATION UNDER A RANGE OF SCENARIOS
+TYPE OF ASSET
+For an explanation of each flooding scenario and its significance, see page 22.
+   ASSETS POTENTIALLY INUNDATED UNDER FLOODING SCENARIOS
+SEA LEVEL RISE
+SLR 2
+SLR 4
+SEA LEVEL RISE
+with storm surge
+SLR2 + Cat1
+SLR4 + Cat 1
+RIVERINE FLOODING
+100-yr
+500-yr
+             Evacuation Routes,
+in miles
+[Total number = 663.9]
+29.5 (4%)
+53.9 (8%)
+78.3 (12%)
+89.5 (13%)
+107.7 (16%)
+144.6 (22%)
+       GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+46
+Highly Vulnerable
+
+ FIGURE 16
+EXPOSURE OF OEM’S DESIGNATED EVACUATION ROUTES
+EXISTING RESILIENCE EFFORTS
+In the course of fulfilling its core responsibili- ties, OEM proactively addresses weather and climate change risks on a daily basis. Some of OEM’s current key actions that will reduce fu- ture vulnerabilities to climate change include:
+• Conducting historic property mitiga- tion assessments in cooperation with the State of Pennsylvania to identify strategies for at-risk historic buildings.
+• Distributing Ready Philadelphia guides and educating the public on general preparedness and business continuity practices.
+• Implementing the Ready Notify Cam- paign to increase subscriptions to the ReadyNotifyPA system.
+• Partnering with community groups such as local community organizations, including civic, business, town watch, faith-based, senior, special needs, and tenant associations, to promote emer- gency preparedness and mitigation ef- forts.
+• Convening seasonal interagency meet- ings as necessary to review heat re- sponses.
+• Routinely updating priority emergency shelter locations for excessive heat.
+• Implementing and updating the city’s Excessive Heat Plan and Hazard Miti- gation Plan.
+REDUCING THE RISKS
+OFFICE OF EMERGENCY MANAGEMENT
+ GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+47
+
+REDUCING THE RISKS
+OFFICE OF EMERGENCY MANAGEMENT
+EARLY IMPLEMENTATION OPPORTUNITIES
+OEM strategies that are feasible to implement in the near term and effective at reducing City of Philadelphia vulnerabilities include:
+• Purchasing a redundant alert notification system for extreme weather (e.g., NOAA Radio) to notify facilities managers.
+• Actively integrating climate change and climate adaptation strategies in the update of the Hazard Mitigation Plan, which began in summer 2015 and will be completed by 2017. Beginning in March 2016, the Federal Emergency Management Agency (FEMA) will re- quire states seeking funds to enhance their preparedness to include assessments of cli- mate change impacts to their communities.25 In addition, as part of FEMA’s integration of climate change into its program, cost-effective hazard mitigation projects that include sea level rise estimates will be eligible for funding. OEM’s incorporation of local climate change vulnerabilities in the plan will assist with both local and statewide planning.
+• Developing a Hazard Mitigation Steering Committee that identifies climate adaptation strategies as a priority and tracks the implementation of mitigation strategies that increase community resilience, including reporting on the status of projects identified in this report.
+• Preparing, adopting, implementing, and updating a comprehensive long-term recovery plan to direct how and where state or federal disaster recovery funds are used to rebuild resilient communities after storm events, including benefit-cost guidance based on the existing FEMA framework for conducting such analyses. The plan should focus on deter- mining when to rebuild assets to a higher standard so they can withstand future events of similar or greater intensity.
+ GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+48
+
+REDUCING THE RISKS
+ OFFICE OF THE DIRECTOR OF FINANCE (BUDGET, RISK MANAGEMENT)
+The Office of the Director of Finance is responsible for the financial, accounting, and budgeting functions of the city’s ex- ecutive branch. The office includes the Risk Management Division, whose mis- sion is to reduce the financial impact of claims, lawsuits, and employee injuries to the city; to reduce the corresponding frequency and severity of these events through the application of professional risk-management techniques; and to provide a safe environment for employ- ees to work and the public to enjoy. The Office of the Director of Finance also includes the Office of Budget and Pro- gram Evaluation, which performs bud- getary functions for the city, including preparing and monitoring the annual operating and capital budgets, provid- ing periodic projections of the year-end fund balance for the operating funds, preparing the city’s five-year financial and strategic plan (including financial and economic forecasts and assump- tions), and other budgetary reports as required.
+RISKS AND VULNERABILITIES
+While the Office of the Director of Finance does not face any vulnerabilities itself, the Risk Man- agement Division is responsible for evaluating and overseeing the legal risks of each of the other departments, including risks associated with aging infrastructure. Together with Finance, Risk Management makes decisions that determine how future climate risks are considered.
+EARLY IMPLEMENTATION OPPORTUNITIES
+The Office of the Director of Finance is not directly responsible for reducing the city’s climate change vulnerabilities. Rather, the role of the Department is to support the implementation of adaptation strategies by other departments.
+• The Office of the Director of Finance can support departments by assisting in investigat- ing and pursuing direct and alternative funding mechanisms for adaptation strategies. For example, stormwater infrastructure improvements could be funded through taxes, a fee-based mechanism, assessment districts, or leveraging private sector resources.
+• The Office of the Director of Finance can also work with the Planning Commission to inte- grate climate change considerations into the city’s budgeting procedures.
+• The Risk Management Division should consider climate change risks along with all other traditionally considered risks.
+GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+49
+
+PHILADELPHIA CITY PLANNING COMMISSION
+The mission of the Philadelphia City Planning Commission (PCPC) is to guide the orderly growth and develop- ment of the City of Philadelphia. The commission addresses issues of commu- nity and economic development, public health and environmental sustainability, and multi-modal transportation policy. It also manages the city’s Capital Program and annual capital budgeting process.
+The Commission’s Planning Division is responsible for all aspects, including civic outreach, of preparing and updating Philadelphia2035, the city’s comprehensive plan. The division develops district, neighborhood, and redevelopment area plans, and conducts planning studies relating to physical development issues. The Development Planning Division reviews site plans for compli- ance with the zoning code, land subdivision requirements, environmental regulations, and other city and state development controls. The Urban Design Division focuses on the improvement of the city’s public realm through physical design and streetscape initiatives. The GIS Division creates, maintains, and develops visual displays of data used for planning studies and analysis undertaken by the Commission. Finally, the Policy and Analysis Division deals with citywide policy issues and planning opportunities in the areas of housing and demographics, transportation, economic development, and planning for healthy communities.
+RISKS AND VULNERABILITIES
+While PCPC does not face direct risks from climate change or extreme weather events, its plan- ning activities can determine the vulnerability and adaptive capacity of municipal and public assets. Considering current and future flood risks during the planning and approval process for development efforts can help Philadelphia increase its resilience to climate impacts.
+EXISTING RESILIENCE EFFORTS
+As an inherently forward-looking department, PCPC initiatives should consider future risks to help Philadelphia become less vulnerable to hazards. Examples of existing PCPC efforts to address extreme weather risks include:
+• Maintaining enrollment in the National Flood Insurance Program by implementing flood- plain management initiatives, reducing flood risk, and allowing residents to receive dis- counted flood insurance.
+• Considering opportunities to reduce the urban heat island effect and implement stormwa- ter management practices during the Civic Design Review process.
+• Requiring new facilities located in flood zones to be raised 18 inches above FEMA base flood elevation.
+GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+50
+REDUCING THE RISKS
+ 
+REDUCING THE RISKS
+PHILADELPHIA CITY PLANNING COMMISSION
+EARLY IMPLEMENTATION OPPORTUNITIES
+When considering future land use and infrastructure plans, PCPC should consider implementing several strategies, including:
+• Extending the standard planning horizon to match the useful lifetime of the investments and land use changes (at least 30 years in most cases; potentially as long as 100 years for long-lived infrastructure). Extending the standard planning horizon is essential for incor- poration of potential future climate change impacts on programs and infrastructure.
+• Integrating climate change considerations into the Capital Program and capital budgeting process by requiring project sponsors to self-identify vulnerabilities to climate change (po- tentially by following the “decision tree” on page 56), and incorporating climate change impacts in the return on investment (ROI) calculations. As the frequency of extreme weath- er events increases, assumptions used to determine ROI will need to also be adjusted and outcomes of ROI-based investment decisions may change. PCPC should also consider conducting sensitivity tests on the ROI depreciation value to determine if future damages are being too steeply discounted to impact current investment decisions.
+• Preserving open space in flood hazard areas and channel migration zones. The Wissahick- on Valley Park is an outstanding local example of an appropriately preserved floodplain that helps to protect neighboring communities from flooding.
+• Acknowledging and addressing climate change issues, concerns, and impacts in Philadel- phia2035 district plans.
+• Incorporating a discussion of climate change resilience into the Civic Design Review process. For example, require the applicant to identify if they are within the 500-year floodplain and, if so, identify what actions they have taken to prepare for flooding.
+FIGURE 17
+PCPC and MOS are working together to integrate climate science into the District Plan for Philadel- phia’s River Wards, including Fishtown, East Kensington, Olde Richmond, Port Richmond, Kensing- ton and Bridesburg.
+  GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+51
+
+PHILADELPHIA DEPARTMENT OF COMMERCE
+The Philadelphia Department of Com- merce sets and leads policies to help businesses in Philadelphia thrive. The department coordinates activities along neighborhood commercial corridors, programs serving small businesses and entrepreneurs, major real estate devel- opment projects, and large-scale busi- ness attraction and retention efforts, as well as efforts to increase contracting opportunities for minority- and wom- en-owned businesses. The department is the umbrella organization for all eco- nomic development activity in the city and coordinates the work of related agencies, including the Philadelphia Industrial Development Corporation (PIDC) and the Philadelphia Redevelop- ment Authority (PRA).
+RISKS AND VULNERABILITIES
+The Commerce Department, PIDC, and PRA are working to redevelop locations along the Schuylkill and Delaware Rivers, where sea level rise and storm surge will increase flooding vulner- ability. As these departments make long-term plans, such as the proposed extension of the Broad Street Line to The Navy Yard, they will need to consider future flooding potential.
+EARLY IMPLEMENTATION OPPORTUNITIES
+Strategies that the Department of Commerce should consider to increase its preparedness and decrease climate change risk in the long term include:
+•
+•
+Requiring all new waterfront development projects to be constructed in a manner that is resilient to future climate changes and sea level rise. To implement this strategy, Com- merce should work with the Planning Commission to develop enhanced flood protection building code requirements that take sea level rise into consideration, and should provide potential developers with the best available information about flood vulnerabilities at development sites.
+Adding climate adaptation and business continuity technical assistance to the current services the Department of Commerce provides for small businesses and entrepreneurs.
+REDUCING THE RISKS
+  GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+52
+The new Central Green park will help manage stormwater at the Philadelphia Navy Yard.
+
+REDUCING THE RISKS
+ INTERDEPENDENCIES AND OPPORTUNITIES FOR INTERDEPARTMENTAL COOPERATION
+While planning, policy, and finance departments have fewer direct climate vulnerabilities than those managing infrastructure and services, their participation is critical to achieving transforma- tional adaptation measures. Opportunities for changes in planning, policies, and budgeting to reduce the City of Philadelphia’s vulnerability to climate change are described below.
+PLANNING EFFORTS
+As city departments and partners update or complete planning efforts, they should incorporate findings and recommendations from this report to reduce risks to existing city assets and ser- vices, and to ensure that taxpayer investments recognize and respond to emerging climate and extreme weather risks. Consistent cross-agency communication on long-range planning efforts would identify areas for cooperation, create opportunities to leverage funds, and foster an im- proved understanding of cascading risks (i.e., risks affecting one service or asset that in turn affect services or assets under the management of another department).
+PHILADELPHIA CITY PLANNING COMMISSION’S PHILADELPHIA2035 PLANNING
+The Mayor’s Office of Sustainability (MOS) is working with the Philadelphia City Planning Commission (PCPC) to incorporate climate adaptation goals into the district plans PCPC is currently developing and other physical development plans involving PCPC. PCPC should incorporate climate vulnerabilities and adaptation options into future district planning and implementation and include discussions of climate change’s influence on neighborhoods during the district planning outreach process.
+OFFICE OF EMERGENCY MANAGEMENT PLANNING EFFORTS
+The Office of Emergency Management (OEM) is responsible for developing Philadelphia’s Hazard Mitigation Plan (HMP), which contains a risk and vulnerability assessment for the city. The plan is updated every five years, and work has begun on an update that the city will submit to the Federal Emergency Management Agency (FEMA) in 2017. MOS and the Climate Adaptation Working Group are committed to supporting OEM’s goal of considering future climate projections and incorporating climate adaptation actions into the HMP. OEM is exploring development of a Hazard Mitigation Steering Committee, which could serve as an all-hazards forum to help guide ongoing implementation activities.
+OEM is also in the process of developing a comprehensive recovery plan. As a part of the development process, OEM should consider the strategies from this report.
+OEM should consider working with The Navy Yard to develop evacuation routes for the 11,000 employees working on the campus. Because it is technically private development, the area has been excluded from OEM’s plans in the past.
+PHILADELPHIA WATER LONG-RANGE PLANNING
+Philadelphia Water will provide updates on the results of its climate change risk assess- ment that may help inform the long-term planning and investment strategies of other departments.
+COORDINATION WITH KEY CITY PARTNERS’ PLANS
+The city will need to engage and coordinate with external partners, such as SEPTA, PECO, PJM Interconnection, PennDOT, and other agencies that manage assets and operations that are interdependent with the city’s, to ensure coordination across Philadelphia.
+GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+53
+
+GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+54
+REDUCING THE RISKS
+For example, the city should continue to support the Delaware River Waterfront Corpo- ration as it seeks funding to establish wetland parks between Washington and Oregon Av- enues, as outlined in the Central Delaware Waterfront Master Plan. Similarly, the city should coordinate with SEPTA to ensure that discussions about expanding transit systems consider vulnerabilities to flooding due to climate change.
+FUNDING & BUDGETING
+• The Office of the Director of Finance and the Mayor’s Office of Grants can support de- partments by assisting in identifying and pursuing external grants and alternative funding mechanisms for adaptation strategies. For example, stormwater infrastructure improve- ments could be funded through taxes, a fee-based mechanism, assessment districts, or leveraging private sector resources.
+• The Office of the Director of Finance should work with the Planning Commission to inte- grate climate change considerations into budgeting procedures.
+• The Risk Management Division should ensure that climate change risks are considered side-by-side with all other risks that are traditionally planned for.
+POLICIES TO PREVENT FUTURE VULNERABILITIES
+In addition to protecting existing structures and systems, planning future development out of harm’s way is also necessary. Some strategies that are feasible for near-term implemen- tation are identified earlier; more aggressive and holistic approaches are suggested below.
+LAND USE
+• Consider innovative options for voluntary transfers of development rights that could allow property owners to sell existing development rights in high-risk areas in ex- change for rights in low-risk areas.
+• Implement a program of rolling easements to establish an open space boundary that moves inland as sea level rises along the shoreline. Alternatively, work with parks and habitat preservation partners that may be interested in purchasing properties in these areas. The easement or purchase program should be established soon enough to acquire areas for inland migration of wetlands and to avoid shoreline armoring that would foreclose the option of implementing natural solutions to sea level rise. In 2011, EPA released a report on rolling easements that contains information on the types of easements and strategies available to cities.26
+• Create a collaboration among appropriate departments such as Public Property, Parks & Recreation, Philadelphia Water, and the Office of Finance to prioritize buyout of properties that are damaged or at high risk of damage from sea level rise or storm events. This may be instituted reactively over time as properties are damaged, or proactively for businesses and residences that fall within the potential flooding areas. For a model program, see the New York Rising Buyout and Acquisition Program that was implemented after Superstorm Sandy.
+• Provide a flooding vulnerability assessment of brownfields to the City of Philadelphia Brownfields Working Group, led by the Department of Commerce, and to the U.S. Environmental Protection Agency’s Brownfields Program to help support prioritization of remediation based on the timing of exposure to sea level rise, storm events, and elevated groundwater, degree of vulnerability, and extent of the consequences.
+
+GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+55
+REDUCING THE RISKS
+BUILDING CODES
+• Require high-rise residential housing to have either backup generators or windows that can open for ventilation. High-rises without ventilation can become dangerously hot during power outages.
+• Develop and enforce policies for repair and reconstruction to eliminate below-grade habitable space that is damaged by sea level rise, storm surge, or flooding.
+PROTECTING ASSETS FROM FLOODING VULNERABILITY
+The City of Philadelphia can increase citywide flood resilience by proactively planning for projected sea level rise and storm surge inundation when retrofitting existing facilities and building new facilities, and by providing guidance and information to private developers. A starting point for incorporating future climate and weather risks in engineering design is the draft 2015 Federal Flood Risk Management Standard. It requires that all new federally funded construction be sited and designed in one of three ways:
+1) Using best available data and methods that integrate current and future changes in flooding based on science;
+2) Building two feet above the current 100-year flood elevation for standard projects, and three feet above the current 100-year flood elevation for future critical assets (e.g., police, fire, other mission-critical structures); or
+3) Building above the 500-year flood level.
+This standard can be a model for all projects, not just those using federal funding. The City of Philadelphia and other progressive investors that are interested in managing flood risks can use the same approach for non-federal projects located in the FEMA floodplain.
+However, some areas of Philadelphia outside the FEMA floodplain are at risk for inunda- tion by sea level rise and storm events. Following the 2015 Federal Flood Risk Management Standard may not sufficiently protect assets in these locations. Additionally, the levels of protection recommended by the 2015 federal standard would protect assets in Philadelphia from sea level rise and storm surge events only through mid-century, while most infrastruc- ture projects are built to last much longer than that.
+Sea level rise and flooding projections completed for this project give the City of Phila- delphia the information necessary to provide local guidance on how to plan for incremental risks from sea level rise. Selecting appropriate flood risk mitigation strategies requires con- sidering three parameters of planned investments: time, location, and consequence.
+• TIME: Will the project or the asset be in use in 2050? In 2100? Are investment deci- sions and resource allocations hinging on the project enduring to mid-century or the end of the century?
+• LOCATION: Is the project or asset located in a FEMA floodplain? Could it be exposed to sea level rise, or storm surge from a Category 1 storm on top of sea level rise?
+• CONSEQUENCE: What are the consequences of damage to this asset? Is this a case where there is zero tolerance for failure? How easily could this project or asset be replaced or reinstated if it were temporarily out of service or unavailable? Asset man- agers need to establish their own definitions of criticality and decide where on the spectrum of criticality a particular investment falls.
+The following decision tree, when utilized in conjunction with the maps prepared for this study, will help planners walk through these questions and determine how to improve flood resilience of their projects.
+
+FIGURE 18
+FLOOD PROTECTION PLANNING GUIDANCE
+REDUCING THE RISKS
+  56
+
+GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+57
+REDUCING THE RISKS
+• TIME: The intended useful lifetime of an asset significantly influences the appropri- ate flood risk management approach. Short-lived projects are at lower risk from sea level rise than are long-lived ones, and are more likely to be sufficiently protected by following the 2015 Federal Flood Risk Management Standard. Projects expected to endure beyond mid-century should consider planning for a wider range of poten- tial futures.
+• LOCATION: The extent to which an investment is located in an area projected to be inundated from sea level rise and storm surge, or located in the 2007 FEMA 100-year floodplain should inform flood risk management choices. In South Philadelphia and along the Delaware River, sea level rise and storm surge are projected to inundate an area that is broader than the FEMA floodplain. In other locations, especially along the Schuylkill River and inland on smaller tributaries, the FEMA floodplain covers a larger geographic footprint than sea level rise and storm inundation scenarios. (Maps of these scenarios are included in the Flooding section of this report starting on page 14.) Based on the best projections of sea level rise available in 2015 (see page 6-9 of the Appendix), Philadelphia should be planning for a mid-century sea level rise of between one and three feet and an end-of-century sea level rise of between one and six feet. As sea level rise and storm surge projections develop and improve, the city should update these ranges.
+• CONSEQUENCE: The level of floodproofing needed for any given structure depends on the criticality and elevation of the structure. If an asset will be short-lived or if the consequences of failure are low, little or no floodproofing may be necessary. In cases where the tolerance for failure of an asset is zero, to mitigate the risk of flooding, asset managers should floodproof below the highest depth of flooding the asset is pro- jected to experience over its lifetime. To do so, planners should use the sea level rise plus Category 1 storm surge depth data developed for this project (as indicated in the decision tree). Many assets will fall in between these two extremes—from short-lived and/or no consequence of failure to extremely high consequence of failure—requiring engineers and planners to balance risk tolerance and consequence with the cost of floodproofing to the indicated levels.
+
+ GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+    5
+ LOOKING FORWARD
+
+GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+59
+LOOKING FORWARD
+The existing adaptation measures, early implementation strategies, and interdepartmental opportunities identified in Growing Stronger: Toward a Climate-Ready Philadelphia are im- portant first steps toward responsibly addressing the City of Philadelphia’s vulnerabilities to a warmer and wetter future. The data analyses and engagement with city staff and external partners completed for this report are already making Philadelphia stronger, but hard work and continued commitment are necessary to continue making progress. The City of Philadelphia will need to continue climate adaptation work at the municipal level, and at the same time work with resi- dents, businesses, and infrastructure managers to develop a citywide roadmap for adapting to our changing climate. As evidenced in this report, planning for climate change poses challenges, but also provides significant opportunities to ensure Philadelphia continues growing stronger.
+First Steps to Deepen the City of Philadelphia’s Commitment to Climate Planning
+Departments across the City of Philadelphia found that participation in climate adaptation plan- ning over the past three years was beneficial, providing them with helpful data, identifying oppor- tunities to share responsibilities and costs, and helping them find potential new funding sources.
+Departments recognize that without a single coordinating entity empowered to gather in- formation from a variety of departments, oversee shared actions, and provide resources and staff time for climate adaptation, none of these benefits would have been realized. Assigning responsibility for continued coordination to a department, the Climate Adaptation Working Group, or a new interagency task force will be critical to successful implementation of the strat- egies in this report.
+Near-term priorities to deepen the city’s climate preparation should include:
+• Continuing to ensure that city employees are trained to use the working data resulting from the analyses completed for this report.
+• Integrating climate data and planning efforts with related projects underway, including the update to Philadelphia’s Hazard Mitigation Plan, the Citywide Flood Risk Management Task Force, and the city’s exploration of participating in the National Flood Insurance Pro- gram Community Rating System.
+• Expanding coordination with external partners currently engaged in the process including SEPTA, PECO, Veolia, PJM, PennDOT, and regional climate scientists, and reaching out to new partners in neighborhoods and the business community.
+• Periodically revisiting climate science and updating adaptation plans accordingly.
+Investing to Reduce Climate Vulnerabilities
+In addition to the process changes identified above that could be implemented relatively quickly, additional investments of effort and resources will be necessary. Specific middle-term priorities the city should consider include:
+• Establishing business practices and creating data systems to track information from ex- treme weather events. Documenting current practices and costs during weather events will allow the city to prioritize projects with the best return on investment and attract fed- eral funding and private investments in upgrades.
+• Identifying opportunistic upgrades to increase preparation for climate change. When funding routine maintenance or upgrades to facilities, the city’s capital planning process should consider opportunities to make marginal investments that decrease vulnerability to flooding and reliance on the electrical grid, particularly in the city’s most critical facilities.
+• Acknowledging and working to quantify the benefits, such as improved quality of life, increased attractiveness to business investors, and more equitable distribution of ser- vices, that adaptation strategies provide beyond preparing Philadelphia for warmer, wet- ter weather.
+
+FIGURE 19
+SENSITIVE POPULATIONS EXPOSED TO FLOODING BY 2050
+LOOKING FORWARD
+Planning for Climate Change beyond Municipal Government
+Work that the city completed for this report, including downscaled regional climate projections, updated inundation modeling, and planning guidance for flood protection of new facilities, is available and can be used to improve citywide preparations for climate change immediately. Gathering this data and completing an initial analysis was a necessary first step toward answering larger, transformative questions such as how to assess and minimize risks to environmental health, neighborhoods, the economy, and quality of life.
+As planning for climate change expands beyond municipal assets and services, identifying both geographic areas and concentrations of population that are particularly vulnerable to in- creased heat and precipitation should help focus adaptation planning efforts and investments. Data gathered during the completion of this report, including Figure 19, a map of where the Centers for Disease Control’s social vulnerability index suggests sensitive populations may be ex- posed to flooding by 2050, can provide a helpful first screening of where to focus additional work.
+  GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+60
+Source: Centers for Disease Control’s Social Vulnerability Index
+
+LOOKING FORWARD
+Current climate projections and the resulting vulnerabilities in Philadelphia suggest that as- set-by-asset adaptation strategies will be the most effective protections against increased heat and precipitation. However, as the city continues to monitor updates to climate science, if certain areas of Philadelphia become more vulnerable, the city should consider potential projects to pro- tect larger areas. One example of an area-wide adaptation investment is an engineered shoreline protection measure such as a berm, levee, or sea wall, which would physically stop water from entering a portion of the city, protecting multiple structures close together.
+As the city begins to tackle the early implementation opportunities identified in this report, the lessons from our first three years of adap- tation planning will help Philadelphia begin additional, complemen- tary efforts at the neighborhood level and with partners who manage the critical systems such as the power grid, transportation infrastruc- ture, and food supply, on which government, residents, and business- es all rely. Through this process, we can work together to ensure our city grows stronger even as the climate changes.
+GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+61
+
+6 Appendix
+ASSESSING VULNERABILITY 6-2
+Climate Science Information 6-2 City Department Information 6-2 Vulnerability Assessment Methodology 6-4
+EVALUATING COSTS 6-11
+Projecting Costs of Inaction 6-11
+IDENTIFYING STRATEGIES TO REDUCE VULNERABILITY 6-14
+Methodology for Developing Adaptation Strategies 6-14 Methodology for Classifying Adaptation Strategies 6-15 Methodology for Evaluating and Selecting Adaptation Strategies 6-16
+  GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+6-1
+
+APPENDIX
+ Assessing Vulnerability
+The assessment of Philadelphia’s vulnerabilities to the impacts of climate change was built on the foundation of previous analyses to project future trends in climate and related effects (e.g., sea level rise) in the Philadelphia region.
+Climate Science Information
+With guidance from Philadelphia’s Climate Adaptation Working Group, ICF International used a combination of current and new science to give past, current, and future projections for tempera- ture, precipitation, drought, and sea level rise, downscaled27 specifically for Philadelphia. These projections were compiled in a document entitled Useful Climate Information for Philadelphia: Past and Future.4 To engage regional academics and researchers, the Mayor’s Office of Sustain- ability (MOS) convened a group of 12 climate change scientists and experts from the region. The meeting, held in May 2014, focused on a draft version of the climate science document. Attendees were given the opportunity to comment on the methods and results. Specific recom- mendations from the participants regarding draft results and gaps in available information were evaluated, and are reflected in the final science document. The document was published online in August 2014 for the public to review and use as the current understanding of climate science in Philadelphia.
+Projections for future temperature and precipitation in the report were developed us- ing the U.S. Department of Transportation’s CMIP Climate Data Processing Tool,28 and were supplemented with other climate projections (e.g., for drought and sea level rise) from best available sources.
+City Department Information
+Information for the vulnerability assessment on city departments, their assets, and specific areas of concern was obtained through direct contact with departments, through two scenario-planning workshops (see below), from department websites, from asset management systems, and other sources.
+D ATA
+MOS actively engaged departments in early 2015 to identify and collect information needed to understand and evaluate department-specific and citywide vulnerabilities. MOS worked with ICF to ensure that the analysis contained in this report would include a comprehensive picture of vulnerable assets as well as an understanding of critical services provided to res- idents. To achieve this comprehensive picture, qualitative information was solicited to sup- port improved understanding of how vulnerabilities not associated with infrastructure (e.g., constraints on staff resources or fuel) may contribute to overall vulnerability.
+ GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+6-2
+
+APPENDIX
+EXCESSIVE HEAT WORKSHOP
+MOS held a workshop on April 20, 2015 to discuss interdepartmental vulnerabilities related to extreme heat events in Philadelphia. MOS worked with ICF to create maps that outlined current exposures of vulnerable populations in the city. In general, heat events affect the city’s population more than they do its physical assets, but the city needs to ensure that power and other services are maintained in order to keep the population safe.
+The workshop explored responses to four different heat event scenarios based on histor- ical events, described below:
+ Scenario I: Hot temperatures throughout the summer
+During the summer of 2005, hot days averaged 91.4oF, with average warm nights of 72.2oF. Philadelphians experienced 13 days above 100oF (the normal average number of days per year over 100oF is zero) and 30 days above 95oF (the normal average num- ber of days per year over 95oF is three).
+Scenario II: Multi-day heat event
+During these events, daytime temperatures surpassed 95oF, with nighttime tempera- tures dropping only to 70oF or warmer for several days in a row. These events were divided into events with power (Scenario IIA) and events without power (Scenario IIB).
+Scenario IIA: Events without power outages
+• July 6–14, 1993: 118 heat-related deaths in Philadelphia. This event led to the development of a more effective heat warning system.
+• July 4–7, 2012: City employees were released during the event. Health officials expressed concern about black-roofed, brick rowhouse neighborhoods where hot nights led to cumulative heat storage within the houses.
+• July 15–20, 2013: The city’s Heatline experienced its highest-ever number of calls over a six-day period.
+Scenario IIB: Events with power outages
+• July 13–17, 1995: On July 15, PECO energy transformers overheated and the circuit overloads led to 30,000 customers losing power. (Note that PECO has since taken precautions to prevent such overloads in the future.) This heat wave was followed by three additional weeks of hot weather. From July 13–August 14, an estimated 72 people died from exposure to excessive heat.
+• June 7–10, 2008: Power outages throughout the city exacerbated heat impacts and led to suspension of rail service. Twenty-six deaths were attributed to high temperatures and humidity, and the event was the most expensive Heatline acti- vation event recorded from 2005 to 2013.
+GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+6-3
+
+APPENDIX
+FLOODING WORKSHOP
+MOS held a workshop on April 24, 2015 that focused on issues experienced across depart- ments during a variety of previous flooding events. The purpose of the flooding workshop was to discuss responses before, during, and after the events, to identify opportunities to improve interdepartmental coordination, and to identify vulnerabilities.
+ Scenario I: Tropical storms and hurricanes
+• Tropical Storm Allison (June 15–17, 2001): This storm caused widespread flood- ing, and President Bush issued a major disaster declaration for the state (covering damage to private property). Flooding at an apartment complex in Upper More- land caused an explosion and fire due to damage to a gas line from floodwaters. Floodwaters required home evacuations in low-lying areas; hardest hit were Bucks and Montgomery Counties. At least seven people were killed (due to the fire and explosion); damages within Pennsylvania totaled $215 million (2001 dollars). SEPTA cancelled service for the R2 Warminster, R5 Lansdale/Doylestown, and R3 West Trenton trains; the storm washed out rail lines. About 700,000 customers in the region including Philadelphia County lost power.
+• Hurricane Irene (August 27–28, 2011): Philadelphia experienced widespread pow- er outages and major inland flooding. Damage costs included: $49,000 of dam- age to city vehicles (flooding), $124,000 of damage to streets (railings, debris collection, sanitation, roof repairs), and $330,000 of damage to parks (trail repair, debris collection). SEPTA cancelled all service on August 28. Impacts to SEPTA included downed catenaries throughout the system, downed trees potentially blocking rail routes, service disruptions from flooding and loss of signal power on the Manayunk/Norristown line, 59 train cancellations and 2.5 hours of delays for trains that did operate for the Manayunk/Norristown line. PECO reported that 139,000 area residents lost power due to downed power lines.
+Scenario II: Heavy rain
+Heavy rain event (April 30–May 1, 2014): This event caused extensive flooding through the early afternoon, and a flash flood warning was in effect. SEPTA cancelled service on the night of April 30 and the morning of May 1 due to high river levels and partially submerged tracks. Major roads were closed due to flooding, including sections of MLK Drive, Kelly Drive, and Lincoln Drive.
+GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+6-4
+Vulnerability Assessment Methodology
+The sections below describe how the vulnerability assessment was conducted.
+EXPOSURE DATA
+This section presents quantitative projections of climate variables, including heating de- gree-days, cooling degree-days, temperature metrics, and precipitation metrics, that were used in the vulnerability assessment. It also presents a qualitative analysis based on a target- ed literature review, which shows the suggested direction of change for snow, heavy winds, and drought. For more detail describing the climate models, scenarios, and methodology, see the Useful Climate Information for Philadelphia: Past and Future report.
+
+APPENDIX
+Temperature Metrics
+The findings from the CMIP processing tool, as presented in Table B.2.1 in Useful Climate Information for Philadelphia: Past and Future, were used to inform the projections of select temperature metrics useful to the vulnerability assessment. Projections of each metric for each scenario and future time period were developed using a two-step approach: (1) calcu- lating the difference between the projected and baseline climate model ensemble; and (2) summing the projected difference with the observed baseline.
+By mid-century, Philadelphia is projected to experience a notable increase in the fre- quency, intensity, and duration of hot days and reduction in days below freezing. The num- ber of hot days continues to increase by the end of the century. For the end-of-century projections, there is a large range in the number of hot days projected across scenarios, with more than a doubling in hot days from the lower scenarios to higher scenarios.
+Precipitation Metrics
+The findings presented in Table B.2.1 in Useful Climate Information for Philadelphia: Past and Future were used to provide projected changes for a handful of precipitation metrics for use in the vulnerability assessment. The precipitation projections were developed using the same methodology as that for the temperature projections.
+By mid-century, the number of heavy precipitation events is projected to increase along with increases in seasonal precipitation. The greatest increase in seasonal precipitation is projected for the winter months. It is not clear whether this precipitation will continue to fall as snow or shift to an increase in rainfall (see qualitative analysis on snow in the following section).
+The end-of-century precipitation projections that informed the vulnerability assessment suggest an increase in seasonal precipitation amounts particularly for winter and spring, but do not suggest a notable overall change from mid-century projections for the other precip- itation metrics.
+Qualitative Analysis
+In addition to temperature and precipitation, additional climate-related variables were con- sidered qualitatively for this assessment, including snow, high wind, and drought. The analy- sis for each variable draws from available literature and from the Useful Climate Information for Philadelphia: Past and Future report. As noted in the discussion below, robustly quantify- ing the projected change in these variables is an area of active research.
+The findings suggest the following trends:
+High Wind Increase in the frequency and intensity of storms that may create high wind conditions (though a lot of uncertainty)
+ VARIABLE
+FUTURE CHANGE
+Snow
+Increase in winter precipitation events but a shift from snow to rainfall
+ Drought
+Greater potential of short-term drought during summer months
+GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+6-5
+
+GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+6-6
+APPENDIX
+Snow
+The literature is consistent with ICF’s findings from the U.S. Department of Transportation’s CMIP Climate Data Processing Tool: winter precipitation for Philadelphia is projected to increase in mid-century and end-of-century. However, this increase does not necessarily equate to more snow. There may be an increase in winter precipitation, and more of this precipitation will occur as rain.29,30 In theory, this could be create problems during cold win- ter months if the ground continues to be frozen, leading to runoff and ponding conditions.
+High Wind
+A number of atmospheric phenomena can create high wind conditions, including tropical cy- clones (e.g., hurricanes, tropical storms), thunderstorms, and frontal activity (e.g., cold fronts and warm fronts). Projecting how storm events responsible for heavy winds may change is complicated by the need to understand how changes in climate may affect shifts in the jet stream, which can affect storm tracks, wind shear, and vertical temperature gradients.
+• TROPICAL CYCLONES: The general scientific consensus suggests tropical storms may decline in number globally in the decades ahead, but there may be an increase in the number of Category 3, 4, and 5 storms. There is some sugges- tion that the greatest increase in major hurricanes could occur over the western Atlantic basin in response to warmer sea surface temperatures and reductions in vertical wind shear.31
+• THUNDERSTORMS: A recent study considered how climate change may affect two ingredients necessary for severe thunderstorm activity: convective available potential energy (CAPE) and wind shear. There is some evidence that severe thunderstorms may increase for the United States in response to increases in CAPE, but tornadoes and hail may be reduced under projected decreased wind shear conditions.32 Overall, this is an active area of research, and findings should be treated with caution.30
+• FRONTAL ACTIVITY: Since 1950, winter storms have tended toward an increase in intensity and frequency, with a poleward shift in the storm track.30 A recent study suggests that the jet stream will have more frequent “wavy” patterns as the Arctic warms at a faster rate than the United States (and other mid-latitude locations), causing a higher frequency of extreme weather events such as cold snowy weather in the eastern United States.33
+Keeping in mind the challenges and uncertainties underlying these findings, the overall conclusion is that Philadelphia may experience more frequent and potentially more severe storms accompanied by high winds in the decades ahead.
+Drought
+The scientific community uses a variety of definitions to explain what is meant by the word “drought.” For example, drought can be defined as dry weather patterns that persist in a given area or as a period of low water supply in response to prolonged periods of dry weather.34 For purposes of this analysis, short-term drought is considered to last one to three months and medium-term drought is considered to last three to six months.
+Philadelphia is affected both by droughts within the city boundaries and by droughts affecting the Pocono and Catskill Mountains. These mountains represent the headwaters of the Delaware River watershed. Philadelphia Water’s water intake along the lower Delaware River provides drinking water to nearly one million people, including 60 percent of Philadel- phia’s residents. Droughts in the mountains may affect the quality of water at the lower Dela- ware River, increasing its salinity. Philadelphia Water has been exploring climate change risks, including salt line35 movement and water quality changes that that may occur in the Delaware River as a result of the combined impact of potential droughts and projected sea level rise.
+
+GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+6-7
+APPENDIX
+Past and Present Conditions. Eastern Pennsylvania is affected by short-term droughts about once every two years, but is rarely affected by medium-term drought.36 The longest drought on record occurred from 1962 to 1965, during an extended period of low precipi- tation.36 This drought was so significant that Philadelphia Water uses this period as a bench- mark for preventing the intrusion of salinity in the water supply system.
+Future Conditions. Drought projections for the state of Pennsylvania are inconclusive:
+• One study suggests that droughts may increase in frequency in late spring and early fall as a result of decreases in snow cover, increases in extended dry peri- ods, little or only slight changes in summer rainfall, and greater evapotranspira- tion (the combination of evaporation and plant transpiration).36
+• Another study suggests little or no change in short-term drought frequency in the southeast portion of the state, but an increase in short-term drought in the Pocono Mountains.37
+• Finally, the United States Global Change Research Program38 suggests under a high emission scenario that short-term droughts could occur every summer in the Catskills Mountains, potentially affecting water quality in the Delaware River.
+Soil moisture can be an indicator of potential drought conditions. Using the U.S. Geo- logical Survey’s National Climate Change Viewer under a higher emissions scenario, Phil- adelphia County is projected to experience a notable reduction in soil moisture from May through November, with the reductions increasing with future time.39 The projections do not suggest change in soil moisture compared with current conditions from December through April. It is not clear how these reductions will translate to short-term drought conditions.
+Focusing on the month of August, soil moisture has decreased since 1950 and is project- ed to continue to decrease. By mid-century, August soil moisture is projected to decrease by about one inch (a roughly 30 percent decrease). By end-of-century, soil moisture could decrease between about 0.8 and 1.5 inches.
+Vulnerability to Heat
+Philadelphia’s primary vulnerability to extreme heat is the risk to human health. Heat affects in- frastructure as well—for example, extreme heat can cause pavement buckling, materials degra- dation, and decreased efficiency of electrical equipment—but human health impacts are likely to be more severe.
+Extreme heat is most likely to have adverse health impacts on already vulnerable populations, including children, the elderly, the sick, and the poor. For example, extreme heat can lead to increased formation of ground-level ozone, which in turn can exacerbate asthma. Factors (several of which are interrelated) that can indicate vulnerability to extreme heat include:
+• AGE: Children and the elderly are the most physiologically vulnerable to heat-related illness.
+• INCOME: People living in poverty are less likely to be able to afford in-home air condi- tioning, and may have more difficulty getting to cooling shelters during a heat wave.
+• ACCESS TO AIR CONDITIONING: People without in-home air conditioning are more vulnerable to heat-related illness.
+• ACCESS TO TRANSPORTATION: People who are reliant on public transportation may be less likely to access cooling shelters unless they are within short walking distance.
+• HOUSING TYPE: People without air conditioning who live on the upper floors of flat- roofed apartments, in ground-level floors in high crime neighborhoods, or in apartments with windows that do not open may be less able to cool their homes and thus more sus- ceptible to heat-related illness.
+
+APPENDIX
+MOS and ICF undertook a mapping exercise to identify places and populations in the city that may be most vulnerable to extreme heat events. Using available data and the aforementioned heat vulnerability indicators, the city mapped locations that are not within easy access to a cooling center and have high concentrations of young, elderly, or poor populations.
+MOS and ICF identified locations that are:
+• More than 1⁄4 mile, 1⁄2 mile, or one mile from a cooling center; and
+• Have greater than 10, 15, 20, 25, 33, or 50 percent of the population above 65, less than age five, or below the poverty line.
+Data on cooling center locations were obtained from the Office of Emergency Management; population data came from the U.S. Census Bureau.
+The city can review the vulnerable locations under all permutations of the thresholds (e.g., 1⁄4 mile from a cooling center and 10 percent vulnerable populations vs. 1⁄2 mile from a cooling center and 25 percent vulnerable populations) to identify “hot spots” where heat-related vulnerabilities exist, and to target for adaptation strategies. One of these permutations is presented in Figure 12.
+Vulnerability to Flooding
+SCENARIOS
+For this report, ICF assessed the exposure and subsequent vulnerabilities of infrastructure in Philadelphia to the flooding scenarios shown in Table 12.
+TABLE 12
+FLOODING SCENARIOS USED IN THE VULNERABILITY ASSESSMENT
+Tropical Cyclone/Storm 2 ft SLR + Category 1 U.S. Department of Energy Surge 4 ft SLR + Category 1 Modeling17
+  FLOODING TYPE
+SCENARIOS SELECTED
+SCENARIOS SELECTED
+Sea Level Rise (SLR)
+2050: SLR 2 ft 2100: SLR 4 ft
+National Oceanic and Atmospheric Administration Digital Coast
+ Riverine Flooding
+FEMA 500-yr flood zone
+Federal Emergency Management Agency (2007)
+GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+6-8
+
+SOURCE
+TIMELINE
+SCENARIO
+Low (10th%)
+APPENDIX
+The sea level rise scenarios were chosen based on a synthesis of sea level rise projections from the U.S. Department of Energy (DOE)17 and the Climate & Urban Systems Partnership (CUSP).40 Table 13 shows the DOE and CUSP projections for Philadelphia for mid-century and end-of-century. The project team took a conservative approach and selected the more conservative projections for the moderate-high scenario from each set of projections (see the highlighted box in Table 13).
+ TABLE 13
+SEA LEVEL RISE PROJECTIONS FOR PHILADELPHIA
+  Mid (25th%)
+Mid (75th%)
+ MID-CENTURY CUSP END-OF-CENTURY
+MID-CENTURY DOE END-OF-CENTURY
+< 1 ft (7-8” )
+1 ft (12”) < 1 ft
+< 1 ft
+< 1 ft (10”)
+1-2 ft (18”) 1 ft (2069)
+2 ft (2109)
+3 ft (30”) 4-5 ft (55”) NCA High
+<2 ft (2051) 6 ft (2095)
+2 ft (20”)
+High (90th%)
+                  3 ft (36”)
+     NCA Low
+NCA Intermed-Low
+NCA Intermed-High
+1 ft (2045), 2 ft (2067)
+                  GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+6-9
+Storm surge scenarios were then selected to represent the types of tropical storms that are most likely to affect the Philadelphia area, combined with the selected sea level rise projections.
+The only data available to evaluate exposure to riverine flooding were the 2007 FEMA 100- and 500-year floodplains. These floodplains are based on historical precipitation ex- tremes, and do not incorporate potential changes in the frequency or severity of heavy precipitation associated with climate change.
+ASSETS
+The flooding vulnerability analysis covered all 2,698 city-owned facilities. In addition, the analysis covered the exposure of officially designated evacuation routes, stormwater outfalls, roadways, severe weather shelters, hazardous waste sites, hospitals, and homeless shelters.
+METHODOLOGY FOR ASSESSING THE FLOODING VULNERABILITY
+Vulnerability to flooding of all city-owned facilities was evaluated by determining whether the facility is exposed to flooding under each scenario, and determining the likely sensitivi- ty41 and adaptive capacity42 of each facility based on its type.
+For all 87 types of city-owned facilities (fire stations, fuel pumps, maintenance buildings, piers, sheds, libraries, baseball fields, etc.), the ICF team determined a preliminary rating of the sensitivity and adaptive capacity of that asset type to flooding as Low, Moderate, or High (see examples in Table 15). These ratings were based on expert judgment and information gleaned during workshops and department interviews.
+Vulnerability ratings for each asset type were then defined based on the sensitivity and adaptive capacity ratings. For example, an asset with low sensitivity and high adaptive ca- pacity has low vulnerability (see Table 14). Each of the 2,698 facilities was then assigned a vulnerability rating of Not Exposed, Low, Moderate, or High, based on whether it was exposed and its facility type.
+4 ft (2100)
+
+APPENDIX
+ TABLE 14
+VULNERABILITY RATINGS ASSIGNED BASED ON SENSITIVITY AND ADAPTIVE CAPACITY
+ SENSITIVITY
+ADAPTIVE CAPACITY
+VULNERABILITY
+Low
++
+High
+=
+Low
+ Low + Moderate
+= Low = Low = High = High
+Low
++
+Low
+=
+Moderate
+Moderate Moderate
++ High + Low
+Moderate
++
+Moderate
+=
+Moderate
+High
++
+High
+=
+Moderate
+High +
+Moderate
+High
++
+Low
+=
+High
+ TABLE 15
+EXAMPLE FLOODING SENSITIVITY AND ADAPTIVE CAPACITY RATINGS FOR CITY-OWNED FACILITIES
+ FACILITY TYPE
+SENSITIVITY RATING
+SENSITIVITY RATIONALE
+ADAPTIVE CAPACITY RATING
+ADAPTIVE CAPACITY RATIONALE
+VULNERABILITY RATING (IF EXPOSED)
+FIRE STATION
+High
+Floodwaters could damage equipment or prevent firefighters from responding to fires.
+Low
+Fire stations provide a crit- ical service to the city, and cannot be out of service because of flooding.
+High
+ PARKING LOT High
+Floodwaters can render parking lots unusable or damage vehicles parked there.
+High
+With sufficient warning, ve- hicle owners can move their vehicles from flood-prone parking lots. When floodwa- ters recede, the parking lot is usable.
+Moderate
+BASEBALL FIELD
+Moderate
+Floodwaters can
+render a baseball field tem- porarily unusable.
+High
+Baseball fields are unlike- ly to be in use during an event that might render it flooded.
+Low
+GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+6-10
+
+GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+6-11
+APPENDIX
+Evaluating Costs
+This section describes the methodology for evaluating the costs of climate change to Philadelphia.
+Projecting Costs of Inaction
+The costs that Philadelphia will experience as a result of climate change were estimated in very rough terms, using several sources of data. As described below, estimates were developed com- bining data generated by the climate projections and the vulnerability assessment with published studies of climate effects, or with historical data on the effects of extreme weather events in Phil- adelphia in the past (since they provide evidence of the types of costs that may be borne in the future). Additional estimates were developed using published studies for larger geographic areas that estimated the costs of climate change.
+The diverse costs of inaction can be categorized into the following components:
+• The direct costs of actions that are taken reactively by the city to respond to extreme weather and other impacts of climate change.
+• The cost of actions that households and business take in response to changes in climate.
+• Residual damages or lost services (often referred to as indirect costs).
+• Health effects.
+• Other social damages and declines in quality of life.
+Information is available to project or estimate costs for only a small subset of the possible costs of inaction. Many assumptions were made in order to generate these costs, and rules of thumb were in some cases developed using data for other geographic regions and a variety of studies using different climate scenarios. Hence, the cost estimates should not be viewed as de- finitive estimates, but rather indicative of the order of magnitude of potential costs.
+HEATLINE OPERATIONS
+The city activates a heat hotline, or Heatline, on days when the Health Commissioner for Philadelphia calls a heat emergency for the city. Between 2001 and 2013, the Heatline op- erated an average of nine days per year. Due to climate change, the number of days when the Heatline operates is projected to increase to between 13 and 23 days in 2050 and to as many as 52 days in 2100. Using conservative assumptions about the increase in the annual number of activation days, the incremental costs (relative to the current climate) of operating the Heatline, including staffing and emergency response, were estimated.
+The city provided data on the costs of operating the Heatline and the number of days it was in operation for years between 2001 and 2013. These data were supplemented by data on the cost of an hour of a nurse’s time and the cost of an ambulance visit, obtained online, to produce an average cost per day of operation of about $2,220 (in 2010 dollars).
+The number of days of operation for 2050 and 2100 were simulated assuming that the Heatline would operate each day the temperature rose above 95oF; this was chosen as a proxy for the Health Commissioner calling a heat emergency, and is probably conservative. The observed historical average of nine days was subtracted from the projected number of days to determine the incremental number of days and the incremental costs (the lower bound estimate). A more aggressive estimate was constructed by estimating the incremental number of days over baseline in the climate scenarios (three days).
+
+GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+6-12
+APPENDIX
+POLLUTION AND ASTHMA
+Higher levels of ozone resulting from climate change will increase the incidence and costs associated with a variety of diseases, including asthma, cardiovascular disease, COPD, and other respiratory diseases. The American Lung Association estimates that about 152,000 adults and children have asthma in a given year in Philadelphia. The total direct and indirect costs of asthma are estimated to be about $2,600 per person. Together, these figures sug- gest that the current costs of asthma for Philadelphia exceed $400 million annually. These are costs associated specifically with asthma, and not with other health conditions that the individuals may have.
+One study of the relationship between asthma and climate change43 finds that, by 2050, the number of summer days exceeding the eight-hour regulatory limit for ozone will grow by 68 percent on average across 50 cities studied, including Philadelphia. This is similar to the results of Kahrl and Roland-Holst,44 which project the number of days with conditions condu- cive to ozone formation to increase by 25-80 percent by 2100. Note that some studies have found much higher levels of ozone associated with climate change. For example, Climate Change Impacts and Solutions for Pennsylvania45 discusses the effects of climate change at the state level for Pennsylvania: “In the Philadelphia metropolitan area, the number of days failing to meet the federal ozone standard is expected to at least quadruple under the higher-emissions scenario.”
+Bell, Goldberg et al.43 estimates that higher levels of ozone will increase the rate of hospitalization by 2.1 percent, on average across 50 cities studied, in the year 2050. It is assumed that this increased rate of hospitalization is associated with an equivalent in- crease in the direct and indirect costs of asthma. Increased levels of ozone are also likely to be associated with increases in hospitalization for respiratory disease and COPD in older adults. It was assumed that collectively these costs are equal in magnitude to the asthma incremental costs.
+These costs do not include any morbidity or mortality associated with heat stress, in- creases in levels of fine particulate matter, or other health effects associated with climate change. Note that Bell, Goldberg et al.43 estimated that elevated ozone levels correspond to approximately a 0.11 to 0.27 percent increase in daily total mortality due to asthma, and additional mortality due to cardiovascular and respiratory disease.
+SEPTA
+SEPTA has estimated the savings in operational and other costs/damages that could be ob- tained if actions to make SEPTA systems more climate resilient are undertaken. These costs can be viewed as costs of inaction: they are costs that will occur if adaptation measures are not undertaken. The costs reported here are associated with six specific improvements that could be made to the system, including stabilization of slopes, monitoring, modernization of systems, and other changes. The types of damages that could be avoided by undertaking these measures include operational savings (e.g., repair and maintenance), reduced damage to railcars and other property from flooding, and reduced delays and closings, as well as avoided health effects. Costs are reported both in present value terms (discounted at seven percent for the lifetime of the project) and annually, i.e., for each year of the project, over the duration of the project. Project lifetimes range from 14 to 100 years. Not all costs would be incurred in every year.
+
+GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+6-13
+APPENDIX
+ELECTRICITY CONSUMPTION BY CITY DEPARTMENT
+The exposure analysis estimated monthly heating degree days (HDD) and cooling degree days (CDD) from 1994 to 2011, and then calculated future projections based on a 65oF day.4 According to the climate scenarios developed for this vulnerability assessment, average an- nual CDDs will increase significantly by 2050 (between 46 and 71 percent), and by between 58 and 122 percent by 2100.
+Jaglom et al.,46 a study of the impacts of climate change on the power sector, provides data on the relationship among electricity consumption, CDD, and HDD. Using unpublished data from that study (provided by the authors), these relationships were calculated and ap- plied to the projections for Philadelphia. The data were used to estimate the proportion of electricity consumption used for heating and cooling combined (temperature-sensitive consumption), which was assumed to be the same as the proportion across all users, and the split between heating and cooling consumption (which was assumed to be the same as for commercial users). Next, data were used to derive a linear relationship for the per- cent change in electricity consumed for cooling for each percent change in average annual cooling degree-days, and the percent change in electricity consumed for heating for each percent change in average annual heating degree-days. The linear relationship was applied to the climate scenarios developed for this study, and combined with data on total electricity consumption by the city, averaged over selected years.
+By the year 2050, expenditures on heating and cooling combined could rise by between 75 and 120 percent of expenditures on heating and cooling in recent years, and even more by 2100—in some scenarios rising by more than 200 percent, or triple today’s levels. The study does not estimate the declines in heating costs using natural gas or other heating sources. Note that the study from which the relationship between degree-days and electrici- ty consumption was derived uses different climate scenarios than were used in Philadelphia’s vulnerability assessment.
+ROADWAYS
+Paved roads are subject to a number of climatic impacts. A recent study47 investigated the cost of adapting paved roads to three specific effects: rutting of paved roads from precip- itation, rutting of paved roads caused by freeze-thaw cycles, and cracking of paved roads during periods of high temperatures. The study provided estimates of the total discounted and undiscounted costs (divided between paved and unpaved roads) of responding to cli- matic effects for several years (2025, 2050, and 2075). The study also provides undiscounted costs for all roads together. The discounted costs allowed the costs to be scaled and the split between paved and unpaved roads determined.
+The study also provided the total number of lane-miles in paved roads, nationally, which can be used to estimate per-lane-mile costs for 2025, 2050, and 2075. The number of lane- miles for Philadelphia was estimated by making assumptions about the number of lanes in each category of road (total miles for each road type were provided by the City of Philadelphia). Total costs are the product of per-mile costs and total lane-miles estimated for Philadelphia.
+OTHER IMPACTS
+The City of Philadelphia has also projected some costs of climate change, as part of its May 2012 Natural Hazard Mitigation Plan. The city prepared estimates of direct economic losses due to a 100-year flood event using HAZUS and data supplied by Philadelphia. Data on the costs and other impacts of past extreme events were also investigated for the Natural Hazard Mitigation Plan.
+
+GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+6-14
+APPENDIX
+Identifying Strategies To Reduce Vulnerability
+Methodology for Developing Adaptation Strategies
+After the completion of the vulnerability assessment, ICF used a four-step approach to develop adaptation strategies for the City of Philadelphia:
+1. Compile existing department practices that help prepare them for a changing climate and recommend modifications (based on steps 2-4) to increase their effectiveness.
+2. Review and consolidate adaptation recommendations that emerged during the two scenario planning workshops (on heat events and flooding) and interviews with depart- ments. These sources provided insight on each department’s top priorities and generally included strategies that would help to reduce risks now as well as into the future.
+3. Review and gather relevant adaptation strategies from other cities and other relevant resources. Other studies and efforts provided access to information from a wide range of technical experts and ideas.
+4. Use ICF professional experience to develop strategies to specifically address identified vulnerabilities. ICF staff reviewed identified vulnerabilities that had not yet been addressed through the first two adaptation strategy collection efforts. For these vulnerabilities, ICF drew upon internal technical experts to develop appropriate adaptation strategies.
+The documents from other cities and research groups included:
+• Adaptation Tool Kit: Sea-Level Rise and Coastal Land Use (Georgetown Climate Center)
+• Adapting to Rising Tides (San Francisco Bay Area, CA)
+• Adapting to Urban Heat: A Tool Kit for Local Governments (Georgetown Climate Center)
+• Baltimore Disaster Preparedness and Planning Project
+• City and County of Denver Climate Adaptation Plan
+• City of Benicia Climate Change Vulnerability and Adaptation Plan
+• Climate Change Preparation Strategy: Preparing for Local Impacts in Portland and Multomah County
+• Climate Change Vulnerability Assessment and Adaptation Plan (City of Portsmouth, NH)
+• Climate Ready Boston: Municipal Vulnerability to Climate Change
+• King County Strategic Climate Action Plan (Oregon)
+• NYC Wastewater Resiliency Plan
+• One New York: The Plan for a Strong and Just City
+• plaNYC: A Stronger, More Resilient New York
+• Preparing for the Storm: Recommendations for Management of Risk from Coastal Hazards in Massachusetts
+• Ready for Tomorrow: The City of Salem Climate Change Vulnerability Assessment & Adaptation Plan
+• Safeguarding California: Reducing Climate Risk (An update to the 2009 California Climate Adaptation Strategy)
+• Sea Level Rise Adaptation Strategy for San Diego Bay
+
+APPENDIX
+Methodology for Classifying Adaptation Strategies
+The strategies were sorted and classified in a number of ways in order to assist departments in selecting strategies to advance. The classification fields include:
+• Lead City Department.
+• Supporting Department(s).
+• Climate Change Hazard (e.g., flooding, heat).
+• Type of Impact (e.g., human health/mortality, general flood impacts).
+• Source.
+• Type of Strategy (defined below).
+• Active Timeframe (defined below).
+The types of strategies gathered and developed for Philadelphia were classified in the following manner:
+• PLANNING: Strategies related to planning emergency response efforts and long-term planning efforts.
+• OPERATIONS: Strategies that recommend changes to city department standard opera- tions before, during, and after extreme weather events.
+• POLICY: Strategies that recommend a change to city policies or the development of new policies.
+• OUTREACH: Strategies that recommend additional or modified outreach to the public.
+• INFRASTRUCTURE: Strategies that recommend physical construction in order to protect
+assets from climate change hazards.
+• INFORMATION SYSTEMS: Strategies that recommend additional information-gathering technology or protocols in order to better respond to changing climatic conditions, inform the development of additional adaptation strategies, or build a case for additional invest- ment.
+• MONITORING: Strategies that recommend monitoring conditions to inform when to im- plement additional adaptation strategies.
+The “active timeframe” criterion refers to the timeframe during which an adaptation strate- gy would be implemented. Throughout the United States, most resilience strategies have been implemented in response to a disaster rather than proactively implemented before a disaster occurs. Figure 20 demonstrates the time periods during which adaptation strategies can be im- plemented.
+FIGURE 20
+DIAGRAM OF THE PREPAREDNESS, DISASTER, AND RECOVERY PROCESS
+  GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+6-15
+
+GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+6-16
+APPENDIX
+In its matrix of adaptation strategies, ICF broadly grouped strategies into the following time periods:
+• PRE-EVENT: Policy, structural changes, and pre-event coordination that need to be imple- mented before an event in order to be effective.
+• DURING: Operational response strategies.
+• POST-EVENT: Repair, rebuilding, and data tracking strategies.
+Methodology for Evaluating and Selecting Adaptation Strategies
+After reviewing best practices and consulting with ICF and the Climate Adaptation Working Group, MOS selected the following criteria to qualitatively evaluate potential actions that the city can take to help it continue to provide effective services and maintain infrastructure as the climate changes:
+CAPITAL COSTS
+Implementation of adaptation strategies will require up-front capital investment; the relative impact of capital costs on a department’s ability to implement a strategy may depend on the total budget of the department (i.e., $50,000 to one department may mean something different than $50,000 to another department).
+• HIGH: Moderate-to-large construction projections.
+• MEDIUM: May include policy revisions and plan updates or minor construction.
+• LOW: Free or staff time only. Generally less than $10,000 to implement.
+RECURRING COSTS
+Costs incurred periodically over the lifetime of the strategy. Like capital costs, the relative amount will depend on the total budget of the department.
+• HIGH: Significant operations and maintenance (O&M) cost increases due to com- plex mechanical systems or high infrastructure upkeep costs.
+• MEDIUM: Moderate increases in O&M costs or strong behavior change programs (e.g., outreach, education).
+• LOW: No-to-very-low ongoing costs to the city due to minor O&M changes or light behavior change programs.
+FLEXIBILITY
+Refers to the city’s ability to make course corrections if a particular strategy is adopted. Such corrections are an essential part of adaptive management.
+• HIGH: Can easily make corrections to the strategy after adoption. For example, a change in a software program, or a strategy that requires coordination between departments.
+• MEDIUM: Can make corrections, but it takes time to get everyone up to speed on the new policy measure, etc. For example, a procedure for collecting data or a physical structure that is designed to adjust to changes in the environment (e.g., a flood gate).
+• LOW: Cannot easily make corrections to the strategy. This may include capital spending (e.g., purchase of new equipment), changing of laws, changing land use, etc.
+
+GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+6-17
+APPENDIX
+CO-BENEFITS
+Refers to other benefits that would result from implementation of the strategy. In some cas- es, these co-benefits can offset much of the cost of the adaptation. Examples of co-benefits include economic development (or preserving an important economic hub), preserving or expanding green space and recreational areas, protecting peoples of concern, reducing emissions, increasing tourism.
+• HIGH: Several significant co-benefits exist that would either offset the cost (i.e., long-term cost savings) and/or would further justify the implementation of this action.
+• MEDIUM: Some co-benefits exist.
+• LOW: Few if any co-benefits would exist to implementing this strategy. May in-
+clude negative externalities.
+OTHER BARRIERS NOT CAPTURED IN OTHER EVALUATION CRITERIA
+Refers to hurdles or blockades that may make it more difficult to implement the strategy. These barriers may be political, legal, or physical in nature.
+• HIGH: Several barriers exist, such as legal, policy, political barriers that would make it difficult to implement this strategy.
+• MEDIUM: Many barriers may exist, but they are barriers that can be broken down with effort from department leaders.
+• LOW: Few barriers exist, and any that do can be overcome with little time, effort, and money.
+COMPOSITE FEASIBILITY SCORE
+The above criteria were averaged, with weighting applied equally, to obtain an overall fea- sibility score. Feasibility refers to the ease with which a particular strategy could be imple- mented by a department under today’s conditions.
+• HIGH: A high feasibility for implementation. Feasibility may be high because the strategy is already a part of a department’s plan, is relatively inexpensive, or has extensive co-benefits.
+• MEDIUM: The strategy is practical to implement, but outside factors may hinder implementation (e.g., it requires complex coordination or modeling).
+• LOW: A low feasibility for implementation means the strategy is unlikely to be implemented due to outside circumstances such as political barriers.
+Separately from the other measures, MOS evaluated the efficacy of each strategy. Effica- cy refers to the extent to which the strategy, if successfully implemented, would reduce the climate change risk.
+• HIGH: There is little doubt that the strategy will directly reduce the risk of extreme weather to a department or the public.
+• MEDIUM: The strategy may only reduce the risk in some extreme weather circum- stances but not all.
+• LOW: On its own, the action will more than likely not reduce the risk of extreme weather, or it will only reduce risk by a small amount. These strategies are more beneficial when implemented as part of a suite of strategies.
+
+GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+6-18
+APPENDIX
+The evaluation criteria were then used to provide a recommended implementation time period. The implementation periods were defined as follows:
+• NEAR TERM: Strategies with high feasibility and medium-to-high efficacy. These strategies can colloquially be referred to as the “low-hanging fruit” strategies; they are strategies that departments can and should look to implement in the near term.
+• MEDIUM TERM: Strategies with medium feasibility and medium-to-high efficacy.
+• LONG TERM: Strategies with low feasibility but medium-to-high efficacy. Due to the low feasibility, it may be necessary to begin planning for these strategies far in advance of actual implementation.
+• UNLOCKING STRATEGY: These strategies have low efficacy. A low efficacy score simply means that, on its own, the strategy will not reduce risk; however, low-efficacy strategies can frequently serve as “unlocking strategies” that help city departments increase coordination and/or justify further investment in resilience.
+The results of this evaluation process were used to inform the selection of adaptation strategies for inclusion in the body of this report. The individual departments made final se- lection of the adaptation strategies based on their priorities and current capabilities. It is only through continued conversation with the department staff, elected officials, and the public that some of these actions can be recommended for implementation.
+
+7 Endnotes
+1 NOAA National Climatic Data Center. 2015. State of the Climate: Global Analysis for Annual 2014. Retrieved May 27, 2015 from http://www.ncdc. noaa.gov/sotc/global/201413.
+2 NOAA. 2015. Climate at a Glance. National Centers for Environmental Information. Retrieved July 28, 2015 from http://www.ncdc.noaa.gov/cag/ time-series/us.
+3 Pennsylvania State Climatologist. 2015. Daily Temperature Means and Extremes. Retrieved June 8, 2015 from http://www.climate.psu.edu/data/ city_information/index.php?city=phl&page=mae&type=big7.
+4 ICF International. 2014. Useful Climate Information for Philadelphia: Past and Future. Philadelphia, PA: ICF International. http://www.phila.gov/green/ pdfs/UsefulClimateScience.pdf.
+5 ICF International, founded in 1969 as the Inner City Fund, has supported federal, state, and local agencies (as well as commercial and international clients) on climate, clean energy, and risk issues for more than 30 years.
+6 Horton, R., C. Little, V. Gornitz, D. Bader, and M. Oppenheimer. 2015. New York City Panel on Climate Change 2015 Report: Sea level rise and coastal storms. Annals of the New York Academy of Sciences 1336:36-44.
+7 Gamble, J.L., B.J. Hurley, P.A. Schultz, W.S. Jaglom, N. Krishnan, and M. Harris. 2013. Climate change and older Americans: state of the science. Environ Health Perspect 121 (1):15-22.
+8 City of Philadelphia. 2012. Natural Hazard Mitigation Plan. Philadelphia, PA: Office of Emergency Management.
+9 Lawrence County. 2015. Lawrence County 2010 Hazard Mitigation Plan. Retrieved July 13, 2015 from http://co.lawrence.pa.us/wp-content/ uploads/2014/09/Lawrence-County-2010-Hazard-Mitigation-Plan.pdf.
+10 Centers for Disease Control and Prevention. 2013. Heat-related deaths after an extreme heat event--four states, 2012, and United States, 1999-2009. Morbidity and Mortality Weekly Report 62 (22):433-436.
+11 Hondula, D.M., R.E. Davis, M.J. Leisten, M.V. Saha, L.M. Veazey, and C.R. Wegner. 2012. Fine-scale spatial variability of heat-related mortality in Philadelphia County, USA, from 1983-2008: A case-series analysis. Environ Health 11:16.
+12 U.S. Census. 2015. State and County QuickFacts: Philadelphia County. Retrieved June 26, 2015 from http://quickfacts.census.gov/qfd/ states/42/42101.html.
+13 U.S. Environmental Protection Agency. 2013. America’s Children and the Environment: Third Edition. Washington, DC: U.S. EPA, Office of Policy, Office of Children’s Health Protection. http://epa.gov/ace/pdfs/ Environments-Contaminants-Climate-Change.pdf.
+14 Public Health Management Corporation. 2015. CHDB Report: The State of Our Children’s Health. Retrieved June 22, 2015 from http://www.phmc.org/ site/publications/directions-archive/directions-spring-2011/587-chdb-report- the-state-of-our-childrens-health.
+15 U.S. Environmental Protection Agency. 2008. Urban Heat Island Basics. In Reducing Heat Islands: Compendium of Strategies: U.S. EPA, Office of Air and Radiation, Climate Protection Partnership Division.
+16 NOAA. 2015. Digital Coast. Retrieved July 24, 2015 from http://coast.noaa. gov/digitalcoast/.
+17 Storm Surge/Sea Level Rise Information courtesy of Energy Infrastructure Modeling and Analysis, Office of Electricity Delivery and Energy Reliability, U.S. Department of Energy. Original data produced by NOAA with analysis by ICF.
+18 FEMA. 2015. Flood Map Service Center. Retrieved July 24, 2015 from https://msc.fema.gov/portal.
+19 The estimates of the future costs of inaction required many assumptions, including generalizing from historical data on specific events and adapting data generated for different geographic regions and different climate scenarios to conditions in Philadelphia.
+20 Economy League of Greater Philadelphia. 2013. Understanding SEPTA’s Statewide Economic Value. Philadelphia, PA. http://www.septa.org/sustain/ pdf/Understanding_SEPTAs_Statewide_Economic_Value_0.pdf.
+21 Federal Transit Administration. 2013. A Vulnerability and Risk Assessment of SEPTA’s Regional Rail. http://www.fta.dot.gov/documents/FTA_Report_ No._0071.pdf.
+22 Centers for Disease Control and Prevention. 2015. Indicators Available on the Tracking Network. Retrieved July 20, 2015 from http://ephtracking.cdc. gov/showClimateChangeIndicators.action.
+23 Philadelphia Water. 2007. The Delaware River Watershed Source Water Protection Plan. http://www.phillywatersheds.org/doc/Delaware_ SWPP_2007.pdf.
+24 Philadelphia Water. 2015. Watershed Issues: FAQ. Retrieved July 21, 2015 from http://www.phillywatersheds.org/watershed_issues/stormwater_ management/faq#q2.
+25 FEMA. 2015. State Mitigation Plan Review Guide, Effective March 2016. FP 302-094-2.
+26 U.S. Environmental Protection Agency. 2011. Rolling Easements. Washington, DC: U.S. EPA Climate Ready Estuaries Program. http://www2. epa.gov/sites/production/files/documents/rollingeasementsprimer.pdf.
+27 Downscaling refers to the process of generating regionally relevant projections from global climate models. Climate models divide the world into a grid. While the size of each grid cell has declined since the early 1990s, it is still too large (about 30 to 60 miles on each side) to capture important local variations in topography and other factors that influence climate. Downscaling allows projections to be made at finer scales relevant to a city such as Philadelphia.
+  GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+7-1
+
+28 The U.S. DOT CMIP Climate Data Processing Tool was used to provide post-processing of statistically downscaled climate data based on information provided by downscaled CMIP3 and CMIP5 climate and hydrology projections using the World Climate Research Programme’s Coupled Model Intercomparison Project phase 3 (CMIP3) and phase 5 (CMIP5) multi-model datasets.
+29 Rawlins, M.A., R.S. Bradley, and H.F. Diaz. 2012. Assessment of regional climate model simulation estimates over the northeast United States. Journal of Geophysical Research 117:D23112.
+30 U.S. Global Change Research Program. 2014. Climate Change Impacts in the United States: The Third National Climate Assessment. Edited by J. M. Melillo, T. C. Richmond and G. W. Yohe.
+31 Ingram, K., K. Dow, L. Carter, J, Anderson, ed. 2013. Climate of the Southeast United States: Variability, Change, Impacts, and Vulnerability. Washington, DC: Island Press.
+32 Brooks, H.E. 2013. Severe thunderstorms and climate change. Atmospheric Research 123:129-138.
+33 Francis, J., and S. Vavrus. 2015. Evidence for a wavier jet stream in response to rapid Arctic warming. Environmental Research Letters 10.
+34 NOAA. Definition of Drought. National Oceanic and Atmospheric Administration. Retrieved from http://www.ncdc.noaa.gov/monitoring- references/dyk/drought-definition.
+35 The chloride standard for drinking water 250 parts per million (ppm) or milligrams per liter is sometimes referred to as the salt line.
+36 Pennsylvania Climate Impact Assessment. 2009. Pennsylvania Climate Impact Assessment: Environment and Natural Resource Institute and The Pennsylvania State University.
+37 Northeast Climate Impacts Assessment. 2008. Climate Change and Solutions, Impacts and Solutions for the Keystone State. Cambridge, MA: Union of Concerned Scientists.
+38 U.S. Global Change Research Program. 2009. Global Climate Change Impacts in the United States. Edited by J. M. M. Thomas R. Karl, and Thomas C. Peterson: Cambridge University Press.
+39 U.S. Geological Survey. 2015. National Climate Change Viewer. Retrieved July 22, 2015 from http://www.usgs.gov/climate_landuse/clu_rd/nccv.asp.
+40 Climate & Urban Systems Partnership. 2013. Philadelphia Climate Projections. http://www.cuspproject.org/uploads/ files/485063842785882816-philadelphia-cmip5.pdf.
+41 Sensitivity is defined as the degree to which a system is affected, either adversely or beneficially, by climate variability or change.
+42 Adaptive capacity is defined as the ability of a system to adjust to climate change (including climate variability and extremes) to moderate potential damages, to take advantage of opportunities, or to cope with the consequences.
+43 Bell, M.L., R. Goldberg, C. Hogrefe, P.L. Kinney, K. Knowlton, B. Lynn, J. Rosenthal, C. Rosenzweig, and J.A. Patz. 2007. Climate change, ambient ozone, and health in 50 US cities. Climatic Change 82 (61-76).
+44 Kahrl, F., and D. Roland-Holst. 2008. California Climate Risk and Response.
+45 Union of Concerned Scientists. 2015. Climate Change Impacts and Solutions for Pennsylvania. Retrieved July 14, 2015 from http://www.ucsusa. org/sites/default/files/legacy/assets/documents/global_warming/Exec- Summary_Climate-Change-in-Pennsylvania.pdf.
+46 Jaglom, W.S., J.R. McFarland, M.F. Colley, C.B. Mack, B. Venkatesh,
+R.L. Miller, J. Haydel, P.A. Schultz, B. Perkins, J.H. Casola, et al. 2014. Assessment of projected temperature impacts from climate change on the U.S. electric power sector using the Integrated Planning Model®. Energy Policy 73:524–539.
+47 Chinowsky, P., J. Price, and J. Neumann. 2013. Assessment of climate change adaptation costs for the U.S. road network. Global Environmental Change 23 (4):764–773.
+GROWING STRONGER: TOWARD A CLIMATE-READY PHILADELPHIA
+7-2
+ENDNOTES
+
+   www.phila.gov/green

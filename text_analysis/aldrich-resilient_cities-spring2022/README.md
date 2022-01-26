@@ -23,7 +23,9 @@ This module goes over computational text analysis for a corpus of texts. The mod
 
 ## Documents for Module
 
-### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/aldrich-resilient_cities-spring2022/Aldrich_Resilient%20Cities_Text%20Analysis_Slides.pdf)
+### [DITI Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/aldrich-resilient_cities-spring2022/Aldrich_Resilient%20Cities_Text%20Analysis_Slides.pdf)
+
+### [Boston Area Research Initiative (BARI) Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/aldrich-resilient_cities-spring2022/BARI_1.26.2022%20Resilient%20city%20.pptx.pdf)
 
 ### [Handouts](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/text_analysis/aldrich-resilient_cities-spring2022/Handouts)
 

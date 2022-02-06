@@ -2,15 +2,10 @@
 
 ### Individual Class Info
 
-SOCL1255 - Sociology of the Family
+PPUA 5390: Special Topics
 
-Linda Blum
+Moira Zellner
 
-July 28, 2021 1:30pm
-
-Location - online (zoom)
-
-Number of students - 5
 
 ### Summary of Module
 
@@ -28,4 +23,14 @@ This module will go over components of storytelling and how these components may
 - Follow a step-by-step guide for creating, saving, and publishing the timeline spreadsheet using KnightLab Timeline
 - Understand how to insert data into KnightLab TimelineJS, including text and various media elements
 - Navigate presenting the relation between events, processes, and periods of various duration in the timeline
+
+<h2>Materials for Module</h2>
+
+[KnightLab Timeline Presentation Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/digital_storytelling/zellner-sp22-timeline-public-policy/Slides_Timeline.pdf)
+
+[Handout: KnightLab Timeline](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/digital_storytelling/zellner-sp22-timeline-public-policy/Handout_%20Timeline.pdf)
+
+
+
+
 

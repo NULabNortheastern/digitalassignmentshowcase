@@ -32,15 +32,13 @@ This module will go over the basics of Audacity. The second portion of this modu
 
 
 ### Slides
-- [Introduction to Audacity, with Antonio Banrey]()
+- [Introduction to Audacity, with Antonio Banrey](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/final_yr_projects_and_publishing-spring2022-kemp/Banrey%20Intro%20to%20Podcasting%20Slides.pptx.pdf)
 
 ### Audio Samples
-- "
-- "
-Licensed under Creative Commons: By Attribution 4.0 License
-http://creativecommons.org/licenses/by/4.0/
+- "Guild Talks" mock podcast, Antonio Banrey 
+
 
 ### Led By
 Antonio Banrey, Digital Media Commons, Northeastern University
-## DTI Consultants
+## DITI Consultants
 Tieanna Graphenreed

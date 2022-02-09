@@ -1,0 +1,17 @@
+Helpful HTML Codes
+
+#Change Text Color
+<span style ="color:red">YOUR TEXT HERE</span>
+
+#Add Link in Caption/Credit
+<a href="URL">text</a>
+
+#Add Image/Media in Textbox
+<img src="URL"/>
+
+#Add Alternate Text to Image/Media
+<img src="IMAGE URL" alt="IMAGE DESCRIPTION"/>
+
+For learning and gaining more control over StoryMap JavaScript, check the FAQs for Technical Users: https://storymap.knightlab.com/advanced/
+
+

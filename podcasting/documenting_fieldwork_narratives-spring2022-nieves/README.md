@@ -6,7 +6,7 @@ INSH 5602 Documenting Fieldwork Narratives: Oral History, Ethnography, Archival 
 
 Angel David Nieves
 
-March 1, 1:00 PM-2:15 PM
+March 2, 1:00 PM-2:15 PM
 
 Spring 2022
 
@@ -30,11 +30,11 @@ This module will introduce students to the basics of Audacity and audio editing.
 
 <h2> Materials for Module </h2>
 
-[Installing Audacity Handout]() 
+[Installing Audacity Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/documenting_fieldwork_narratives-spring2022-nieves/handout-install_audacity.pdf) 
 
-[Introduction to Audacity Slides]() 
+[Introduction to Audacity Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/documenting_fieldwork_narratives-spring2022-nieves/Audacity%20Slides.pdf) 
 
-[Introduction to Audacity Handout]() 
+[Introduction to Audacity Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/documenting_fieldwork_narratives-spring2022-nieves/handout-intro_to_audacity.pdf) 
 
 <h2> DITI Consultants </h2>
 

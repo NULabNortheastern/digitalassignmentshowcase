@@ -42,7 +42,7 @@ Collect, export and process survey results in Qualtrics
 
 ## Qualtrics Resources
 
-[Module ](https://www.qualtrics.com/support/survey-platform/survey-module/survey-module-overview/?parent=p0027)
+[Module Survey Design Basics ](https://www.qualtrics.com/support/survey-platform/survey-module/survey-module-overview/?parent=p0027)
   
  
 

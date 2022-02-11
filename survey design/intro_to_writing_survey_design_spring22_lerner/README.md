@@ -1,29 +1,29 @@
-# Introduction to KnightLab StoryMaps
-This module will introduce students to go over components of storytelling and how these components may be integrated in maps.
+# Survey Design with Qualtrics
+This module will introduce students to the essential components of survey design utilizing Qualtrics software.
 
 ## Individual Class Info
-HUSV 2401: Food Justice & Community Development
+ENGL1410: Intro to Writing Research
 <br>
-Becca Berkey
+Neal Lerney
 <br>
-Fall 2021
+Fspring 2022
 <br>
-Sep. 20, 11:45 AM
+Feb. 18, 11:45 AM
 <br>
 
 ## Summary of Module
-This workshop will teach students how to use Knight Lab’s StoryMaps web-browser application by providing step-by-step instructions, a sample map, and sample data for students to use to practice building their own maps.
+This workshop will teach students how to use Qualtrics software and design effective survey question by providing step-by-step instructions, a sample survey, and examples of common mistakes survey makers usually make when crafting new surveys.
 <br> 
 <br>
 
 ## Learning Goals
-Understand components for compelling storytelling
+Understand components for informative surveys
 <br> 
-Understanding the particular choices made when building a map
+Understanding the particular choices made when crafting survey questions
 <br>
-Understanding how to collect data for mapping
+Understanding how to program survey questions in Qualtrics
 <br>
-Understanding KnightLab StoryMap’s interface and where it gathers its information
+Understanding Qualtrics' interface 
 <br>
 <br>
 
@@ -31,30 +31,29 @@ Understanding KnightLab StoryMap’s interface and where it gathers its informat
 
 ## Learning Objectives
 <br> 
-Articulate particular choices made when telling a story using a map
+Articulate particular choices made when designing a survey
 <br>
-Follow a step-by-step guide for creating, saving, and publishing maps using KnightLab StoryMaps
+Follow a step-by-step guide for creating, saving, and distributing surveys using Qualtrics
 <br>
-Implement data into KnightLab StoryMaps, including location information, images, and text
+Collect, export and process survey results in Qualtrics 
 <br>
-Navigate StoryMaps’ map markers and location-finding system
-Materials for Module
 
 
 
-## DITI’s Intro to StoryMap video
- https://youtu.be/X33ud7RYZFg 
+## Qualtrics Resources
+  
+[Survey Design Basics] (https://www.qualtrics.com/support/survey-platform/survey-module/survey-module-overview/?parent=p0027) 
 
 
 ## Materials for Module
 
 
-[Module handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/food_justice_fall2021_berkey/Handout_Storymap-Spreadsheet-Template.pdf)
+[Module handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/survey%20design/intro_to_writing_survey_design_spring22_lerner/Handout_%20Qualtrics_Lerner_sp22.pdf)
 <br/>
-[Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/food_justice_fall2021_berkey/StoryMap_slides.pdf)
+[Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/survey%20design/intro_to_writing_survey_design_spring22_lerner/lerner%20survey%20sp%2022.pdf)
 <br/>
 
 
 
-## DITI Consultants
-Yana Mommadova and Claire Tratnyek 
+## The module was created by
+Yana Mommadova 

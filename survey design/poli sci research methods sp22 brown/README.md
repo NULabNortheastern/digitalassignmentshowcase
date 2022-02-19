@@ -2,13 +2,13 @@
 This module will introduce students to the essential components of survey design utilizing Qualtrics software.
 
 ## Individual Class Info
-ENGL1410: Intro to Writing Research
+Research Methods in Political Science
 <br>
-Neal Lerney
+Colin Brown
 <br>
-Fspring 2022
+Spring 2022
 <br>
-Feb. 18, 11:45 AM
+Feb. 23
 <br>
 
 ## Summary of Module
@@ -50,9 +50,9 @@ Collect, export and process survey results in Qualtrics
 ## Materials for Module
 
 
-[Module handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/survey%20design/intro_to_writing_survey_design_spring22_lerner/Handout_%20Qualtrics_Lerner_sp22.pdf)
+[Module handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/survey%20design/poli%20sci%20research%20methods%20sp22%20brown/Handout_%20Qualtrics.docx.pdf)
 <br/>
-[Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/survey%20design/intro_to_writing_survey_design_spring22_lerner/lerner%20survey%20sp%2022.pdf)
+[Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/survey%20design/poli%20sci%20research%20methods%20sp22%20brown/brown%20survey%20sp%2022.pptx.pdf)
 <br/>
 
 

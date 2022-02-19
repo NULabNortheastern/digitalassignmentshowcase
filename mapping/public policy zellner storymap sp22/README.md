@@ -2,13 +2,13 @@
 This module will go over components of storytelling and how these components may be integrated in maps.
 
 ## Individual Class Info
-HUSV 2401: Food Justice & Community Development
+Public Policy
 <br>
-Becca Berkey
+Moira Zellner
 <br>
-Fall 2021
+Spring 2022
 <br>
-Sep. 20, 11:45 AM
+Feb. 22, 2022
 <br>
 
 ## Summary of Module
@@ -52,6 +52,12 @@ Materials for Module
 [Module handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/food_justice_fall2021_berkey/Handout_Storymap-Spreadsheet-Template.pdf)
 <br/>
 [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/food_justice_fall2021_berkey/StoryMap_slides.pdf)
+<br/>
+[Additional materials](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/food_justice_fall2021_berkey/StoryMap_slides.pdf)
+<br/>
+[Additional materials](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/food_justice_fall2021_berkey/StoryMap_slides.pdf)
+<br/>
+[Additional materials](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/food_justice_fall2021_berkey/StoryMap_slides.pdf)
 <br/>
 
 

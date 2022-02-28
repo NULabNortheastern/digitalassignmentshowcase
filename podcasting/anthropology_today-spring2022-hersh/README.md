@@ -3,7 +3,7 @@ Creating and editing audio to produce a history podcast in Audacity.
 
 
 ## Individual Class Info
-ANTH 4100: Anthropology Today
+ANTH 4580: Special Topic: Making Anthropology Public
 
 Carie Hersh
 

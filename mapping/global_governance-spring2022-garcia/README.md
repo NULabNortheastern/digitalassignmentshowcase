@@ -28,7 +28,7 @@ This module demonstrates how to use excel to retrieve and clean data from the Un
 
 [Installing Excel for Northeastern students](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/global_governance-spring2022-garcia/Handout-install_excel.pdf)
 <br>
-[Data Preparation in Excel](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/global_governance-spring2022-garcia/Handout-data_prep_excel.pdf)
+[Data Preparation in Excel](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/global_governance-spring2022-garcia/Handout-install_excel.pdf)
 
 ### Slides
 

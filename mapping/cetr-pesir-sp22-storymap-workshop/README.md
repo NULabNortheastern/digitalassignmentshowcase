@@ -34,7 +34,7 @@ CETR Copyright/Fair Use Handout
 
 CETR Spreadsheet Template
 
-DITI's Intro to StoryMap video
+[DITI's Intro to StoryMap video](https://youtu.be/X33ud7RYZFg)
 
 
 

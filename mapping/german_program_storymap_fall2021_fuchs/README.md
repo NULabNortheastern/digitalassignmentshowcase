@@ -4,7 +4,7 @@ This module will introduce students to go over components of storytelling and ho
 ## Individual Class Info
 World Languages Center
 <br>
-Modules developped for Carolin Fuchs and Ruth Sondermann
+Modules developed for Carolin Fuchs and Ruth Sondermann
 <br>
 Fall 2021
 <br>

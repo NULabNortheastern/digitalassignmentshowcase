@@ -4,7 +4,7 @@
 
 INSH 5602 Documenting Fieldwork Narratives: Oral History, Ethnography, Archival Practices
 
-Angel David Nieves
+Angel David Nieves and Doreen Lee
 
 March 2, 1:00 PM-2:15 PM
 

@@ -33,6 +33,7 @@ This module will go over the basics of Audacity. The second portion of this modu
 
 ### Slides
 - [Introduction to Audacity](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/social_policy-spring2022-mann/Audacity%20Slides.pdf)
+- [Introduction to Podcasting, with Antonio Banrey (Digital Media Commons, Northeastern University)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/social_policy-spring2022-mann/Banrey%20Intro%20to%20Podcasting%20Slides.pptx.pdf)
 
 ### Audio Samples
 - "Footsteps, Dry Leaves, F.wav" by InspectorJ (www.jshaw.co.uk) of Freesound.org

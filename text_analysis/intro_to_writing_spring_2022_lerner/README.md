@@ -1,13 +1,13 @@
 # Computational Text Analysis
 
 ## Individual Class Info
-Advanced Writing in the Disciplines – Three courses
+Introduction to Writing
 <br>
-Cecelia Musselman 
+Neal Lerner 
 <br>
-Spring 2020
+Spring 2022
 <br>
-Number of students: 19 in each
+
 
 ## Summary of Module
 This module goes over computational text analysis for a corpus of texts, specifically literature in a particular discipline. The module includes a brief discussion on big data, how computational text analysis is useful, the browser tools that can be used to do this method of analysis, and how to interpret the results. 
@@ -24,12 +24,12 @@ This module goes over computational text analysis for a corpus of texts, specifi
 
 ## Documents for Module
 
-### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/advanced_writing-spring2020-musselman/slides.pdf)
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/intro_to_writing_spring_2022_lerner/Lerner_Intro%20to%20Writing%20Research_Text%20Analysis.pdf)
 
-### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/advanced_writing-spring2020-musselman/handout.pdf)
+### [Handouts](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/text_analysis/intro_to_writing_spring_2022_lerner/Handouts)
 
 ### Data
-[State of the Union addresses](https://www.presidency.ucsb.edu/documents/app-categories/spoken-addresses-and-remarks/presidential/state-the-union-addresses?field_docs_start_date_time_value%5Bvalue%5D%5Bdate%5D=&page=1) collected from the American Presidency Project.
+[Sample Corpus](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/text_analysis/intro_to_writing_spring_2022_lerner/Sample%20Corpus) 
 
 ## DTI Consultants
 Created by Cara Marta Messina

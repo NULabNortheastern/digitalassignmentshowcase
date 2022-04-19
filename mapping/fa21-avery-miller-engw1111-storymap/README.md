@@ -30,15 +30,15 @@ This module will go over components of storytelling and how these components may
 
 <h2> Materials for Module </h2>
 
-[KnightLab StoryMap Presentation Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/avery-miller-firstyearwriting-fall2021-storymap/Intro-to-StoryMap-Slides.pdf) 
+[KnightLab StoryMap Presentation Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa21-avery-miller-engw1111-storymap/Intro-to-StoryMap-Slides.pdf) 
 
-[Handout: KnightLab StoryMap](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/avery-miller-firstyearwriting-fall2021-storymap/StoryMap%20Handout.pdf)
+[Handout: KnightLab StoryMap](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa21-avery-miller-engw1111-storymap/StoryMap%20Handout.pdf)
 
-[Handout: Spreadsheet Template User Guide](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/avery-miller-firstyearwriting-fall2021-storymap/Handout_Storymap-Spreadsheet-Template.pdf)
+[Handout: Spreadsheet Template User Guide](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa21-avery-miller-engw1111-storymap/Handout_Storymap-Spreadsheet-Template.pdf)
 
-[Handout: Copyright and Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/avery-miller-firstyearwriting-fall2021-storymap/Copyright-fair-use-handout.pdf)
+[Handout: Copyright and Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa21-avery-miller-engw1111-storymap/Copyright-fair-use-handout.pdf)
 
-[Handout: Preparing for Today's Session](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/avery-miller-firstyearwriting-fall2021-storymap/Preparing%20for%20Today's%20DITI%20Session_%20ENGW%201111.pdf)
+[Handout: Preparing for Today's Session](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa21-avery-miller-engw1111-storymap/Preparing%20for%20Today's%20DITI%20Session_%20ENGW%201111.pdf)
 
 [Spreadsheet Template](https://docs.google.com/spreadsheets/d/1bGPGdqDG_N42nPODBgWL718iv-711S36IhmkfvL1wmo/edit#gid=0)
 

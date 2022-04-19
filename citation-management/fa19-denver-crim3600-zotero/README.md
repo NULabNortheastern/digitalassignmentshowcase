@@ -28,9 +28,9 @@ This module introduces Zotero, a citation management software, including how to 
 
 ## Documents for Module
 
-### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/citation_management/research_methods-fall2019-denver/handout.pdf)
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/citation-management/fa19-denver-crim3600-zotero/slides.pdf)
 
-### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/citation_management/research_methods-fall2019-denver/handout.pdf)
+### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/citation-management/fa19-denver-crim3600-zotero/handout.pdf)
 
 ### Readings Used
 Wright, R., Decker, S. H., Redfern, A. K., & Smith, D. L. (1992). A Snowball’s Chance in Hell: Doing Fieldwork with Active Residential Burglars. Journal of Research in Crime and Delinquency, 29(2), 148–161. https://doi.org/10.1177/0022427892029002003Lu

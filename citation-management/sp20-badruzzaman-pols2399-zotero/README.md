@@ -28,9 +28,9 @@ This module introduces Zotero, a citation management software, including how to 
 
 ## Documents for Module
 
-### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/citation_management/research_methods-spring2020-badruzzaman/slides.pdf)
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/citation-management/sp20-badruzzaman-pols2399-zotero/slides.pdf)
 
-### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/citation_management/research_methods-spring2020-badruzzaman/handout.pdf)
+### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/citation-management/sp20-badruzzaman-pols2399-zotero/handout.pdf)
 
 ### Readings Used
 Adcock, Robert, and David Collier. “Measurement Validity: A Shared Standard for Qualitative and Quantitative Research.” American Political Science Review, vol. 95, no. 03, Sept. 2001, pp. 529–46.

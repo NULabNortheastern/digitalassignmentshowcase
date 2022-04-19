@@ -28,9 +28,9 @@ This module introduces Zotero, a citation management software, including how to 
 
 ## Documents for Module
 
-### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/citation_management/issues_cities_suburbs-spirng2020-rabrenovic-zotero/slides.pdf)
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/citation-management/sp20-rabrenovic-socl2358-zotero/slides.pdf)
 
-### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/citation_management/issues_cities_suburbs-spirng2020-rabrenovic-zotero/handout.pdf)
+### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/citation-management/sp20-rabrenovic-socl2358-zotero/handout.pdf)
 
 ### Readings Used
 Lazer, David, and Jason Radford. “Data Ex Machina: Introduction to Big Data.” Annual Review of Sociology, vol. 43, no. 1, July 2017, pp. 19–39. 

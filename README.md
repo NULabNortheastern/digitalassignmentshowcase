@@ -1,3 +1,7 @@
+Scroll up to the folders for a comprehensive list of modules, grouped by digital tool or skill.
+
+<h3>Contact Information</h3>
+
 If you are a Northeastern faculty member interested in working with the Digital Integration Teaching Initiative team, please reach out to us via email: nulab.info@gmail.com
 
 <h3>Contributors</h3>

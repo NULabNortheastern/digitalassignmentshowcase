@@ -27,12 +27,12 @@ Qualitative Coding with NVivo
 
 ## Documents for Module
 
-### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/intro_to_nvivo/criminology_capstone-spring-2022-singer/Singer_%20SP22_%20NVivo%20slides.pdf)
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/coding_qualitative/sp22-singer-crim6200-nvivo/Singer_%20SP22_%20NVivo%20slides.pdf)
 
 ### Handouts
-[Installing NVivo](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/intro_to_nvivo/criminology_capstone-spring-2022-singer/Installing%20NVivo.pdf)
+[Installing NVivo](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/coding_qualitative/sp22-singer-crim6200-nvivo/Installing%20NVivo.pdf)
 <br/>
-[Intro to NVivo for Qualitative Coding](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/intro_to_nvivo/criminology_capstone-spring-2022-singer/handout-NVivo.pdf)
+[Intro to NVivo for Qualitative Coding](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/coding_qualitative/sp22-singer-crim6200-nvivo/handout-NVivo.pdf)
 
 
 ## DITI Consultants

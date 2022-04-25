@@ -30,7 +30,7 @@ This module will introduce ethics, including what big data is and how it works, 
 
 <h2>Materials for Module</h2>
 
-[Data Ethics Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_ethics/avery-miller-firstyearwriting-spring2022/Avery-Miller_%20Data%20Ethics_%20SP22%20slides.pdf)
+[Data Ethics Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-ethics/sp22-averymiller-engw1111-dataethics/Avery-Miller_%20Data%20Ethics_%20SP22%20slides.pdf)
 
 <h2>DITI Consultants</h2>
 

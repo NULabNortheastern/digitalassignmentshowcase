@@ -34,5 +34,5 @@ This module will introduce “big data” and algorithms, and the ethical questi
 
 ### Materials for Module
 
-Slides for in-class guided discussion
+[Slides for in-class guided discussion](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-ethics/su21-blum-socl1255-dataethics/Blum%20SU21%20Data%20Ethics%20Slides.pdf)
 

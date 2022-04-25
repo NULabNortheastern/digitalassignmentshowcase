@@ -38,6 +38,14 @@ This module will introduce “big data” and the ethical questions that surroun
 
 #### Materials For Module
 
-Slides
+[Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-ethics/fa21-shorey-phil1102-dataethics/Shorey-Data-Ethics-Slides-FA21.pdf)
+
+<h3>DITI Consultants</h3>
+
+Claire Tratnyek
+
+Yana Mommadova
+
+
 
  

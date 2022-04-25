@@ -16,15 +16,15 @@ This module will introduce ethics, including what big data is and how it works, 
 
 ### Learning Goals:
 
-Engage with critical rethinking of everyday practices related to data collection and use, as well as how algorithms impact and shape our daily lives
+* Engage with critical rethinking of everyday practices related to data collection and use, as well as how algorithms impact and shape our daily lives
 
-Explore ways of interpreting and effectively utilizing data-based evidence in written arguments
+* Explore ways of interpreting and effectively utilizing data-based evidence in written arguments
 
-Understand the ways in which technology reflects cultural, social, and political biases
+* Understand the ways in which technology reflects cultural, social, and political biases
 
 ### Materials for Module:
 
-Cain DE Slides
+[Cain DE Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-ethics/sp22-cain-hist1357-dataethics/Cain%20DE%20Slides%20SP22.pdf)
 
 ### DITI Consultants:
 

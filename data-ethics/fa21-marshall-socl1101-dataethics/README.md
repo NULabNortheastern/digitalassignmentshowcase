@@ -27,9 +27,9 @@ This module will introduce what “big data” is and cover the ethical question
 
 ## Documents for Module
 
-### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_ethics/intro_to_soc_fall2021_marshall/intro%20to%20soc%20fall%202021%20pr%20marshall%20de%20slides.pptx.pdf)
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-ethics/fa21-marshall-socl1101-dataethics/Data%20Ethics%20Slides%20intro%20to%20soc%20fall%202021%20pr%20marshall.pptx.pdf)
 
-### ["Adopt or Not?" Activity Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_ethics/intro_to_soc_fall2021_marshall/intro%20to%20soc%20fall21%20pr%20marshall%20DE%20Adopt%20or%20Not_%20Handout.docx-2.pdf)
+### ["Adopt or Not?" Activity Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-ethics/fa21-marshall-socl1101-dataethics/intro%20to%20soc%20fall21%20pr%20marshall%20DE%20Adopt%20or%20Not_%20Handout.docx-2.pdf)
 
 ## DTI Consultants
 Created by Cara Marta Messina

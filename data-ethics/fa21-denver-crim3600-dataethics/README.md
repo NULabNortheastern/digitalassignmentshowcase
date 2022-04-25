@@ -28,9 +28,9 @@ This module will introduce what “big data” is and cover the ethical question
 
 ## Documents for Module
 
-### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_ethics/crim_research_methods_fall2021_denver/Denver%20DE%20Slides%20FA2021.pdf)
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-ethics/fa21-denver-crim3600-dataethics/Denver%20DE%20Slides%20FA2021.pdf)
 
-### ["Can you adopt this dog?" Activity Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_ethics/crim_research_methods_fall2021_denver/Denver%20DE%20FA%202021_Copy%20of%20Can%20you%20adopt%20this%20dog%3F%20Handout.pdf)
+### ["Can you adopt this dog?" Activity Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-ethics/fa21-denver-crim3600-dataethics/Denver%20DE%20FA%202021_Copy%20of%20Can%20you%20adopt%20this%20dog%3F%20Handout.pdf)
 
 ## DTI Consultants
 Created by Cara Marta Messina

@@ -50,13 +50,13 @@ Materials for Module
 
 
 
-[Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/public%20policy%20zellner%20storymap%20sp22/StoryMap_slides_Zellner.pdf)
+[Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/sp22-zellner-ppua5390-storymap/StoryMap_slides_Zellner.pdf)
 <br/>
-[Module Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/public%20policy%20zellner%20storymap%20sp22/StoryMap%20Handout.pdf)
+[Module Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/sp22-zellner-ppua5390-storymap/StoryMap%20Handout.pdf)
 <br/>
-[Spreadsheet Template Info](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/public%20policy%20zellner%20storymap%20sp22/Handout_%20Storymap%20Spreadsheet%20Template.pdf)
+[Spreadsheet Template Info](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/sp22-zellner-ppua5390-storymap/Handout_%20Storymap%20Spreadsheet%20Template.pdf)
 <br/>
-[Copyright Info](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/public%20policy%20zellner%20storymap%20sp22/Copyright-fair-use-handout.pdf)
+[Copyright Info](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/sp22-zellner-ppua5390-storymap/Copyright-fair-use-handout.pdf)
 <br/>
 
 

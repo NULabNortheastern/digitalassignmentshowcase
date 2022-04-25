@@ -28,13 +28,15 @@ This module will go over components of storytelling and how these components may
 
 <h2>Materials for Module</h2>
 
-[KnightLab StoryMap Presentation Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/avery-miller-firstyearwriting-spring2022-storymap/Intro-to-StoryMap.pdf)
+[KnightLab StoryMap Presentation Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/sp22-averymiller-engw1111-storymap/Intro-to-StoryMap.pdf)
 
-[Handout: KnightLab StoryMap](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/avery-miller-firstyearwriting-spring2022-storymap/StoryMap%20Handout.pdf)
+[Handout: KnightLab StoryMap](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/sp22-averymiller-engw1111-storymap/StoryMap%20Handout.pdf)
 
-[Handout: Spreadsheet Template User Guide](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/avery-miller-firstyearwriting-spring2022-storymap/Handout_Storymap-Spreadsheet-Template.pdf)
+[Handout: Spreadsheet Template User Guide](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/sp22-averymiller-engw1111-storymap/Handout_Storymap-Spreadsheet-Template.pdf)
 
-[Handout: Copyright and Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/avery-miller-firstyearwriting-spring2022-storymap/Copyright-fair-use-handout.pdf)
+[Handout: Copyright and Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/sp22-averymiller-engw1111-storymap/Copyright-fair-use-handout.pdf)
+
+[Black Heritage Trail Demo](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/sp22-averymiller-engw1111-storymap/Black%20Heritage%20Trail%20Demo%20Handout.pdf)
 
 [Spreadsheet Template](https://docs.google.com/spreadsheets/d/1tVWd8lkde-hx38-txI2_r-cp9AuLV8nMak-Uz-aegV8/edit#gid=0)
 

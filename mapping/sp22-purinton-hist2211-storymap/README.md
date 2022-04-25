@@ -28,15 +28,15 @@ This module will go over components of storytelling and how these components may
 
 <h1>Materials for Module</h1>
 
-[KnightLab StoryMap Presentation Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/purinton-worldsince45-spring2022/Intro-to-StoryMap.pdf)
+[KnightLab StoryMap Presentation Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/sp22-purinton-hist2211-storymap/Intro-to-StoryMap.pdf)
 
-[Handout: KnightLab StoryMap](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/purinton-worldsince45-spring2022/StoryMap%20Handout.pdf)
+[Handout: KnightLab StoryMap](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/sp22-purinton-hist2211-storymap/StoryMap%20Handout.pdf)
 
-[Handout: Spreadsheet Template User Guide](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/purinton-worldsince45-spring2022/Handout_Storymap-Spreadsheet-Template.pdf)
+[Handout: Spreadsheet Template User Guide](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/sp22-purinton-hist2211-storymap/Handout_Storymap-Spreadsheet-Template.pdf)
 
-[Handout: Copyright and Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/purinton-worldsince45-spring2022/Copyright-fair-use-handout.pdf)
+[Handout: Copyright and Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/sp22-purinton-hist2211-storymap/Copyright-fair-use-handout.pdf)
 
-[Handout: Preparing for DITI Session](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/purinton-worldsince45-spring2022/Preparing%20for%20Today's%20DITI%20Session_%20HIST%202211.pdf)
+[Handout: Preparing for DITI Session](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/sp22-purinton-hist2211-storymap/Preparing%20for%20Today's%20DITI%20Session_%20HIST%202211.pdf)
 
 [Spreadsheet Template](https://docs.google.com/spreadsheets/d/1ISTYCuh8hXBuOn5jOXDkHaP0iKf8VPcFCvI0-9Bzbag/edit#gid=0)
 

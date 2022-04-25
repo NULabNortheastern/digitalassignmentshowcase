@@ -30,13 +30,13 @@ This module will go over components of storytelling and how these components may
 
 <h2> Materials for Module </h2>
 
-[KnightLab StoryMap Presentation Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/nieves-storymap-publichistory-fall2021/Intro-to-StoryMap-Slides.pdf)  
+[KnightLab StoryMap Presentation Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa21-nieves-hist5237-storymap/Intro-to-StoryMap-Slides.pdf)  
 
-[Handout: KnightLab StoryMap](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/nieves-storymap-publichistory-fall2021/StoryMap%20Handout.pdf) 
+[Handout: KnightLab StoryMap](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa21-nieves-hist5237-storymap/StoryMap%20Handout.pdf) 
 
-[Handout: Spreadsheet Template User Guide](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/nieves-storymap-publichistory-fall2021/Handout_Storymap-Spreadsheet-Template.pdf) 
+[Handout: Spreadsheet Template User Guide](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa21-nieves-hist5237-storymap/Handout_Storymap-Spreadsheet-Template.pdf) 
 
-[Handout: Copyright and Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/nieves-storymap-publichistory-fall2021/Copyright-fair-use-handout.pdf) 
+[Handout: Copyright and Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa21-nieves-hist5237-storymap/Copyright-fair-use-handout.pdf) 
 
 [Spreadsheet Template](https://docs.google.com/spreadsheets/d/1eJrqp30nJp__-l1V4tiRICiL4PLm40Esmg0WvcDAFII/edit#gid=0) 
 

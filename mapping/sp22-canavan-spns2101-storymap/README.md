@@ -28,15 +28,15 @@ This module will go over components of storytelling and how these components may
 
 <h2> Materials for Module </h2>
 
-[KnightLab StoryMap Presentation Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/canavan-intermediate_spanish-spring2022/StoryMap_slides.pdf) 
+[KnightLab StoryMap Presentation Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/sp22-canavan-spns2101-storymap/StoryMap_slides.pdf) 
 
-[Handout: KnightLab StoryMap](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/canavan-intermediate_spanish-spring2022/StoryMap%20Handout.pdf)
+[Handout: KnightLab StoryMap](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/sp22-canavan-spns2101-storymap/StoryMap%20Handout.pdf)
 
-[Handout: Spreadsheet Template User Guide](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/canavan-intermediate_spanish-spring2022/Handout_%20Storymap%20Spreadsheet%20Template.pdf)
+[Handout: Spreadsheet Template User Guide](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/sp22-canavan-spns2101-storymap/Handout_%20Storymap%20Spreadsheet%20Template.pdf)
 
-[Handout: Copyright and Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/canavan-intermediate_spanish-spring2022/Copyright-fair-use-handout.pdf)
+[Handout: Copyright and Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/sp22-canavan-spns2101-storymap/Copyright-fair-use-handout.pdf)
 
-[Handout: Parks demo](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/canavan-intermediate_spanish-spring2022/Park%20Locations%20and%20Descriptions.docx.pdf)
+[Handout: Parks demo](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/sp22-canavan-spns2101-storymap/Park%20Locations%20and%20Descriptions.docx.pdf)
 
 [Spreadsheet Template](https://docs.google.com/spreadsheets/d/1bGPGdqDG_N42nPODBgWL718iv-711S36IhmkfvL1wmo/edit#gid=0)
 

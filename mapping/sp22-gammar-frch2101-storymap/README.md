@@ -50,25 +50,23 @@ Materials for Module
 
 ## Materials for Module
 
+[Module handout 1 Copyright Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/sp22-gammar-frch2101-storymap/%20Handout_%20Copyright-fair-use.pdf)
+<br/>
+[Module handout 2 Demo Workshop Guidelines](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/sp22-gammar-frch2101-storymap/Demo_Workshop_Guidelines.pdf)
+<br/>
+[Module handout StoryMap](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/sp22-gammar-frch2101-storymap/Handout_%20StoryMap.pdf)
+<br/>
+[Module handout StoryMap Spreadsheet Template](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/sp22-gammar-frch2101-storymap/Handout_%20Storymap%20Spreadsheet%20Template.pdf)
+<br/>
 
-[Module handout 1 Copyright Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/gammar_french_spring2022/%20Handout_%20Copyright-fair-use.pdf)
-<br/>
-[Module handout 2 Demo Workshop Guidelines](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/gammar_french_spring2022/Demo_Workshop_Guidelines.pdf)
-<br/>
-[Module handout StoryMap](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/gammar_french_spring2022/Handout_%20StoryMap.pdf)
-<br/>
-[Module handout StoryMap Spreadsheet Template](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/food_justice_fall2021_berkey/Handout_Storymap-Spreadsheet-Template.pdf)
-<br/>
-
-
-[Data Sample 1 French Colonial Architecture](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/gammar_french_spring2022/%5BStudentCopy%5DDemoData_French_Colonial_Architecture.xlsx)
+[Data Sample 1 French Colonial Architecture](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/sp22-gammar-frch2101-storymap/StoryMap%20Spreadsheet%20Template.xlsx)
 <br/>
 [Data Sample 2 Spreadsheet Template](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/gammar_french_spring2022/StoryMap%20Spreadsheet%20Template.xlsx)
 <br/>
 
-[Slides Class 1](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/gammar_french_spring2022/Gammar_StoryMap_Slides_Class1.pdf)
+[Slides Class 1](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/sp22-gammar-frch2101-storymap/Gammar_StoryMap_Slides_Class1.pdf)
 <br/>
-[Slides Class 2](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/gammar_french_spring2022/Gammar_StoryMap_Slides_Class2.pdf)
+[Slides Class 2](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/sp22-gammar-frch2101-storymap/Gammar_StoryMap_Slides_Class2.pdf)
 <br/>
 
 

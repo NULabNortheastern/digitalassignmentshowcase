@@ -24,13 +24,13 @@ This module will go over components of storytelling and how these components may
 
 ### Materials for Module
 
-KnightLab StoryMap Presentation Slides
+[KnightLab StoryMap Presentation Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/sp22-cetr-pesir-storymap/Intro-to-StoryMap%20CETR_PESIR%20Workshop.pdf)
 
-CETR StoryMap Overview Handout
+[CETR StoryMap Overview Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/sp22-cetr-pesir-storymap/StoryMap%20Overview%20Handout%20(CETR).pdf)
 
-CETR Community Walks Demo Handout
+[CETR Community Walks Demo Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/sp22-cetr-pesir-storymap/Community%20Walks%20Demo%20Handout%20(CETR).pdf)
 
-CETR Copyright/Fair Use Handout
+[CETR Copyright/Fair Use Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/sp22-cetr-pesir-storymap/Copyright-fair-use-handout%20(CETR).pdf)
 
 CETR Spreadsheet Template
 

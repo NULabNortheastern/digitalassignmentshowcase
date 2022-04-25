@@ -48,10 +48,9 @@ Materials for Module
 
 ## Materials for Module
 
-
-[Module handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/food_justice_fall2021_berkey/Handout_Storymap-Spreadsheet-Template.pdf)
+[Module handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa21-berkey-husv2401-storymap/Handout_Storymap-Spreadsheet-Template.pdf)
 <br/>
-[Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/food_justice_fall2021_berkey/StoryMap_slides.pdf)
+[Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa21-berkey-husv2401-storymap/StoryMap_slides.pdf)
 <br/>
 
 

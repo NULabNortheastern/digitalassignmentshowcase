@@ -30,13 +30,13 @@ This module will go over components of storytelling and how these components may
 
 <h2> Materials for Module </h2>
 
-[KnightLab StoryMap Presentation Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/poetry_workshop-fall2021-kim/StoryMap_slides_kim.pdf)  
+[KnightLab StoryMap Presentation Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa21-kim-engl3377-storymap/StoryMap_slides_kim.pdf)  
 
-[Handout: KnightLab StoryMap](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/poetry_workshop-fall2021-kim/StoryMap%20Handout.pdf) 
+[Handout: KnightLab StoryMap](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa21-kim-engl3377-storymap/StoryMap%20Handout.pdf) 
 
-[Handout: Spreadsheet Template User Guide](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/poetry_workshop-fall2021-kim/Handout_%20Storymap%20Spreadsheet%20Template.pdf) 
+[Handout: Spreadsheet Template User Guide](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa21-kim-engl3377-storymap/Handout_%20Storymap%20Spreadsheet%20Template.pdf) 
 
-[Handout: Copyright and Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/poetry_workshop-fall2021-kim/Copyright-fair-use-handout.pdf) 
+[Handout: Copyright and Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa21-kim-engl3377-storymap/Copyright-fair-use-handout.pdf) 
 
 [Spreadsheet Template](https://docs.google.com/spreadsheets/d/1eJrqp30nJp__-l1V4tiRICiL4PLm40Esmg0WvcDAFII/edit#gid=0) 
 

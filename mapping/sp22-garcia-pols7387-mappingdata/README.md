@@ -1,4 +1,4 @@
-﻿# Data Retrieval and Preparation in Excel for Mapping
+# Data Retrieval and Preparation in Excel for Mapping
 
 ## Individual Class Info
 POLS 7387 Global Governance
@@ -26,13 +26,13 @@ This module demonstrates how to use excel to retrieve and clean data from the Un
 
 ### Handouts
 
-[Installing Excel for Northeastern students](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/global_governance-spring2022-garcia/Handout-install_excel.pdf)
+[Installing Excel for Northeastern students](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/sp22-garcia-pols7387-mappingdata/Handout-install_excel.pdf)
 <br>
-[Data Preparation in Excel](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/global_governance-spring2022-garcia/Handout-install_excel.pdf)
+[Data Preparation in Excel](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/sp22-garcia-pols7387-mappingdata/Handout-data_prep_excel.pdf)
 
 ### Slides
 
-[Data Collection and Preparing for Mapping](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/global_governance-spring2022-garcia/Garcia_DataManagement_Excel_Slides.pdf)
+[Data Collection and Preparing for Mapping](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/sp22-garcia-pols7387-mappingdata/Garcia_DataManagement_Excel_Slides.pdf)
 
 ### Data
 Selected datasets collected from:

@@ -58,12 +58,11 @@ Materials for Module
 
 ## Materials for Module
 
-
-[Module handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/german_program_storymap_fall2021_fuchs/Handout_Storymap-Spreadsheet-Template.pdf)
+[Module handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa21-fuchs-grmn-storymap/Handout_Storymap-Spreadsheet-Template.pdf)
 <br/>
-[Slides 1](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/german_program_storymap_fall2021_fuchs/Slides_Class1.pdf)
+[Slides 1](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa21-fuchs-grmn-storymap/Slides_Class1.pdf)
 <br/>
-[Slides 2](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/german_program_storymap_fall2021_fuchs/Slides_Class2.pdf)
+[Slides 2](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa21-fuchs-grmn-storymap/Slides_Class2.pdf)
 <br/>
 
 

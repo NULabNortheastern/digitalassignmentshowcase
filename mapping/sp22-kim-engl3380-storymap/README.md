@@ -30,15 +30,15 @@ This module will go over components of storytelling and how these components may
 
 <h2> Materials for Module </h2>
 
-[KnightLab StoryMap Presentation Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/kim-critical_art_and_culture-spring2022/StoryMap_slides.pdf) 
+[KnightLab StoryMap Presentation Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/sp22-kim-engl3380-storymap/StoryMap_slides.pdf) 
 
-[Handout: KnightLab StoryMap](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/kim-critical_art_and_culture-spring2022/StoryMap%20Handout.pdf)
+[Handout: KnightLab StoryMap](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/sp22-kim-engl3380-storymap/StoryMap%20Handout.pdf)
 
-[Handout: Spreadsheet Template User Guide](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/kim-critical_art_and_culture-spring2022/Handout_%20Storymap%20Spreadsheet%20Template.pdf)
+[Handout: Spreadsheet Template User Guide](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/sp22-kim-engl3380-storymap/Handout_%20Storymap%20Spreadsheet%20Template.pdf)
 
-[Handout: Copyright and Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/kim-critical_art_and_culture-spring2022/Copyright-fair-use-handout.pdf)
+[Handout: Copyright and Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/sp22-kim-engl3380-storymap/Copyright-fair-use-handout.pdf)
 
-[Handout: Black Heritage Trail demo](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/kim-critical_art_and_culture-spring2022/Black%20Heritage%20Trail%20%5Bdemo%5D.pdf)
+[Handout: Black Heritage Trail demo](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/sp22-kim-engl3380-storymap/Black%20Heritage%20Trail%20%5Bdemo%5D.pdf)
 
 [Spreadsheet Template](https://docs.google.com/spreadsheets/d/1bGPGdqDG_N42nPODBgWL718iv-711S36IhmkfvL1wmo/edit#gid=0)
 

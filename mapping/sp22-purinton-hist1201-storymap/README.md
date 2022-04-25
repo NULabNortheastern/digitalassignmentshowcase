@@ -28,11 +28,11 @@ This module will go over components of storytelling and how these components may
 
 ### Materials for Module:
 
-- KnightLab StoryMap Presentation Slides 
-- Handout: KnightLab StoryMap
+- [KnightLab StoryMap Presentation Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/sp22-purinton-hist1201-storymap/Intro-to-StoryMap.pdf) 
+- [Handout: KnightLab StoryMap](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/sp22-purinton-hist1201-storymap/StoryMap%20Handout.pdf)
 - Spreadsheet Template
-- Handout: Spreadsheet Template User Guide
-- Handout: Copyright and Fair Use
+- [Handout: Spreadsheet Template User Guide](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/sp22-purinton-hist1201-storymap/Handout_Storymap-Spreadsheet-Template.pdf)
+- [Handout: Copyright and Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/sp22-purinton-hist1201-storymap/Copyright-fair-use-handout.pdf)
 - DITI’s Intro to StoryMap video: https://youtu.be/X33ud7RYZFg 
 
 ### DITI Consultants:

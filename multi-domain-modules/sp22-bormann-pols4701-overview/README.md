@@ -14,7 +14,9 @@ This module provides an overview of a variety of different DITI tools with accom
 
 <h2>Materials for Module</h2>
 
-[DITI Tools and Student Examples Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/theory_methods/bormann_capstone-spring2022-overview/DITI%20Tools%20Handout.pdf)
+[DITI Tools and Student Examples Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/multi-domain-modules/sp22-bormann-pols4701-overview/DITI%20Tools%20Handout.pdf)
+
+[Obama SOTU Data](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/multi-domain-modules/sp22-bormann-pols4701-overview/obama_sotu)
 
 <h2>DITI Consultants</h2>
 

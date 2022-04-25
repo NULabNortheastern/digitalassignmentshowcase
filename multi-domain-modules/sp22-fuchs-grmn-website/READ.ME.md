@@ -28,15 +28,15 @@ Create a blog section on the Wix or WordPress website
 
 ### Materials for Module 
 
-Slides: Intro to Website Development and Design
+[Slides: Intro to Website Development and Design](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/multi-domain-modules/sp22-fuchs-grmn-website/German%20Program_SP22_Introduction%20to%20Website%20Building.pdf)
 
-Slides: Wix
+[Slides: Wix](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/multi-domain-modules/sp22-fuchs-grmn-website/German%20Program_SP22_Introduction%20to%20Wix%20.pdf)
 
-Slides: WordPress
+[Slides: WordPress](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/multi-domain-modules/sp22-fuchs-grmn-website/GermanProgram_SP22_Introduction%20to%20Wordpress.pdf)
 
-Handout: Intro to Wix and WordPress
+[Handout: Intro to Wix and WordPress](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/multi-domain-modules/sp22-fuchs-grmn-website/Handout_Intro-WX_WP.pdf)
 
-
+[Introduction to the DITI](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/multi-domain-modules/sp22-fuchs-grmn-website/Introduction%20to%20the%20%20Digital%20Integration%20Teaching%20Initiative%20%20(DITI).pdf)
 
 #### Developed by
 

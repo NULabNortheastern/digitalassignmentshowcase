@@ -27,9 +27,9 @@ This module will go over the basics of Audacity. The second portion of this modu
 ## Documents for Module
 
 ### Handouts
-- [Handout on Installing Audacity](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/final_yr_projects_and_publishing-spring2022-kemp/handout-install_audacity.pdf)
-- [Handout on Using Audacity](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/final_yr_projects_and_publishing-spring2022-kemp/handout-intro_to_audacity.pdf)
-- [Handout on Copyright and Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/final_yr_projects_and_publishing-spring2022-kemp/Copyright-fair-use-handout.pdf)
+- [Handout on Installing Audacity](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/audio-editing_podcasting/sp22-kemp-nchcw627-audacity/handout-install_audacity.pdf)
+- [Handout on Using Audacity](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/audio-editing_podcasting/sp22-kemp-nchcw627-audacity/handout-intro_to_audacity.pdf)
+- [Handout on Copyright and Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/audio-editing_podcasting/sp22-kemp-nchcw627-audacity/Banrey%20Intro%20to%20Podcasting%20Slides.pptx.pdf)
 
 ### Slides
 - [Introduction to Audacity, with Antonio Banrey](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/final_yr_projects_and_publishing-spring2022-kemp/Banrey%20Intro%20to%20Podcasting%20Slides.pptx.pdf)

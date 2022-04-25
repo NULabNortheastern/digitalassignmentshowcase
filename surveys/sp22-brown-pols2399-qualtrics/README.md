@@ -43,16 +43,15 @@ Collect, export and process survey results in Qualtrics
 ## Qualtrics Resources
 
 [Survey Design Basics ](https://www.qualtrics.com/support/survey-platform/survey-module/survey-module-overview/?parent=p0027)
-  
+
  
 
 
 ## Materials for Module
 
-
-[Module handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/survey%20design/poli%20sci%20research%20methods%20sp22%20brown/Handout_%20Qualtrics.docx.pdf)
+[Module handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/surveys/sp22-brown-pols2399-qualtrics/Handout_%20Qualtrics.docx.pdf)
 <br/>
-[Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/survey%20design/poli%20sci%20research%20methods%20sp22%20brown/brown%20survey%20sp%2022.pptx.pdf)
+[Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/surveys/sp22-brown-pols2399-qualtrics/brown%20survey%20sp%2022.pptx.pdf)
 <br/>
 
 

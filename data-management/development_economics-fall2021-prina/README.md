@@ -27,15 +27,15 @@ This module is an introduction to using Excel, including basic terminology, navi
 
 ### Handouts
 
-[Installing Excel and Using Northeastern University's License](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_excel/development_economics-fall2020-prina/handout-install_excel.pdf)
+[Installing Excel and Using Northeastern University's License](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-management/development_economics-fall2021-prina/handout-install_excel.pdf)
 <br/>
-[Excel basics](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_excel/development_economics-fall2021-prina/handout.pdf)
+[Excel basics](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-management/development_economics-fall2021-prina/handout.pdf)
 <br/>
-[Problem set](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_excel/development_economics-fall2021-prina/ECON1291_2020-excel_training.pdf)
+[Problem set](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-management/development_economics-fall2021-prina/ECON1291_excel_training.pdf)
 
 ### Presentation Materials
 
-[Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_excel/development_economics-fall2021-prina/prina-fall2021-slides.pdf)
+[Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-management/development_economics-fall2021-prina/prina-fall2021-slides.pdf)
 
 ### Data
 This Excel data has been provided by Silvia Prina specifically to have students practice using Excel

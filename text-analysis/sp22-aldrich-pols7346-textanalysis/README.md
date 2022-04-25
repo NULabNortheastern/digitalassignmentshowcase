@@ -23,17 +23,17 @@ This module goes over computational text analysis for a corpus of texts. The mod
 
 ## Documents for Module
 
-### [DITI Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/aldrich-resilient_cities-spring2022/Aldrich_Resilient%20Cities_Text%20Analysis_Slides.pdf)
+### [DITI Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text-analysis/sp22-aldrich-pols7346-textanalysis/Aldrich_Resilient%20Cities_Text%20Analysis_Slides.pdf)
 
-### [Boston Area Research Initiative (BARI) Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/aldrich-resilient_cities-spring2022/BARI_1.26.2022%20Resilient%20city%20.pptx.pdf)
+### [Boston Area Research Initiative (BARI) Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text-analysis/sp22-aldrich-pols7346-textanalysis/BARI_1.26.2022%20Resilient%20city%20.pptx.pdf)
 
-### [Handouts](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/text_analysis/aldrich-resilient_cities-spring2022/Handouts)
+### [Handouts](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/text-analysis/sp22-aldrich-pols7346-textanalysis/Handouts)
 
-### [Corpus: City Resilience Plans of Boston, DC, Philadelphia, New Orleans and Miami](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/text_analysis/aldrich-resilient_cities-spring2022/Corpus)
+### [Corpus: City Resilience Plans of Boston, DC, Philadelphia, New Orleans and Miami](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/text-analysis/sp22-aldrich-pols7346-textanalysis/Corpus)
 
 [Stopwords](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/aldrich-resilient_cities-spring2022/Stopwords.txt)
 
-[Links and Resources Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/aldrich-resilient_cities-spring2022/Links%20%26%20Resources.pdf)
+[Links and Resources Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text-analysis/sp22-aldrich-pols7346-textanalysis/Links%20%26%20Resources.pdf)
 
 ## DITI Consultants
 Vaishali Kushwaha 

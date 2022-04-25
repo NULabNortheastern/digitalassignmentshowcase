@@ -24,12 +24,12 @@ This module goes over computational text analysis for a corpus of texts, specifi
 
 ## Documents for Module
 
-### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/intro_to_writing_spring_2022_lerner/Lerner_Intro%20to%20Writing%20Research_Text%20Analysis.pdf)
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text-analysis/sp22-lerner-engl1410-textanalysis/Lerner_Intro%20to%20Writing%20Research_Text%20Analysis.pdf)
 
-### [Handouts](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/text_analysis/intro_to_writing_spring_2022_lerner/Handouts)
+### [Handouts](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/text-analysis/sp22-lerner-engl1410-textanalysis/Handouts)
 
 ### Data
-[Sample Corpus](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/text_analysis/intro_to_writing_spring_2022_lerner/Sample%20Corpus) 
+[Sample Corpus](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/text-analysis/sp22-lerner-engl1410-textanalysis/Sample%20Corpus) 
 
 ## DTI Consultants
 Created by Cara Marta Messina

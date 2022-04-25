@@ -23,15 +23,15 @@ This module goes over computational text analysis for a corpus of texts, specifi
 
 ## Documents for Module
 
-### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/aldrich-environmental_politics-spring2022/Aldrich_Environmental%20Politics_Text%20Analysis_Slides.pdf)
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text-analysis/sp22-aldrich-pols2395-textanalysis/Aldrich_Environmental%20Politics_Text%20Analysis_Slides.pdf)
 
-### [Handouts](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/text_analysis/aldrich-environmental_politics-spring2022/Handouts)
+### [Handouts](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/text-analysis/sp22-aldrich-pols2395-textanalysis/Handouts)
 
-### [Corpus](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/text_analysis/aldrich-environmental_politics-spring2022/Corpus)
+### [Corpus](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/text-analysis/sp22-aldrich-pols2395-textanalysis/Corpus)
 
-[Stopwords](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/aldrich-environmental_politics-spring2022/Stopwords.txt)
+[Stopwords](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text-analysis/sp22-aldrich-pols2395-textanalysis/Stopwords.txt)
 
-[Links and Resources Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/aldrich-environmental_politics-spring2022/Links%20%26%20Resources.pdf)
+[Links and Resources Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text-analysis/sp22-aldrich-pols2395-textanalysis/Links%20%26%20Resources.pdf)
 
 ## DITI Consultants
 Vaishali Kushwaha 

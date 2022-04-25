@@ -35,21 +35,21 @@ This module goes over computational text analysis for a corpus of texts. The mod
 
 ## Documents for Module
 
-### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/composite_aesthetics_race_as_technology-fall21-kim/Slides_textanalysis_kim_2021.pdf)
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text-analysis/fa21-kim-engl3161-textanalysis/Slides_textanalysis_kim_2021.pdf)
 
 ### Handouts
-[Corpus Building Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/composite_aesthetics_race_as_technology-fall21-kim/Corpus%20Building%20handout.pdf)
+[Corpus Building Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text-analysis/fa21-kim-engl3161-textanalysis/Corpus%20Building%20handout.pdf)
 <br>
-[Lexos Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/composite_aesthetics_race_as_technology-fall21-kim/Lexos%20Handout.pdf)
+[Lexos Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text-analysis/fa21-kim-engl3161-textanalysis/Lexos%20Handout.pdf)
 <br>
-[Voyant Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/composite_aesthetics_race_as_technology-fall21-kim/Voyant%20Handout.pdf)
+[Voyant Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text-analysis/fa21-kim-engl3161-textanalysis/Voyant%20Handout.pdf)
 <br>
-[Additional Links and Resources Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/composite_aesthetics_race_as_technology-fall21-kim/Links%20%26%20Resources.pdf)
+[Additional Links and Resources Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text-analysis/fa21-kim-engl3161-textanalysis/Links%20%26%20Resources.pdf)
 
 ### Data
-[Browne_corpus folder](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/text_analysis/composite_aesthetics_race_as_technology-fall21-kim/browne_corpus)
+[Browne_corpus folder](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/text-analysis/fa21-kim-engl3161-textanalysis/browne_corpus)
 <br>
-[stopwords.txt](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/composite_aesthetics_race_as_technology-fall21-kim/browne_corpus/stopwords.txt)
+[stopwords.txt](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text-analysis/fa21-kim-engl3161-textanalysis/browne_corpus/stopwords.txt)
 
 ## DTI Consultants
 - Tieanna Graphenreed

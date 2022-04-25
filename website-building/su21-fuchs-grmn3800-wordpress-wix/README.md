@@ -30,9 +30,9 @@ create a blog section on the Wix or WordPress website
 
 ## Materials for Module
 
-### [Wix & WordPress Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/3690d9e0ad815d765ed26590cc143bb889abd4eb/website_building/germany_today_summer2021-fuchs/Handout_Wix_WordPress_diti-summer2021-fuchs.pdf)
+### [Wix & WordPress Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website-building/su21-fuchs-grmn3800-wordpress-wix/Handout_Wix_WordPress_diti-summer2021-fuchs.pdf)
 
-### [Wix & WordPress Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/3690d9e0ad815d765ed26590cc143bb889abd4eb/website_building/germany_today_summer2021-fuchs/Slides_Wix_WordPress_diti-summer2021-fuchs.pdf)
+### [Wix & WordPress Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website-building/su21-fuchs-grmn3800-wordpress-wix/Slides_Wix_WordPress_diti-summer2021-fuchs.pdf)
 
 ## DITI Consultants 
 

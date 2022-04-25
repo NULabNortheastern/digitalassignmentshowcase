@@ -24,8 +24,8 @@ This module will cover creating and designing a website using WordPress. It demo
 
 ## Documents for Module
 
-### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/creative_writing_spring2022_sam_kemp/Kemp_WordPress_Slides.pdf)
-### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/creative_writing_spring2022_sam_kemp/Handout_WordPress.pdf)
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website-building/sp22-kemp-nchcw627-wordpress/Kemp_WordPress_Slides.pdf)
+### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website-building/sp22-kemp-nchcw627-wordpress/Handout_WordPress.pdf)
 
 
 ## DITI Consultants:

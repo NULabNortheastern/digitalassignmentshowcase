@@ -30,13 +30,13 @@ Create a blog section on the Wix or WordPress website
 
 ### Materials for Module
 
-Website-Building Handout
+[Website-Building Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website-building/fa21-fuchs-grmn-wordpress-wix/fuchs-websitebuilding-handout-fa21.pdf)
 
-Website Building/Wireframing Slides
+[Website Building/Wireframing Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website-building/fa21-fuchs-grmn-wordpress-wix/Fuchs_FA21_Introduction%20to%20Website%20Building.pdf)
 
-Wix Slides
+[Wix Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website-building/fa21-fuchs-grmn-wordpress-wix/Fuchs_FA21_Introduction%20to%20Wix%20.pdf)
 
-WordPress Slides
+[WordPress Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website-building/fa21-fuchs-grmn-wordpress-wix/Fuchs_FA21_Introduction%20to%20Wordpress.pdf)
 
 ### DITI Consultants
 

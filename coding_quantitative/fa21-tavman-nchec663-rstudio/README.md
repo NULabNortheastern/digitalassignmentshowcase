@@ -31,13 +31,13 @@ This module will review best practices for data cleaning using R & RStudio. More
 * Learning best practices for data cleaning using R & RStudio
 * Discussing examples of best practices for data cleaning using R & RStudio
 * Learning how to download, install, and use ggplot for data visualization
- 
+
 ### Materials for this Module
-### [Presentation Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_r/economics_of_financial_crisis-fall2021-tavman/Slides_Data-Visualization-in-ggplot2_tavman.pdf)
-### [Best Practices for Data Visualization Using R & RStudio Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_r/economics_of_financial_crisis-fall2021-tavman/Handout_Using-ggplot2-for-data-visualization.pdf)
-### [Best Practices for Data Cleaning Using R & RStudio Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_r/economics_of_financial_crisis-fall2021-tavman/Handout_Best-Practices-for-Data-Cleaning_diti-fall2021-tavman.pdf)
-### [Introduction to R, RStudio, and ggplot (Installation Guide)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_r/economics_of_financial_crisis-fall2021-tavman/Introduction%20to%20R%2C%20RStudio%2C%20and%20ggplot%20(Installation%20Guide).pdf)
-### [Data and RMD file](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/intro_r/economics_of_financial_crisis-fall2021-tavman/ggplot2-diti-demo-guide_Tavman-fall2021)
+### [Presentation Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/coding_quantitative/fa21-tavman-nchec663-rstudio/Slides_Data-Visualization-in-ggplot2_tavman.pdf)
+### [Best Practices for Data Visualization Using R & RStudio Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/coding_quantitative/fa21-tavman-nchec663-rstudio/Handout_Using-ggplot2-for-data-visualization.pdf)
+### [Best Practices for Data Cleaning Using R & RStudio Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/coding_quantitative/fa21-tavman-nchec663-rstudio/Handout_Best-Practices-for-Data-Cleaning_diti-fall2021-tavman.pdf)
+### [Introduction to R, RStudio, and ggplot (Installation Guide)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/coding_quantitative/fa21-tavman-nchec663-rstudio/Introduction%20to%20R%2C%20RStudio%2C%20and%20ggplot%20(Installation%20Guide).pdf)
+### [Data and RMD file](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/coding_quantitative/fa21-tavman-nchec663-rstudio/ggplot2-diti-demo-guide_Tavman-fall2021)
 
 ## Data
 

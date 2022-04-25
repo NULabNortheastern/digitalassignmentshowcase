@@ -30,9 +30,11 @@ Qualitative Coding with NVivo
 ### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/intro_to_nvivo/criminology_research_methods_fall2021_denver/Denver_%20FA21_%20NVivo%20slides.pptx.pdf)
 
 ### Handouts
-[Installing NVivo](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/intro_to_nvivo/criminology_research_methods_fall2021_denver/Installing%20NVivo.docx.pdf)
+[Installing NVivo](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/coding_qualitative/fa21-denver-crim6200-nvivo/Installing%20NVivo.docx.pdf)
 <br/>
-[Intro to NVivo for Qualitative Coding](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/intro_to_nvivo/criminology_research_methods_fall2021_denver/handout-NVivo.docx.pdf)
+[Intro to NVivo for Qualitative Coding](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/coding_qualitative/fa21-denver-crim6200-nvivo/handout-NVivo.docx.pdf)
+
+[Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/coding_qualitative/fa21-denver-crim6200-nvivo/Denver_%20FA21_%20NVivo%20slides.pptx.pdf)
 
 
 ## DITI Consultants

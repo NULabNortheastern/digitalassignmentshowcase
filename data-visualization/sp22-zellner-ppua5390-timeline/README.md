@@ -26,11 +26,12 @@ This module will go over components of storytelling and how these components may
 
 <h2>Materials for Module</h2>
 
-[KnightLab Timeline Presentation Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/digital_storytelling/zellner-sp22-timeline-public-policy/Slides_Timeline.pdf)
+[KnightLab Timeline Presentation Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-visualization/sp22-zellner-ppua5390-timeline/Slides_Timeline.pdf)
 
-[Handout: KnightLab Timeline](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/digital_storytelling/zellner-sp22-timeline-public-policy/Handout_%20Timeline.pdf)
+[Handout: KnightLab Timeline](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-visualization/sp22-zellner-ppua5390-timeline/Handout_%20Timeline.pdf)
 
+<h3>DITI Consultants</h3>
 
+Yana Mommadova
 
-
-
+Tieanna Graphenreed

@@ -29,3 +29,14 @@ This module will go over components of storytelling and how these components may
 - Understand how to insert data into KnightLab TimelineJS, including text and various media elements
 - Navigate presenting the relation between events, processes, and periods of various duration in the timeline
 
+<h3>Module Materials</h3>
+
+[Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-visualization/su21-blum-socl1255-timeline/Handout_KLTimeline-su2021-Blum.pdf)
+
+[Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-visualization/su21-blum-socl1255-timeline/Slides_KLTimeline-su2021-Blum.pdf)
+
+<h3>DITI Consultants</h3>
+
+Claire Tratnyek
+
+Yana Mommadova

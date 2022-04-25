@@ -36,6 +36,12 @@ Understand how to insert data into KnightLab TimelineJS, including text and vari
 
 Navigate presenting the relation between events, processes, and periods of various duration in the timeline
 
+<h3>Module Materials</h3>
+
+[Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-visualization/fa21-blum-honr1310-timeline/Handout_KLTimeline-FA2021-Blum.docx.pdf)
+
+[Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-visualization/fa21-blum-honr1310-timeline/Slides_KLTimeline-FA2021-Blum.pptx.pdf)
+
 ### DITI Consultants
 
 Yana Mommadova

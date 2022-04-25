@@ -23,8 +23,8 @@ This module will go over the basic architecture, vocabulary, and processes of se
 - Learn how to add pages and media to a Scalar book project, and think about how to link these pages and media through paths, tags, comments, annotations, and more.
 
 ## Documents for Module
-- Scalar Handout
-- Scalar Slide Deck
+- [Scalar Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/digital-scholarly-publishing/fa21-nieves-hist5237-scalar/Scalar%20Handout.pdf)
+- [Scalar Slide Deck](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/digital-scholarly-publishing/fa21-nieves-hist5237-scalar/Scalar%20Slides.pdf)
 
 ## DTI Consultants
 Claire Tratnyek & Tieanna Graphenreed

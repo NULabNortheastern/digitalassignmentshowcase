@@ -26,9 +26,9 @@ Learn how to make creative and effective presentation slides to deliver a visual
 
 <h2>Materials for Module</h2>
 
-PowerPoint Slides
+[PowerPoint Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/digital-communication_presentation/su22-fuchs-grmn3800-powerpoint/Powerpoint-Slides.pdf)
 
-PowerPoint Handout
+[PowerPoint Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/digital-communication_presentation/su22-fuchs-grmn3800-powerpoint/Powerpoint-Slides.pdf)
 
 <h2>DITI Consultants</h2>
 

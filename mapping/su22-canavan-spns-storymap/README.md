@@ -2,9 +2,9 @@
 
 <h1>Individual Class Info</h1>
 
-HUSV 2400: Food Justice & Community Development
+Spanish History and Culture
 
-Becca Berkey
+Monica Canavan
 
 Summer 2022
 

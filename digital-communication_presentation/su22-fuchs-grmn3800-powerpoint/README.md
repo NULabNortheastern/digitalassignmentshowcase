@@ -32,4 +32,6 @@ Learn how to make creative and effective presentation slides to deliver a visual
 
 <h2>DITI Consultants</h2>
 
+Chris McNulty
+
 Vaishali Kushwaha

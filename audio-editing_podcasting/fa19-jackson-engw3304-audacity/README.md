@@ -29,12 +29,12 @@ This module will go over the basics of Audacity, fair use, and podcasts. The sec
 
 ## Documents for Module
 
-### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/advanced_writing-fall2019-jackson/slides.pdf)
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/audio-editing_podcasting/fa19-jackson-engw3304-audacity/slides.pdf)
 
 ### Handouts
-[Installing Audacity](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/advanced_writing-fall2019-jackson/handout-install_audacity.pdf)
+[Installing Audacity](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/audio-editing_podcasting/fa19-jackson-engw3304-audacity/handout-install_audacity.pdf)
 <br>
-[Introduction to Podcasting](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/advanced_writing-fall2019-jackson/handout-intro_to_audacity.pdf)
+[Introduction to Podcasting](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/audio-editing_podcasting/fa19-jackson-engw3304-audacity/handout-intro_to_audacity.pdf)
 
 ### Audio Files
 - "Footsteps, Dry Leaves, F.wav" by InspectorJ [www.jshaw.co.uk](www.jshaw.co.uk) of Freesound.org

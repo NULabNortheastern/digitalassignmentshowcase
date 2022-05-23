@@ -33,14 +33,15 @@ This module will go over the basics of Audacity. The second portion of this modu
 
 ## Documents for Module
 
-[Day 1 Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/social_policy-fall2019-mann/slides-day1.pdf)
+[Day 1 Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/audio-editing_podcasting/fa19-mann-husv3900-audacity/slides-day1.pdf)
 
-[Day 2 Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/social_policy-fall2019-mann/slides-day2.pdf)
+[Day 2 Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/audio-editing_podcasting/fa19-mann-husv3900-audacity/slides-day2.pdf)
 
-[Install Audacity Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/social_policy-fall2019-mann/handout-install_audacity.pdf)
+[Install Audacity Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/audio-editing_podcasting/fa19-mann-husv3900-audacity/handout-install_audacity.pdf)
 
-[Introduction to Audacity Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/social_policy-fall2019-mann/handout-intro_to_audacity.pdf)
+[Introduction to Audacity Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/audio-editing_podcasting/fa19-mann-husv3900-audacity/handout-intro_to_audacity.pdf)
 
-[Fair Use Resources Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/social_policy-fall2019-mann/handout-fair_use_resources.pdf)
+[Fair Use Resources Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/audio-editing_podcasting/fa19-mann-husv3900-audacity/handout-fair_use_resources.pdf)
+
 ## DTI Consultants
 Created by Laura Johnson, Cara Marta Messina, and Molly Nebiolo

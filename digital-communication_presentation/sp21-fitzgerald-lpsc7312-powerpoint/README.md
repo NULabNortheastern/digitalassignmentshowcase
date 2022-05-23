@@ -33,8 +33,8 @@ How to make creative and effective presentation slides so as to deliver a visual
 
 ## Materials for Module
 
-* Slides 
-* Handout
+* [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/digital-communication_presentation/sp21-fitzgerald-lpsc7312-powerpoint/Slides.pdf) 
+* [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/digital-communication_presentation/sp21-fitzgerald-lpsc7312-powerpoint/Handout.pdf)
 
 
 ## DITI Consultants

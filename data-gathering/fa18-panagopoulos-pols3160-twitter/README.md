@@ -33,7 +33,7 @@ This module discusses some methods in Computational Social Science, and the infl
 - List some of the ways scholars and campaigns are using Twitter data.
 - Understand the basic technical details behind how you get your computer to access Twitter data, structure it (and what this means!), and analyze it.
 - Discuss both the promises and pitfall of using Twitter as data.
-    
+  
 ## Learning Objectives
 In this module the students will learn the basics of using Twitter data. Students will see the Python coding used to analyze data scrapped from Twitter. Students will then use Python to analyze and visualize the data in various ways - including counting words and performing sentiment analysis. Students will then be able to discuss the advantages and perils of using Twitter data for social science research.
 
@@ -41,12 +41,12 @@ In this module the students will learn the basics of using Twitter data. Student
 
 ### Slides
 
-[What Can We Learn From Twitter? (Prepared for Professor Costas Panagopoulos)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/twitter/campaign_strategy-fall2018-panagopoulos/PoliticalScience_Twitter_CostasModule_FilledIn.ipynb)
+[What Can We Learn From Twitter? (Prepared for Professor Costas Panagopoulos)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-gathering/fa18-panagopoulos-pols3160-twitter/PoliticalScience_Twitter_CostasModule_FilledIn.ipynb)
 
-[What Can we Learn From Twitter? (Prepared for Professor Kirsten Rodine-Hardy)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/twitter/campaign_strategy-fall2018-panagopoulos/PoliticalScience_Twitter_KirstenModule_FilledIn.ipynb)
+[What Can we Learn From Twitter? (Prepared for Professor Kirsten Rodine-Hardy)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-gathering/fa18-panagopoulos-pols3160-twitter/PoliticalScience_Twitter_KirstenModule_FilledIn.ipynb)
 
 ### Data
-[Images used in Jupyter Notebooks](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/twitter/campaign_strategy-fall2018-panagopoulos/images)
+[Images used in Jupyter Notebooks](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/data-gathering/fa18-panagopoulos-pols3160-twitter/images)
 
 ## DTI Consultants
 Created by:<br>

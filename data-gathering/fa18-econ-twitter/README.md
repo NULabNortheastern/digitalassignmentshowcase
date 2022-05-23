@@ -19,11 +19,11 @@ This module is framed as a broad discussion of what Twitter data is and what peo
 
 ### Slides
 
-[What Can We Learn From Twitter?](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/twitter/economics_department-fall2018-meeting/Economics_Twitter_Module.ipynb)
+[What Can We Learn From Twitter?](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-gathering/fa18-econ-twitter/Economics_Twitter_Module.ipynb)
 
 ### Data
-[Twitter Data used in the Jupyter Notebook](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/twitter/economics_department-fall2018-meeting/iphone-android_twitter.csv)<br>
-[Images used in the Jupyter Notebook](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/twitter/economics_department-fall2018-meeting/images)
+[Twitter Data used in the Jupyter Notebook](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-gathering/fa18-econ-twitter/iphone-android_twitter.csv)<br>
+[Images used in the Jupyter Notebook](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/data-gathering/fa18-econ-twitter/images)
 
 ## DTI Consultants
 Created by:<br>

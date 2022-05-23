@@ -21,7 +21,7 @@ Students will be able to use Omeka to curate items. Students will be able to suc
 
 ## Documents for Module
 
-### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/queer_digital_curation-spring2021-rawson/Slides.pdf)
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/digital-archiving/sp21-rawson-engl7380-omeka/Slides.pdf)
 
 ## DITI Consultants:
 Created by Talia Brenner and Adam Tomasi with Sarah Connell and Patrick Murray-John

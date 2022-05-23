@@ -40,10 +40,10 @@ This module will go over the process for creating a collaborative digital archiv
 ## Documents for Module
 
 ### Day 1
-[Presentation](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/digital_archives/feminist_resistance-spring2019-walters/day1-presentation.pdf)
+[Presentation](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/digital-archiving/sp19-walters-socl1350-omeka/day1-presentation.pdf)
 
 ### Day 2
-[Digital Archive Resources](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/digital_archives/feminist_resistance-spring2019-walters/day2-handout.pdf)
+[Digital Archive Resources](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/digital-archiving/sp19-walters-socl1350-omeka/day2-handout.pdf)
 
 ## DTI Consultants
 Created by Cara Marta Messina

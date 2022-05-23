@@ -19,7 +19,7 @@ This module will introduce the structures, rhetoric, and strategies commonly use
 
 ## Documents for Module
 
-### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/advanced_writing-spring2021-vestri/Slides.pdf)
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/audio-editing_podcasting/sp21-vestri-engw3302-tedtalk/Slides.pdf)
 
 
 ## DITI Consultants

@@ -26,14 +26,14 @@ This module will go over podcast anatomy and techniques, tips for getting starte
 
 ## Documents for Module
 
-### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/history_information-spring2021-cain/Slides.pdf)
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/audio-editing_podcasting/sp21-cain-hist1357-audacity/Slides.pdf)
 
 ### Handouts
-[Installing Audacity](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/history_information-spring2021-cain/handout-install_audacity.pdf)
+[Installing Audacity](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/audio-editing_podcasting/sp21-cain-hist1357-audacity/handout-install_audacity.pdf)
 <br>
-[Introduction to Podcasting](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/history_information-spring2021-cain/handout-intro_to_audacity.pdf)
+[Introduction to Podcasting](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/audio-editing_podcasting/sp21-cain-hist1357-audacity/handout-intro_to_audacity.pdf)
 <br>
-[Fair Use Resources](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/history_information-spring2021-cain/handout-fair_use_resources.pdf)
+[Fair Use Resources](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/audio-editing_podcasting/sp21-cain-hist1357-audacity/handout-fair_use_resources.pdf)
 
 ## DITI Consultants
 Created by Caroline Grand

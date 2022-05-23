@@ -26,12 +26,12 @@ This module will introduce students to podcasting and the basics of Audacity.
 
 ## Documents for Module
 
-### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/opening_the_archive-spring2021-rawson/Slides.pdf)
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/audio-editing_podcasting/sp21-rawson-engl4400-audacity/Slides.pdf)
 
 ### Handouts
-[Installing Audacity](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/opening_the_archive-spring2021-rawson/Installing%20Audacity%20Handout.pdf)
+[Installing Audacity](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/audio-editing_podcasting/sp21-rawson-engl4400-audacity/Installing%20Audacity%20Handout.pdf)
 <br>
-[Introduction to Audacity](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/opening_the_archive-spring2021-rawson/Intro%20to%20Audacity%20Handout.pdf)
+[Introduction to Audacity](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/audio-editing_podcasting/sp21-rawson-engl4400-audacity/Intro%20to%20Audacity%20Handout.pdf)
 
 
 ## DITI Consultants

@@ -39,12 +39,12 @@ This module will go over the basics of ethical data collection and analysis as w
 
 ## Documents for Module
 
-### [Interactive Jupyter Notebook](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_python/first_year_seminar-spring2019-repici/intro_to_python.ipynb)
+### [Interactive Jupyter Notebook](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/coding_quantitative/sp19-repici-insh1000-python/intro_to_python.ipynb)
 
-### [Images](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/intro_python/first_year_seminar-spring2019-repici/images) and [Visuals](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/intro_python/first_year_seminar-spring2019-repici/visuals) used in Notebook
+### [Images](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/coding_quantitative/sp19-repici-insh1000-python/images) and [Visuals](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/coding_quantitative/sp19-repici-insh1000-python/visuals) used in Notebook
 
 ### Data
-Data [(.csv file)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_python/first_year_seminar-spring2019-repici/education_dataset.csv) collected from the National Center for Education Statistics, United States Department of Education. [Available here](http://nces.ed.gov/ecls/kindergarten.asp)
+Data [(.csv file)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/coding_quantitative/sp19-repici-insh1000-python/education_dataset.csv) collected from the National Center for Education Statistics, United States Department of Education. [Available here](http://nces.ed.gov/ecls/kindergarten.asp)
 
 The comma separated file has five variables (columns):
 

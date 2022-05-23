@@ -3,10 +3,10 @@ This module has been altered to accommodate a virtual learning experience during
 
 ## INSTRUCTIONS FOR MODULE
 1. Open the [SLIDES on Google Drive and click "Present" to go through them](https://docs.google.com/presentation/d/1vRaB_5VXwsJlqFCQZZaPB8UHQKjIITuVat-TSnFGGWU/edit?usp=sharing). 
-	- There is also a [PDF available of these slides here](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_python/first_year_seminar-spring2020-anderson/slides.pdf)
+	- There is also a [PDF available of these slides here](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/coding_quantitative/sp20-anderson-insh1000-python/slides.pdf)
 	- The slides have ALL the instructions
 2. First Activity: Adopt or Not? Follow the directions on the slides (pgs 12-16)
-	- The [Adopt or Not handout is available here](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_python/first_year_seminar-spring2020-anderson/adopt-or-not-handout.pdf). Link is also on the slides
+	- The [Adopt or Not handout is available here](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/coding_quantitative/sp20-anderson-insh1000-python/adopt-or-not-handout.pdf). Link is also on the slides
 3. Second Activity (<strong>Optional</strong>): Introduction to Python. Go to this course's notebook and clone the folder. Instructions are available on the slides from pgs 17-22
 	- The course's [Azure Notebooks folder is available here](https://notebooks.azure.com/messina-c/projects/insh-1000-python-intro-SA). Please sign into Microsoft using your .northeastern.edu account, clone the repository, and go through the "intro_to_python.ipynb" file.
 4. Questions? Please contact Cara Marta Messina!
@@ -51,16 +51,16 @@ This module will go over the basics of ethical data collection and analysis as w
 
 ## Documents for Module
 
-### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_python/first_year_seminar-spring2020-ryba%C5%82kiewicz/intro_python_handout.pdf)
+### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/coding_quantitative/sp20-ryba%C5%82kiewicz-insh1000-python/intro_python_handout.pdf)
 
 ### [Azure Notebook](https://notebooks.azure.com/messina-c/projects/insh-1000-python-introduction)
 
-### [Jupyter Notebook File](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_python/first_year_seminar-spring2020-ryba%C5%82kiewicz/intro_to_python.ipynb)
+### [Jupyter Notebook File](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/coding_quantitative/sp20-anderson-insh1000-python/intro_to_python.ipynb)
 
-### [Images](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/intro_python/first_year_seminar-spring2020-ryba%C5%82kiewicz/images) and [Visuals](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/intro_python/first_year_seminar-spring2020-ryba%C5%82kiewicz/visuals) used in Notebook
+### [Images](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/coding_quantitative/sp20-anderson-insh1000-python/images) and [Visuals](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/coding_quantitative/sp20-anderson-insh1000-python/visuals) used in Notebook
 
 ### Data
-Data [(.csv file)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_python/first_year_seminar-spring2020-ryba%C5%82kiewicz/education_dataset.csv) collected from the National Center for Education Statistics, United States Department of Education. [Available here](http://nces.ed.gov/ecls/kindergarten.asp)
+Data [(.csv file)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/coding_quantitative/sp20-anderson-insh1000-python/education_dataset.csv) collected from the National Center for Education Statistics, United States Department of Education. [Available here](http://nces.ed.gov/ecls/kindergarten.asp)
 
 The comma separated file has five variables (columns):
 

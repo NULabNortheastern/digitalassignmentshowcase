@@ -36,17 +36,17 @@ This module will go over the basics of ethical data collection and analysis as w
 ## Documents for Module
 
 ### Python Notebooks
-[Instructors' Live Coding Notebook](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_python/health_economics-spring2019-kilby/python_for_statistics.ipynb)
+[Instructors' Live Coding Notebook](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/coding_quantitative/sp19-kilby-econ2700-python/python_for_statistics.ipynb)
 This file is an outline of the tutorial, with blank cells. Intstructor should live-code in front of the student and ask them to copy what they type. There are a few exercises throughout for students to complete on their own.
 
-[Filled out Jupyter Notebook](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_python/health_economics-spring2019-kilby/python_for_statistics_notes.ipynb)
+[Filled out Jupyter Notebook](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/coding_quantitative/sp19-kilby-econ2700-python/python_for_statistics_notes.ipynb)
 The completed tutorial, with all of the code filled in. Use as notes for the workshop, and so students have the completed code to reference throughout the semester.
 
 ### [Requirements](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_python/health_economics-spring2019-kilby/requirements.txt)
 Necessary libararies, for use in Binder or Microsoft Azure, to populate the software stack
 
 ### Data
-Data [(.csv file)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_python/health_economics-spring2019-kilby/education_dataset.csv) collected from the National Center for Education Statistics, United States Department of Education. [Available here](http://nces.ed.gov/ecls/kindergarten.asp)
+Data [(.csv file)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/coding_quantitative/sp19-kilby-econ2700-python/education_dataset.csv) collected from the National Center for Education Statistics, United States Department of Education. [Available here](http://nces.ed.gov/ecls/kindergarten.asp)
 
 The comma separated file has five variables (columns):
 

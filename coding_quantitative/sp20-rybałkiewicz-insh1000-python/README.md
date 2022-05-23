@@ -40,16 +40,16 @@ This module will go over the basics of ethical data collection and analysis as w
 
 ## Documents for Module
 
-### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_python/first_year_seminar-spring2020-ryba%C5%82kiewicz/intro_python_handout.pdf)
+### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/coding_quantitative/sp20-ryba%C5%82kiewicz-insh1000-python/intro_python_handout.pdf)
 
 ### [Azure Notebook](https://notebooks.azure.com/messina-c/projects/insh-1000-python-introduction)
 
-### [Jupyter Notebook File](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_python/first_year_seminar-spring2020-ryba%C5%82kiewicz/intro_to_python.ipynb)
+### [Jupyter Notebook File](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/coding_quantitative/sp20-ryba%C5%82kiewicz-insh1000-python/intro_to_python.ipynb)
 
-### [Images](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/intro_python/first_year_seminar-spring2020-ryba%C5%82kiewicz/images) and [Visuals](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/intro_python/first_year_seminar-spring2020-ryba%C5%82kiewicz/visuals) used in Notebook
+### [Images](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/coding_quantitative/sp20-ryba%C5%82kiewicz-insh1000-python/images) and [Visuals](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/coding_quantitative/sp20-ryba%C5%82kiewicz-insh1000-python/visuals) used in Notebook
 
 ### Data
-Data [(.csv file)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_python/first_year_seminar-spring2020-ryba%C5%82kiewicz/education_dataset.csv) collected from the National Center for Education Statistics, United States Department of Education. [Available here](http://nces.ed.gov/ecls/kindergarten.asp)
+Data [(.csv file)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/coding_quantitative/sp20-ryba%C5%82kiewicz-insh1000-python/education_dataset.csv) collected from the National Center for Education Statistics, United States Department of Education. [Available here](http://nces.ed.gov/ecls/kindergarten.asp)
 
 The comma separated file has five variables (columns):
 

@@ -11,10 +11,10 @@ Students will learn the purpose and methods for using APIs to retrieve data from
 
 ## Documents for Module
 ### Slides & Jupyter Notebooks
-[API for Web-Scraping Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/web_scraping/Presentation/API_Module_Presentation.pdf)<br>
-[Federal Bureau of Investigations API (Jupyter Notebook)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/web_scraping/FBI_API/FBI_API_Module.ipynb)<br>
-[Fedreal Elections Commission API (Jupyter Notebook)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/web_scraping/FEC_API/FEC_API_Module.ipynb)<br>
-[The New York Times API (Jupyter Notebook)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/web_scraping/NYTimes_API/NYTimes_API_Module.ipynb)<br>
+[API for Web-Scraping Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-gathering/sp19-web-scraping-generic/Presentation/API_Module_Presentation.pdf)<br>
+[Federal Bureau of Investigations API (Jupyter Notebook)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-gathering/sp19-web-scraping-generic/FBI_API/FBI_API_Module.ipynb)<br>
+[Fedreal Elections Commission API (Jupyter Notebook)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-gathering/sp19-web-scraping-generic/FEC_API/FEC_API_Module.ipynb)<br>
+[The New York Times API (Jupyter Notebook)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-gathering/sp19-web-scraping-generic/NYTimes_API/NYTimes_API_Module.ipynb)<br>
 
 ## DTI Consultants
 Created by:<br>

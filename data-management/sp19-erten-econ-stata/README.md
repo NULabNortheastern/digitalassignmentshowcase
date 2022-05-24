@@ -25,8 +25,7 @@ This module will show students what Stata is and how the program works. Students
 - Learn why Stata is useful for econometrics
 
 ## Materials for Module
-- spreadsheet of test data (Students.xlsx)
-- directions for using the test data in STATA (Stata.doc and Stata_Tutorial.do)
-- slides for the module (Stata_Tutorial.pptx)
-- timeline for teaching the Introduction to Stata module with notes (Stata_timeline.doxc)
-
+- [Spreadsheet of Test Data](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-management/sp19-erten-econ-stata/Students.xlsx) 
+- [Directions for Using the Test Data in STATA](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-management/sp19-erten-econ-stata/Stata_Tutorial.do) 
+- [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-management/sp19-erten-econ-stata/Stata_Tutorial.pdf) 
+- [Timeline](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-management/sp19-erten-econ-stata/Stata_timeline.pdf) 

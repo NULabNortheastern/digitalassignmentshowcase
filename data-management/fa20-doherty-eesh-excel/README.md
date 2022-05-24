@@ -22,15 +22,11 @@ Students will learn how to use several different functions on a sample data stru
 
 ### Handouts
 
-[Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_excel/coop-fall2020-doherty/Handout.pdf)
+[Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-management/fa20-doherty-eesh-excel/Handout.pdf)
 
 ### Slides
 
-[Introduction to Excel](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_excel/coop-fall2020-doherty/Slides.pdf)
-
-### Demo Data
-
-[Demo Data](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_excel/coop-fall2020-doherty/Demo%20Data.xlsx)
+[Introduction to Excel](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-management/fa20-doherty-eesh-excel/Slides.pdf)
 
 
 ## DITI Consultants

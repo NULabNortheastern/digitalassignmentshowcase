@@ -31,18 +31,18 @@ This module is an introduction to using Excel, including basic terminology, navi
 
 ### Handouts
 
-[Installing Excel and Using Northeastern University's License](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_excel/development_economics-fall2019-prina/handout-install_excel.pdf)
+[Installing Excel and Using Northeastern University's License](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-management/fa19-prina-econ1291-excel/handout-install_excel.pdf)
 <br/>
-[Excel basics](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_excel/development_economics-fall2019-prina/handout-excel_basics.pdf)
+[Excel basics](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-management/fa19-prina-econ1291-excel/handout-excel_basics.pdf)
 
 ### Presentation Materials
 
-[Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_excel/development_economics-fall2019-prina/slides.pdf)
+[Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-management/fa19-prina-econ1291-excel/slides.pdf)
 
 ### Data
 This Excel data has been provided by Silvia Prina specifically to have students practice using Excel
 <br/>
-[Excel Data](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_excel/development_economics-fall2019-prina/data.xlsx)
+[Excel Data](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-management/fa19-prina-econ1291-excel/data.xlsx)
 
 ## DTI Consultants
 Created by Cara Marta Messina and Garrett Morrow

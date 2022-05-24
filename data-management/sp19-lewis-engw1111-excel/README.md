@@ -27,12 +27,12 @@ Students will be able to use Excel to store, organize, and analyze data for rese
 
 ### Handouts
 
-[Reflection Template](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_excel/fyw-spring2019-lewis/reflectionTemplate.xlsx)
+[Reflection Template](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-management/sp19-lewis-engw1111-excel/reflectionTemplate.xlsx)
 
 
 ### Slides
 
-[Introduction to Excel and Data Organization](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_excel/fyw-spring2019-lewis/excelAndDataOrganizationSlides.pdf)
+[Introduction to Excel and Data Organization](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-management/sp19-lewis-engw1111-excel/excelAndDataOrganizationSlides.pdf)
 
 ## DTI Consultants
 Created by:

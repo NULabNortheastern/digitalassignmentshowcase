@@ -27,20 +27,16 @@ Students will be able to use Excel to store, organize, and analyze data for co-o
 
 ### Handouts
 
-[Introduction to Excel](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_excel/english_polsci_coop-spring2021-doherty/Handout.pdf)
+[Introduction to Excel](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-management/sp21-doherty-eesh-excel/Handout.pdf)
 
-[Installing Excel](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_excel/english_polsci_coop-spring2021-doherty/Installing%20Excel.pdf)
+[Installing Excel](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-management/sp21-doherty-eesh-excel/Installing%20Excel.pdf)
 
 ### Slides
 
-[Introduction to Excel](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_excel/english_polsci_coop-spring2021-doherty/Slides.pdf)
+[Introduction to Excel](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-management/sp21-doherty-eesh-excel/Slides.pdf)
 
-### Demo Data
+### DITI Consultants
 
-[Demo Data](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_excel/english_polsci_coop-spring2021-doherty/Demo%20Data.xlsx)
-
-
-## DITI Consultants
 Created by: <br>
 Jonathan Sullivan <br>
 [Talia Brenner](brenner.t@northeastern.edu)

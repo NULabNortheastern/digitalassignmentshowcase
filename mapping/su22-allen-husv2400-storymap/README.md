@@ -4,7 +4,7 @@
 
 HUSV 2400: Food Justice & Community Development
 
-Becca Berkey
+Liz Allen
 
 Summer 2022
 
@@ -45,3 +45,7 @@ DITI's [Intro to StoryMap Video](https://youtu.be/X33ud7RYZFg)
 <h1>DITI Consultants</h1>
 
 Colleen Nugent
+
+Chris McNulty
+
+Dipa Desai

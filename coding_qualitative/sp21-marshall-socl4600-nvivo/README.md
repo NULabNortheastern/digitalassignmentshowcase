@@ -28,10 +28,10 @@ Qualitative Coding with NVivo
 
 ## Documents for Module
 
-### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/intro_to_nvivo/sociology_senior-seminar-spring2021-marshall/slides-NVivo.pdf)
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/coding_qualitative/sp21-marshall-socl4600-nvivo/slides-NVivo.pdf)
 
 ### Handouts
-[Intro to NVivo for Qualitative Coding](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/intro_to_nvivo/sociology_senior-seminar-spring2021-marshall/handout-NVivo.pdf)
+[Intro to NVivo for Qualitative Coding](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/coding_qualitative/sp21-marshall-socl4600-nvivo/handout-NVivo.pdf)
 
 ## DITI Consultants
 Created by Garret Morrow and Cara Marta Messina

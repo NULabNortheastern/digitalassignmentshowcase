@@ -34,14 +34,14 @@ This module will go over the basics of how to install NVivo and use the software
 
 ### Handouts
 
-[Downloading NVivo with Northeastern's ITS License](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/intro_to_nvivo/criminology_capstone-spring2020-singer/handout-installingNVivo.pdf)
+[Downloading NVivo with Northeastern's ITS License](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/coding_qualitative/sp20-singer-crim6200-nvivo/handout-installingNVivo.pdf)
 <br>
-[NVivo Basics](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/intro_to_nvivo/criminology_capstone-spring2020-singer/handout-UsingNVivoBasics.pdf)
+[NVivo Basics](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/coding_qualitative/sp20-singer-crim6200-nvivo/handout-UsingNVivoBasics.pdf)
 
 ### Slides
 
-[Day 1 Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/intro_to_nvivo/criminology_capstone-spring2020-singer/slides-day1.pdf)<br>
-[Day 2 Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/intro_to_nvivo/criminology_capstone-spring2020-singer/slides-day2.pdf)<br>
+[Day 1 Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/coding_qualitative/sp20-singer-crim6200-nvivo/slides-day1.pdf)<br>
+[Day 2 Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/coding_qualitative/sp20-singer-crim6200-nvivo/slides-day2.pdf)<br>
 
 
 ## DTI Consultants

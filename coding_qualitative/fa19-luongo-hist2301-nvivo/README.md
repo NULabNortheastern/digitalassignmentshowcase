@@ -35,11 +35,11 @@ This module will go over the basics of how to install NVivo and use the software
 
 ### Handouts
 
-[Downloading NVivo with Northeastern's ITS License](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/intro_to_nvivo/civil_wars_world_history-fall2019-luongo/handout-installingNVivo.pdf)
+[Downloading NVivo with Northeastern's ITS License](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/coding_qualitative/fa19-luongo-hist2301-nvivo/handout-installingNVivo.pdf)
 <br>
-[NVivo Basics](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/intro_to_nvivo/civil_wars_world_history-fall2019-luongo/handout-UsingNVivoBasics.pdf) 
+[NVivo Basics](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/coding_qualitative/fa19-luongo-hist2301-nvivo/handout-UsingNVivoBasics.pdf) 
 
-### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/intro_to_nvivo/civil_wars_world_history-fall2019-luongo/slides.pdf)
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/coding_qualitative/fa19-luongo-hist2301-nvivo/slides.pdf)
 
 ### Data
 King Jr, M. L. (1964). from Letter from Birmingham Jail. Liberating faith: Religious voices for justice, peace, & ecological wisdom, 177-187.

@@ -28,12 +28,12 @@ Qualitative Coding with NVivo
 
 ## Documents for Module
 
-### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/intro_to_nvivo/criminology_research_methods-fall2020-st_louis/Slides%20NVivo.pdf)
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/coding_qualitative/fa20-stlouis-crim3600-nvivo/Slides%20NVivo.pdf)
 
 ### Handouts
-[Installing NVivo](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/intro_to_nvivo/criminology_research_methods-fall2020-st_louis/handout-installingNVivo.pdf)
+[Installing NVivo](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/coding_qualitative/fa20-stlouis-crim3600-nvivo/handout-installingNVivo.pdf)
 <br/>
-[Intro to NVivo for Qualitative Coding](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/intro_to_nvivo/criminology_research_methods-fall2020-st_louis/handout-NVivo.pdf)
+[Intro to NVivo for Qualitative Coding](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/coding_qualitative/fa20-stlouis-crim3600-nvivo/handout-NVivo.pdf)
 
 ## DITI Consultants
 Created by Cara Marta Messina

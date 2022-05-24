@@ -34,20 +34,17 @@ This module will go over the basics of how to install NVivo and use the software
 
 ### Handouts
 
-[Downloading NVivo with Northeastern's ITS License](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/intro_to_nvivo/criminology_capstone-spring2021-singer/handout-installingNVivo.pdf)
+[Downloading NVivo with Northeastern's ITS License](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/coding_qualitative/sp21-singer-crim6200-nvivo/handout-installingNVivo.pdf)
 <br>
-[NVivo Basics](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/intro_to_nvivo/criminology_capstone-spring2021-singer/handout-UsingNVivoBasics.pdf)
+[NVivo Basics](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/coding_qualitative/sp21-singer-crim6200-nvivo/handout-UsingNVivoBasics.pdf)
 
 ### Slides
 
-[Slides day 1: Introduction to NVivo: Text Analysis for Research Projects](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/intro_to_nvivo/criminology_capstone-spring2021-singer/slides-day1.pdf)<br>
-[Slides day 2: NVivo Workshop]()<br>
+[Slides day 1: Introduction to NVivo: Text Analysis for Research Projects](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/coding_qualitative/sp21-singer-crim6200-nvivo/slides-day1.pdf)<br>
+[Slides day 2: NVivo Workshop](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/coding_qualitative/sp21-singer-crim6200-nvivo/slides-day2.pdf)<br>
 
 ### Resources
-[Sample data](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/text_analysis/intro_to_nvivo/criminology_capstone-spring2021-singer/Data)
-[Bandara, Wasana, “Using NVivo as a Research Management Tool: A Case Narrative”](https://eprints.qut.edu.au/67148/1/Bandara_2006._Using_NVivo_as_a_Research_Management_Tool._A_Case_Narrative.pdf)
-[Gregorio, Silvana di, “Using NVivo for your Literature Review”](http://cmapspublic3.ihmc.us/rid=1GXNJD0W2-HGB31R-DGD/literature_review_%20cdoing%20_nvivo.pdf)
-[Roth, J.J., “Using NVivo to Organize Literature Reviews”](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiyz6b7qc7uAhWv2FkKHSvFAqsQFjAAegQIAhAC&url=https%3A%2F%2Fwww.iup.edu%2FWorkArea%2FDownloadAsset.aspx%3Fid%3D127928&usg=AOvVaw2N1WXqJZBR1Xmg3m8fPCea)
+[Sample data](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/coding_qualitative/sp21-singer-crim6200-nvivo/Data)
 
 ## DTI Consultants
 Created by Garrett Morrow and Cara Marta Messina, updated and taught by Milan Skobic and Vaishali Kushwaha

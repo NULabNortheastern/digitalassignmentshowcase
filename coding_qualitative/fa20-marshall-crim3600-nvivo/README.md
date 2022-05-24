@@ -29,17 +29,17 @@ Qualitative Coding with NVivo
 
 ## Documents for Module
 
-### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/intro_to_nvivo/criminology_research_methods-fall2020-marshall/Slides-NVivo.pdf)
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/coding_qualitative/fa20-marshall-crim3600-nvivo/Slides-NVivo.pdf)
 
 ### Handouts
-[Installing NVivo](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/intro_to_nvivo/criminology_research_methods-fall2020-marshall/handout-installingNVivo.pdf)
+[Installing NVivo](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/coding_qualitative/fa20-marshall-crim3600-nvivo/handout-installingNVivo.pdf)
 <br/>
-[Intro to NVivo for Qualitative Coding](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/intro_to_nvivo/criminology_research_methods-fall2020-marshall/handout-NVivo.pdf)
+[Intro to NVivo for Qualitative Coding](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/coding_qualitative/fa20-marshall-crim3600-nvivo/handout-NVivo.pdf)
 
 ### Sources
-[Sample transcript](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/intro_to_nvivo/criminology_research_methods-fall2020-marshall/sample-interview-transcript.docx)
+[Sample transcript](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/coding_qualitative/fa20-marshall-crim3600-nvivo/sample-interview-transcript.docx)
 <br/>
-[Practice source: dr Martin Luther King's Letter from Birmingham Jail](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/intro_to_nvivo/criminology_research_methods-fall2020-marshall/King-Letter_Birmingham_Jail.pdf)
+[Practice source: dr Martin Luther King's Letter from Birmingham Jail](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/coding_qualitative/fa20-marshall-crim3600-nvivo/King-Letter_Birmingham_Jail.pdf)
 
 ## DITI Consultants
 Created by Cara Marta Messina

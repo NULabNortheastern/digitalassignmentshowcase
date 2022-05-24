@@ -37,13 +37,13 @@ For the Tableau section, students will learn how to use data in a powerful softw
 
 ### Handouts
 
-[Installing Tableau](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_visualization/senior_capstone-spring2020-bormann/handout-installing-tableau.pdf)
+[Installing Tableau](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-visualization/sp20-bormann-pols4701-tableau/handout-installing-tableau.pdf)
 
 ### Slides
-[Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_visualization/senior_capstone-spring2020-bormann/slides.pdf)
+[Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-visualization/sp20-bormann-pols4701-tableau/slides.pdf)
 
 ### Data
-[Data Folder](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/data_visualization/senior_capstone-spring2020-bormann/Data)
+[Data Folder](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/data-visualization/sp20-bormann-pols4701-tableau/Data)
 
 ## DTI Consultants
 Created by:<br>

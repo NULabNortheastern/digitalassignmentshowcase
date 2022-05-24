@@ -34,9 +34,9 @@ This module will describe aspects of digital storytelling; provide several metho
 
 ## Documents for Module
 
-### Slides
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-visualization/sp20-kim-eng3375-timeline/slides.pdf)
 
-### Handout
+### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-visualization/sp20-kim-eng3375-timeline/handout.pdf)
 
 ## DTI Consultants
 Created by Cara Marta Messina and Laura Johnson

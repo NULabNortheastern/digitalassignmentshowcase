@@ -25,9 +25,9 @@ This module will go over components of storytelling and how these components may
 
 ## Documents for Module
 
-### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/digital_storytelling/british_literature_survey-spring2021-boeckeler/slides-timeline.pdf)
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-visualization/sp21-boeckler-engl1500-timeline/slides-timeline.pdf)
 
-### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/digital_storytelling/british_literature_survey-spring2021-boeckeler/handout-intro_to_timeline.pdf)
+### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-visualization/sp21-boeckler-engl1500-timeline/handout-intro_to_timeline.pdf)
 
 ## DITI Consultants
 Created by Milan Skobic and Vaishali Kushwaha

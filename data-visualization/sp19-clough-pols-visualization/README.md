@@ -21,5 +21,5 @@ This module will show students different ways one could visualize data and which
 - Explore visualizing with students' own data
 
 ## Materials for Module
-- Data Visualization slides
-- Sample data in spreadsheet form
+- [Data Visualization slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-visualization/sp19-clough-pols-visualization/Visualizing_Data.pdf)
+- [Sample data in spreadsheet form](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-visualization/sp19-clough-pols-visualization/Visualizations.xlsx)

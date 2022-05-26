@@ -23,7 +23,7 @@ This module goes over the basics of text analysis and why it can be useful for e
 - Explore how NLP, and text analysis more broadly, can be useful for environmental politics research
 
 ## Documents for Module
-- Data for using browser text analysis tools (Data folder and the Data.zip)
-- Handout of the various browser text analysis tools that are useful (BrowserTextAnalysisTools.pdf)
-- Text Analysis in Practice slides (LinkingActionToMeaning_TextAnalysisInPractice.pdf)
-- Indroduction to Natural Language Processing slides in Jupyter Notebook (Intro_to_NLP.ipynb)
+- [Data for using browser text analysis tools](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/text-analysis/sp19-aldrich-pols2395-textanalysis/data) 
+- [Handout of the various browser text analysis tools that are useful](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text-analysis/sp19-aldrich-pols2395-textanalysis/BrowserTextAnalysisTools.pdf) 
+- [Text Analysis in Practice slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text-analysis/sp19-aldrich-pols2395-textanalysis/LinkingActionToMeaning_TextAnalysisInPractice.pdf) 
+- [Indroduction to Natural Language Processing slides in Jupyter Notebook](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text-analysis/sp19-aldrich-pols2395-textanalysis/Intro_to_NLP.ipynb) 

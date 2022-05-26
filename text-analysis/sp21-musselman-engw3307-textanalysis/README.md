@@ -23,13 +23,13 @@ This module goes over computational text analysis for a corpus of texts, specifi
 
 ## Documents for Module
 
-[**Handouts**](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/text_analysis/advanced_writing_spring2021-musselman/handouts)
+[**Handouts**](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/text-analysis/sp21-musselman-engw3307-textanalysis/handouts)
 
-[**Slides**](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/0c796af39359dd9a91da92fef255338153d15de6/text_analysis/advanced_writing_spring2021-musselman/slides)
+[**Slides**](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/text-analysis/sp21-musselman-engw3307-textanalysis/slides)
 
-[**Stopwords**](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/advanced_writing_spring2021-musselman/stopwords.txt)
+[**Stopwords**](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text-analysis/sp21-musselman-engw3307-textanalysis/stopwords.txt)
 
-[**Sample Corpus: Wikipedia entries related to endangered species**](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/advanced_writing_spring2021-musselman/writingforsciences_corpus.zip)
+[**Sample Corpus: Wikipedia entries related to endangered species**](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text-analysis/sp21-musselman-engw3307-textanalysis/writingforsciences_corpus.zip)
 
 ## DITI Consultants
 Created by:

@@ -38,19 +38,19 @@ This module provides students with a video showing them how to use browser text 
 
 ### Citation management
 
-[Introduction to Zotero handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/advanced_business_writing-summer2019-white/citation_management_handout.pdf)
+[Introduction to Zotero handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text-analysis/su19-white-engw3304-textanalysis/citation_management_handout.pdf)
 
 ### Corpus Building
 
-[Corpus building slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/advanced_business_writing-summer2019-white/corpus_building_slides.pdf)
+[Corpus building slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text-analysis/su19-white-engw3304-textanalysis/corpus_building_slides.pdf)
 
-[Corpus building handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/advanced_business_writing-summer2019-white/corpus_building_handout.pdf)
+[Corpus building handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text-analysis/su19-white-engw3304-textanalysis/corpus_building_handout.pdf)
 
 ### Text analysis
 
 [Text analysis video]( https://youtu.be/4PTI1jmt25M)
 
-[Video script with timestamps](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/advanced_business_writing-summer2019-white/text_analysis_script.pdf)
+[Video script with timestamps](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text-analysis/su19-white-engw3304-textanalysis/text_analysis_script.pdf)
 
 
 ### Data

@@ -31,15 +31,15 @@ This module will demonstrate how to create a corpus of texts to be used for comp
 
 ### Handouts
 
-[Day 1 handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/textanalysis/Lewis-IncarcerationArchives/day1-corpus_building_handout.pdf)
+[Day 1 handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text-analysis/su19-lewis-engl3370-textanalysis/day1-corpus_building_handout.pdf)
 
-[Day 2 handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/textanalysis/Lewis-IncarcerationArchives/day2-text_analysis_handout.pdf)
+[Day 2 handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text-analysis/su19-lewis-engl3370-textanalysis/day2-text_analysis_handout.pdf)
 
 ### Slides
 
-[Day 1 slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/textanalysis/Lewis-IncarcerationArchives/day1-corpus_building_slides.pdf)
+[Day 1 slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text-analysis/su19-lewis-engl3370-textanalysis/day1-corpus_building_slides.pdf)
 
-[Day 2 slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/textanalysis/Lewis-IncarcerationArchives/day2-text_analysis_presentation.pdf)
+[Day 2 slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text-analysis/su19-lewis-engl3370-textanalysis/day2-text_analysis_presentation.pdf)
 
 ### Data
-[Data for both days](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/textanalysis/Lewis-IncarcerationArchives/data)
+[Data for both days](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/text-analysis/su19-lewis-engl3370-textanalysis/data)

@@ -23,7 +23,7 @@ This module will demonstrate how to use computational text analysis web browser 
 
 ## Documents for Module
 
-### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/fyw-spring2019-lewis/presentation.pdf)
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text-analysis/sp19-lewis-engw1100-textanalysis/presentation.pdf)
 
 ### Data
-[Sample Data](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/text_analysis/fyw-spring2019-lewis/data)
+[Sample Data](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/text-analysis/sp19-lewis-engw1100-textanalysis/data)

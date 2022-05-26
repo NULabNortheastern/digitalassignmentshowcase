@@ -23,13 +23,13 @@ This module goes over computational text analysis for a corpus of texts, specifi
 
 ## Documents for Module
 
-### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/resilient_cities_spring2021-aldrich/slides/Resilient%20Cities_Text%20Analysis%20slides.pdf)
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/text-analysis/sp21-aldrich-pols2395-textanalysis/slides)
 
-### [Data: City Resilience Plans of Boston, DC, Philadelphia, New Orleans and Miami](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/text_analysis/resilient_cities_spring2021-aldrich/data)
+### [Data: City Resilience Plans of Boston, DC, Philadelphia, New Orleans and Miami](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/text-analysis/sp21-aldrich-pols2395-textanalysis/data)
 
-[Stopwords](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/resilient_cities_spring2021-aldrich/stopwords.txt)
+[Stopwords](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text-analysis/sp21-aldrich-pols2395-textanalysis/stopwords.txt)
 
-[Links and Resources Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/text_analysis/resilient_cities_spring2021-aldrich/handouts)
+[Links and Resources Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/text-analysis/sp21-aldrich-pols2395-textanalysis/handouts)
 
 ## DITI Consultants
 Created by:

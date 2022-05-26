@@ -31,10 +31,10 @@ This module will demonstrate how to create a corpus of texts to be used for comp
 
 ## Documents for Module
 
-### [Handouts](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/intro_writing_studies-spring2019-lerner/handout.pdf)
+### [Handouts](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text-analysis/sp19-lerner-engw3309-textanalysis/handout.pdf)
 
-### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/intro_writing_studies-spring2019-lerner/presentation.pdf)
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text-analysis/sp19-lerner-engw3309-textanalysis/presentation.pdf)
 
 ### Data
-[Sample data for computational text analysis](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/text_analysis/intro_writing_studies-spring2019-lerner/data)
-[Data types](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/text_analysis/intro_writing_studies-spring2019-lerner/sample_data_types)
+[Sample data for computational text analysis](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/text-analysis/sp19-lerner-engw3309-textanalysis/data)
+[Data types](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/text-analysis/sp19-lerner-engw3309-textanalysis/sample_data_types)

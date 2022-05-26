@@ -24,9 +24,9 @@ This module goes over computational text analysis for a corpus of texts, specifi
 
 ## Documents for Module
 
-### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/advanced_writing-spring2020-musselman/slides.pdf)
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text-analysis/sp20-musselman-engw3309-textanalysis/slides.pdf)
 
-### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/advanced_writing-spring2020-musselman/handout.pdf)
+### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text-analysis/sp20-musselman-engw3309-textanalysis/handout.pdf)
 
 ### Data
 [State of the Union addresses](https://www.presidency.ucsb.edu/documents/app-categories/spoken-addresses-and-remarks/presidential/state-the-union-addresses?field_docs_start_date_time_value%5Bvalue%5D%5Bdate%5D=&page=1) collected from the American Presidency Project.

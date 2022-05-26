@@ -24,13 +24,14 @@ This module goes over the basics of text analysis and why it can be useful for e
 ## Documents for Module
 - Data for using browser text analysis tools (data folder and data.zip file)
 - The handouts folder has five handouts:
-	- Handout of the various browser text analysis tools that are useful (BrowserTextAnalysisTools.pdf)
-	- Handout of how to find and build a corpus (Corpus\_Building_Handout.pdf)
-	- Handout describing DataBasic (DataBasic_Handout.pdf)
-	- Handout describing Voyant (Voyant_Handout.pdf)
-- The slides folder has five slide decks:
-	- Text Analysis in Practice slides (TextAnalysisInPractice_Spring2020.pdf)
-	- A presentation on how to build a corpus (Corpus\_Building_Presentation.pdf)
-	- A presentation on DataBasic (DataBasic_Presentation.pdf)
-	- A presentation on Voyant (Voyant_Presentation.pdf) 
-- Indroduction to Natural Language Processing demonstration in Jupyter Notebook (Intro\_to_NLP.ipynb)
+	- [Handout of the various browser text analysis tools that are useful](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text-analysis/sp20-aldrich-pols2395-textanalysis/handouts/BrowserTextAnalysisTools.pdf) 
+	- [Handout of how to find and build a corpus](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text-analysis/sp20-aldrich-pols2395-textanalysis/handouts/Corpus_Building_Handout.pdf) 
+	- [Handout describing DataBasic](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text-analysis/sp20-aldrich-pols2395-textanalysis/handouts/DataBasic_Handout.pdf) 
+	- [Handout describing Voyant](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text-analysis/sp20-aldrich-pols2395-textanalysis/handouts/Voyant_Handout.pdf) 
+	- [Handout of potential data sources](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text-analysis/sp20-aldrich-pols2395-textanalysis/handouts/Data_Sources.pdf)
+- The slides folder has four slide decks:
+	- [Text Analysis in Practice slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text-analysis/sp20-aldrich-pols2395-textanalysis/slides/TextAnalysisInPractice_Spring2020.pdf) 
+	- [A presentation on how to build a corpus](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text-analysis/sp20-aldrich-pols2395-textanalysis/slides/Corpus_Building_Presentation.pdf) 
+	- [A presentation on DataBasic](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text-analysis/sp20-aldrich-pols2395-textanalysis/slides/DataBasic_Presentation.pdf) 
+	- [A presentation on Voyant](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text-analysis/sp20-aldrich-pols2395-textanalysis/slides/Voyant_Presentation.pdf) 
+- [Indroduction to Natural Language Processing demonstration in Jupyter Notebook](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text-analysis/sp20-aldrich-pols2395-textanalysis/Intro_to_NLP.ipynb) 

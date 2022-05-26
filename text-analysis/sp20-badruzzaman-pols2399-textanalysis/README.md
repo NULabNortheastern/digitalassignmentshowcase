@@ -24,16 +24,16 @@ This module goes over computational text analysis for a corpus of texts, specifi
 
 ## Documents for Module
 
-### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/research_methods-spring2020_badruzzaman/slides.pdf)
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text-analysis/sp20-badruzzaman-pols2399-textanalysis/slides.pdf)
 
-### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/research_methods-spring2020_badruzzaman/handout.pdf)
+### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text-analysis/sp20-badruzzaman-pols2399-textanalysis/handout.pdf)
 
 ### Data
 [State of the Union addresses](https://www.presidency.ucsb.edu/documents/app-categories/spoken-addresses-and-remarks/presidential/state-the-union-addresses?field_docs_start_date_time_value%5Bvalue%5D%5Bdate%5D=&page=1) collected from the American Presidency Project.
 
-[Corpus .zip](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/research_methods-spring2020_badruzzaman/corpus_SOTU/corpus_SOTU.zip)
+[Corpus .zip](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/text-analysis/sp20-badruzzaman-pols2399-textanalysis/corpus_SOTU)
 
-[Stopwords](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/research_methods-spring2020_badruzzaman/NLTK_English_stopwords.txt)
+[Stopwords](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text-analysis/sp20-badruzzaman-pols2399-textanalysis/NLTK_English_stopwords.txt)
 
 ## DTI Consultants
 Created by Cara Marta Messina and Garrett Morrow

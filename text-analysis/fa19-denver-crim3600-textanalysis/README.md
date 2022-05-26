@@ -35,12 +35,12 @@ The second part of the module will introduce computational text analysis, partic
 
 ## Documents for Module
 
-### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/punishment_mass_incarceration-fall2019-denver/slides.pdf)
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text-analysis/fa19-denver-crim3600-textanalysis/slides.pdf)
 
 ### Handouts
-[Introduction to corpus building](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/punishment_mass_incarceration-fall2019-denver/handout-corpus_building.pdf)
+[Introduction to corpus building](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text-analysis/fa19-denver-crim3600-textanalysis/handout-corpus_building.pdf)
 <br>
-[Introduction to big data, algorithmic bias, and text analysis](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/punishment_mass_incarceration-fall2019-denver/handout-intro_text_analysis.pdf)
+[Introduction to big data, algorithmic bias, and text analysis](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text-analysis/fa19-denver-crim3600-textanalysis/handout-intro_text_analysis.pdf)
 
 ### Data
 [State of the Union addresses](https://www.presidency.ucsb.edu/documents/app-categories/spoken-addresses-and-remarks/presidential/state-the-union-addresses?field_docs_start_date_time_value%5Bvalue%5D%5Bdate%5D=&page=1) collected from the American Presidency Project.

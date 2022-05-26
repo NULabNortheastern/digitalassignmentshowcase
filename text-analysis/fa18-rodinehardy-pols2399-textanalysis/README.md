@@ -30,12 +30,12 @@ Students will be able to use specific methods and tools for computational text a
 
 ### Handouts
 
-[Text Analysis Tools](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/research_methods-fall2018-hardy/BrowserTextAnalysisTools.pdf)
+[Text Analysis Tools](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text-analysis/fa18-rodinehardy-pols2399-textanalysis/BrowserTextAnalysisTools.pdf)
 
 
 ### Slides
 
-[Slides name](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text_analysis/research_methods-fall2018-hardy/IntroTextAnalysis.pdf)
+[Slides name](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text-analysis/fa18-rodinehardy-pols2399-textanalysis/IntroTextAnalysis.pdf)
 
 ## DTI Consultants
 Created by:<br>

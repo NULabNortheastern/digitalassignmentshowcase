@@ -30,13 +30,13 @@ This module demonstrates how to use excel to retrieve and clean data from the Un
 
 ### Handouts
 
-[Installing Excel for Northeastern students](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/global_governance-fall2019-garcia/handout-install_excel.pdf)
+[Installing Excel for Northeastern students](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa19-garcia-pols3409-mappingdata/handout-install_excel.pdf)
 <br>
-[Data Preparation in Excel](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/global_governance-fall2019-garcia/handout-data_prep_excel.pdf)
+[Data Preparation in Excel](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa19-garcia-pols3409-mappingdata/handout-data_prep_excel.pdf)
 
 ### Slides
 
-[Data Collection and Preparing for Mapping](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/global_governance-fall2019-garcia/slides.pdf)
+[Data Collection and Preparing for Mapping](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa19-garcia-pols3409-mappingdata/slides.pdf)
 
 ### Data
 Selected datasets collected from:

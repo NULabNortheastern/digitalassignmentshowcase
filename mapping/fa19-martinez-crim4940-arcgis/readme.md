@@ -33,23 +33,21 @@ Students will learn how to use spatial data in a powerful mapping software to pr
 
 ### Handouts
 
-Installing Tableau
-<br/>
-Introduction to Tableau
+[Installing Tableau](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa19-martinez-crim4940-arcgis/handout-installing-tableau.pdf)
+[Intro to Tableau](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa19-martinez-crim4940-arcgis/handout-intro-to-tableau.pdf)
 
 ### Slides
 
 Mapping with Tableau
 
-Day 1: Introduction to Tableau
-<br>
-Day 2: Tableau Workshop
+[Day 1: Introduction to Tableau](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa19-martinez-crim4940-arcgis/day1-Mapping_with_Tableau.pdf)
+[Day 2: Tableau Workshop](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa19-martinez-crim4940-arcgis/day2-Tableau_Workshop.pdf)
 
 ### Sample Images
 
-[Sample: Homicides Over Time Graph](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/race_crime_criminal_justice-fall2019-martinez/Sample_Images/Tableau_Murders_Over_Time_Graph.png)
+[Sample: Homicides Over Time Graph](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa19-martinez-crim4940-arcgis/Sample_Images/Tableau_Murders_Over_Time_Graph.png)
 
-[Sample: Homicides Over Time Map](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/race_crime_criminal_justice-fall2019-martinez/Sample_Images/Tableau_Presentation_Export.jpg)
+[Sample: Homicides Over Time Map](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa19-martinez-crim4940-arcgis/Sample_Images/Tableau_Presentation_Export.jpg)
 
 ### Data
 Please see Professor Ramiro Martinez for data information.

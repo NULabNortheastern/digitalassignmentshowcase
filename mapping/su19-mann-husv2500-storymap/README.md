@@ -29,15 +29,15 @@ This module will go over components of storytelling and how these components may
 
 ## Documents for Module
 
-### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/science_of_play-summer2019-mann/handout.pdf)
+### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/su19-mann-husv2500-storymap/handout.pdf)
 
-### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/science_of_play-summer2019-mann/presentation.pdf)
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/su19-mann-husv2500-storymap/presentation.pdf)
 
 ### Sample Map
 The [“Boston Playground” StoryMap](https://uploads.knightlab.com/storymapjs/cb6cc275d5edffc5016e0757d6c37d3d/boston-playgrounds)
 
 ### Sample Data
-In the sample data are a [series of images of Boston playgrounds](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/mapping/science_of_play-summer2019-mann/data) and a [document with a list of playgrounds, their locations, descriptions from websites, and the image sources](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/science_of_play-summer2019-mann/data/parks_locations_and_descriptions.pdf).
+In the sample data are a [series of images of Boston playgrounds](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/mapping/su19-mann-husv2500-storymap/data) and a [document with a list of playgrounds, their locations, descriptions from websites, and the image sources](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/su19-mann-husv2500-storymap/data/parks_locations_and_descriptions.pdf).
 
 ## DTI Consultants
 Created by Molly Nebiolo and Cara Marta Messina

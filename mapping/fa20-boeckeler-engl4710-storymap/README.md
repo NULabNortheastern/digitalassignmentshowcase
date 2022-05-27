@@ -36,14 +36,14 @@ This module will go over components of storytelling and how these components may
 
 <h2>Materials</h2>
 
-* [Presentation](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/capstone-fall2020-boeckeler/Slides.pdf)
+* [Presentation](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa20-boeckeler-engl4710-storymap/Slides.pdf)
 * [Video Tutorial on KnightLab's StoryMap](https://www.youtube.com/watch?v=X33ud7RYZFg&feature=youtu.be)
 * [Demo map](https://uploads.knightlab.com/storymapjs/f56b67af620a9d6f7705bfd2a2e5f61b/demo-history-of-boston/index.html)
 * [Demo Gigapixel StoryMap](https://uploads.knightlab.com/storymapjs/f00762a106ee8b1b153d6ad2d4f1a2aa/theodorastvitale/index.html)
-* [HTML Templates](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/capstone-fall2020-boeckeler/HTML_Templates.txt)
-* [Handout StoryMap Essentials](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/capstone-fall2020-boeckeler/Handout%20StoryMap%20Essentials.pdf)
-* [Handout GitHub hosting](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/capstone-fall2020-boeckeler/Handout%20GitHub%20hosting.pdf)
-* [Handout Zoomify](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/capstone-fall2020-boeckeler/Handout%20Zoomify.pdf)
+* [HTML Templates](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa20-boeckeler-engl4710-storymap/HTML_Templates.txt)
+* [Handout StoryMap Essentials](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa20-boeckeler-engl4710-storymap/Handout%20StoryMap%20Essentials.pdf)
+* [Handout GitHub hosting](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa20-boeckeler-engl4710-storymap/Handout%20GitHub%20hosting.pdf)
+* [Handout Zoomify](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa20-boeckeler-engl4710-storymap/Handout%20Zoomify.pdf)
 
 
 <h2>DITI Consultant</h2>

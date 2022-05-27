@@ -30,11 +30,11 @@ This module will go over components of storytelling and how these components may
 
 <h2>Materials for Module</h2>
 
-### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/intro_us_history-fall2020-heefner/Handout.pdf)
+### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa20-heefner-hist1130-storymap/Handout.pdf)
 
-### [Class 1 Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/intro_us_history-fall2020-heefner/Slides_Class1.pdf)
+### [Class 1 Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa20-heefner-hist1130-storymap/Slides_Class1.pdf)
 
-### [Class 2 Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/intro_us_history-fall2020-heefner/Slides_Class2.pdf)
+### [Class 2 Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa20-heefner-hist1130-storymap/Slides_Class2.pdf)
 
 ### [Spreadsheet Template](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/intro_us_history-fall2020-heefner/StoryMap%20Spreadsheet%20Template.xlsx) 
 

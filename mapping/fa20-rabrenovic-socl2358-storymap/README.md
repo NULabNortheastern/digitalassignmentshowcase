@@ -37,19 +37,19 @@ Students will learn how to use spatial data in a powerful mapping software to pr
 
 <h2>Materials for Module</h2>
 
-### [Data](link)
+### [Data](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa20-rabrenovic-socl2358-storymap/data.zip)
 
-### [Visualizations](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/mapping/issues_cities_suburbs-fall2020-rabrenovic/visualizations)
+### [Visualizations](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/mapping/fa20-rabrenovic-socl2358-storymap/visualizations)
 
-### [Handout BARI and data](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/issues_cities_suburbs-fall2020-rabrenovic/handout_BARI_and_Data.pdf)
+### [Handout BARI and data](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa20-rabrenovic-socl2358-storymap/handout_BARI_and_Data.pdf)
 
-### [Handout Tableau](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/issues_cities_suburbs-fall2020-rabrenovic/handout_Tableau.pdf)
+### [Handout Tableau](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa20-rabrenovic-socl2358-storymap/handout_Tableau.pdf)
 
-### [Handout StoryMap](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/issues_cities_suburbs-fall2020-rabrenovic/handout_StoryMap.pdf)
+### [Handout StoryMap](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa20-rabrenovic-socl2358-storymap/handout_StoryMap.pdf)
 
-### [Slides StoryMap](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/issues_cities_suburbs-fall2020-rabrenovic/slides_Storymaps.pdf)
+### [Slides StoryMap](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa20-rabrenovic-socl2358-storymap/slides_Storymaps.pdf)
 
-### [Slides Tableau](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/issues_cities_suburbs-fall2020-rabrenovic/slides_Tableau.pdf)
+### [Slides Tableau](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa20-rabrenovic-socl2358-storymap/slides_Tableau.pdf)
 
 ### [StoryMap Spreadsheet Template](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/issues_cities_suburbs-fall2020-rabrenovic/Copy%20of%20StoryMap%20Spreadsheet%20Template.xlsx)
 

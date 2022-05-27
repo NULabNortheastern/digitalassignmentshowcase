@@ -35,11 +35,11 @@ This module will review components of storytelling and how they may be integrate
 
 <h2>Materials</h2>
 
-* [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/history_of_boston-fall2020-rabinovitch/Handout.pdf)
-* [Presentation](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/history_of_boston-fall2020-rabinovitch/Slides.pdf)
+* [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa20-rabinovitch-hist1232-storymap/Handout.pdf)
+* [Presentation](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa20-rabinovitch-hist1232-storymap/Slides.pdf)
 * [Video Tutorial on KnightLab's StoryMap](https://www.youtube.com/watch?v=X33ud7RYZFg&feature=youtu.be)
 * [Demo map](https://uploads.knightlab.com/storymapjs/f56b67af620a9d6f7705bfd2a2e5f61b/demo-history-of-boston/index.html)
-* [HTML Templates](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/history_of_boston-fall2020-rabinovitch/HTML_Templates.txt)
+* [HTML Templates](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa20-rabinovitch-hist1232-storymap/HTML_Templates.txt)
 
 
 

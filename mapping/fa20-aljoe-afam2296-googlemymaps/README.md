@@ -31,9 +31,9 @@ This module will go over components of maps and how these components can be used
 
 <h2>Materials for Module</h2>
 
-### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/early_african_american_lit-fall2020-aljoe/mapping/Handout.pdf)
+### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa20-aljoe-afam2296-googlemymaps/Handout.pdf)
 
-### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/early_african_american_lit-fall2020-aljoe/mapping/Slides.pdf) 
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa20-aljoe-afam2296-googlemymaps/Slides.pdf) 
 
 ### [Boston's Black Heritage Trail](https://www.google.com/maps/d/u/0/edit?mid=1hGDxOjseZI6P2RGF08GC7zLyh8JraPFR&&ll=42.35912957880938%2C-71.0671342&z=17) 
 

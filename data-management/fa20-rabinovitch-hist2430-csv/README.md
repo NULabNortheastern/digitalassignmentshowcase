@@ -36,11 +36,11 @@ At the end of this module students will be able to:
 
 <h2>Materials for Module</h2>
 
-### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/digital_histories_ethnic_boston-fall2020-rabinovitch/data_modeling/Handout.pdf)
+### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-management/fa20-rabinovitch-hist2430-csv/Handout.pdf)
 
-### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/digital_histories_ethnic_boston-fall2020-rabinovitch/data_modeling/slides.pdf)
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-management/fa20-rabinovitch-hist2430-csv/slides.pdf)
 
-### [Datasets readme](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/digital_histories_ethnic_boston-fall2020-rabinovitch/data_modeling/spreadsheets_hist2430_readme.pdf)
+### [Datasets readme](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-management/fa20-rabinovitch-hist2430-csv/spreadsheets_hist2430_readme.pdf)
 
 <h3>DITI Consultants</h3>
 

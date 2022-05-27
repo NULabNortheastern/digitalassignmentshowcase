@@ -24,13 +24,13 @@ This module goes over computational text analysis for a corpus of texts, specifi
 
 ## Documents for Module
 
-[Slides]()
+[Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text-analysis/sp21-gharavi-engw3315-textanalysis/Slides_ENGW_1111_Academic_Writing_Text_Analysis.pdf)
 
-[Sample Text](Sample_Text)
+[Sample Text](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/text-analysis/sp21-gharavi-engw3315-textanalysis/Sample_Text)
 
-[Stopwords](Stopwords.txt)
+[Stopwords](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text-analysis/sp21-gharavi-engw3315-textanalysis/Stopwords.txt)
 
-[Links and Resources Handout](Handouts)
+[Links and Resources Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/text-analysis/sp21-gharavi-engw3315-textanalysis/Handouts)
 
 ## DITI Consultants
 Created by:

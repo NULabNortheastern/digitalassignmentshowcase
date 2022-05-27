@@ -24,7 +24,13 @@ This module will discuss data ethics, big data, and the biases embedded in the e
 - Find personal data collected on users through Google.
 - Tackle questions about implicit bias to be used when conducting research, especially collecting and analyzing data.
 
+<h2>Module Materials</h2>
 
+[Slides ENGW 1111](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-ethics/sp21-gharavi-engw3315-dataethics/slides%20engw%201111.pdf)
+
+[Slides ENGW 3315](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-ethics/sp21-gharavi-engw3315-dataethics/slides%20engw%203315.pdf)
+
+[Adopt or Not Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-ethics/sp21-gharavi-engw3315-dataethics/handout-adopt_or_not.pdf)
 
 ## DITI Consultants
 Created by:

@@ -18,11 +18,11 @@ This module is an introduction to the WordPress website building platform and di
 
 ## Documents for Module
 
-### [Digital Editing Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/intro_to_shakespeare-fall2020-boeckeler/editing-slides.pdf)
+### [Digital Editing Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website-building/fa20-boeckeler-engl1600-wordpress/editing-slides.pdf)
 
-### [WordPress Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/intro_to_shakespeare-fall2020-boeckeler/wordpress-slides.pdf)
+### [WordPress Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website-building/fa20-boeckeler-engl1600-wordpress/wordpress-slides.pdf)
 
-### [Copyright and Fair Use Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/intro_to_shakespeare-fall2020-boeckeler/Copyright-fair-use-handout.pdf)
+### [Copyright and Fair Use Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website-building/fa20-boeckeler-engl1600-wordpress/Copyright-fair-use-handout.pdf)
 
 ## DTI Consultants
 Created by:

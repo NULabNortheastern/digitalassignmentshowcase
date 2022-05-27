@@ -28,7 +28,7 @@ Students will begin by learning how to create a Wordpress website, then continue
 
 ### Slides
 
-[Introduction to Wordpress](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_wordpress/coop-fall2018-doherty/presentation.pdf)
+[Introduction to Wordpress](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website-building/fa18-doherty-eesh2000-wordpress/presentation.pdf)
 
 ## DTI Consultants
 Created by:

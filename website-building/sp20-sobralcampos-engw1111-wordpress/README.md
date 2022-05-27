@@ -36,9 +36,9 @@ This module is an introduction to the WordPress website building platform. It de
 
 ## Documents for Module
 
-### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_wordpress/first_year_writing-spring2020-sobral_campos/slides.pdf)
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website-building/sp20-sobralcampos-engw1111-wordpress/slides.pdf)
 
-### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_wordpress/first_year_writing-spring2020-sobral_campos/wordpress_handout.pdf)
+### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website-building/sp20-sobralcampos-engw1111-wordpress/wordpress_handout.pdf)
 
 ## DTI Consultants
 Created by:

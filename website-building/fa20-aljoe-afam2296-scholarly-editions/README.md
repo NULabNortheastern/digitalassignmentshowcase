@@ -30,7 +30,7 @@ This module asks students to develop a collective digital scholarly edition of a
 
 <h2>Materials for Module</h2>
 
-### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/early_african_american_lit-fall2020-aljoe/digital_scholarly_editing/editing-slides.pdf)
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website-building/fa20-aljoe-afam2296-scholarly-editions/editing-slides.pdf)
 
 
 <h3>DITI Consultants</h3>
@@ -38,5 +38,4 @@ This module asks students to develop a collective digital scholarly edition of a
 Sarah Connell
 
 Colleen Nugent
-
 

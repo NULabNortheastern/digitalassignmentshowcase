@@ -25,9 +25,9 @@ Students will begin by learning how to create a Wordpress website, then continue
 
 ## Documents for Module
 
-### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_wordpress/first_year_writing-spring2020-nardone/slides.pdf)
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website-building/sp20-nardone-engw1111-wordpress/slides.pdf)
 
-### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/intro_wordpress/first_year_writing-spring2020-nardone/handout.pdf)
+### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website-building/sp20-nardone-engw1111-wordpress/handout.pdf)
 
 ## DTI Consultants
 Created by:

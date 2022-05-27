@@ -32,11 +32,11 @@ This module will go creating and designing a website using Wix. It demonstrates 
 
 ## Documents for Module
 
-### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/german_young_professionals-summer2020-fuchs/handout.pdf) 
+### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website-building/su20-fuchs-grmn3800-wix/handout.pdf) 
 
 ### Slides 
 - [Interactive Google Slides](http://bitly.com/diti-summer2020-fuchs-slides)
-- [PDF of slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/german_young_professionals-summer2020-fuchs/Intro-to-Wix-Slides.pdf)
+- [PDF of slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website-building/su20-fuchs-grmn3800-wix/Intro-to-Wix-Slides.pdf)
 
 ## DTI Consultants
 Created by:

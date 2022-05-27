@@ -30,9 +30,9 @@ This module will go over components of storytelling and how these components may
 
 <h2>Materials for Module</h2>
 
-### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/issues_public_history-fall2020-nieves/mapping/Handout.pdf)
+### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa20-nieves-hist5237-storymap/Handout.pdf)
 
-### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/issues_public_history-fall2020-nieves/mapping/Slides-3.pdf)
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa20-nieves-hist5237-storymap/Slides-3.pdf)
 
 ### [Spreadsheet Template](https://docs.google.com/spreadsheets/d/1hJIQwP5qTBaNUMIuY2nKEQRSrlbdzh_BK4XZDK1KUEI/edit?usp=sharing)
 
@@ -41,5 +41,4 @@ This module will go over components of storytelling and how these components may
 Caroline Grand
 
 Julianna Wessels
-
 

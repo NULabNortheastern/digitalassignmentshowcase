@@ -25,9 +25,9 @@ This module will go over creating and designing a website using WordPress. It de
 
 <h2>Materials for Module</h2>
 
-### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/issues_public_history-fall2020-nieves/intro_wordpress/Handout.pdf)
+### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website-building/fa20-nieves-hist5237-wordpress/Handout.pdf)
 
-### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/issues_public_history-fall2020-nieves/intro_wordpress/Handout.pdf)   
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website-building/fa20-nieves-hist5237-wordpress/Slides.pdf)   
 
 <h3>DITI Consultants</h3>
 

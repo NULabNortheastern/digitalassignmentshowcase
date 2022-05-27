@@ -25,11 +25,11 @@ This module will cover creating and designing a website using Wix or WordPress. 
 
 <h2>Materials for Module</h2>
 
-### [Wix Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/intermediate_german-fall2020-fuchs/wix/Wix_Handout.pdf)
+### [Wix Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website-building/fa20-fuchs-grmn2102-wordpress-wix/wix/Wix_Handout.pdf)
 
 ### [Wix Slides](https://docs.google.com/presentation/d/1n576aGYECfAanZAamQAurjJcFNG2ALaAQ4Mcedig4hk/edit?usp=sharing)
 
-### [WordPress Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/intermediate_german-fall2020-fuchs/wordpress/WordPress_Handout.pdf)
+### [WordPress Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website-building/fa20-fuchs-grmn2102-wordpress-wix/wordpress/WordPress_Handout.pdf)
 
 ### [WordPress Slides](https://docs.google.com/presentation/d/1SkWuoE0iaWGXz1HELA2X6tkMGcwnOHjbpUoB7i6a7J0/edit?usp=sharing)
 

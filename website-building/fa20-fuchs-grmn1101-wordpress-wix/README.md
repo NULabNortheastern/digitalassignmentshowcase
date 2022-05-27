@@ -25,13 +25,13 @@ This module will cover creating and designing a website using Wix or WordPress. 
 
 <h2>Materials for Module</h2>
 
-### [Wix Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/elementary_german-fall2020-fuchs/wix/Wix_Handout.pdf)
+### [Wix Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website-building/fa20-fuchs-grmn1101-wordpress-wix/wix/Wix_Handout.pdf)
 
-### [Wix Slides](https://docs.google.com/presentation/d/1m2b5fHdYtUOuU8Wibjb_So03IsTMRD0ZS24NIZLjov4/edit?usp=sharing)
+### [Wix Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website-building/fa20-fuchs-grmn1101-wordpress-wix/wix/Wix-Slides.pdf)
 
-### [WordPress Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website_building/elementary_german-fall2020-fuchs/wordpress/WordPress_Handout.pdf)
+### [WordPress Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website-building/fa20-fuchs-grmn1101-wordpress-wix/wordpress/WordPress_Handout.pdf)
 
-### [WordPress Slides](https://docs.google.com/presentation/d/1QZZ1mOnVj_pjHhaXOzXpG-ZMcqukgI3ivTo5qkWKdiw/edit?usp=sharing)
+### [WordPress Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website-building/fa20-fuchs-grmn1101-wordpress-wix/wordpress/Wordpress_Slides.pdf)
 
 <h3>DITI Consultants</h3>
 

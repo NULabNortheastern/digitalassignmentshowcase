@@ -33,9 +33,9 @@ This module will introduce what “big data” and the ethical questions that su
 
 ## Documents for Module
 
-### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_ethics/intro_to_fyw-fall2019-garneau/slides.pdf)
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-ethics/fa19-garneau-engw1111-dataethics/slides.pdf)
 
-### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_ethics/intro_to_fyw-fall2019-garneau/handout.pdf)
+### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-ethics/fa19-garneau-engw1111-dataethics/handout.pdf)
 
 ## DTI Consultants
 Created by Cara Marta Messina

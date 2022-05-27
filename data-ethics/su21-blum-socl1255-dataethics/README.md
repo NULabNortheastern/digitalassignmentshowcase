@@ -10,11 +10,7 @@ SOCL1255 - Sociology of the Family
 
 Linda Blum
 
-August 9, 2021, 1:30-3:00pm
-
-Location - online
-
-Number of students - 5
+August 8, 2021, 1:30-3:00pm
 
 ### Summary of Module
 

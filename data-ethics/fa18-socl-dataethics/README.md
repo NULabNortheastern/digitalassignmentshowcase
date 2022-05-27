@@ -23,6 +23,6 @@ Introduction to Computational Social Sciences provides a brief overview and set 
 
 ## Materials for Module
 - Jupyter Notebooks of the outline and activities for teaching this module
-- Example Data
-- Images from Notebooks
-- Visuals made using computational social science data. 
+- [Example Data](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/data-ethics/fa18-socl-dataethics/data)
+- [Images from Notebooks](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/data-ethics/fa18-socl-dataethics/images)
+- [Visuals made using computational social science data.](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/data-ethics/fa18-socl-dataethics/visuals) 

@@ -29,9 +29,9 @@ This module will discuss data ethics, big data, and the biases embedded in the e
 
 ## Documents for Module
 
-### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_ethics/research_methods-spring2020-badruzzaman/slides.pdf)
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-ethics/sp20-badruzzaman-pols2399-dataethics/slides.pdf)
 
-### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_ethics/research_methods-spring2020-badruzzaman/handout-adopt_or_not.pdf)
+### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-ethics/sp20-badruzzaman-pols2399-dataethics/handout-adopt_or_not.pdf)
 
 ## DITI Consultants
 Created by Garrett Morrow

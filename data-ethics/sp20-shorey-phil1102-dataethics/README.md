@@ -30,7 +30,7 @@ Specifically, this module will discuss China's DNA sureveillance, similar techno
 
 ## Documents for Module
 
-### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_ethics/philosophy-spring2020-shorey/slides.pdf) 
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-ethics/sp20-shorey-phil1102-dataethics/slides.pdf) 
 
 ## DTI Consultants
 Created by Cara Marta Messina and Jeff Sternberg

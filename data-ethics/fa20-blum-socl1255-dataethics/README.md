@@ -31,9 +31,9 @@ This module will introduce “big data” and algorithms, and the ethical questi
 
 ## Documents for Module
 
-### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_ethics/soc_of_family-fall2020-blum/data%20ethics/Slides.pdf)
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-ethics/fa20-blum-socl1255-dataethics/Slides.pdf)
 
-### [Handout - Adopt or not](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_ethics/soc_of_family-fall2020-blum/data%20ethics/Adopt%20or%20Not%20Handout.pdf)
+### [Handout - Adopt or not](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-ethics/fa20-blum-socl1255-dataethics/Adopt%20or%20Not%20Handout.pdf)
 
 ## DITI Consultants
 Colleen Nugent, Milan Skobic, Talia Brenner

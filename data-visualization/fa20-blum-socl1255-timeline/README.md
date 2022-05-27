@@ -32,9 +32,9 @@ This module will go over components of storytelling and how these components may
 
 ## Documents for Module
 
-### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_ethics/soc_of_family-fall2020-blum/intro_to_timeline/slides-timeline.pdf)
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-visualization/fa20-blum-socl1255-timeline/slides-timeline.pdf)
 
-### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_ethics/soc_of_family-fall2020-blum/intro_to_timeline/handout-intro_to_timeline.pdf)
+### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-visualization/fa20-blum-socl1255-timeline/handout-intro_to_timeline.pdf)
 
 ### [Example spreadsheet](https://docs.google.com/spreadsheets/d/1SOskelXtiJuFnKbYvl2bRbBSOYdHD3Ogrzs1xejIJn4/edit?usp=sharing)
 

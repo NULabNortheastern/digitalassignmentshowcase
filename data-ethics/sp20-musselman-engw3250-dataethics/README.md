@@ -26,9 +26,9 @@ This module will discuss data ethics, big data, and the biases embedded in the e
 
 ## Documents for Module
 
-### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_ethics/advanced_writing-spring2020-musselman/slides.pdf)
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-ethics/sp20-musselman-engw3250-dataethics/slides.pdf)
 
-### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data_ethics/advanced_writing-spring2020-musselman/handout-adopt_or_not.pdf)
+### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-ethics/sp20-musselman-engw3250-dataethics/handout-adopt_or_not.pdf)
 
 ## DTI Consultants
 Created by Cara Marta Messina

@@ -28,15 +28,15 @@ This module will go over components of storytelling and how these components may
 
 <h1>Materials for Module</h1>
 
-[KnightLab StoryMap Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/su22-berkey-husv2400-storymap/Intro-to-StoryMap.pdf)
+[KnightLab StoryMap Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/su22-allen-husv2400-storymap/Intro-to-StoryMap.pdf)
 
-[Handout: KnightLab StoryMap](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/su22-berkey-husv2400-storymap/StoryMap-Handout.pdf)
+[Handout: KnightLab StoryMap](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/su22-allen-husv2400-storymap/Handout_Storymap-Spreadsheet-Template.pdf)
 
-[Handout: Spreadsheet Template User Guide](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/su22-berkey-husv2400-storymap/Handout_Storymap-Spreadsheet-Template.pdf)
+[Handout: Spreadsheet Template User Guide](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/su22-allen-husv2400-storymap/Handout%20Storymap.pdf)
 
-[Handout: Copyright and Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/su22-berkey-husv2400-storymap/Copyright-fair-use-handout.pdf)
+[Handout: Copyright and Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/su22-allen-husv2400-storymap/Copyright-fair-use-handout.pdf)
 
-[Handout: Black Heritage Trail Demo](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/su22-berkey-husv2400-storymap/Black-Heritage-Trail-Demo.pdf)
+[Handout: Black Heritage Trail Demo](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/su22-allen-husv2400-storymap/Black%20Heritage%20Trail%20Demo%20Handout.pdf)
 
 [Spreadsheet Template](https://docs.google.com/spreadsheets/d/1IIGtxKKhjFVPRMK7mr6MiX3FE6fDH-QYekYvNPwthG8/edit#gid=0)
 

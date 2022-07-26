@@ -2,7 +2,7 @@
 
 <h1>Individual Class Info</h1>
 
-Spanish History and Culture
+International Study: Peru 
 
 Monica Canavan
 

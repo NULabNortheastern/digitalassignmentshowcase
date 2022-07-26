@@ -44,4 +44,4 @@ DITI's [Intro to StoryMap Video](https://youtu.be/X33ud7RYZFg)
 
 <h1>DITI Consultants</h1>
 
-Tieanna Graphenreed
+Tieanna Graphenreed, Ana Abraham, Chris McNulty

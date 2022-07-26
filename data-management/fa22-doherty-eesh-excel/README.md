@@ -22,7 +22,7 @@ Students will learn how to use different functions on a sample data structure an
 
 ### Handouts
 
-[Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-management/fa22-doherty-eesh-excel/ExcelHandout.pdf)
+[Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-management/fa22-doherty-eesh-excel/Excel%20Handout.pdf)
 
 ### Slides
 

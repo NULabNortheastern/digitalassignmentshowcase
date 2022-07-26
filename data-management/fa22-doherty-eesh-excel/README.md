@@ -22,18 +22,18 @@ Students will learn how to use different functions on a sample data structure an
 
 ### Handouts
 
-[Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-management/fa22-doherty-eesh-excel/Excel%20Handout.pdf)
+[Intro to Excel](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-management/fa22-doherty-eesh-excel/Excel%20Handout.pdf)
 
-### Slides
+### Presentation Materials 
 
-[Introduction to Excel](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-management/fa20-doherty-eesh-excel/Excel Slides.pdf)
+[Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-management/fa22-doherty-eesh-excel/Excel%20Slides.pdf)
 
 ### Demo Data
-[Demo Data](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-management/fa22-doherty-eesh-excel/Excel Demo Data.xlx)
+[Data](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-management/fa22-doherty-eesh-excel/Excel%20Demo%20Data.xlsx)
 
 ### Excel Installation Guide 
 
-[Installation](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-management/fa22-doherty-eesh-excel/Installing Excel.pdf)
+[Installation](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-management/fa22-doherty-eesh-excel/Installing%20Excel.pdf)
 
 ## DITI Consultants
 Created by: <br>

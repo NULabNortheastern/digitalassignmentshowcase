@@ -30,9 +30,9 @@ This module will go over components of storytelling and how these components may
 
 [KnightLab StoryMap Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/su22-canavan-spns-storymap/StoryMap_slides.pdf) 
 
-[Handout: KnightLab StoryMap](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/su22-canavan-spns-storymap/StoryMap%20Handout.pdf)
+[Handout: KnightLab StoryMap](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/su22-canavan-spns-storymap/StoryMap_Handout.pdf)
 
-[Handout: Spreadsheet Template User Guide](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/su22-canavan-spns-storymap/Handout_%20Storymap%20Spreadsheet%20Template.pdf)
+[Handout: Spreadsheet Template User Guide](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/su22-canavan-spns-storymap/Handout_%20Storymap_Spreadsheet_Template.pdf)
 
 [Handout: Copyright and Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/su22-canavan-spns-storymap/Copyright-fair-use-handout.pdf)
 

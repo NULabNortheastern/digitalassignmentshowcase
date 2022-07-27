@@ -36,7 +36,7 @@ This module will go over components of storytelling and how these components may
 
 [Handout: Copyright and Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/su22-canavan-spns-storymap/Copyright-fair-use-handout.pdf)
 
-[Class Demo Data](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/mapping/su22-canavan-spns-storymap/demo_data)
+[Black Heritage Trail Demo Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/su22-canavan-spns-storymap/Black_Heritage_Trail_Demo_Handout.pdf)
 
 [Spreadsheet Template](https://docs.google.com/spreadsheets/d/1IIGtxKKhjFVPRMK7mr6MiX3FE6fDH-QYekYvNPwthG8/edit#gid=0)
 

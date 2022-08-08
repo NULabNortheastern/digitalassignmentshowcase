@@ -1,9 +1,9 @@
 # Computational Text Analysis
 
 ## Individual Class Info
-ENGL 1400: Intro to Literary Studies
+ENGL 4710 Capstone Seminar
 <br>
-Mary Loeffelholz 
+Mya Poe
 <br>
 Fall 2022
 <br>
@@ -24,12 +24,12 @@ This module goes over computational text analysis for a corpus of texts, specifi
 
 ## Documents for Module
 
-### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text-analysis/fa22-loeffelholz-engl1400-textanalysis/Text_Analysis_Slides.pdf)
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text-analysis/fa22-poe-engl4710-textanalysis/Poe_ENG4710_Text%20Analysis.pdf)
 
-### [Handouts](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/text-analysis/fa22-loeffelholz-engl1400-textanalysis/Handouts)
+### [Handouts](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/text-analysis/fa22-poe-engl4710-textanalysis/Handouts)
 
 ### Data
-[Sample Corpus](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/text-analysis/fa22-loeffelholz-engl1400-textanalysis/ENGL1400%20Corpus) 
+[Sample Corpus](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/text-analysis/fa22-poe-engl4710-textanalysis/Sample%20Corpus) 
 
 ## DTI Consultants
-Created by Margarida Rodrigues & Yunus Emre Tapan
+Created by Dipa Desai & Yunus Emre Tapan

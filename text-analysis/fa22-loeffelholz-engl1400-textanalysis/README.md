@@ -1,11 +1,11 @@
 # Computational Text Analysis
 
 ## Individual Class Info
-Introduction to Writing
+ENGL 1400: Intro to Literary Studies
 <br>
-Neal Lerner 
+Mary Loeffelholz 
 <br>
-Spring 2022
+Fall 2022
 <br>
 
 

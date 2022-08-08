@@ -32,4 +32,4 @@ This module goes over computational text analysis for a corpus of texts, specifi
 [Sample Corpus](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/text-analysis/fa22-poe-engl4710-textanalysis/Sample%20Corpus) 
 
 ## DTI Consultants
-Created by Margarida Rodrigues & Yunus Emre Tapan
+Created by Dipa Desai & Yunus Emre Tapan

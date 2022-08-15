@@ -7,8 +7,6 @@ Simon Singer
 <br>
 Spring 2022
 <br>
-Location: TBD
-<br>
 
 ## Summary of Module
 This module will go over the basics of how to install NVivo and use the software as a literature review and research tool. Students will be introduced to the basic concepts of NVivo and then taught how to import documents, create nodes, and basic analytical visualizations and queries.

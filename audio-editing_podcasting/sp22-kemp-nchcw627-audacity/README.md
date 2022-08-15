@@ -1,44 +1,46 @@
-# Introduction to Podcasting
-Making a social policy podcast using Audacity.
+Introduction to Podcasting with Audacity
 
-## Individual Class Info
-NCHCW 627: Final Year Projects and Publishing Horizons
-<br>
+Individual Class Info
+
+NCHCW 627 Final Year Projects and Publishing Horizons
+
 Sam Kemp
-<br>
-Spring 2022
-<br>
 
+October 20, 2022, 8:00AM-10:00AM (EST)
 
-## Summary of Module
-This module will go over the basics of Audacity. The second portion of this module will be supporting students and asking questions while they edit and piece together their podcasts later in the semester.
+Spring 2023
 
-## Learning Goals
-- Understand components for a compelling podcast
-- Understanding the particular choices made when building a podcast
-- Understanding how to use Audacity
-- Understanding steps for recording and editing a podcast
+Summary of Module
 
-## Learning Objectives
-- Understand narrative devices used in podcasting
-- Share proper techniques for writing, recording, and editing podcasts
-- Install and explore Audacity as an audio-editing tool
+This module will introduce students to the basics of Audacity and audio editing.
 
-## Documents for Module
+Learning Goals
 
-### Handouts
-- [Handout on Installing Audacity](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/audio-editing_podcasting/sp22-kemp-nchcw627-audacity/handout-install_audacity.pdf)
-- [Handout on Using Audacity](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/audio-editing_podcasting/sp22-kemp-nchcw627-audacity/handout-intro_to_audacity.pdf)
-- [Handout on Copyright and Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/audio-editing_podcasting/sp22-kemp-nchcw627-audacity/Banrey%20Intro%20to%20Podcasting%20Slides.pptx.pdf)
+Understanding components for a compelling podcast
 
-### Slides
-- [Introduction to Audacity, with Antonio Banrey](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/final_yr_projects_and_publishing-spring2022-kemp/Banrey%20Intro%20to%20Podcasting%20Slides.pptx.pdf)
+Understanding the particular choices made when building a podcast
 
-### Audio Samples
-- "Guild Talks" mock podcast, Antonio Banrey 
+Understanding how to use Audacity
 
+Understanding steps for recording and editing a podcast
 
-### Led By
-Antonio Banrey, Digital Media Commons, Northeastern University
-## DITI Consultants
-Tieanna Graphenreed
+Getting familiar with different audio storage file formats
+
+Learning Objectives
+
+Share proper techniques for writing, recording, editing, and saving podcasts Understand Audacity as an audio-editing toolInstall and explore 
+
+Audacity as an audio-editing tool
+
+Learn best tips and practices for recording audio using Audacity Materials for Module
+
+Installing Audacity Handout
+
+Introduction to Audacity Slides
+
+Introduction to Audacity Handout
+DITI Consultants
+
+Dipa Desai
+
+Ana Abraham

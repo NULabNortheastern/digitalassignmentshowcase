@@ -28,5 +28,5 @@ This module will cover creating and designing a website using WordPress. It demo
 
 
 ## DITI Consultants
-Ana Abraham
+Ana Abraham,
 Dipa Desai

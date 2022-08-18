@@ -1,46 +1,50 @@
-Introduction to Podcasting with Audacity
+# Introduction to Podcasting with Audacity
 
-Individual Class Info
+## Individual Class Info
 
 NCHCW 627 Final Year Projects and Publishing Horizons
-
+<br>
 Sam Kemp
-
+<br>
 October 20, 2022, 8:00AM-10:00AM (EST)
+<br>
 
-Spring 2023
 
-Summary of Module
+## Summary of Module
 
 This module will introduce students to the basics of Audacity and audio editing.
 
-Learning Goals
+## Learning Goals
 
-Understanding components for a compelling podcast
+-Understanding components for a compelling podcast
 
-Understanding the particular choices made when building a podcast
+-Understanding the particular choices made when building a podcast
 
-Understanding how to use Audacity
+-Understanding how to use Audacity
 
-Understanding steps for recording and editing a podcast
+-Understanding steps for recording and editing a podcast
 
-Getting familiar with different audio storage file formats
+-Getting familiar with different audio storage file formats
 
-Learning Objectives
+## Learning Objectives
 
-Share proper techniques for writing, recording, editing, and saving podcasts Understand Audacity as an audio-editing toolInstall and explore 
+-Share proper techniques for writing, recording, editing, and saving podcasts Understand Audacity as an audio-editing tool
+-Install and explore 
 
-Audacity as an audio-editing tool
+-Audacity as an audio-editing tool
 
-Learn best tips and practices for recording audio using Audacity Materials for Module
+-Learn best tips and practices for recording audio using Audacity 
 
-Installing Audacity Handout
+## Materials for Module
 
-Introduction to Audacity Slides
+### [Installing Audacity Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/audio-editing_podcasting/fa22-kemp-nchcw627-audacity/handout-install_audacity.pdf)
 
-Introduction to Audacity Handout
-DITI Consultants
+### [Introduction to Audacity Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/audio-editing_podcasting/fa22-kemp-nchcw627-audacity/FA22_Kemp_Audacity.pdf)
 
-Dipa Desai
+### [Introduction to Audacity Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/audio-editing_podcasting/fa22-kemp-nchcw627-audacity/handout-intro_to_audacity.pdf)
+
+## DITI Consultants
+
+Dipa Desai,
 
 Ana Abraham

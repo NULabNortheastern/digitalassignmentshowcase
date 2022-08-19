@@ -9,7 +9,7 @@ Fall 2022
 
 <h2>Summary of Module</h2>
 
-This module will go over components of storytelling and how these components may be integrated in maps. Specifically, this workshop will teach students how to use KnightLab’s StoryMaps web-browser application by providing step-by-step instructions, a sample map, and sample data for students to use to practice building their own maps. 
+This module will go over components of storytelling and how these components may be integrated in maps. Specifically, this workshop will teach students how to use <a href="https://storymap.knightlab.com/">KnightLab’s StoryMaps</a> web-browser application by providing step-by-step instructions, a sample map, and sample data for students to use to practice building their own maps. 
 
 <h2>Learning Goals</h2>
 

@@ -22,7 +22,7 @@ This module will go over the basics of using Python for quantitative data proces
 
 ### Python Notebooks
 
-[Handout: Intro-to-Python](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/coding_quantitative/fa22-fallis-phil3050-python/Handout_%20%20Intro-to-Python.pdf)
+[Handout: Intro-to-Python](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/coding_quantitative/fa22-fallis-phil3050-python/Handout_Intro-to-Python.pdf)
 
 [Google Colab Notebooks](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/coding_quantitative/fa22-fallis-phil3050-python/GoogleColab_Notebooks)
 The completed tutorial, with all of the code filled in. Use as notes for the workshop, and so students have the completed code to reference throughout the semester.

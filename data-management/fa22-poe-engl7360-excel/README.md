@@ -28,7 +28,7 @@ Students will learn how to use different functions on a sample data structure an
 
 ### Presentation Materials 
 
-[Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-management/fa22-poe-engl7360-excel/Intro-to-excel_withstats_slides%20.pdf)
+[Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-management/fa22-poe-engl7360-excel/Intro-to-excel_withstats_slides.pdf)
 
 ### Demo Data
 [Demo](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-management/fa22-poe-engl7360-excel/data/Excel-Demo-Data.xlsx)

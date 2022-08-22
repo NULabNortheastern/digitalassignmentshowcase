@@ -27,21 +27,19 @@ This module will go over components of storytelling and how these components may
 
 <h2>Materials for Module</h2>
 
-KnightLab StoryMap Presentation Slides 
+[KnightLab StoryMap Presentation Slides](https://docs.google.com/presentation/d/1PJ_gqRNGc3T-SKPSxEnjzNPUmcKcMLTiSlE1xvjnKQQ/edit?usp=sharing)  
 
-Handout: KnightLab StoryMap
+[Handout: KnightLab StoryMap](https://docs.google.com/document/d/1-O81Ln3oJrCgAqyYH-Z48vbcx91cAx6NSFBiQY6_vWU/edit?usp=sharing)Handout: KnightLab StoryMap
 
-Spreadsheet Template
+[Spreadsheet Template](https://docs.google.com/spreadsheets/d/1_a7HCHIwxvqBfcbIN3crGDAXdWrtSOSRLLJt4xbiTWo/edit?usp=sharing) 
 
-Handout: Spreadsheet Template User Guide
+[Handout: Spreadsheet Template User Guide](https://docs.google.com/document/d/1OYcj40Cun9rD1jqoxxKO24e_MI02had0693uvpq4WBM/edit?usp=sharing) 
 
-Handout: Copyright and Fair Use
+[Handout: Copyright and Fair Use](https://docs.google.com/document/d/1dRBvnWDOi8lPLP9mWuIQdIhV6_XN37wFvQ_eIOtR5FU/edit?usp=sharing) 
 
-Handout: StoryMap Accessibility 
+[Handout: StoryMap Accessibility](https://docs.google.com/document/d/1j8Pw0B6PTXY99fWVJeQ_FEdlXj-3p-RfaYdOVl6PPC0/edit?usp=sharing)
 
-Handout: Infographics Tools
-
-Handout: Black Heritage Trail Demo
+[Handout: Black Heritage Trail Demo](https://docs.google.com/document/d/1Zn2TreePEG2zY6C1DZ3S131GzMlFKbR0QO2DdxxNlww/edit?usp=sharing) 
 
 DITI’s Intro to StoryMap video: https://youtu.be/X33ud7RYZFg 
 

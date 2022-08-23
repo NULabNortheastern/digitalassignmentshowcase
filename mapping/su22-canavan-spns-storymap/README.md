@@ -2,7 +2,7 @@
 
 <h1>Individual Class Info</h1>
 
-Spanish History and Culture
+International Study: Peru 
 
 Monica Canavan
 
@@ -28,15 +28,15 @@ This module will go over components of storytelling and how these components may
 
 <h1>Materials for Module</h1>
 
-[KnightLab StoryMap Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/su22-canavan-spns-storymap/StoryMap-Slides.pdf)
+[KnightLab StoryMap Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/su22-canavan-spns-storymap/StoryMap_slides.pdf) 
 
-[Handout: KnightLab StoryMap](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/su22-canavan-spns-storymap/StoryMap-Handout.pdf)
+[Handout: KnightLab StoryMap](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/su22-canavan-spns-storymap/StoryMap_Handout.pdf)
 
-[Handout: Spreadsheet Template User Guide](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/su22-canavan-spns-storymap/Spreadsheet-Template-Handout.pdf)
+[Handout: Spreadsheet Template User Guide](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/su22-canavan-spns-storymap/Handout_%20Storymap_Spreadsheet_Template.pdf)
 
 [Handout: Copyright and Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/su22-canavan-spns-storymap/Copyright-fair-use-handout.pdf)
 
-[Class Demo Data](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/mapping/su22-canavan-spns-storymap/demo_data)
+[Black Heritage Trail Demo Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/su22-canavan-spns-storymap/Black_Heritage_Trail_Demo_Handout.pdf)
 
 [Spreadsheet Template](https://docs.google.com/spreadsheets/d/1IIGtxKKhjFVPRMK7mr6MiX3FE6fDH-QYekYvNPwthG8/edit#gid=0)
 
@@ -44,4 +44,4 @@ DITI's [Intro to StoryMap Video](https://youtu.be/X33ud7RYZFg)
 
 <h1>DITI Consultants</h1>
 
-Tieanna Graphenreed
+Tieanna Graphenreed, Ana Abraham, Chris McNulty

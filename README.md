@@ -1,4 +1,4 @@
-Scroll up to the folders for a comprehensive list of modules, grouped by digital tool or skill.
+This repository collects the resources created by the [Digital Integration Teaching Initiative](https://cssh.northeastern.edu/nulab/program/diti/). Scroll up to the folders for a comprehensive list of modules, grouped by digital tool or skill.
 
 <h3>Contact Information</h3>
 

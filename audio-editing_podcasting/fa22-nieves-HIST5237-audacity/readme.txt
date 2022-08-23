@@ -1,43 +1,43 @@
-#Introduction to Audio Editing with Audacity
+<h1> Introduction to Audio Editing with Audacity </h1>
 
-##Individual Class Info
+<h2> Individual Class Info </h2>
 HIST 5237: Issues of Methods of Public History 
-<br>
+
 Angel David Nieves
-<br>
+
 Fall 2022
 
-##Summary of Module
+<h2> Summary of Module </h2>
 This module will introduce students to the basics of Audacity and audio editing.
 
-##Learning Goals
+<h2> Learning Goals </h2> 
 - Learn how to use Audacity
 - Familiarize with different audio storage file formats
 - Understand steps for recording and editing audio in Audacity
 
 
-##Learning Objectives
+<h2> Learning Objectives </h2>
 - Share  techniques for recording, editing, and saving audio files  
 - Understand Audacity as an audio-editing tool
 - Install and explore Audacity as an audio-editing tool
 - Learn best tips and practices for recording audio using Audacity 
 
-##Documents for Module
+<h2> Documents for Module </h2>
 
-###[Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/audio-editing_podcasting/fa22-nieves-HIST5237-audacity/Intro%20to%20Audacity%20Slides.pdf)
+[Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/audio-editing_podcasting/fa22-nieves-HIST5237-audacity/Intro%20to%20Audacity%20Slides.pdf)
 
-###Handouts
+<h2> Handouts </h2>
 [Installing Audacity](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/audio-editing_podcasting/fa22-nieves-HIST5237-audacity/handout-install_audacity.pdf)
-<br>
+
 [Introduction to Audacity](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/audio-editing_podcasting/fa22-nieves-HIST5237-audacity/handout-intro_to_audacity.pdf)
-<br>
+
 [Fair Use] (https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/audio-editing_podcasting/fa22-nieves-HIST5237-audacity/Copyright-fair-use-handout.pdf)
 
-##DITI Consultations
+<h2> DITI Consultations </h2>
 Tieanna Graphenreed, DITI Fellow 
-<br>
+
 Ana Abraham, DITI Fellow 
-<br>
+
 Margarida Rodrigues, DITI Fellow
-<br>
+
 Sarah Connell, Assistant Director

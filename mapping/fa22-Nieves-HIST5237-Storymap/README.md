@@ -6,9 +6,7 @@ HIST 5237: Issues and Methods in Public History
 
 Angel David Nieves
 
-October 4, 5:00 PM-6:15 PM
-
-Fall 2021
+Fall 2022
 
 <h2> Summary of Module </h2>
 
@@ -47,3 +45,8 @@ DITI's [Intro to StoryMap Video](https://youtu.be/X33ud7RYZFg)
 Colleen Nugent
 
 Tieanna Graphenreed 
+
+Margarida Rodrigues
+
+Ana Abraham
+

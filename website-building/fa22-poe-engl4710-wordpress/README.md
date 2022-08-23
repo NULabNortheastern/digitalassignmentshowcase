@@ -2,11 +2,11 @@
 
 
 ## Individual Class Info
-Creative Writing
+ENGW 4710 Capstone
 <br>
-Sam Kemp
+Mya Poe
 <br>
-Spring 2022
+Fall 2022
 <br>
 
 ## Summary of Module
@@ -24,10 +24,11 @@ This module will cover creating and designing a website using WordPress. It demo
 
 ## Documents for Module
 
-### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website-building/sp22-kemp-nchcw627-wordpress/Kemp_WordPress_Slides.pdf)
-### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website-building/sp22-kemp-nchcw627-wordpress/Handout_WordPress.pdf)
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website-building/fa22-poe-engl4710-wordpress/FA22_Poe_WordPress_presentation.pdf)
+### [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website-building/fa22-poe-engl4710-wordpress/Handout_WordPress.pdf)
 
 
 ## DITI Consultants:
-Vaishali Kushwaha,
-Yana Mommadova
+Dipa Desai
+Emre Tapan
+

@@ -30,8 +30,11 @@ This module will introduce students to the basics of Audacity and audio editing.
 <h2> Materials for Module </h2>
 
 [Installing Audacity Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/audio-editing_podcasting/fa22-nieves-HIST5237-audacity/handout-install_audacity.pdf)
+
 [Introduction to Audacity Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/audio-editing_podcasting/fa22-nieves-HIST5237-audacity/Intro%20to%20Audacity%20Slides.pdf)
+
 [Introduction to Audacity Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/audio-editing_podcasting/fa22-nieves-HIST5237-audacity/handout-intro_to_audacity.pdf)
+
 <h2> DITI Consultants </h2>
 
 Tieanna Graphenreed

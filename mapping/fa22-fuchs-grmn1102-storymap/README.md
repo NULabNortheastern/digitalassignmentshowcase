@@ -28,17 +28,17 @@ This module will go over components of storytelling and how these components may
 
 <h2>Materials for Module</h2>
 
-KnightLab StoryMap Slides
+[KnightLab StoryMap Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa22-fuchs-grmn1102-storymap/StoryMap_slides.pdf)
 
-Handout: KnightLab StoryMap
+[Handout: KnightLab StoryMap](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa22-fuchs-grmn1102-storymap/StoryMap_handout.pdf)
 
-Handout: Spreadsheet Template User Guide
+[Handout: Spreadsheet Template User Guide](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa22-fuchs-grmn1102-storymap/StoryMap-spreadsheet-template_handout.pdf)
 
-Handout: Copyright and Fair Use
+[Handout: Copyright and Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa22-fuchs-grmn1102-storymap/Copyright-fair-use_handout.pdf)
 
-Black Heritage Trail Demo Handout
+[Black Heritage Trail Demo Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa22-fuchs-grmn1102-storymap/Black-Heritage-Trail-Demo_handout.pdf)
 
-Spreadsheet Template
+[Spreadsheet Template](https://docs.google.com/spreadsheets/d/1_2HwVXXp-1BjuzsBSr-Wj2GIWSDu3MRBT7DIu-EBuuY/edit#gid=0)
 
 DITI's [Intro to StoryMap Video](https://youtu.be/X33ud7RYZFg)
 

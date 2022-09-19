@@ -22,10 +22,11 @@ This module will introduce the Digital Integration Teaching Initiative, includin
 
 <h2>Individual Class Info</h2>
 
-[Introduction to DITI Slides]()
+[Introduction to DITI Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/multi-domain-modules/fa22-fuchs-grmn-overview/diti-intro-slides.pdf)
 
 
 <h2>Individual Class Info</h2>
 
 Sarah Connell
+
 Chris McNulty

@@ -49,7 +49,7 @@ This module will introduce students to the basics of NVivo, Web Scraping, and Te
 
 ### [Slides Marshall SOCL4600](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/multi-domain-modules/fa22-marshall-SOCL4600-Multi/Slides-Marshall.pdf)
 
-### [Stopwords]
+### [Stopwords](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/multi-domain-modules/fa22-marshall-SOCL4600-Multi/Stopwords.txt)
 
 
 ### 

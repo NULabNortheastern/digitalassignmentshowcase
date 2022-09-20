@@ -1,15 +1,16 @@
-```
-# Introduction to Computational Methods for Sociology Research
+
+# Introduction to Podcasting with Audacity
 
 ## Individual Class Info
 
 SOCL4600 Senior Seminar
-<br>
-Ineke Marshall
-<br>
-September 26, 2022, 1:30 pm (EST)
+
 <br>
 
+Ineke Marshall
+<br>
+
+September 26, 2022, 1:30 pm (EST)
 
 ## Summary of Module
 
@@ -18,6 +19,7 @@ This module will introduce students to the basics of NVivo, Web Scraping, and Te
 ## Learning Goals
 
 -Understanding basic concepts, terminology, and uses for NVivo, Web Scraping, and Text Analysis. 
+
 
 ## Learning Objectives
 
@@ -49,11 +51,9 @@ This module will introduce students to the basics of NVivo, Web Scraping, and Te
 
 ### [Stopwords]
 
-(https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/multi-domain-modules/fa22-marshall-SOCL4600-Multi/Stopwords.txt)
 
+### 
 ## DITI Consultants
 
 Ana Abraham,
-
 Margarida Rodrigues
-```

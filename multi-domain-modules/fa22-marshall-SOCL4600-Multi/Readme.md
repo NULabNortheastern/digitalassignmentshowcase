@@ -1,5 +1,5 @@
 
-# Introduction to Podcasting with Audacity
+# Introduction to Computational Methods for Sociology Research
 
 ## Individual Class Info
 

@@ -33,7 +33,6 @@ This module will introduce students to the basics of NVivo, Web Scraping, and Te
 
 ### [Corpus Building Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/multi-domain-modules/fa22-marshall-SOCL4600-Multi/Handout_CorpusBuilding.pdf)
 
-### [Introduction to Audacity Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/audio-editing_podcasting/fa22-kemp-nchcw627-audacity/FA22_Kemp_Audacity.pdf)
 
 ### [DataBasic Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/multi-domain-modules/fa22-marshall-SOCL4600-Multi/Handout_DataBasic.pdf)
 

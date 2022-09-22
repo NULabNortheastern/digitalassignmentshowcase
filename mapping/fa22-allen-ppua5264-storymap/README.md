@@ -28,15 +28,15 @@ This module will go over components of storytelling and how these components may
 
 <h1>Materials for Module</h1>
 
-[KnightLab StoryMap Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa22-allen-storymap/FA22_Allen_Intro-to-StoryMap_Slides.pdf)
+[KnightLab StoryMap Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa22-allen-ppua5264-storymap/FA22_Allen_Intro-to-StoryMap_Slides.pdf)
 
-[Handout: KnightLab StoryMap](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa22-allen-storymap/Handout_Storymap_Spreadsheet_Template.pdf)
+[Handout: KnightLab StoryMap](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa22-allen-ppua5264-storymap/StoryMap_Handout.pdf)
 
-[Handout: Spreadsheet Template User Guide](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa22-allen-storymap/Storymap_Handout.pdf)
+[Handout: Spreadsheet Template User Guide](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa22-allen-ppua5264-storymap/Handout_Storymap_Spreadsheet_Template.pdf)
 
-[Handout: Copyright and Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa22-allen-storymap/Copyright_fair_use_handout.pdf)
+[Handout: Copyright and Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa22-allen-ppua5264-storymap/Copyright_fair_use_handout.pdf)
 
-[Handout: Black Heritage Trail Demo](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa22-allen-/Black_Heritage_Trail_Demo_Handout.pdf)
+[Handout: Black Heritage Trail Demo](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa22-allen-ppua5264-storymap/Black_Heritage_Trail_Demo_Handout.pdf)
 
 [Spreadsheet Template](https://docs.google.com/spreadsheets/d/1bql-i692dRAb4vBlmEM7Uq6GeRsKCWaa8U5udynESv0/edit?usp=sharing)
 

@@ -1,0 +1,56 @@
+# Introduction to KnightLab StoryMaps
+
+
+## Individual Class Info
+FRNH 2102: Intermediate French
+
+
+Austin Hancock
+
+
+10/6/22, 1:35-2:40pm 
+
+
+Fall 2022
+
+
+## Summary of Module
+This module will go over components of storytelling and how these components may be integrated in maps. Specifically, this workshop will teach students how to use Knight Lab’s StoryMaps web-browser application by providing step-by-step instructions, a sample map, and sample data for students to use to practice building their own maps. 
+
+## Learning Goals
+●	Understand components for compelling storytelling
+
+●	Understanding the particular choices made when building a map
+
+●	Understanding how to collect data for mapping
+
+●	Understanding KnightLab StoryMap’s interface and where it gathers its information
+## Learning Objectives
+
+●	Articulate particular choices made when telling a story using a map
+
+●	Follow a step-by-step guide for creating, saving, and publishing maps using KnightLab StoryMaps
+
+●	Implement data into KnightLab StoryMaps, including location information, images, and text
+
+●	Navigate StoryMaps’ map markers and location-finding system
+
+## Materials for Module
+
+### [KnightLab StoryMap Presentation Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa22-Hancock-FRNH2102-storymap/Hancock_Intro-to-StoryMap.pdf)
+
+### [Handout: KnightLab StoryMap](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa22-Hancock-FRNH2102-storymap/Handout_%20StoryMap.pdf)
+
+### [Spreadsheet Template](https://docs.google.com/spreadsheets/d/1X6ZlRD_Jiu2QM7Wf8C-CfwZYEls5I3yXk4kTQFGMvVc/edit#gid=0) 
+### [Demo Data Spreadsheet](https://docs.google.com/spreadsheets/d/1g3lN-D_7XNUxSfbEvlqcs4ABh0mn_mT1H3Yk-oKKzSA/edit#gid=0)
+
+###  [Handout: Spreadsheet Template User Guide](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa22-Hancock-FRNH2102-storymap/Handout_%20Storymap%20Spreadsheet%20Template.pdf)
+### [ Handout: Copyright and Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa22-Hancock-FRNH2102-storymap/Handout_%20Copyright-fair-use.pdf)
+
+### [DITI’s Intro to StoryMap video](https://youtu.be/X33ud7RYZFg) 
+
+## DITI Consultants
+Ana Abraham
+
+Benjamin Grey
+

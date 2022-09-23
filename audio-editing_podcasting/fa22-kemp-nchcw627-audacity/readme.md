@@ -6,7 +6,7 @@ NCHCW 627 Final Year Projects and Publishing Horizons
 <br>
 Sam Kemp
 <br>
-October 20, 2022, 8:00AM-10:00AM (EST)
+October 13, 2022, 8:30AM-9:30AM (EST), 13:30-14:30 (BST)
 <br>
 
 
@@ -45,6 +45,9 @@ This module will introduce students to the basics of Audacity and audio editing.
 
 ## DITI Consultants
 
-Dipa Desai,
 
 Ana Abraham
+
+Chris McNulty
+
+Dipa Desai

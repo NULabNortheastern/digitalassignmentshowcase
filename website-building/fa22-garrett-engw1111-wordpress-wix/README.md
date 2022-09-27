@@ -1,4 +1,4 @@
-# Computational Text Analysis
+# Website Evaluation: WordPress and Wix
 
 ## Individual Class Info
 EGNW 1111: First Year Writing

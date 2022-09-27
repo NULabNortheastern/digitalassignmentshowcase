@@ -23,7 +23,7 @@ This module will cover wireframing and evaluating a website focusing on WordPres
 
 ## Documents for Module
 
-### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/website-building/fa22-garrett-engw1111-wordpress-wix)
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website-building/fa22-garrett-engw1111-wordpress-wix/fa22-garrett-website-building-and-evaluation.pdf)
 
 ## DTI Consultants
 Anna Zhang, Chris McNulty, Dipa Desai, Juniper Johnson

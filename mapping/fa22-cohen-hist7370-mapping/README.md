@@ -2,9 +2,9 @@
 
 <h2>Individual Class Info</h2>
 
-GRMN 1102: Elementary German 
+HIST 7370: Texts, Maps, and Networks: Readings and Methods for Digital History 
 
-Carolin Fuchs
+Dan Cohen
 
 Fall 2022
 
@@ -44,4 +44,4 @@ DITI's [Intro to StoryMap Video](https://youtu.be/X33ud7RYZFg)
 
 <h2>DITI Consultants</h2>
 
-Chris McNulty & Ana Abraham
+Colleen Nugent & Chris McNulty

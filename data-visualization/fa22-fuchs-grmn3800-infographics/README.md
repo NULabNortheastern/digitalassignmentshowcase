@@ -11,7 +11,7 @@ Learn about infographics as a mode of conveying information and explore how to m
 
 <h2>Materials for Module</h2>
 
-[Infographics Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-visualization/su22-fuchs-engw3315-infographics/Infographics-Slides.pdf)
+[Infographics Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-visualization/fa22-fuchs-grmn3800-infographics/Fuchs-german-program-infographics-slides.pdf)
 
 [Infographics Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-visualization/su22-fuchs-engw3315-infographics/Infographics-Handout.pdf)
 

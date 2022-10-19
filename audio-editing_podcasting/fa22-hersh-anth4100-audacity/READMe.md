@@ -27,13 +27,9 @@ This module will introduce students to the basics of Audacity and audio editing.
 
 <h2>DITI Consultants</h2>
 
-Tieanna Graphenreed
+Benjamin Grey
 
-Claire Tratnyek 
-
-Chris McNulty
-
-Anna Zhang
+Dipa Desai
 
 
 

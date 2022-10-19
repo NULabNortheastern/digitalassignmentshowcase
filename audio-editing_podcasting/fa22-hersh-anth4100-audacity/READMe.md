@@ -25,6 +25,14 @@ This module will introduce students to the basics of Audacity and audio editing.
 * Install and explore Audacity as an audio-editing tool
 * Learn best tips and practices for recording audio using Audacity 
 
+<h2>Module Materials</h2>
+
+[Audacity for Podcasting Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/audio-editing_podcasting/fa22-hersh-anth4100-audacity/Audacity_presentation.pdf)
+
+[Handout: Installing Audacity](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/audio-editing_podcasting/fa22-hersh-anth4100-audacity/handout-install_audacity.pdf)
+
+[Handout: Intro to Audacity](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/audio-editing_podcasting/fa22-hersh-anth4100-audacity/handout-intro_to_audacity.pdf)
+
 <h2>DITI Consultants</h2>
 
 Benjamin Grey

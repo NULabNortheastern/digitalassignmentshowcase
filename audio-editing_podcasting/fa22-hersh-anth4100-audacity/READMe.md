@@ -33,6 +33,8 @@ This module will introduce students to the basics of Audacity and audio editing.
 
 [Handout: Intro to Audacity](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/audio-editing_podcasting/fa22-hersh-anth4100-audacity/handout-intro_to_audacity.pdf)
 
+[Handout: Multi-Track Recordings with Transcripts](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/audio-editing_podcasting/fa22-hersh-anth4100-audacity/Handout-ZoomRecordings.pdf)
+
 <h2>DITI Consultants</h2>
 
 Benjamin Grey

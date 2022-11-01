@@ -10,33 +10,26 @@ Fall 2022
 
 <h2>Summary of Module</h2>
 
-This module will go over components of storytelling and how these components may be integrated in maps. Specifically, this workshop will teach students how to use [KnightLab StoryMap](https://storymap.knightlab.com/) web-browser application by providing step-by-step instructions, a sample map, and sample data for students to use to practice building their own maps.
+This module will go over components of digital mapping and provides an overview of available mapping tools. This module will consider the distinction between maps as a primary source and maps as a tool of analysis. Specifically, this workshop will teach students how to use Google My Maps by providing step-by-step instructions, a sample map, and sample data for students to use to practice building their own maps.
 
 <h2>Learning Goals</h2>
 
-* Understand components for compelling storytelling.
+* Understand components for digital mapping.
 * Understanding the particular choices made when building a map.
-* Understanding how to collect data for mapping.
-* Understanding KnightLab StoryMap's interface and where it gathers its information.
-
-<h2>Learning Objectives</h2>
-
-* Articulate particular choices made when telling a story using a map.
-* Follow a step-by-step guide for creating, saving, and publishing maps using KnightLab StoryMap.
-* Implement data into KnightLab StoryMap, including location information, images, and text.
-* Navigate StoryMap's map markers and location-finding system.
+* Understanding how to collect data and manage for mapping.
+* Understanding Google My Map's interface and how to build a digital map.
 
 <h2>Materials for Module</h2>
 
-[Mapping Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa22-fuchs-grmn1102-storymap/StoryMap_slides.pdf)
+[Mapping Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa22-cohen-hist7370-mapping/Mapping-Slides.pdf)
 
-[Handout: KnightLab StoryMap](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa22-fuchs-grmn1102-storymap/StoryMap_handout.pdf)
+[Handout: KnightLab StoryMap](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa22-cohen-hist7370-mapping/StoryMap-Handout.pdf)
 
-[Handout: Google My Maps](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa22-fuchs-grmn1102-storymap/StoryMap-spreadsheet-template_handout.pdf)
+[Handout: Google My Maps](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa22-cohen-hist7370-mapping/GoogleMyMaps-Handout.pdf)
 
 [Handout: Copyright and Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/Copyright-Fair-Use.pdf)
 
-[Black Heritage Trail Demo Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa22-fuchs-grmn1102-storymap/Black-Heritage-Trail-Demo_handout.pdf)
+[Black Heritage Trail Demo Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa22-cohen-hist7370-mapping/Black-Heritage-Trail-Demo.pdf)
 
 DITI's [Intro to StoryMap Video](https://youtu.be/X33ud7RYZFg)
 

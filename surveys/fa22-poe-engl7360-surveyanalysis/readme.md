@@ -21,7 +21,7 @@ This module introduces students to the tools and data available on the DataLab i
 
 ## Materials for Module
 
-### [Slides]()
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/surveys/fa22-poe-engl7360-surveyanalysis/Poe-ENGL7360-SurveyAnalysis.pdf)
 
 ## DTI Consultants
 Juniper Johnson and Ana Abraham

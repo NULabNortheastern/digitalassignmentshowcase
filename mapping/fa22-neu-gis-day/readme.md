@@ -34,14 +34,11 @@ This workshop will go over components of narrative storytelling and how these co
 
 ## Materials for Module
 
-### [Presentation Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa22-Hancock-FRNH2102-storymap/Hancock_Intro-to-StoryMap.pdf)
+### [Presentation Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa22-neu-gis-day/GIS-Day_IntroToStoryMap.pdf)
 
-### [Handout: KnightLab StoryMap](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa22-Hancock-FRNH2102-storymap/Handout_%20StoryMap.pdf)
+### [Spreadsheet Template](https://docs.google.com/spreadsheets/d/1wCm6d_AM3GmbHy89GEZ00p-hHA86a2-CKc_mnf4FEjQ/edit?usp=sharing)
 
-### [Spreadsheet Template](https://docs.google.com/spreadsheets/d/1wCm6d_AM3GmbHy89GEZ00p-hHA86a2-CKc_mnf4FEjQ/edit?usp=sharing) 
 ### [Demo Data Spreadsheet](https://docs.google.com/spreadsheets/d/1vF28NAiuiP6gwe2mlew6Q0ir4VKN3KBbW55Fxe9330E/edit?usp=sharing)
-
-### [ Handout: Copyright and Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/fa22-Hancock-FRNH2102-storymap/Handout_%20Copyright-fair-use.pdf)
 
 ### [DITI’s Intro to StoryMap video](https://youtu.be/X33ud7RYZFg) 
 

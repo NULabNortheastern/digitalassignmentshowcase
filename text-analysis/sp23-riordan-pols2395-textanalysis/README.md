@@ -1,11 +1,11 @@
 # Computational Text Analysis
 
 ## Individual Class Info
-ENGL 1400: Intro to Literary Studies
+POLS 2395: Environmental Politics and Policy
 <br>
-Mary Loeffelholz
+Nancy Riordan
 <br>
-Fall 2022
+Spring 2023
 <br>
 
 
@@ -24,12 +24,22 @@ This module goes over computational text analysis for a corpus of texts, specifi
 
 ## Documents for Module
 
-### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text-analysis/fa22-loeffelholz-engl1400-textanalysis/Introduction%20to%20Text%20Analysis%20for%20Literary%20Studies%20Slides.pdf)
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/text-analysis/sp23-riordan-pols2395-textanalysis/text-analysis-slides.pdf)
 
-### [Handouts](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/text-analysis/fa22-loeffelholz-engl1400-textanalysis/Handouts)
+### Handouts: 
+[Text Analysis Tools](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/text-analysis/Handout-Links_Resources.pdf)
+
+[Lexos](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/text-analysis/Handout-Lexos.pdf)
+
+[Voyant](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/text-analysis/Handout-Voyant.pdf)
+
+[Corpus Building](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/text-analysis/Handout-Corpus_Building.pdf)
+
+[DataBasic Suite](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/text-analysis/Handout-DataBasic_Suite.pdf)
+
 
 ### Data
-[Sample Corpus](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/text-analysis/fa22-loeffelholz-engl1400-textanalysis/ENGL1400%20Corpus)
+[Sample Corpus](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/text-analysis/sp23-riordan-pols2395-textanalysis/corpus_SOTU)
 
 ## DTI Consultants
-Margarida Rodrigues, Yunus Emre Tapan, Juniper Johnson, and Ana Abraham
+Sarah Connell

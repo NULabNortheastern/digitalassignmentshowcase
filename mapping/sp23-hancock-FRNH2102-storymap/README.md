@@ -39,7 +39,7 @@ Navigate StoryMaps’ map markers and location-finding system
 
 
 ## Materials for Module
-[KnightLab StoryMap Presentation Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/sp23-hancock-FRNH2102-storymap/Hancock_Intro-to-StoryMap.pdf) 
+[KnightLab StoryMap Presentation Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/sp23-hancock-FRNH2102-storymap/Hancock_Intro-to-StoryMap_edited.pdf) 
 
 [Handout: KnightLab StoryMap](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/mapping/Handout-StoryMap.pdf)
 

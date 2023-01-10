@@ -43,7 +43,6 @@ Experiment together with Voyant tools.
 
 [Slides Marshall SOCL4600](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/multi-domain-modules/sp23-marshall-socl4600-multi/Slides-Marshall.pdf)
 
-[Stopwords](https://drive.google.com/drive/u/1/folders/1lzpWK1lFTd40qNprBBbbNeyjaTfLBUsH)
 
 ## DITI Consultants
 Ana Abraham

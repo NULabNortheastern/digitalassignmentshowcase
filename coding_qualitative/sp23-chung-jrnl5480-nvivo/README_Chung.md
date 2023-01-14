@@ -30,7 +30,7 @@ This module will go over the basics of how to install NVivo and use the software
 
 [Downloading NVivo with Northeastern's ITS License](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/coding_qualitative/Handout-Installing_NVivo.pdf)
 
-[NVivo Installation Handout] (https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/coding_qualitative/Handout-Installing_NVivo.pdf)
+[NVivo Installation Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/coding_qualitative/Handout-Installing_NVivo.pdf)
 
 [NVivo Basics](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/coding_qualitative/Handout-NVivo.pdf)
 
@@ -38,9 +38,9 @@ This module will go over the basics of how to install NVivo and use the software
 
 [Sample Interview Transcript](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/coding_qualitative/sp23-chung-jrnl5480-nvivo/Sample-interview-transcript.docx)
 
-[Handout: Accessibility] (https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/Accessibility.pdf)
+[Handout: Accessibility](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/Accessibility.pdf)
 
-[Handout: Copyright & Fair Use] (https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/Copyright-Fair-Use.pdf)
+[Handout: Copyright & Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/Copyright-Fair-Use.pdf)
 
 
 <h2>DITI Consultants</h2>

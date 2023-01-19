@@ -30,17 +30,17 @@ This module will go over components of storytelling and how these components may
 
 [KnightLab StoryMap Presentation Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/sp23-rabrenovic-socl2358-storymap/SP23_Rabrenovic_Intro-to-StoryMap.pdf)
 
-[StoryMap Spreadsheet Template] (https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/sp23-rabrenovic-socl2358-storymap/StoryMap_Spreadsheet_Template.xlsx)
+[StoryMap Spreadsheet Template](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/mapping/sp23-rabrenovic-socl2358-storymap/StoryMap_Spreadsheet_Template.xlsx)
 
 [Handout: KnightLab StoryMap](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/mapping/Handout-StoryMap.pdf)
 
 [Handout: StoryMap Spreadsheet Template](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/mapping/Handout-StoryMap_Spreadsheet_Template.pdf)
 
-[Handout: Accessibility in StoryMap] (https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/mapping/Handout-Accessibility_StoryMap.pdf)
+[Handout: Accessibility in StoryMap](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/mapping/Handout-Accessibility_StoryMap.pdf)
 
-[Handout: Black Heritage Trail Demo] (https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/mapping/Handout-Black_Heritage_Trail.pdf)
+[Handout: Black Heritage Trail Demo](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/mapping/Handout-Black_Heritage_Trail.pdf)
 
-[Handout: Copyright & Fair Use] (https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/Copyright-Fair-Use.pdf)
+[Handout: Copyright & Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/Copyright-Fair-Use.pdf)
 
 <h2>DITI Consultants</h2>
 

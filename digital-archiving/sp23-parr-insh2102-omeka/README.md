@@ -25,7 +25,7 @@ Students will be able to use Omeka to curate items. Students will be able to suc
 
 <h2>Documents for Module</h2>
 
-[Omeka Presentation Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/digital-archiving/sp23-parr-insh2102-omeka/Omeka-presentation.pdf)
+[Omeka Presentation Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/digital-archiving/sp23-parr-insh2102-omeka/DITI-Omeka-INSH2102-Presentation.pdf)
 
 [Handout: Accessibility in Digital Content](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/Accessibility.pdf)
 

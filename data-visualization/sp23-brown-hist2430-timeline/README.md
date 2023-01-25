@@ -26,9 +26,13 @@ This module will go over components of storytelling and how these components may
 
 <h2>Materials for Module</h2>
 
-[KnightLab Timeline Presentation Slides]()
+[KnightLab Timeline Presentation Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-visualization/sp23-brown-hist2430-timeline/Brown-TimelineSlides.pdf)
 
 [Handout: KnightLab Timeline](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/data-visualization/Handout-Timeline.pdf)
+
+[Handout: Copyright and Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/Copyright-Fair-Use.pdf)
+
+[Handout: Accessibility Concerns](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/Accessibility.pdf)
 
 <h3>DITI Consultants</h3>
 

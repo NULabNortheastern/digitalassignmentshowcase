@@ -23,7 +23,7 @@ This module is an introduction to data interoperability, focusing on database an
 
 <h2>Documents for Module</h2>
 
-[Data Interoperability Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/digital-archiving/sp23-parr-insh2102-omeka/DITI-Omeka-INSH2102-Presentation.pdf)
+[Data Interoperability Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/digital-archiving/sp23-parr-insh-2102-data-interoperability/Parr-Nelson-INSH2102-Data-Interoperability.pdf)
 
 <h2>DITI Consultants</h2>
 

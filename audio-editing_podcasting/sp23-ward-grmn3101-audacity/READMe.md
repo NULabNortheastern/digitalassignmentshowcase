@@ -27,7 +27,7 @@ This module will introduce students to the basics of Audacity and audio editing.
 
 <h2>Module Materials</h2>
 
-[Audacity for Podcasting Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/audio-editing_podcasting/sp23-ward-grmn3101-audacity/Ward-AudacitySlides.pdf)
+[Audacity for Podcasting Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/audio-editing_podcasting/sp23-ward-grmn3101-audacity/Ward-AudacitySlides-Revised.pdf)
 
 [Handout: Intro to Audacity](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/audio-editing_podcasting/Handout-Audacity.pdf)
 

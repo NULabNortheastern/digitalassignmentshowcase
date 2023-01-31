@@ -6,11 +6,7 @@ SOCL 2358: Current Issues in Cities in Suburbs
 
 Gordana Rabrenovic
 
-Spring 2020
-
-<h2>Summary of Module</h2>
-
-This module demonstrates how to use the Tableau software suite to perform spatial analysis and visualizations. It is a two-day module. The first day will go over a tutorial and introduction to Tableau to teach students how to use the specific mapping and visualization software. The second day is a hands-on workshop where students will bring their own research questions to the data provided by Professor Rabrenovic and practice visualization and answering spatial questions using Tableau.
+Spring 2023
 
 <h2>Learning Goals</h2>
 
@@ -28,6 +24,6 @@ Students will learn how to use spatial data in a powerful mapping software to pr
 
 [Installing Tableau Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-visualization/sp20-rabrenovic-socl2358-tableau/handout-installing-tableau.pdf)
 
-[Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-visualization/sp20-rabrenovic-socl2358-tableau/Mapping_with_Tableau.pdf)
+[Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-visualization/sp23-rabrenovic-socl2358-tableau/Rabrenovic%20Mapping_with_Tableau%20Slides.pdf)
 
 [Data](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/data-visualization/sp20-rabrenovic-socl2358-tableau/data)

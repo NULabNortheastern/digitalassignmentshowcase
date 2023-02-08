@@ -22,7 +22,7 @@ Students will learn how to use different functions on a sample data structure an
 
 ### Presentation
 
-[Intro to Excel](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-management/sp23-doherty-eesh-excel/Introduction_to_Excel_Google Sheets_presentation.pdf) 
+[Intro to Excel](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-management/sp23-doherty-eesh-excel/Introduction_to_Excel_GoogleSheets_presentation.pdf) 
 
 ###  Handout 
 

@@ -2,9 +2,9 @@
 
 <h2>Individual Class Info</h2>
 
-HIST 7250: The Digital Archive
-Professor Jessica Parr
-Spring 2023
+HIST 7250: The Digital Archive <br>
+Professor Jessica Parr<br>
+Spring 2023<br>
 
 
 <h2>Summary of Module</h2>

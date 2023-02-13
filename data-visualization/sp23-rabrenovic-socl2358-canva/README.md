@@ -22,7 +22,7 @@ Understand how design choices impact accessibility of data visualizations.
 
 ## Materials for Module
 
-### [Canva Presentation](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-visualization/sp23-chung-jrnl5480-canva/Chung%20Accessible_Design_Infographics_Slides.pdf)
+### [Presenting Information Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-visualization/sp23-rabrenovic-socl2358-canva/Infographics%20%26%20Presentations_Slides.pdf)
 
 ### [Infographics Tools Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/data-visualization/Handout-Infographics_Tools.pdf)
 

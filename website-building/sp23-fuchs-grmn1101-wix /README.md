@@ -30,7 +30,7 @@ Create a Wix website.
 
 ## Materials for Module
 
-### [Wix Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website-building/su21-fuchs-grmn3800-wordpress-wix/Handout_Wix_WordPress_diti-summer2021-fuchs.pdf)
+### [Wix Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/website-building/Handout-Wix.pdf)
 
 ### [Wix Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website-building/su21-fuchs-grmn3800-wordpress-wix/Slides_Wix_WordPress_diti-summer2021-fuchs.pdf)
 

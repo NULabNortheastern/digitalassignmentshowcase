@@ -32,7 +32,7 @@ Create a Wix website.
 
 ### [Wix Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/website-building/Handout-Wix.pdf)
 
-### [Wix Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website-building/su21-fuchs-grmn3800-wordpress-wix/Slides_Wix_WordPress_diti-summer2021-fuchs.pdf)
+### [Wix Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website-building/sp23-fuchs-grmn1101-wix%20/Wix_slides%20.pdf)
 
 ## DITI Consultants 
 

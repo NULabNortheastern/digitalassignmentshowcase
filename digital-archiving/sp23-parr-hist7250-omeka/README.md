@@ -16,7 +16,8 @@ This module is an introduction to using OmekaS and teaches basic terminology, ho
 + Learn how to navigate OmekaS and add items and metadata
 + Learn different ways to organize items in OmekaS
 
-<h2>Learning Objectives<h2>
+<h2>Learning Objectives</h2>
+
 Students will be able to use OmekaS to curate items. Students will be able to successfully navigate OmekaS and add items, metadata, collections, tags, item types, simple pages, and exhibits.
 
 <h2>Documents for Module</h2>

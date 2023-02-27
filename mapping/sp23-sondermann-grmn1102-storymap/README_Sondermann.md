@@ -46,7 +46,7 @@ This module will go over components of storytelling and how these components may
 
 Chris McNulty
 
-Benjamin Grey
+Dipa Desai
 
 
 

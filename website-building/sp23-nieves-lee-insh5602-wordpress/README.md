@@ -18,7 +18,8 @@ This module will cover creating and designing a website using WordPress. It demo
 
 ## Documents for Module
 
-### [Module 1 Slides]()
+### [Module 1 Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website-building/sp23-nieves-lee-insh5602-wordpress/SP23Nieves-Lee-WordPress-Visit1-Slides.pdf)
+### [Module 2 Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/website-building/sp23-nieves-lee-insh5602-wordpress/SP23Nieves-Lee-WordPress-Visit2-Slides.pdf)
 ### [WordPress Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/website-building/Handout-WordPress.pdf)
 ### [Website Wireframing Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/website-building/Handout-Website_Wireframing.pdf)
 

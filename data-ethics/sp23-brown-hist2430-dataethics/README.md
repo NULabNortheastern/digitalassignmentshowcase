@@ -23,7 +23,7 @@ This module will introduce ethics, including what big data is and how it works, 
 
 <h2>Materials for Module</h2>
 
-[Data Ethics Slides]()
+[Data Ethics Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-ethics/sp23-brown-hist2430-dataethics/Data%20Ethics%20-%20Brown%20(Revised).pdf)
 
 [Data Ethics Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/data-ethics/Handout-Data_Ethics.pdf)
 

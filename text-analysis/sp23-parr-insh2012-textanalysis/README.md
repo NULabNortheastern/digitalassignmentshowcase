@@ -24,7 +24,7 @@ This module goes over computational text analysis for a corpus of texts, specifi
 
 ## Documents for Module
 
-### [Slides]()
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text-analysis/sp23-parr-insh2012-textanalysis/Parr-Nelson-TextAnalysis-Slides.pdf)
 
 ### Handouts: 
 [Text Analysis Tools](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/text-analysis/Handout-Links_Resources.pdf)
@@ -39,7 +39,7 @@ This module goes over computational text analysis for a corpus of texts, specifi
 
 
 ### Data
-[Sample Corpus]()
+[Sample Corpus](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/text-analysis/sp23-parr-insh2012-textanalysis/corpus_SOTU)
 
 ## DTI Consultants
 Juniper Johnson

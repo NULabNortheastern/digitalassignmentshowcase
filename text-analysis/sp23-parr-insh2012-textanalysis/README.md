@@ -43,4 +43,5 @@ This module goes over computational text analysis for a corpus of texts, specifi
 
 ## DTI Consultants
 Juniper Johnson
+<br>
 Ana Abraham

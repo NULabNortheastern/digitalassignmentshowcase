@@ -20,9 +20,9 @@ This module is an introduction to the text encoding initiative structure, and co
 
 <h2>Documents for Module</h2>
 
-[TEI Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/digital-archiving/sp23-parr-hist7250-tei/Parr-HIST7250-IntroTEI.pdf)
+[TEI Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text-encoding/sp23-parr-hist7250-tei/Parr-HIST7250-IntroTEI.pdf)
 
-[TEI Resources & Materials](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/digital-archiving/sp23-parr-hist7250-tei/TEI_Resources_and_Materials.pdf) 
+[TEI Resources & Materials](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text-encoding/sp23-parr-hist7250-tei/TEI_Resources_and_Materials.pdf) 
 
 <h2>DITI Consultants</h2>
 

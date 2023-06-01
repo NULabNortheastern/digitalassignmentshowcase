@@ -2,7 +2,7 @@ This repository collects the resources created by the [Digital Integration Teach
 
 <h3>Contact Information</h3>
 
-If you are a Northeastern faculty member interested in working with the Digital Integration Teaching Initiative team, please reach out to us via email: nulab.info@gmail.com
+If you are a Northeastern faculty member interested in working with the Digital Integration Teaching Initiative team, please reach out to us via email: nulab.info@gmail.com.
 
 <h3>Contributors</h3>
 

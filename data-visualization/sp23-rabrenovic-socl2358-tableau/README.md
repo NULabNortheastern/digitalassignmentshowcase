@@ -2,7 +2,7 @@
 
 <h2>Individual Class Info</h2>
 
-SOCL 2358: Current Issues in Cities in Suburbs
+SOCL 2358: Current Issues in Cities and Suburbs
 
 Gordana Rabrenovic
 

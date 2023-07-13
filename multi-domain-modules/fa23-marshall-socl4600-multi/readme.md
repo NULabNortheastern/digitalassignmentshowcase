@@ -41,7 +41,7 @@ Experiment together with Voyant tools.
 
 [Installing NVivo Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/coding_qualitative/Handout-Installing_NVivo.pdf)
 
-[Slides Marshall SOCL4600](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/multi-domain-modules/sp23-marshall-socl4600-multi/Slides-Marshall.pdf)
+[Slides Marshall SOCL4600]()
 
 
 ## DITI Consultants

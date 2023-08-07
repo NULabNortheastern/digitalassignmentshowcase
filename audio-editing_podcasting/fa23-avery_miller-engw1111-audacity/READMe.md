@@ -27,11 +27,11 @@ This module will introduce students to the basics of Audacity and audio editing.
 
 <h2>Module Materials</h2>
 
-[Audacity for Podcasting Slides]https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/audio-editing_podcasting/fa23-avery_miller-engw1111_1114-audacity/avery_miller-AudacitySlides.pdf
+[Audacity for Podcasting Slides]https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/audio-editing_podcasting/fa23-avery_miller-engw1111-audacity/avery_miller-AudacitySlides.pdf
 
-[Handout: Intro to Audacity] https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/audio-editing_podcasting/fa23-avery_miller-engw1111_1114-audacity/handout-intro_to_audacity.pdf
+[Handout: Intro to Audacity] https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/audio-editing_podcasting/fa23-avery_miller-engw1111-audacity/handout-intro_to_audacity.pdf
 
-[Handout: Download Audacity]https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/audio-editing_podcasting/fa23-avery_miller-engw1111_1114-audacity/handout-install_audacity.pdf
+[Handout: Download Audacity]https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/audio-editing_podcasting/fa23-avery_miller-engw1111-audacity/handout-install_audacity.pdf
 
 <h2>DITI Consultants</h2>
 

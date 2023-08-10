@@ -5,7 +5,7 @@ GRMN 3101: Advanced German 1
 
 Sandra Ward
 
-Spring 2023
+Fall 2023
 
 <h2>Summary of Module</h2>
 

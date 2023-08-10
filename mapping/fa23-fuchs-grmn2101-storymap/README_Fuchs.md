@@ -5,7 +5,7 @@ GRMN 2102: Intermediate German 2
 
 Prof. Carolin Fuchs
 
-Spring 2023
+Fall 2023
 
 
 <h2>Summary of Module</h2>
@@ -44,9 +44,9 @@ This module will go over components of storytelling and how these components may
 
 <h2>DITI Consultants</h2>
 
-Chris McNulty
+Yutong Si
 
-Benjamin Grey
+Kasya O'Connor Grant
 
 
 

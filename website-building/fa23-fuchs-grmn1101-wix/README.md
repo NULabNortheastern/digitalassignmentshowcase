@@ -6,7 +6,7 @@ German 1101: Elementary German 1
 
 Prof. Carolin Fuchs 
 
-Spring 2023
+Fall 2023
 
 ## Summary of Module
 
@@ -36,7 +36,6 @@ Create a Wix website.
 
 ## DITI Consultants 
 
-Chris McNulty
-
-Ana Abraham
+Yutong Si
+Kasya O'Connor Grant
 

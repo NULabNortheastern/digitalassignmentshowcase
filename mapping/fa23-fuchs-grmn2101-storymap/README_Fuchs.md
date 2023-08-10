@@ -32,6 +32,8 @@ This module will go over components of storytelling and how these components may
 
 [StoryMap Spreadsheet Template](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/mapping/fa23-fuchs-grmn2101-storymap/StoryMap_Spreadsheet_Template.xlsx)
 
+[Intro to Storymaps](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/mapping/fa23-fuchs-grmn2101-storymap/handout-intro_to_storymaps.pdf)
+
 [Handout: Knight Lab StoryMap](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/mapping/Handout-StoryMap.pdf)
 
 [Handout: StoryMap Spreadsheet Template](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/mapping/Handout-StoryMap_Spreadsheet_Template.pdf)

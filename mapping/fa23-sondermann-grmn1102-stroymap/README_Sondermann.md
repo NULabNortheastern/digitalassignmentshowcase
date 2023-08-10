@@ -3,7 +3,7 @@
 
 GRMN 2102: Intermediate German 2
 
-Prof. Carolin Fuchs
+Prof. Ruth Sondermann
 
 Fall 2023
 

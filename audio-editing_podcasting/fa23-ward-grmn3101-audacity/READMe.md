@@ -5,7 +5,7 @@ GRMN 3101: Advanced German 1
 
 Sandra Ward
 
-Spring 2023
+Fall 2023
 
 <h2>Summary of Module</h2>
 
@@ -27,7 +27,7 @@ This module will introduce students to the basics of Audacity and audio editing.
 
 <h2>Module Materials</h2>
 
-[Audacity for Podcasting Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/audio-editing_podcasting/sp23-ward-grmn3101-audacity/Ward-AudacitySlides-Revised.pdf)
+[Audacity for Podcasting Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/audio-editing_podcasting/fa23-ward-grmn3101-audacity/Ward-AudacitySlides.pptx.pdf)
 
 [Handout: Intro to Audacity](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/audio-editing_podcasting/Handout_%20Audacity.pdf)
 
@@ -35,10 +35,9 @@ This module will introduce students to the basics of Audacity and audio editing.
 
 <h2>DITI Consultants</h2>
 
-Benjamin Grey
+Yutong Si
 
-Ana Abraham
-
+Kasya O'Connor Grant
 
 
 

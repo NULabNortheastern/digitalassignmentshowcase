@@ -18,7 +18,7 @@ This module will cover creating and designing a website using WordPress. It demo
 
 ## Documents for Module
 
-### [Module 1 Slides - Digital Exhibits]
+### [Module 1 Slides - Digital Exhibits]: https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/website-building/fa23-aljoe-afam_engl2296-wordpress-digitalexhibits/Aljoe%20Intro%20to%20Digital%20Exhibitions.pdf
 ### [Module 2 Slides - Wordpress]
 ### [WordPress Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/website-building/Handout-WordPress.pdf)
 

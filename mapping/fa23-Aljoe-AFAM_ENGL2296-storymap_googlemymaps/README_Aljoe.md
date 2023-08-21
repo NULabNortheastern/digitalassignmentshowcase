@@ -27,7 +27,7 @@ This module will go over components of storytelling and how these components may
 
 <h2>Module Materials</h2>
 
-[Knight Lab StoryMap and Google MyMaps Presentation Slides]
+[Knight Lab StoryMap and Google MyMaps Presentation Slides]: https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/mapping/fa23-Aljoe-AFAM_ENGL2296-storymap_googlemymaps/Intro%20to%20Google%20MyMaps%20%26%20KnightLab.pdf
 
 [Handout: Knight Lab StoryMap](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/mapping/Handout-StoryMap.pdf)
 

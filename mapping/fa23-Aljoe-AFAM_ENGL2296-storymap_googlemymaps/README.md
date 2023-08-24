@@ -1,9 +1,7 @@
 <h1>Introduction to Knight Lab StoryMaps and Google MyMaps</h1>
 <h2>Individual Class Info</h2>
 
-GRMN 1102: Elementary German 2
-
-Prof. Aljoe
+Professor Nicole Aljoe
 
 AFAM/ENGL2296-Early African-American Literature
 

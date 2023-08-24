@@ -27,7 +27,7 @@ This module will go over components of maps and how these components can be used
 
 <h2>Module Materials</h2>
 
-[Google My Maps Slides]:(https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/mapping/fa23-diamantikaranou-intl1101-googlemymaps/googlemymaps-slides.pdf)
+[Google My Maps Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/mapping/fa23-diamantikaranou-intl1101-googlemymaps/googlemymaps-slides.pdf)
 
 [Handout: Copyright and Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/Copyright-Fair-Use.pdf)
 

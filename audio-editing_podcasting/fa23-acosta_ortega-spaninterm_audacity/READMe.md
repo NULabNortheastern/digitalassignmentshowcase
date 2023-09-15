@@ -1,7 +1,7 @@
 <h1>Introduction to Audio Editing with Audacity</h1>
 <h2>Individual Class Info</h2>
 
-Spanish in London
+Spanish in London, Intermediate
 
 Laura Acosta-Ortega
 

@@ -33,8 +33,8 @@ How to make creative and effective presentation slides so as to deliver a visual
 
 ## Materials for Module
 
-* [Slides]() 
-* [Handout]()
+* [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/digital-communication_presentation/fa23-diamantikaranou-intl3400-powerpoint/Diamanti-Karanou%20Powerpoint%20Slides.pdf) 
+* [Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/digital-communication_presentation/fa23-diamantikaranou-intl3400-powerpoint/Handout_PowerPoint.pdf)
 
 
 ## DITI Consultants

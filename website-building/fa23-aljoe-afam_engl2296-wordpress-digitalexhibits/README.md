@@ -25,8 +25,5 @@ This module will cover an introduction to Digital Exhibits and also creating and
 
 
 ## DITI Consultants:
-Hunter Moskowitz
-Kasya O'Connor Grant
-Sarah Connell
-Liam MacLean
+Hunter Moskowitz, Kasya O'Connor Grant, Sarah Connell, and Liam MacLean
 

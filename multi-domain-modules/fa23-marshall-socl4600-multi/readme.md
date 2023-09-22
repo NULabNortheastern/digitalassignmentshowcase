@@ -43,6 +43,8 @@ Experiment together with Voyant tools.
 
 [Slides Marshall SOCL4600](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/multi-domain-modules/fa23-marshall-socl4600-multi/FA23%20Slides-Marshall.pdf)
 
+[Sample Corpus](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/main/multi-domain-modules/fa23-marshall-socl4600-multi/corpus_SOTU)
+
 
 ## DITI Consultants
 Hunter Moskowitz

@@ -37,9 +37,9 @@ Experiment together with Voyant tools.
 
 [Voyant Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/text-analysis/Handout-Voyant.pdf)
 
-[NVivo Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/coding_qualitative/Handout-NVivo.pdf)
+[NVivo Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/coding_qualitative/Handout_%20NVivo.pdf)
 
-[Installing NVivo Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/coding_qualitative/Handout-Installing_NVivo.pdf)
+[Installing NVivo Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/coding_qualitative/Handout_%20Installing_NVivo.pdf)
 
 [Slides Marshall SOCL4600](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/multi-domain-modules/fa23-marshall-socl4600-multi/FA23%20Slides-Marshall.pdf)
 

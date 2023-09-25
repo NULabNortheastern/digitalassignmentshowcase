@@ -22,6 +22,13 @@ This module will cover an introduction to Digital Exhibits and also creating and
 ### [Module 2 Slides - Wordpress]
 ### [WordPress Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/website-building/Handout-WordPress.pdf)
 
+## Example Exhibits
+### [Mapping Phillis Wheatley](https://uploads.knightlab.com/storymapjs/23a49c89af0a440fc4a6ab49a471c9a2/wheatley-peters-journey/index.html)
+### [Black Artists of Boston, Napoleon Jones-Henderson](https://blackartistsofboston.org/artists/napoleon-jones-henderson/)
+### [Set at Liberty](https://express.adobe.com/page/eLxVbaIbhFbIE/)
+### [In the Same Boats](https://sameboats.org/#/trajectories)
+### [Linked Jazz](https://linkedjazz.org/network/)
+
 
 
 ## DITI Consultants:

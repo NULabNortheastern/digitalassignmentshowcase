@@ -1,4 +1,4 @@
-<h1>Introduction to Knight Lab StoryMaps and Google MyMaps</h1>
+<h1>Introduction to Knight Lab Story Map and Google MyMaps</h1>
 <h2>Individual Class Info</h2>
 
 Professor Nicole Aljoe

@@ -36,12 +36,14 @@ Qualitative Coding with NVivo
 
 ### Handouts
 [Installing NVivo](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/coding_qualitative/Handout_%20Installing_NVivo.pdf)
-<br/>
 
 [Intro to NVivo for Qualitative Coding](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/coding_qualitative/Handout_%20NVivo.pdf)
-<br/>
 
 [Sample Interviw Transcript](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/coding_qualitative/fa23-singer-nvivo/California%20Prison%20Inmates%20Interview.pdf)  
+
+[Accessibility Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/Accessibility.pdf)
+
+[Copyright & Fair Use Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/Copyright-Fair-Use.pdf)
 
 ## DITI Consultants
 Taught by Dipa Desai and Sean Rogers

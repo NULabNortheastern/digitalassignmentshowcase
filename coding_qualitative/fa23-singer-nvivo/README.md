@@ -23,7 +23,7 @@ Qualitative Coding with NVivo
 * Understand the purpose of NVivo’s qualitative toolset and how to apply it to documents
 
 ## Learning Objectives
-* * Understand the purpose of qualitative coding and how NVivo achieves this purpose
+* Understand the purpose of qualitative coding and how NVivo achieves this purpose
 * Define the specific NVivo terminology
 * Understand the mechanics creating an NVivo project and the layout of the user interface
 * Know how to import files, create codes, create analysis cases, code documents, and create annotations

@@ -27,7 +27,7 @@ This module will introduce students to the basics of Audacity and audio editing.
 
 <h2>Module Materials</h2>
 
-[Audacity for Podcasting Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/audio-editing_podcasting/fa23-acosta_ortega-spaninterm_audacity/Acosta-Ortega-Intermediate-AudacitySlides.pdf)
+[Audacity for Podcasting Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/e1025ddd7ce4c75e34c6cd21472e5845a09087b3/audio-editing_podcasting/fa23-acosta_ortega-spaninterm_audacity/Acosta-Ortega-Intermediate-AudacitySlides.pdf)
 
 [Handout: Intro to Audacity](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/audio-editing_podcasting/fa23-acosta_ortega-spaninterm_audacity/handout-intro_to_audacity.pdf)
 

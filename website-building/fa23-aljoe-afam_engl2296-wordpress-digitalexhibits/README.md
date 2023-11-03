@@ -29,7 +29,7 @@ This module will cover an introduction to Digital Exhibits and also creating and
 ### [In the Same Boats](https://sameboats.org/#/trajectories)
 ### [Linked Jazz](https://linkedjazz.org/network/)
 
-## Example Exhibits
+## Sample Page for Fall 2023
 ### [Sample Exhibit Page](https://ebbda.org/2296-f23-class-exhibit-template/)
 
 ## DITI Consultants:

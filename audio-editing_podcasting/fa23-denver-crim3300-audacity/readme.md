@@ -1,8 +1,11 @@
 <h1>Introduction to Podcasting</h1>
 
-Making an incarceration themed podcast using Audacity.
+Making an incarceration-themed podcast using Audacity.
 
 <h2>Individual Class Info</h2>
+CRIM 3300: Punishment in the Age of Mass Incarceration
+Megan Denver
+M, W, TH 10:30 AM to 11:30 AM
 
 <h2>Summary of Module</h2>
 
@@ -25,10 +28,12 @@ This module will go over the basics of Audacity, fair use, and podcasts. The sec
 
 <h2>Documents for Module</h2>
 
-[Slides]()
+[Slides]([audio-editing_podcasting/fa23-denver-crim3300-audacity/Denver-Audacity-Slides.pdf](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/audio-editing_podcasting/fa23-denver-crim3300-audacity/Denver-Audacity-Slides.pdf))
 
-[Introduction to Podcasting](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/audio-editing_podcasting/Handout-Audacity.pdf)
+[Introduction to Podcasting]([https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/audio-editing_podcasting/Handout-Audacity.pdf](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/audio-editing_podcasting/fa23-denver-crim3300-audacity/handout-intro_to_audacity.pdf))
 
-[Handout: Copyright and Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/Copyright-Fair-Use.pdf)
+[Handout: Copyright and Fair Use]([https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/Copyright-Fair-Use.pdf](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/audio-editing_podcasting/fa23-denver-crim3300-audacity/copyright-fair-use-handout.pdf)https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/audio-editing_podcasting/fa23-denver-crim3300-audacity/copyright-fair-use-handout.pdf)
 
-<h2>DITI Consultations</h2>
+<h2>DITI Consultants</h2>
+Claire Lavarreda
+Kasya O'Connor Grant

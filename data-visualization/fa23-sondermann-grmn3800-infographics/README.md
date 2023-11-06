@@ -1,5 +1,12 @@
 <h1>Making and Assessing Infographics</h1>
 
+<h2>Individual Class Info</h2>
+GRMN3800: The German-speaking World
+
+Ruth Sondermann
+
+Fall 2023
+
 <h2>Summary of Module</h2>
 
 Learn about infographics as a mode of conveying information and explore how to make infographics using a free online tool.

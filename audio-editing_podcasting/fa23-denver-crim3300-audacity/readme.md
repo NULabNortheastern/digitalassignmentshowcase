@@ -30,11 +30,12 @@ This module will go over the basics of Audacity, fair use, and podcasts. The sec
 
 <h2>Documents for Module</h2>
 
-[Slides]([audio-editing_podcasting/fa23-denver-crim3300-audacity/Denver-Audacity-Slides.pdf](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/audio-editing_podcasting/fa23-denver-crim3300-audacity/Denver-Audacity-Slides.pdf))
+[Intro Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/audio-editing_podcasting/fa23-denver-crim3300-audacity/Denver-Audacity-Slides.pdf)
 
-[Introduction to Podcasting](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/audio-editing_podcasting/fa23-denver-crim3300-audacity/handout-intro_to_audacity.pdf))
+[Introduction to Podcasting Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/audio-editing_podcasting/fa23-denver-crim3300-audacity/handout-intro_to_audacity.pdf)
 
-[Handout: Copyright and Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/audio-editing_podcasting/fa23-denver-crim3300-audacity/copyright-fair-use-handout.pdf)
+[Handout Copyright and Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/audio-editing_podcasting/fa23-denver-crim3300-audacity/copyright-fair-use-handout.pdf)
+
 
 <h2>DITI Consultants</h2>
 Claire Lavarreda +

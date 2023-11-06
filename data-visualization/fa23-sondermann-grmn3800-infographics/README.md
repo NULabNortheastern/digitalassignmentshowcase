@@ -1,6 +1,7 @@
 <h1>Making and Assessing Infographics</h1>
 
 <h2>Individual Class Info</h2>
+
 GRMN3800: The German-speaking World
 
 Ruth Sondermann

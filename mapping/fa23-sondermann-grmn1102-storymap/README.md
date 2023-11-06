@@ -1,7 +1,7 @@
 <h1>Introduction to Knight Lab StoryMaps</h1>
 <h2>Individual Class Info</h2>
 
-GRMN 2102: Intermediate German 2
+GRMN 1102: Elementary German 2
 
 Prof. Ruth Sondermann
 

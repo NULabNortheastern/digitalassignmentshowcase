@@ -4,6 +4,7 @@
 
 GRMN3800: The German-speaking World
 
+
 Ruth Sondermann
 
 Fall 2023

@@ -1,8 +1,0 @@
-To add a link in a caption, fill in the link you want to use between the quotation marks, 
-and replace the word "text" with the text you want to be linked:
-<a href="https://en.wikipedia.org/wiki/URL">text</a> 
-
-
-To add an image where you don't have an embed code to paste in, fill in the image's URL 
-between the quotation marks (if you are editing in the text box, make sure to switch to HTML first):
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Uniform_Resource_Locator.svg"/>

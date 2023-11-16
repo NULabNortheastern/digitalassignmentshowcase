@@ -29,7 +29,7 @@ This module will cover creating and designing a narrative using Twine. It demons
 
 [Handout: Introduction to HTML](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/HTML-Introduction.pdf)
 
-[Handout: Accessibility in Digital Content]([Handout: Introduction to HTML](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/0411a3a5138e78d07ac9b7980a79bc5b06f7bc22/Handout_%20Accessibility%20in%20Digital%20Content.pdf) 
+[Handout: Accessibility in Digital Content](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/0411a3a5138e78d07ac9b7980a79bc5b06f7bc22/Handout_%20Accessibility%20in%20Digital%20Content.pdf) 
 
 <h2>DITI Consultants</h2>
 

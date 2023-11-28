@@ -28,6 +28,4 @@ This module will cover creating and designing a website using WordPress. It demo
 
 
 ## DITI Consultants
-Hunter Moskowitz,
-Claire Lavarreda 
-Liam Maclean
+Hunter Moskowitz, Claire Lavarreda, & Liam Maclean

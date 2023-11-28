@@ -21,7 +21,7 @@ This module will cover creating and designing a website using WordPress. It demo
 
 ## Materials for Module
 
-### [WordPress Website Building Handout]()
+### [WordPress Website Building Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/website-building/Handout_%20WordPress.pdf)
 ### [Introduction to Website Building & WordPress Slides]()
 
 

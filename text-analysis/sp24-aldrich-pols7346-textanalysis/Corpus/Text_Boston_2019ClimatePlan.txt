@@ -1,0 +1,3975 @@
+1
+October 2019
+MAYOR MARTIN J. WALSH
+CITY OF BOSTON
+CLIMATE ACTION PLAN
+2019 UPDATE
+2 2019 Boston CAP Update
+CONTENTS
+INTRODUCTION.............................................................6
+CLIMATE ACTION ACROSS
+THE CITY.....................................................................................14
+OUR PROGRESS
+SINCE 2014.............................................................................17
+BOSTON’S CARBON
+FOOTPRINT.........................................................................23
+RISING TO THE CARBON
+NEUTRALITY CHALLENGE......................27
+2020-2024 CARBON
+REDUCTION PLAN.................................................. 31
+BUILDINGS.......................................................................................33
+1. Construct new municipal buildings to a zero
+net carbon standard....................................................................37
+2. Adopt a zero net carbon standard for City-funded
+affordable housing in Boston..................................................38
+3. Strengthen green building zoning requirements
+to a zero net carbon standard................................................40
+4. Invest in energy efficiency and renewable energy
+generation in municipal buildings .......................................42
+5. Develop a carbon emissions performance
+standard to decarbonize existing large buildings ........44
+2019 Boston CAP Update 3
+6. Expand workforce development programs
+for building decarbonization...................................................47
+7. Advocate for state building policies that
+align with carbon neutrality by 2050................................... 52
+TRANSPORTATION ...................................................................54
+8. Advocate for Boston’s priority transit projects within
+regional plans.................................................................................57
+9. Improve and expand active transportation
+infrastructure .................................................................................60
+10. Encourage mode shift through transportation
+demand management and sustainable parking
+policies...............................................................................................62
+11. Support citywide zero-emission vehicle
+deployment.....................................................................................65
+12. Accelerate municipal fleet transition to zeroand low-emission vehicles........................................................68
+ENERGY SUPPLY.........................................................................70
+13. Implement and expand Community
+Choice Energy.................................................................................71
+14. Plan for the deployment of carbon-neutral district
+energy microgrid systems........................................................73
+15. Support state policies and programs that further
+decarbonize the region's and Boston’s
+energy supply.................................................................................75
+A CARBON-FREE COMMUNITY....................................77
+16. Decarbonize the consumption of Boston
+residents and businesses..........................................................78
+17. Green municipal investments ................................................79
+18. Develop a values-based framework for
+carbon offsets.................................................................................79
+ACKNOWLEDGMENTS......................................................... 81
+© Image by k_notgeil from Pixabay
+4 2019 Boston CAP Update |
+© Jeremiah Robinson
+Now, we’re taking our next big step. The 2019 Climate Action Plan Update details
+the specific actions we will take over the next five years to significantly cut emissions across all sectors of
+city life, in order to reach our ultimate goal of carbon neutrality.
+Our work is informed by the most up-to-date science and projections from climate experts. The recent
+report from the United Nations Intergovernmental Panel on Climate Change (IPCC), as well as the United
+States’ Fourth National Climate Assessment, show that the global community must act with urgency to
+confront this crisis before it’s too late. In Boston, we’re heeding this warning, and setting a strong example
+by acting to become carbon neutral by 2050.
+The Climate Action Plan is by the people and for the people of Boston. Over five years, we talked with
+thousands of Bostonians at dozens of Greenovate events and public forums. We worked closely with
+businesses, non-profits, colleges and universities, and faith communities. We heard over and over that
+climate change is already affecting people’s lives. They have seen stronger storms and more flooding along
+our waterfront. This past summer was the hottest ever on record, with heat waves putting our most
+vulnerable communities at risk. Climate change is here. It’s happening now, and our city is united in our
+commitment to address it.
+This carbon reduction plan works hand-in-hand with Climate Ready Boston, our initiative to prepare
+neighborhoods for the impacts we know we will face as a result of climate change, as well as Resilient
+Boston Harbor, our plan to strengthen Boston’s entire 47-mile coastline with a system of parks, beaches,
+and trails that block floods and improve quality of life all year round.
+We know communities that contribute the least to climate pollution bear the greatest impacts of climate
+change. As we reduce emissions and prepare our communities for the impacts of climate change, we must
+place people first. This means designing and implementing policies for and with communities of color, lowincome neighborhoods, youth, older adults, women, people with impairments, persons facing homelessness,
+and people with limited English proficiency. This also means asking those who have contributed
+disproportionately to climate change to take action first. By placing equity at the heart of climate action, we
+can achieve fair outcomes for every Bostonian.
+Implementing this plan is a major undertaking, and it’s one of the most important challenges we’ll face as
+a city. It will require courageous solutions and creative teamwork. We must make our buildings and our
+transportation systems much more energy efficient. We must invest in clean energy and job training.
+We must rise to the occasion, because our city’s future depends on it. We will be successful, because
+Bostonians are known for pursuing what is right and just, even in the face of adversity. We know what’s at
+stake if we do not act with urgency. I look forward to working with you as we build a carbon-free and
+climate-ready future.
+Sincerely,
+Martin J. Walsh, Mayor
+2019 Boston CAP Update | Letter from the Mayor 5
+Dear neighbors,
+Addressing climate change has been a top priority for my administration ever
+since I took office in 2014. We’ve worked hard to cut the emissions that cause
+climate change, prepare our neighborhoods for its inevitable effects, and make
+sure Boston is a thriving and healthy community for generations to come. I’m
+proud of the progress we’ve made so far, from committing to become carbon
+neutral, to creating the first vision for a resilient Boston Harbor and coastline.
+We’ve made Boston a national and international leader in this work.
+6 2019 Boston CAP Update | Introduction
+INTRODUCTION
+The City of Boston has long recognized the importance of climate action to safeguard the future of our
+community. In 2007, the City began releasing and updating a Climate Action Plan that sets ambitious goals
+to reduce emissions and prepare for the impacts of climate change, and lays out strategies to reach them.
+In 2017, Mayor Martin J. Walsh strengthened our emissions reduction goal to achieving carbon neutrality.
+The 2019 Climate Action Plan Update sets the stage for Boston’s transition to carbon neutrality and
+describes our work plan for the next five years. By laying out detailed steps, this Plan sets the City and all
+of its partners up for success.
+2019 Boston CAP Update | Introduction 7
+Individuals and organizations across the city have
+already taken many significant steps to reduce
+their climate impact. Boston has added more
+than 24 MW in local solar power capacity since
+2015.1
+ More than 56,000 homes, or 22 percent of
+all households in Boston, have received no-cost
+energy assessments from Mass Save.2
+ The number
+of households that use fuel oil for heating has
+dropped from more than 45,000 to under 22,000.3
+Energy-positive (E+) homes are being built in
+Dorchester, Roxbury, Jamaica Plain and Mission
+Hill. Large commercial buildings (50,000 square
+feet or larger) reduced their total energy use by
+more than 7 percent between 2013 and 2017, and
+large new developments are identifying pathways
+to carbon neutrality and exploring district energy
+systems. Boston residents and workers drove 14
+percent fewer miles per person in 2017 than they
+did in 2005.
+1 Massachusetts Clean Energy Center, Renewable Energy Production Tracking System, accessed online July 2019.
+2 Data from Mass Save (2009- Q2 2019), and U.S. Census Bureau, American Community Survey (ACS), 5-Year Estimates.
+3 U.S. Census Bureau, American Community Survey (ACS), 1-Year Estimates.
+4 In this document, “carbon” or “carbon emissions” refers to greenhouse gas emissions measured in tons of carbon dioxide equivalent. For more information,
+please refer to the City of Boston Greenhouse Gas Inventory Methodology.
+The 2019 Climate Action Plan Update will accelerate
+Boston’s progress, charting a clear course for
+reaching Boston’s 2030 and 2050 carbon reduction
+goals.4
+ These actions will require the collaboration
+of all sectors, especially to ensure that benefits are
+shared equitably among Boston residents.
+WHAT IS CARBON NEUTRALITY?
+Carbon neutrality means releasing no net carbon
+emissions on an annual basis. For Boston, this
+means reducing carbon emissions from buildings,
+transportation, waste, and our energy supply as
+much as possible, and supporting activities that
+remove carbon from the atmosphere (carbon
+offsets) to compensate for any remaining emissions.
+According to the Carbon Free Boston analysis, we can
+eliminate up to 90 percent of carbon emissions using
+existing technologies.
+The City of Boston has installed solar panels on the roof of the Tobin Community Center.
+8 2019 Boston CAP Update | Introduction
+ YRS
+AHEAD OF
+SCHEDULE
+Boston reached its 2020 carbon
+target for municipal operations
+- City of Boston 2017 GHG Inventory Report
+MOST ENERGYEFFICIENT CITY
+1 2019
+in the country, 2013 through 2019
+- American Council for an Energy Efficient Economy
+to commit to Deadline 2020 - C40 Cities
+OF FIRST
+SIX CITIES National Planning
+Achievement Award for
+Resilience
+- American Planning Association
+10-MINUTE
+WALKS
+Every Bostonian lives within a
+10-minute walk from a high-quality
+public park
+- The Trust for Public Land
+BOSTON IS...
+#3 most walkable city in the U.S.
+- 2019 Walk Score
+#1
+
+2019 Boston CAP Update | Introduction 9
+STATE OF THE CLIMATE
+Since Boston released its first Climate Action Plan in 2007, our climate has changed considerably:
+5 Monthly Mean Average Temperature for Boston Area, MA from Northeast Regional Climate Center, NOWData, accessed online 4 September 2019.
+6 National Weather Service, “Boston Breaks Record Seasonal Snowfall,” 15 March 2015, accessed online 26 September 2019.
+7 National Weather Service, Record Event Report, April 22nd, 2019, accessed online 4 September 2019.
+8 Historic crest from National Weather Service, Boston Harbor Hydrograph, accessed online 26 September 2019.
+9 City of Boston, “Climate Ready Boston: Final Report,” December 2016, pp. xviii-xxxi.
+› July 2019 was Boston’s hottest month on record
+since record-keeping began in 1872.5
+› In the winter of 2015, Boston broke its all-time
+seasonal snow record since we began keeping
+records in 1872.6
+› On 22 April 2019, Boston received 2.3 inches of
+rain, which broke an 82-year old record. The
+previous single-day record was 1.89 inches in
+April 1937.7
+› In January 2018, Boston experienced a “bomb
+cyclone” that caused tidal surge and icy flooding.
+The National Weather Service recorded its
+highest water level since it began keeping records
+for Boston Habor in 1921.8
+As a coastal city, Boston is particularly vulnerable to sea level rise, as well as other effects of climate
+change such as extreme temperatures and precipitation. These effects will disproportionately affect
+communities of color, women, youth, disabled people, elderly people and people with limited English
+proficiency. Projected impacts include:9
+› By 2050, Boston’s summers may be as hot as
+Washington, DC’s summers are today; by the
+end of the century, they may be hotter than
+Birmingham, AL summers are today.
+› Heat-related mortality was 2.9 per 100,000 people
+per year in Boston from 1985 to 2016. This rate is
+expected to more than double in the 2020s. By
+the 2080s, this rate may more than triple to 10.5
+per 100,000 under a moderate emissions scenario,
+and could reach 19.3 per 100,000 in a “businessas-usual” emissions scenario.
+› As soon as the 2050s, 7 percent of the total land
+area in the city could be exposed to stormwater
+flooding from more frequent, more intense rain
+storms.
+› At the end of the century, between 10 and 20
+percent of Charlestown, East Boston, Downtown,
+and South Boston will face flooding at high tide,
+even when there is no storm.
+› In the latter part of this century (2070s or later),
+if we don’t act, the buildings most exposed to
+coastal and river flooding will predominantly be
+residential and mixed-use buildings that house
+over 88,000 people (nearly 15 percent of Boston’s
+population).
+The Charles River froze over during the winter of 2015,
+when Boston received a record amount of snow.
+© Robbie Shade
+Bostonians take a break from the summer heat in the Frog
+Pond at the Commons.
+© Caroline Stjarnborg
+10 2019 Boston CAP Update | Introduction
+BOSTON’S CLIMATE GOALS
+10 City of Boston, “Climate Ready Boston: Final Report,” December 2016, p. xviii.
+In 2011, the City of Boston set carbon reduction
+goals of 25 percent by 2020 and 80 percent by
+2050 below 2005 levels. To avoid more extreme
+climate change impacts, Boston, and indeed the
+entire global community, needs to take bolder
+action sooner. Future sea level rise and temperature
+change depend on how much we, around the
+world, are able to cut carbon emissions. With a
+sharp reduction in global emissions, end of
+century sea level rise could stay under two feet
+in Boston; a continuation of business as usual
+may result in over seven feet of sea level rise.10
+In his 2017 State of the City address, Mayor Martin
+J. Walsh announced Boston’s goal of carbon
+neutrality by 2050—an ambitious yet necessary
+commitment to meet the urgency of the climate
+challenge. Becoming carbon neutral means that in
+2050 Boston will release no net carbon emissions
+into the atmosphere. In Imagine Boston 2030, our
+city’s long-term strategic plan, we also set an
+interim carbon reduction goal of 50 percent by
+2030. Our carbon neutrality goal means that Boston
+is fulfilling our commitment to the Paris Climate
+Agreement and leading efforts to keep global
+warming under 1.5 degrees Celsius.
+By 2017, the City of Boston reduced emissions
+from municipal buildings and fleets by more
+than 40 percent below 2005 levels. Based on
+the progress the City expects to make in energy
+efficiency and renewable energy, this Plan increases
+our reduction goal for municipal operations from
+50 percent to 60 percent by 2030.
+CO2e
+WASTE REDUCTION
+Become a zero waste
+community and increase the
+recycling rate from 25% to
+ADAPTATION
+Prepare for sea level rise,
+hotter summers, and more
+rainfall during storms
+MITIGATION
+Reduce community-wide carbon
+emissions by
+50in 2030
+% 100in 2050
+%
+&
+Reduce municipal emissions by
+60in 2030
+% 100in 2050
+%
+&
+MOBILITY
+Empower Bostonians to
+access all parts of the city
+safely and reliably by transit,
+on foot or on a bike
+CONNECTED COMMUNITIES
+Enhance community connectivity so
+that all families may thrive in a
+carbon-neutral, climate-ready Boston
+80%
+2019 Boston CAP Update | Introduction 11
+CARBON REDUCTION AND CLIMATE ADAPTATION
+Why we need to do both
+Climate action has been divided into two primary strategies: carbon reduction and climate adaptation.
+Carbon reduction (sometimes called "mitigation") addresses the cause of climate change by stopping the
+release of greenhouse gases, and even drawing carbon out of the atmosphere. If we reduce emissions
+sufficiently, we can limit changes to the Earth's climate and avoid the worst climate change projections.
+Adaptation addresses the impacts of climate change by preparing communities and the natural and built
+environment to withstand local climate change impacts. Even if we achieve our carbon reduction goals, the
+unprecedented amount of carbon we have released into the atmosphere is already changing our climate.
+Adaptation to these locked-in changes is necessary. However, if Boston and other communities do not
+eliminate carbon emissions, climate change could overwhelm our adaptation efforts. Climate Ready Boston,
+described later in this report, is our initiative to prepare Boston for the effects of climate change.
+Effective climate action requires both adaptation and carbon reduction strategies.
+12 2019 Boston CAP Update | Introduction
+Reaching carbon neutrality aligns with our goals
+to enhance our community’s resilience to the
+impacts of climate change. The ambitious plans
+to protect the city from the impacts of climate
+change (Climate Ready Boston) will not be effective
+for long unless we address the cause. Actions to
+reduce carbon emissions also remove harmful air
+pollutants from our homes, places of work and
+streets. Making our buildings more energy efficient
+and fossil fuel free will make homes healthier and
+more comfortable and workplaces more productive.
+Investing in local clean power, energy storage and
+energy infrastructure will make our city more
+resilient to extreme weather. Investing in our
+building stock will create jobs and new business
+and research opportunities.
+The City of Boston is committed to simultaneously
+addressing racial and social equity and
+environmental challenges. Vulnerable groups
+such as communities of color and low-income
+neighborhoods are often disproportionately
+impacted by environmental shocks and stresses
+and are less likely to have access to the resources
+necessary for recovery. Climate action in Boston
+has two guiding principles for equity.
+First, people of color and low-income communities
+must not be disproportionately impacted by climate
+hazards. Second, benefits from climate mitigation
+and preparedness efforts should be shared
+equitably among all people.
+DEADLINE 2020
+The City of Boston is a member of C40 Cities, a global
+network of about 100 cities working together to limit
+climate change. Their 2017 report, Deadline 2020,
+found that the world’s megacities needed to take
+significant action by 2020 to be on a path to meet
+their targets under the Paris Agreement for keeping
+global temperature rise below 1.5 degrees Celsius.
+By taking the actions identified in Deadline 2020,
+C40 cities could deliver around 40 percent of the
+global savings needed to achieve the goals of the Paris
+Agreement. This Climate Action Plan Update is part
+of Boston’s commitment as a C40 member.
+Mayor Martin Walsh attends the grand opening for Walker Park Apartments and Delphine’s Courtyard Pocket Park in
+September 2019. The Walker Park Apartments are designed to a LEED Silver standard, equipped with high-efficiency
+heating systems and Energy Star-rated appliances. Future City-funded affordable housing projects will be designed to a
+Zero Net Carbon (ZNC) standard for healthier and greener affordable homes.
+© John Wilcox
+2019 Boston CAP Update | Introduction 13
+Image by k_notgeil from Pixabay
+14 2019 Boston CAP Update | Climate Action Across the City
+CLIMATE ACTION
+ACROSS THE CITY
+Climate action is not an isolated endeavor. Rather, it is inextricably tied to many of the City’s wider social,
+environmental and economic goals. For this reason, climate action is embedded in many other citywide
+plans.
+© Katherine Eshel
+2019 Boston CAP Update | Climate Action Across the City 15
+Imagine Boston 2030
+The City’s first comprehensive plan in 50 years,
+Imagine Boston 2030, sets a long-term vision for the
+City and outlines goals towards economic growth,
+increased affordability and equity, and climate
+change preparedness for 2030. This plan highlights
+some cross-cutting challenges and opportunities
+related to climate change, as the City assesses
+future policy, zoning, and other requirements in
+response to Boston’s changing needs. Strategies
+detailed in the report include steps towards
+improving environmental quality and resiliency
+of waterfront areas, enhancing energy efficiency
+and security, as well as preparing Boston’s built
+infrastructure and its residents for more frequent
+and intense heat waves, extreme storms, and
+flooding.
+Resilient Boston
+Urban resilience is the capacity of individuals,
+communities, institutions, businesses, and systems
+within a city to survive, thrive, adapt and grow no
+matter what kinds of chronic stresses and acute
+shocks they experience.11 Resilient Boston, the City’s
+strategy for advancing resilience and racial equity,
+began a community dialogue that resulted in four
+long-term visions for Boston. One of the long-term
+visions is a connected, adaptive city that will:
+› Develop a redundant and reliable public
+transportation network to provide equitable
+accessibility for all Bostonians;
+› Prepare for the impacts of climate change
+and other threats while accelerating sustainable
+infrastructure, environment, and communities; and
+› Improve the collaboration of partners working in
+Boston communities to address climate change
+and other emergencies.
+11 100 Resilient Cities, “What is Urban Resilience?,” accessed online 3 September 2019.
+Go Boston 2030
+The Go Boston 2030 Vision and Action Plan
+establishes goals and actions related to the
+transportation networks and assets in the City that
+include:
+› Expanding access of all modes of travel in
+Boston’s neighborhoods;
+› Improving safety related to transportation; and
+› Ensuring reliability of Boston’s transit and
+roadway networks.
+The plan highlights the importance of increasing
+the use of public transit in order to reduce
+greenhouse gas emissions, and incorporates
+measures to ensure the resilience of our
+transportation networks in light of projected
+climate change impacts. The Action Plan details
+58 projects and policies including transit and active
+transportation projects that would contribute to
+reductions in emissions.
+Open Space and Recreation Plan 2015-2021
+The Open Space and Recreation Plan presents
+an inventory of existing open space throughout
+the City. The Plan identified three central
+challenges, one of which is climate change and
+resilience, complementing the 2014 Climate
+Action Plan. Objectives and actions related to
+this challenge include:
+› Evaluating opportunities for open space to serve
+as protective infrastructure in coastal areas and
+flood zones;
+› Evaluating heat, energy use, and waste generation
+related to City parks; and
+› Developing best practices and performance
+measures for green infrastructure in the City’s
+open space sites.
+16 2019 Boston CAP Update | Climate Action Across the City
+Boston Housing 2030
+In 2014, Boston released an updated housing
+plan that supports neighborhood health, the
+environment, community development, and
+economic growth. This plan starts with the need
+to build approximately 53,000 new housing units
+to accommodate the projected population growth
+by 2030, a task that would also create 51,000
+construction jobs. A 2018 update increased the
+housing construction goal to align with updated
+population projections, and made a stronger
+commitment to affordability, prevention of
+displacement, and equitable housing access. The
+plan now calls for 69,000 new units of housing at
+a variety of income levels by 2030. That includes
+nearly 16,000 new units of income-restricted
+housing, which will bring Boston’s total number of
+income-restricted units to 70,000. As the building
+sector represents the single greatest contribution
+to the city’s energy consumption and carbon
+emissions, it is critical to ensure these new housing
+units are built to a standard consistent with our
+carbon neutrality goal. The City is promoting
+Transit-Oriented Development (TOD) to reduce the
+climate impact of new growth. Under the Boston
+Housing 2030 plan, 64 percent of all new housing
+production to date has been in highly transitaccessible areas (5 minute-walk to major transit),
+compared to just 37 percent in the existing
+housing stock.
+BuildBPS
+In September 2015, the city launched the BuildBPS
+master plan process. The report, released in March
+2017, outlines strategies to address much-needed
+upgrades to the City’s educational facilities with
+a long-range capital investment strategy. The
+BuildBPS initiative focuses on reducing the number
+of times students change schools from pre-K to
+grade 12, increasing access to quality learning
+centers, and siting new facilities in areas with
+low access to educational resources. The Plan
+adopted energy efficiency as a guiding principle
+for new construction, and, as BPS improves
+its existing facilities, identified climate control
+and electrical upgrades, green roofs, and solar
+and energy efficiency projects as opportunities
+to create environments that are conducive to
+learning, reduce operating costs, and demonstrate
+leadership on climate.
+Every summer for the past few years, Newbury Street becomes car-free open space on select weekends, as part of the
+Open Newbury Street series.
+© Jeremiah Robinson
+2019 Boston CAP Update | Our Progress Since 2014 17
+OUR PROGRESS
+SINCE 2014
+The Greenovate Boston 2014 Climate Action Plan Update — the second update to the original 2007 plan —
+laid out 35 strategies and 98 actions, and set ambitious goals for 2020 and beyond. This section describes
+some of the major initiatives taken to implement the plan. A more detailed progress report is available on
+the City of Boston website.
+Mayor Martin Walsh attends the opening of Martin's Park, a climate-resilient and inclusive park and play space is the
+first of its kind in the City.
+© John Wilcox
+18 2019 Boston CAP Update | Our Progress Since 2014
+CLIMATE READY BOSTON
+Preparing for the impacts of climate change
+12 City of Boston Climate Ready Boston Progress Tracker, accessible online.
+In accordance with the
+2014 Update , the City
+launched the Climate
+Ready Boston program
+and released the
+Climate Ready Boston
+plan in December 2016.
+Developed with support
+from the Boston Green
+Ribbon Commission and
+other local partners, the
+Climate Ready Boston plan included updated local
+climate projections, a detailed vulnerability analysis,
+and strategies to enhance our community’s
+preparedness for climate change. The report
+identified three major risks: sea level rise, extreme
+heat, and extreme precipitation. The social
+vulnerability analysis identified communities and
+assets especially at risk from the impacts of climate
+change, including people of color, low-income
+people, women, youth, disabled people, people with
+limited English proficiency and older residents. The
+Climate Ready Boston plan included 11 strategies,
+with 39 actions. The Climate Ready Boston progress
+tracker is updated twice a year.12
+We are working every day to be a Climate
+Ready Boston. [...] We’re not just planning for
+the next storm we will face — we’re planning
+for storms the next generation will face.”
+- Mayor Martin J. Walsh, 2018 remarks to the Greater Boston Chamber of Commerce
+The City launched the Climate Ready Dorchester process
+to develop coastal resilience solutions for the
+neighborhood at an open house in September 2019.
+2019 Boston CAP Update | Our Progress Since 2014 19
+Resilient Boston Harbor (above) is Mayor
+Walsh’s climate-ready vision to enhance Boston’s
+waterfront. Announced in the fall of 2018, Resilient
+Boston Harbor shows how a network of accessible
+open spaces and climate-ready buildings and
+infrastructure will increase resilience to major
+flooding events, while also increasing access and
+open space area along the waterfront. Like all the
+City’s current planning, it prepares the City for
+40 inches of sea-level rise, expected around the
+2070s. Furthering Mayor Walsh's vision are a
+series of detailed neighborhood plans for coastal
+resilience. Coastal resilience plans are complete
+for parts of East Boston and Charlestown, for
+South Boston, and are underway for Downtown,
+the North End, and Dorchester.
+The Boston Planning & Development Agency
+(BPDA) has released coastal flood resilience design
+guidelines that serve as a reference for residents,
+business owners and developers to translate
+flood resilience strategies into best practices. The
+guidelines will also be used to administer a future
+Coastal Flood Resilience Zoning Overlay District.
+Recommendations for the Zoning Overlay District
+have been developed and are under internal review
+as of October 2019. The BPDA has also enacted the
+Smart Utilities Policy to prepare Boston's utility
+infrastructure for the impacts of climate change,
+and to increase the uptake of green infrastructure,
+district energy, and other smart technologies in
+large new developments.
+20 2019 Boston CAP Update | Our Progress Since 2014
+GO BOSTON 2030
+Reducing transportation emissions
+Go Boston 2030 is
+the City’s longterm plan to
+transform Boston’s
+transportation
+system. In
+accordance
+with the 2014
+Climate Action
+Plan Update,
+Go Boston 2030
+adopted climate
+responsiveness
+as a guiding
+principle and set goals to make Boston a city where
+all residents have better and more equitable travel
+choices, where efficient transportation networks
+foster economic opportunity, and where the City
+has taken steps to prepare for climate change.
+By emphasizing accessibility, safety and reliability,
+Go Boston 2030 will make it easier and more
+attractive for Bostonians to go car-free. Actions
+to shift travelers from driving alone to choosing
+shared and active transportation modes will
+make travel more efficient, reduce total vehicle
+miles traveled in Boston, and help decrease our
+transportation carbon emissions.
+Since the plan’s adoption, the City has invested in
+30 new staff positions and started implementing
+many of the projects it laid out, including new bus
+lanes along priority corridors, mobility hubs, and
+key bike infrastructure connections.
+The City of Boston has begun implementing Zero
+Waste Boston strategies, including expanding
+education and outreach campaigns around
+recycling in partnership with institutions like the
+New England Aquarium. The City is now developing
+curbside composting and textile recycling programs
+for residents.
+CITIZEN SCIENCE IN BOSTON
+In the summer of 2019, the Museum of Science
+led a citizen science project to map the air
+temperatures experienced by residents in the
+summer. Dark, dense materials like asphalt in
+cities absorb heat during the day and release
+it back into the air at night, a phenomenon
+known as the Urban Heat Island effect. Hot
+summer nights can exacerbate the health effects
+of daytime exposure to high temperatures by
+disrupting sleep and increasing stress and
+dehydration. With the help of the Museum of
+Science, volunteers attached temperature sensors
+to their cars and bikes to collect data in Boston,
+Cambridge and Brookline. Partner scientists are
+using the data to create a map of temperatures
+that residents experience in their neighborhoods.
+Source: Climate Ready Boston Map Explorer
+2019 Boston CAP Update | Our Progress Since 2014 21
+ZERO WASTE BOSTON
+Making Boston a waste- and litter-free city
+In June 2019, Mayor
+Walsh released the
+Zero Waste Boston
+plan, completing
+another action
+from the 2014 plan.
+The Zero Waste
+Boston initiative
+aims to divert at
+least 80 percent
+of the City’s waste
+from landfills and
+municipal solid
+waste combustors
+by 2035. The Zero Waste Boston strategies could
+reduce carbon emissions from waste disposal by
+60 percent.
+Short- and long-term measures to become a
+zero-waste city include:
+› New services to handle capacity for increased
+diversion (waste collection services, drop off
+centers, transfer facilities);
+› New rules to incentivize source reduction and
+waste diversion activities (requirements, fees,
+bans); and
+› Education and outreach initiatives for residents
+and businesses to adopt new activities (technical
+assistance, behavior change marketing
+campaigns, grants).
+Boston residents can drop off residential food scraps
+for composting in the Project Oscar bin outside City
+Hall and four other locations. The City is developing a
+curbside composting program for residents.
+ZERO WASTE
+BOSTON
+REDUCE & REUSE
+NI C
+R
+EASE
+COMPOSTING
+INSPIRE INNOVATION
+RECYCLE
+MORE
+© Katherine Eshel
+22 2019 Boston CAP Update | Our Progress Since 2014
+GREENOVATE
+BOSTON
+Engaging Boston residents in climate action
+Greenovate is Mayor Walsh’s initiative to empower
+Boston residents to carry out community-level
+action in support of Boston’s climate resilience,
+carbon neutrality, and zero waste goals.
+Greenovate’s mission is to expand the community
+of people in Boston who are aware of, talking
+about, and taking action on climate change.
+Launched in 2017, the Greenovate Boston
+Community Leaders program is increasing
+awareness and understanding about the climate
+impacts that Boston is facing, and involving
+Bostonians in developing and advancing climate
+actions to address it. To date, nearly 300
+Bostonians have participated in the program.
+Through their engagement and community
+actions, the Leaders have reached more than
+2,000 community members. Recently the program
+added a new track for highly engaged residents to
+participate as co-facilitators of the program and
+serve as community ambassadors to the City’s
+climate and energy planning.
+Greenovate Boston maintains a climate action
+guide for Boston residents to reduce their
+carbon footprint at home, at work, in school and
+around town. Newly developed behavior change
+campaigns combine behavioral science and
+marketing strategies will inform and motivate
+actions by Boston residents that collectively
+could produce significant carbon reductions.
+13 Based on self-reported data from 750 buildings.
+BUILDING ENERGY
+REPORTING
+Informing and supporting buildings to
+reduce energy use
+In April 2013, the City enacted the Building Energy
+Reporting and Disclosure Ordinance (BERDO).
+The ordinance requires that all commercial and
+residential buildings that are 35,000 square feet
+or have 35 units or more report their energy and
+water use to the city each year. The City of Boston
+then discloses this information on Analyze Boston,
+the City’s open data platform. The City provides
+outreach and support to help property owners and
+the compliance rate reached 90 percent of square
+feet in 2018. The BERDO data indicate that the first
+cohort of buildings to start reporting reduced their
+average energy use by 7 percent between 2014 and
+2017.13
+In addition to the reporting requirement, every
+five years, buildings must show they have taken
+action to reduce their energy use or emissions by
+15 percent or conducted a detailed assessment of
+options to reduce their energy use. In 2019, the
+first cohort of buildings that began reporting to
+BERDO are now completing the energy action and
+assessment requirement.
+Over 2,200 buildings are covered by BERDO.
+These buildings account for over 258 million square
+feet, or 34 percent of Boston’s total floor space,
+as well as a significant proportion of Boston’s
+carbon emissions.
+2019 Boston CAP Update | Boston’s Carbon Footprint 23
+The City of Boston has released an annual inventory of carbon emissions attributable to the City’s
+residents and economic activity since 2005. The inventory allows the City to understand where our
+emissions come from, quantify the potential impacts of programs and policies to reduce emissions, and
+track progress towards our goals. The inventory accounts for emissions from energy use by residents,
+businesses and other activities, on- and off-road transportation (excluding airplanes), and waste
+management. To compile the inventory, we incorporate data from Boston utilities, data on fuel oil and
+vehicle fuel consumption, and a combination of measured and modeled transportation data.
+BOSTON’S CARBON
+FOOTPRINT
+© Bill Walker
+24 2019 Boston CAP Update | Boston’s Carbon Footprint
+Boston Community Carbon Emissions, 2005-2017, and Progress Towards Goals (in metric tons)
+Since 2005, Boston’s emissions have decreased
+by approximately 21 percent, from 7.9 to 6.1 million
+metric tons of carbon. The reduction in Boston’s
+emissions has occurred at the same time that
+the population and the number of jobs in Boston
+have increased. Per capita emissions have
+decreased from 15 metric tons of carbon in 2005,
+to 9 metric tons in 2017. Emissions per million
+dollars of Gross City Product (GCP) have fallen
+from 86 to 48 metric tons of carbon per million
+dollars over the same period.
+Almost all of the Boston community’s carbon
+emissions stem from the building and
+transportation sectors: buildings account for
+71 percent of total emissions; transportation
+accounts for nearly 29 percent of remaining
+emissions. Boston is currently on track to meet
+our 2020 carbon target.
+WASTEWATER TREATMENT
+SMALL RESIDENTIAL
+19%
+COMMERCIAL, INDUSTRIAL/ LARGE RESIDENTIAL
+52%
+<1%
+FUGITIVE EMISSIONS
+<1%
+TRANSPORTATION
+29%
+Boston Carbon Emissions by Source, 2017
+0
+1M
+2M
+3M
+4M
+5M
+6M
+7M
+8M
+Straight Line to 2020 Goal Straight Line to 2050 Goal Total Emissions
+2010 2020 2030 2040 2050
+2019 Boston CAP Update | Boston’s Carbon Footprint 25
+FACTORS DRIVING THE CHANGE
+14 Based on total vehicle miles traveled and State reported combined gasoline and gasohol data from Federal Highway Administration, Highway Statistics
+2005 and Highway Statistics 2017.
+Approximately 45 percent of Boston’s emissions
+reduction comes from the generation of cleaner
+electricity. This is the result of state and regional
+action to clean the New England electric grid, as
+well as falling natural gas prices. The Regional
+Greenhouse Gas Initiative (RGGI), a cap-and-trade
+program for power plants in the Northeast, has
+also helped make New England’s electricity cleaner.
+Mandates to increase the amount of renewable
+supply on the grid, like the Commonwealth's Clean
+Energy Standard, will continue to support this
+trend. By replacing coal and oil with natural gas
+and, increasingly, renewables, New England power
+generators are producing more electricity with less
+carbon.
+Fuel oil used for heating has also fallen by half
+since 2005. More than 20,000 Boston households
+have replaced fuel oil with cheaper, lower-carbon
+natural gas or electric heating systems. As heating
+systems are replaced, they can be upgraded with
+more efficient systems, or switched to systems that
+do not require the use of fossil fuels, like electric
+air-source and air-to-water heat pumps.
+Steam generation for the Kendall power station,
+which supplies much of Downtown, has become
+cleaner due to fuel-switching from oil to natural gas
+and the addition of the Kendall cogeneration plant
+in 2014. The Kendall plant previously discharged
+hot process water directly into the Charles River,
+but now recovers the energy for steam distribution.
+The project not only cut the carbon intensity of
+steam, but also reduced sulfur dioxide and nitrogen
+oxide pollution.
+Transportation emissions in Boston have held
+steady, despite a growing number of jobs attracting
+commuters to Boston. While the total miles driven
+in Boston has increased, individual travelers are
+driving fewer miles on average. Vehicles are also
+getting better mileage. Thanks to federal standards,
+the average fuel economy of Massachusetts vehicles
+increased 17 percent between 2005 and 2017.14
+Source of Carbon Reductions, 2005-2017
+-200,000 0 200,000 400,000 600,000 800,000 1,000,000
+More Driving (VMTs)
+Better MPG (Fuel Economy)
+Steam Use Reduction
+Natural Gas Use Reduction
+Heating Oil Use Reduction
+Electricity Use Reduction
+Cleaner Steam
+Cleaner Electricity
+Metric Tons of Carbon Reductions
+Over 45 percent of past emissions reductions were due to a cleaner electricity grid, as power plants have switched from
+coal and oil to gas.
+26 2019 Boston CAP Update | Boston’s Carbon Footprint
+PROGRESS TOWARDS OUR 2020 GOALS
+The City of Boston has made progress towards the
+goals set in the 2014 Climate Action Plan Update.
+The Boston community is on track towards our
+initial goal of reducing carbon emissions 25 percent
+by 2020.
+In 2017, our emissions had decreased 21 percent
+from 2005 levels. We have also made progress
+towards the other 2020 targets set in the 2014
+Climate Action Plan Update:
+2020 TARGETS ACHIEVED TO DATE
+72,000 completed home energy audits 56,714 audits (79 percent of target) completed
+through Mass Save between 2009 and Q2 of 2019
+36,000 weatherizations, heating system
+replacements or other significant upgrades
+27,631 projects (77 percent of target) completed
+through Mass Save between 2009 and Q2 of 2019
+7 percent energy use reduction across all BERDO
+buildings
+7 percent average energy use reduction across the
+first cohort of BERDO buildings from 2013 to 2017
+15 percent of energy use from cogeneration 125 megawatts of co-generation installed through
+2018
+10 megawatts of commercial solar 15 megawatts (150 percent of target) installed since
+2015
+Improved fuel economy 17 percent improvement between 2005 and 2017
+5.5 percent below 2005 vehicle miles traveled (VMT) Total VMT increased 14 percent while VMT per
+capita decreased 14 percent between 2005 and
+2017
+The Kendall cogeneration plant (pictured to the left) delivers green steam to hundreds of buildings in downtown Boston.
+© Katherine Eshel
+2019 Boston CAP Update | Rising to the Carbon Neutrality Challenge 27
+RISING TO THE
+CARBON NEUTRALITY
+CHALLENGE
+While Boston is on track to meet our 2020 carbon target, we are not yet on a path to meet our 2050
+carbon neutrality goal. That’s why this Climate Action Plan Update is advancing priority actions for
+the next five years to put us on track for carbon neutrality. We will continue to work with our
+residents and local businesses and institutions, as well as international, national and regional
+partners, to implement our vision of a carbon-neutral Boston.
+28 2019 Boston CAP Update | Rising to the Carbon Neutrality Challenge
+GLOBAL LEADERSHIP AND REGIONAL
+COLLABORATION
+15 Commonwealth of Massachusetts, "Global Warming Solutions Act 10-Year Progress Report," April 2019.
+The City of Boston is on the forefront of climate
+action. In 2017, Mayor Walsh, joined a bipartisan
+coalition of 3,500 leaders in government, business,
+faith, and cultural institutions, to sign the “We Are
+Still In” declaration, pledging Boston’s continued
+support for the Paris Climate Agreement, even as the
+U. S. President announced his intention to withdraw
+the United States from the agreement. Boston is
+also committed to meeting the Paris goals as a
+member of the Global Covenant of Mayors (GCoM)
+for Climate and Energy, an international alliance of
+cities and local governments that facilitates local
+partnerships, fosters a network of information
+sharing and publicly reports progress on carbon
+reduction and climate preparedness efforts.
+Boston also participates in national and
+international networks dedicated to sharing
+lessons learned and collaborating with cities
+across the globe. In 2014, Boston joined the C40
+Cities Climate Leadership Group, an international
+network of cities that are committed to action to
+address climate change through sustainable and
+quantifiable approaches. Mayor Walsh is a member
+of C40's steering committee. The City of Boston is
+also one of the founders the Urban Sustainability
+Directors Network (USDN), which enables peer-topeer learning and joint projects among more than
+180 North American cities.
+The City of Boston works with partners in state
+government to further our common climate
+goals. The Global Warming Solutions Act is the
+Commonwealth of Massachusetts’ framework
+legislation to reduce carbon emissions across the
+state by 80 percent from 2005 levels by 2050. Recent
+reports indicate that statewide carbon emissions in
+2016 were 21 percent below the 1990 level.15 In 2019,
+the Commonwealth launched the "80x50 Study" to
+assess a suite of mid- and long-term policies for the
+Commonwealth to best meet its 2050 goal.
+Mayor Walsh participates in a panel discussion with
+Mayor Turner of Houston, Mayor Garcetti of Los
+Angeles, and Mayor Rogero of Knoxville, during the 2018
+International Mayors Climate Summit in Boston.
+We are America’s
+climate champion,
+with a target
+date of 2050 for
+going 100 percent
+carbon-neutral.”
+- Mayor Martin J. Walsh, State of the City 2017
+© Isabel Leon
+2019 Boston CAP Update | Rising to the Carbon Neutrality Challenge 29
+The City of Boston and the 14 other neighboring
+cities and towns in the Metropolitan Mayors
+Coalition (MMC) collaborate on climate change
+issues that are affecting, and will continue to
+impact, communities in the region. In 2017, all MMC
+municipalities committed to achieving net-zero
+carbon emissions by 2050. Their actions range from
+expanding electric vehicle charging infrastructure
+to implementing community-wide zero-waste plans
+to adopting green building zoning requirements.
+The MMC cities and towns have also committed to
+coordinating climate preparedness efforts.
+ENGAGING RESIDENTS
+AND LOCAL
+STAKEHOLDERS IN
+CLIMATE ACTION
+For the 2019 Update, we broadly engaged the
+community to make sure our climate strategies
+reflect our values and work for everyone. Making
+our city carbon neutral and climate ready needs
+the help of all Boston residents, community groups,
+businesses, cultural institutions, and other local
+and metro area stakeholders. The City of Boston
+needs partners to collaborate on new programs and
+policies, and to innovate and take action within their
+own communities and industries.
+A street team engaged more than 1,400 residents and
+commuters in the 2019 Climate Action Plan Update.
+More than 70 organizations participated in the working
+group that helped to develop this Plan.
+© Katherine Eshel
+30 2019 Boston CAP Update | Rising to the Carbon Neutrality Challenge
+A Street Team of Boston youth and residents
+engaged residents and commuters throughout
+Boston and learned about their climate action
+priorities, challenges, and needs. More than
+10 community-based organizations supported
+the Street Team by recruiting participants and
+distributing information and surveys to their
+membership. By taking climate action engagement
+into Boston’s neighborhoods, the Street Team
+engaged communities whose voices are often
+underrepresented in climate action planning,
+including:
+› Black, Latinx, and other communities of color;
+› Low-income communities;
+› Community college and vocational school
+students;
+› Renters;
+› Small business owners (especially minority- and
+women-owned businesses); and
+› Youth.
+The City of Boston assembled a community
+Working Group to help identify key strategies
+and develop roadmaps for them. The Working
+Group included representatives of community
+groups, environmental justice and environmental
+advocacy groups, labor unions, student
+associations, developers, real estate and
+architecture associations, green construction
+companies, transportation service providers,
+regional agencies, neighboring municipalities,
+faith-based organizations, academic and cultural
+institutions, and more.
+Moving forward, the Greenovate Boston program
+will continue to raise awareness and provide
+resources for residents to live sustainably,
+train residents to lead climate action in their
+communities, and connect Bostonians to
+engagement and volunteer opportunities
+with the City.
+The City will also continue to engage civic, business
+and institutional leaders in climate action, building
+on existing partnerships with organizations such as
+the Boston Green Ribbon Commission.
+Continuing our tradition of partnership and
+education around climate in Boston ensures that
+we can transform our community to become a
+carbon-neutral Boston that is healthy, thriving
+and resilient.
+2019 CAP UPDATE COMMUNITY
+PARTICIPATION BY THE NUMBERS
+› More than 70 organizations participated in the
+Working Group, which met four times.
+› 20 Boston youth and other residents, including
+fluent Spanish, Haitian Creole and Mandarin
+Chinese speakers, received training and
+participated in the Street Team.
+› The Street Team attended 19 community events
+and engaged more than 1,400 residents and
+commuters, collecting more than 700 survey
+responses and conducting 16 interviews with small
+businesses, 14 of which were minority- and/or
+women-owned.
+2019 Boston CAP Update | 2020-2024 Carbon Reduction Plan 31
+Mayor Walsh has set a goal of making Boston carbon neutral by 2050. This plan focuses on
+strategies to accelerate emissions reductions from Boston’s buildings, transportation
+systems, and energy supply.
+2020-2024 CARBON
+REDUCTION PLAN
+32 2019 Boston CAP Update | 2020-2024 Carbon Reduction Plan
+ABOUT THE CARBON FREE
+BOSTON REPORT
+Mayor Walsh commissioned the Carbon Free
+Boston report from the Boston Green Ribbon
+Commission (GRC) in 2017. The analysis, led by
+the Boston University Institute for Sustainable
+Energy (ISE), assessed policy and existing
+technology options to decarbonize Boston’s
+buildings, transportation, waste and energy
+sectors by 2050. The report, released early in
+2019, presented pathways to carbon neutrality
+for the four sectors, as well as a framework
+to approach carbon offsets. The report was
+followed up with a social equity report and
+sector-specific technical reports.
+The Carbon Free Boston analysis concluded
+that to reach carbon neutrality, Boston must:
+› Reduce demand for energy by increasing
+efficiency;
+› Convert nearly everything that runs on fossil
+fuels to run on electricity; and
+› Buy 100 percent carbon-free electricity.
+For buildings, the analysis indicated that
+adopting a Zero Net Carbon standard for new
+construction by 2030, and retrofitting and
+electrifying at least 80 percent of existing
+buildings are essential steps. In transportation,
+measures from the Go Boston 2030 plan to
+shift travelers from driving alone to shared
+and active modes are key to reduce vehicle
+miles traveled (VMT) and energy needs; Carbon
+Free Boston then found that all remaining
+drivers will need to switch to electric or other
+zero-emissions vehicles. The strategies laid out
+in Zero Waste Boston, our zero-waste plan, can
+decrease 78 percent of annual direct emissions
+from waste disposal.
+Based on findings from the Carbon Free Boston
+analysis and input from the community working group
+and other stakeholders, the 2019 Update details the
+most impactful strategies to help Boston meet its
+2030 and 2050 carbon reduction goals. In particular,
+it focuses on key steps for the building, transportation
+and energy sectors over the next five years.
+In order to ensure that climate action results in
+positive outcomes for all Bostonians, the 2019 Update
+process involved both an inclusive public engagement
+approach and a community-based working group. As
+we implement these strategies, the City of Boston will
+work with people of color, low-income communities,
+and other socially vulnerable communities, to achieve
+fair outcomes for all Bostonians.
+Carbon Free
+Boston
+Summary Report 2019
+The Carbon Free Boston analysis is the technical backbone of
+the 2019 Climate Action Plan Update.
+2019 Boston CAP Update | Buildings 33
+Boston’s buildings account for approximately 71 percent of our community carbon emissions, and represent
+the greatest opportunity for emissions reductions. Decarbonizing Boston’s building sector depends on
+shifting to zero net carbon (ZNC) new construction by 2030, and retrofitting and electrifying at least 80
+percent of our existing buildings over the next 30 years.
+BUILDINGS
+© E. Huybrechts
+34 2019 Boston CAP Update | Buildings
+The 2,200 largest buildings represent about
+34 percent of Boston’s total floor area and account
+for close to half of our total emissions. The
+remaining building emissions come from 84,000
+buildings. In many cases, smaller buildings may be
+easier to make carbon neutral now, but the largest
+buildings typically have more management and
+financial resources. Therefore, large and small
+buildings require different strategies and tools.
+In a carbon-neutral building sector, all new
+development needs to be ZNC or energy positive.
+Since 2014, the City of Boston has seen 4 to 6 million
+square feet per year of new building space.
+By 2050, Boston is expected to add 122 million
+square feet of new development. By shifting to ZNC
+new construction, building developers prevent the
+need for high-cost retrofits in the future. Timing
+matters. Adopting a ZNC standard by 2030 would
+cut 17 percent of cumulative emissions from new
+construction to 2050; adoption by 2023 would
+cut another 17 percent. The shift to ZNC building
+standards will also need to ensure that all ZNC
+development is resilient, and that ZNC residential
+development is inclusionary and affordable. The
+City of Boston can build on existing green building
+zoning requirements, including Article 37 of the
+Zoning Code.
+Boston has more than
+estimated
+amount of
+emissions
+from Boston
+buildings in
+2017
+Estimated number of buildings that need to undergo deep
+energy retrofits and be electrified by 2050
+86,000buildings
+CO2
+e
+4.3MMT
+15%
+80%
+of additional
+floorspace from new
+construction by 2050
+New buildings need to be built to a
+zero net carbon standard by 2030
+2019 Boston CAP Update | Buildings 35
+For existing buildings, widespread deep energy
+retrofits and fossil fuel-free heating and hot water
+systems are the most effective carbon reduction
+strategies. 85 percent of floorspace that will exist
+in 2050 has already been built. To reach carbon
+neutrality, four out of five buildings in Boston
+will need to implement deep energy retrofits and
+electrification by 2050. Deep energy retrofits can
+reduce citywide emissions by up to 40 percent
+using commercially available technologies. The
+City of Boston will lead by example by retrofitting
+municipal buildings, and will require private
+building owners to reduce their building emissions
+by introducing carbon performance standards.
+Both steps leverage existing incentives in state
+programs such as Mass Save. The work necessary
+to retrofit Boston’s buildings has the potential
+to support the local economy and expand local
+career opportunities in energy efficiency and
+construction. It will also be important to develop
+anti-displacement strategies, specific strategies
+for affordable housing and historic buildings, and
+flexible compliance mechanisms.
+WHAT ARE ZERO NET ENERGY
+(ZNE) AND ZERO NET CARBON
+(ZNC) BUILDINGS?
+A ZNE building is a low-energy building that meets
+all of its annual energy needs with on-site renewable
+energy. ZNE buildings are typically connected to
+the electric grid. Some buildings are even energypositive (E+) and deliver surplus energy to the grid.
+A ZNC building is a low-energy fossil fuel-free
+building that meets its annual energy needs from
+a mix of on- and off-site renewable energy assets.
+Even with on-site renewable energy generation,
+larger and more energy-intensive buildings, like
+medical or laboratory facilities, may require off-site
+renewable energy delivered by the grid to be ZNC.
+ZNE and ZNC buildings employ better insulated
+roofs and walls, better windows, and smaller,
+more efficient, fossil fuel-free heating, cooling, and
+ventilating systems to reduce energy loads. In new
+construction, cost savings from smaller systems
+offset other additional costs, enabling ZNE and ZNC
+buildings to be delivered for little or no added cost.
+Low energy buildings with renewable energy and
+energy storage are more resilient and reduce stress
+on the electric grid.
+A ZNC building code would establish better standards
+for low-energy buildings and on-site renewable
+energy systems.
+36 2019 Boston CAP Update | Buildings
+WHAT DOES IT MEAN TO CARRY
+OUT A DEEP ENERGY RETROFIT
+AND ELECTRIFY A BUILDING?
+Deep energy retrofits achieve at least a 50 percent
+energy use reduction by:
+› Upgrading mechanical systems, lighting systems,
+and appliances;
+› Insulating walls, roofs, crawlspaces, and
+foundations;
+› Upgrading HVAC and plumbing;
+› Replacing windows;
+› Air sealing; and
+› Installing renewable energy systems where
+possible.
+Electrification means converting fossil fuel systems
+to electric equivalents. For example, a building owner
+could replace a fuel oil boiler with a heat pump. By
+combining deep energy retrofits with electrification
+and clean energy procurement, existing buildings
+can become carbon neutral.
+Decarbonizing Boston’s buildings requires a
+favorable regulatory context. The City of Boston
+will work with state, regional and local partners
+to support a building sector-wide shift toward
+energy-efficient practices and fossil fuel-free
+building systems and programs that connect
+Boston residents, women, people of color and
+youth to careers in green building and operations.
+The City will also advocate for state-level policy and
+program changes, including a ZNC building code
+and improvements to utility incentive programs, to
+better support our carbon neutrality goal.
+The City of Boston will pursue the following
+strategies to reduce building emissions over the
+next five years:
+1. Construct new municipal buildings to a zero net
+carbon standard
+2.Adopt a zero net carbon standard for City-funded
+affordable housing in Boston
+3.Strengthen green building zoning requirements
+to a zero net carbon standard
+4.Invest in energy efficiency and renewable energy
+generation in municipal buildings
+5.Develop a carbon emissions performance
+standard to decarbonize existing large buildings
+6.Expand workforce development programs for
+building decarbonization
+7. Advocate for state building policies that align
+with carbon neutrality by 2050
+2019 Boston CAP Update | Buildings 37
+CONSTRUCT NEW MUNICIPAL
+BUILDINGS TO A ZERO NET CARBON 1 STANDARD
+The City of Boston will strengthen its new
+municipal building requirements to a multi-tiered
+Zero Net Carbon (ZNC) standard. This standard
+will significantly reduce or completely eliminate
+the use of fossil fuels in future City buildings.
+By implementing this multi-tiered ZNC standard,
+along with high-efficiency climate and lighting
+systems, and efficient building enclosures,
+consumption of energy generated by fossil fuels will
+be significantly reduced, if not totally eliminated.
+Because municipal buildings account for threequarters of carbon emissions from local municipal
+operations, higher standards for building energy
+performance are essential to reach the Mayor’s
+goal, and prepare Boston and its residents for
+future challenges. In the next few years, the City
+will look to apply a similar standard to large-scale
+building renovations.
+EXPECTED BENEFITS
+Up to 17,000 tons of annual carbon
+emissions avoided from municipal
+activities
+Improved air quality in and around the
+buildings leading to better and healthier
+environments
+Provides ZNC examples for other
+sectors and neighboring municipalities
+BOSTON’S ZNC STANDARD
+There are four tiers that comprise the City’s
+established ZNC standard. The City will, upon
+individual project evaluation, target the most
+stringent tier possible. Each of these tiers is
+reliant on a carefully engineered, high-efficiency
+mechanical system and building enclosure.
+› ZNC-onsite: a ZNC-onsite building is one
+that is optimally efficient, has no onsite fossil
+fuel combustion, and over the course of a year,
+generates renewable energy onsite in a quantity
+equal to or greater than the total amount of
+energy consumed onsite.
+› ZNC-offsite: in contrast to ZNC onsite, this
+option allows for energy from offsite renewable
+sources to be included. Such fuel sources could
+include the purchase of renewable energy
+credits (RECs), or participation in a clean power
+purchase agreement (PPA).
+› ZNC-ready: a building that is ZNC-ready
+would become ZNC (either onsite or offsite)
+when its electricity is supplied by 100 percent
+renewable sources.
+› ZNC-convertible: a building that uses electricity
+supplemented with some onsite fossil fuel use
+(e.g., combined heat and power), but that can be
+readily changed over to 100 percent renewable
+energy sources upon availability.
+38 2019 Boston CAP Update | Buildings
+ADOPT A ZERO NET CARBON
+STANDARD FOR CITY-FUNDED 2 AFFORDABLE HOUSING IN BOSTON
+The City of Boston will create and implement
+zero net carbon (ZNC) emissions guidelines for
+the construction of new affordable housing in
+Boston. These guidelines will increase the baseline
+requirements for new construction to a net-zero
+emissions standard in 2020, and extend it over the
+next few years to the retrofit of existing buildings.
+Housing a Changing City, a comprehensive plan that
+addresses the housing needs of Boston’s growing
+population, sets a goal of creating 69,000 new
+units of housing at a variety of income levels across
+the city. This includes nearly 16,000 new units
+of income-restricted housing, bringing Boston’s
+total number of income-restricted units to 70,000
+by 2030. The plan also points out the benefits of
+lowered utility costs and increased environmental
+health that can be provided by zero net carbon
+and energy-positive homes. This is particularly
+important since utility costs in Boston are among
+the highest nationally, and disproportionately
+impact households that are cost-burdened.
+DESIGNING FOR EQUITY
+› Prioritize resources to ensure those living in
+affordable housing are among the first to receive
+the benefits of clean and energy efficient homes
+METRICS FOR SUCCESS
+› 100 percent of new publicly funded affordable
+housing built after 2020 is ZNC or ZNC-ready
+EXPECTED BENEFITS
+Avoided carbon emissions from new
+construction
+Reduced maintenance costs
+Increased access to renewable energy
+through on-site generation
+Health benefits from improved indoor
+air quality and level of comfort
+Reduction in energy costs for
+households
+Energy-positive townhomes in Roxbury produce more
+energy than they need, thanks to energy-efficient design
+and on-site solar generation.
+© Katherine Eshel
+2019 Boston CAP Update | Buildings 39
+STEPS TIMELINE
+New construction 1. Release Department of Neighorhood Development (DND)
+Guidelines for Zero Emissions Buildings
+2019
+2.Identify high-carbon intensive building materials to avoid and
+suggest greener, alternative materials
+2019-2020
+3.Give special consideration in 2019 funding round to Zero Emission
+Buildings
+2019
+4.Update DND Request for Proposals (RFP) language to reflect new
+Zero Emission Building standards
+2020
+5.Connect facilities managers to Building Operator Training
+programs
+Ongoing
+Existing buildings 1. Assess existing affordable housing stock and strategies for deep
+energy retrofits with combined electrification
+2020
+2.Partner with affordable housing providers and residents to
+demonstrate and develop deep energy retrofit technologies
+(panelization systems, compact highly efficient mechanical
+systems, etc.) and processes by performing deep energy retrofits
+on properties across the city
+Starting 2020
+3.Develop design guidelines for deep energy retrofits with
+electrification
+• Assess incremental cost and evaluate financial resource needs
+• Integrate resilience strategies into these guidelines for areas at
+risk to flooding, increased heat, other extreme weather events
+By 2022
+4.Update RFP language to reflect deep energy retrofit and
+electrification strategies
+By 2022
+EXISTING TOOLS AND EFFORTS
+› In 2011, the City launched the E+ Green Building
+Program. This program has demonstrated the
+feasibility of energy positive multi-family homes
+in Boston’s neighborhoods with over 14 units
+completed and more than 100 in the pipeline
+including affordable housing in Dorchester,
+Jamaica Plain, Mission Hill and Roxbury.
+COMMUNICATION AND EDUCATION
+› Produce design workshops for affordable housing
+architects and developers to present and discuss
+the City’s proposed pathways for achieving zero
+net carbon buildings
+› Partner to develop workforce training program
+to educate contractors, project managers, and
+developers on air-sealing, framing, and other
+best practices for Zero Emissions building
+40 2019 Boston CAP Update | Buildings
+STRENGTHEN GREEN BUILDING ZONING
+REQUIREMENTS TO A ZERO NET 3 CARBON STANDARD
+Building on existing resources and tools, the City
+will expand and strengthen its green building
+requirements to a zero net carbon (ZNC) standard
+in order to accelerate towards our 2050 carbon
+neutrality goal.
+A ZNC standard requires that buildings emit no
+net carbon emissions. A ZNC building has an
+airtight, well-insulated exterior envelope and
+smaller, more efficient all-electric or carbon-free
+heating, cooling, and hot water systems. There are
+no on-site fossil fuel systems. Combined with onsite renewable generation and off-site renewable
+energy purchases, ZNC buildings with efficient
+envelopes and no fossil fuel systems can run
+entirely on clean, renewable energy, thus bringing
+their annual carbon emissions down to zero.
+To strengthen its green building requirements, the
+Boston Planning & Development Agency (BPDA)
+will lead a public process to develop new zoning.
+As part of that work, the BPDA will work with other
+key City departments and engage the building
+sector and community.
+DESIGNING FOR EQUITY
+› Prioritize energy-positive (E+) ZNC projects
+in low-income and environmental justice
+communities
+› Develop mechanisms to mitigate issues related to
+affordability, gentrification and displacement of
+low-income renters
+METRICS FOR SUCCESS
+› 100 percent of developments covered by the
+policy are built to a ZNC standard
+EXPECTED BENEFITS
+Up to a 19 percent reduction in total
+annual building emissions from business
+as usual
+Increased thermal comfort and indoor
+air quality improvements for building
+occupants
+Avoided costs of deep energy retrofits
+to comply with future performance
+standards
+Lower operating costs for building
+owners and lower energy bills for
+tenants and occupants
+COMMUNICATION AND EDUCATION
+› Public awareness campaigns and recognition
+programs explaining the benefits of ZNC
+buildings and celebrating practice leaders
+including partnering with local professional
+organizations and advocacy groups
+› Workshops and training on ZNC design,
+engineering, and construction practices and their
+benefits and opportunities for building owners,
+developers, contractors, inspectors and endusers
+› Public outreach to residents, businesses,
+property owners, and design and real estate
+stakeholders in the development - and later, the
+implementation - of zoning recommendations
+and design guidelines
+2019 Boston CAP Update | Buildings 41
+STEPS TIMELINE IMPLEMENTERS &
+PARTNERS
+1. Require that building developers submit a CarbonNeutral Building Assessment as part of Article 37 zoning
+review requirements
+2019 BPDA, City
+2.Promote new ZNC buildings in the Boston area to
+improve knowledge of ZNC costs and best practices
+Ongoing BPDA, in partnership
+with developers,
+architects and
+engineers, academic
+institutions, energyfocused community
+organizations
+3.Launch technical analysis and public process to:
+• Assess the feasibility of ZNC standards for building
+types and develop timeline for implementation
+• Assess on-site renewable energy practices and
+standards and procurement of off-site renewable
+energy
+• Explore extending green building requirements to
+small project review (developments between 20,000
+and 50,000 square feet)
+• Develop zoning recommendations for a ZNC standard
+2019-2020 BPDA, City, technical
+experts, industry
+stakeholders,
+utilities, community
+groups
+4.Enact new zoning requirements and timeline for
+implementation
+2020 BPDA
+5.Evaluate the creation of a carbon linkage fee Starting 2020 City, BPDA
+6.Communicate, educate, and oversee compliance of ZNC
+building requirements
+Starting 2021 BPDA, City, industry
+associations,
+community groups
+EXISTING TOOLS AND EFFORTS
+› Article 37 of the Boston Zoning Code currently
+requires that all new construction subject
+to Article 80 Large Project Review (generally
+50,000 square feet and over) meet minimum
+sustainability standards, using the LEED rating
+system. This system awards a range of points
+for energy performance, connectivity to
+transit, indoor air quality, construction waste
+management, and in other environmental
+impact realms. The Article 37 review process
+also includes a sustainability narrative, a climate
+change resiliency checklist and coordination with
+the Smart Utilities Policy.
+› In 2011, the City adopted the Massachusetts
+Stretch Energy Code, which sets higher building
+energy efficiency and performance standards
+above the state’s Base Building Energy Code.
+In June 2019, the Board of Building Regulations
+and Standards instructed their Energy Advisory
+Committee to recommend ways in which to
+incorporate net-zero energy provisions into the
+energy code.
+42 2019 Boston CAP Update | Buildings
+The Renew Boston Trust is the City’s initiative to
+finance energy efficiency in municipal buildings.
+The City of Boston invests in energy conservation
+measures in its buildings, then pays itself back
+using the money saved on our energy bills, which is
+guaranteed by the City’s contractor. This creative
+financing allows the City to move more quickly to
+make municipal buildings more efficient. The first
+phase of the Renew Boston Trust included energy
+conservation measures at 14 municipal buildings
+and solar-generated electricity at three sites.
+The City will also work to coordinate self-funding
+energy conservation measures with planned
+capital improvements to maximize the impact
+of our investments. In particular, this financing
+approach will support BuildBPS, the Mayor’s
+comprehensive initiative to modernize schools
+and build new school buildings. The Renew Boston
+Trust invested $10 million in Phase 1, and will
+invest an additional $10 million in Phase 2 and
+$25 million in Phase 3.
+DESIGNING FOR EQUITY
+› The City will work with its contractor to expand
+outreach to minority contractors and increase
+compliance with the Boston Resident Jobs Policy.
+› By investing in energy efficiency, we will make
+indoor air temperatures more comfortable for
+students and teachers in Boston’s public schools,
+as well as for City employees across municipal
+buildings.
+EXPECTED BENEFITS
+Phase 1: 1 percent reduction in annual
+municipal carbon emissions, $600,000
+in energy savings per year
+Phase 2+: additional emissions
+reductions and energy savings (size
+to be determined)
+Health and comfort benefits of heating,
+ventilation and air conditioning
+upgrades in municipal buildings,
+including fire stations and schools
+EXISTING TOOLS AND EFFORTS
+› In 2018, the City piloted Building Operator
+Certification (BOC) training to ensure facility
+operators from Boston and surrounding
+municipalities are equipped to make Cityowned buildings perform at their highest level.
+Additional municipal BOC trainings are planned.
+In partnership with the Massachusetts Clean
+Energy Center, the Renew Boston Trust will install
+battery energy storage at the Boston Fire Training
+Academy on Moon Island. This new equipment
+will increase the resilience of the facility, as well as
+provide recruits with the opportunity to train with
+energy storage systems. The Trust will also install
+solar thermal water heating systems at Boston
+Fire Department stations elsewhere in the city.
+INVEST IN ENERGY EFFICIENCY
+AND RENEWABLE ENERGY 4 GENERATION IN MUNICIPAL BUILDINGS
+2019 Boston CAP Update | Buildings 43
+STEPS TIMELINE
+1. Complete Phase 1 projects 2019-2020
+2.Select building portfolio and carry out energy assessments for Phase 2 2019
+3.Explore developing a separate energy service contract for streetlights 2020
+4.Complete design and begin installation of Phase 2 energy conservation measures By mid-2020
+5.Select building portfolio, including schools, and carry out energy assessments for
+Phase 3
+By late 2020
+6.Secure funding and begin early scoping for Phase 4 By 2021
+7. Complete design and begin installation of Phase 3 energy conservation measures By early 2021
+The City of Boston has installed solar panels on the roof of the Roslindale Community Center through the Renew Boston
+Trust program.
+44 2019 Boston CAP Update | Buildings
+The City of Boston will develop and introduce
+a performance standard to reduce carbon
+emissions from Boston’s existing large buildings.
+Just 2,200 of Boston’s largest buildings represent
+about 34 percent of Boston’s total floorspace and
+approximately half of our total emissions.
+The standard will require that all buildings larger
+than a certain threshold meet fixed carbon targets
+that decrease over time. Performance standards
+specific to different building typologies will
+ensure that buildings make steady progress on
+emissions reductions, while allowing building
+owners to develop solutions that are cost-effective
+and appropriate for the building’s use. The new
+standard will build on the reporting requirement
+of the Building Energy Reporting and Disclosure
+Ordinance (BERDO), and replace the current energy
+action and assessment requirement.
+The City will work with partners to develop case
+studies and foster best practices throughout the
+Boston region. This includes sharing lessons from
+demonstrations of deep energy retrofits and thermal
+electrification in different building types. The City
+will also collaborate with neighboring municipalities
+and other partners to improve technical and
+financial assistance for building owners.
+DESIGNING FOR EQUITY
+› Explore ways to enable affordable housing to
+reduce emissions, while avoiding passing on
+retrofit costs to tenants. Include affordable
+housing, small business, environmental justice
+organizations, and community groups in the
+policy advisory group
+› Develop mechanisms to support affordable
+housing and small business upgrades
+EXPECTED BENEFITS
+Avoided carbon emissions
+Energy savings due to enhanced building
+efficiency
+Increased thermal comfort and indoor
+air quality for building occupants
+RETROFITTING HISTORIC BUILDINGS
+› More than half of Boston’s buildings were built
+before 1950. These older and historic structures
+are located throughout the city, and many are
+integral to Boston’s character and vibrancy.
+› Retrofitting historic buildings reduces material
+consumption and emits less carbon than
+demolishing buildings and constructing new
+ones, even if the new structure is Zero Net
+Carbon (ZNC). Historic buildings have embodied
+carbon in them that is lost if a building or its
+components are demolished. They are often
+relatively energy efficient, with passive heating,
+cooling and lighting systems.
+› The City will develop pathways and guidelines
+for property owners to decarbonize and prepare
+their older buildings for the effects of climate
+change, while preserving the historic character
+of the structures.
+5
+DEVELOP A CARBON EMISSIONS
+PERFORMANCE STANDARD TO
+DECARBONIZE EXISTING LARGE
+BUILDINGS
+2019 Boston CAP Update | Buildings 45
+STEPS TIMELINE IMPLEMENTERS & PARTNERS
+1. Introduce a building performance scorecard for
+BERDO buildings
+End of
+2019
+City
+2.Launch the technical analysis and public process to
+develop a building emissions performance standard
+• Develop framework to set mandatory carbon
+emissions targets by building type that decrease
+over time
+• Evaluate alternative compliance fund that can be
+used to support affordable housing retrofits or
+community energy projects
+• Develop pathways for affordable housing, historic
+properties, and other building types as needed to
+achieve performance targets
+• Evaluate lowering the size threshold for buildings
+covered by the standard (currently 35,000 square
+feet under BERDO)
+By 2020 City, in consultation with
+building sector, techincal
+experts, community development
+corporations (CDCs), communitybased organizations, and other
+stakeholders
+3.Expand financing mechanisms for retrofits,
+including exploring the creation of a local climate
+bank
+Starting
+2020
+City
+4.Engage with utility companies to improve the
+process for building owners to obtain and report
+their energy data
+Ongoing City
+5.Develop guidance for combined deep energy
+retrofits and electrification, including for historic
+buildings
+By 2021 City, community groups, industry
+associations
+6.Propose amendment to BERDO to replace energy
+action and assessment requirement with the
+building emissions performance standard
+By 2021 City
+7. Pilot deep energy retrofits with thermal
+electrification in the 15 Carbon Free Boston building
+typologies to provide sector-specific case studies
+• Collaborate with local industry and professional
+associations to share lessons learned
+2020-2024 City, building owners, philanthropy,
+community groups, industry and
+professional associations
+8.Study mechanisms to improve the energy
+efficiency of existing buildings not covered by
+the standard, including rental and time of sale
+scorecards, rental energy efficiency requirements,
+and other measures.
+2020-2024 City, policy experts, building
+owners, industry associations,
+community groups
+46 2019 Boston CAP Update | Buildings
+METRICS FOR SUCCESS
+› 100 percent reduction in annual carbon emissions
+from large buildings in 2050
+› 100 percent of covered buildings reach
+their carbon targets or complete alternative
+compliance payment
+EXISTING EFFORTS AND TOOLS
+› Since 2013, the Building Energy Reporting and
+Disclosure Ordinance (BERDO) requires all midand large-size buildings to track their energy and
+water usage. These buildings must also complete
+an energy assessment or an energy action every
+five years.
+› The City of Boston’s Renew Boston Trust uses
+energy performance contracts to finance energy
+efficiency measures in municipal buildings. The
+City is receiving support from the Bloomberg
+American Cities Climate Challenge to support
+similar models for Boston’s nonprofit institutions.
+› The Environment Department released the
+Resilient, Historic Buildings Design Guide in
+August 2018 to illustrate resilience strategies
+that can be incorporated into the preservation
+of historic properties. Similar guidance will
+be developed for carbon-neutral retrofits of
+landmarks and historic buildings.
+› Mass Save, an initiative sponsored by
+Massachusetts’ utilities to enable residents,
+businesses and institutions to make energy
+efficiency upgrades, offers a wide range of energy
+efficiency services, rebates, incentives, trainings,
+and information. The City implements outreach
+programs to connect residents and businesses
+in Boston to Mass Save and help them take full
+advantage of these incentives. The Mass Save
+program is funded by a charge on customers’
+gas and electricity bills.
+COMMUNICATION AND EDUCATION
+› To support building owners as they undertake
+deep energy retrofits and switch to clean energy
+sources, Boston will work with neighboring
+municipalities and state partners to develop a
+building decarbonization support program to
+connect buildings to technical and financial
+resources, as well as provide building performance
+scorecards. The City of Boston will collaborate
+with Mass Save to communicate energy saving
+and financing opportunities to building owners
+and operators.
+Boston Properties implemented extensive energy
+conservation measures at 200 Clarendon Street, previously
+the John Hancock Tower. The Energy Star score improved
+from 38 to 83 over five years, saving the property millions
+of dollars in utility costs each year.
+© Katherine Eshel
+2019 Boston CAP Update | Buildings 47
+The City of Boston will work to support and
+enhance existing training programs and programs
+to increase the diversity in the building trades
+through upskilling and incumbent worker
+training. Many Boston-based high schools and
+higher education institutions offer certifications
+and degrees in facilities management and green
+building technologies, and connect students
+to careers in Boston. Local programs connect
+youth, women, and people of color with career
+opportunities in the building trades. Trade unions
+also offer programs to train incumbent workers
+and increase diversity in the trades. Since it is
+important to balance training programs with job
+matching, the City will explore ways to expand
+job fairs and boards for building construction
+and operation, and to connect contractors with
+building projects.
+Today, more than 62,000 people work in energy
+efficiency jobs in the Boston metro area.16
+Approximately 80 percent buildings in Boston will
+need to undergo deep energy retrofits and prepare
+for the impacts of climate change. To carry out that
+work, Boston needs to grow the pipeline of Boston’s
+future green builders and hone the skills of our
+active labor force. This includes:
+› Facilities management. Building operators,
+maintenance workers and building automation
+controls experts all play a vital part in ensuring
+that buildings run at peak performance.
+› Construction trades. Every tradesperson
+involved in building renovations - electricians,
+carpenters, roofers, plumbers, HVAC technicians,
+16 E2 (Environmental Entrepreneurs), “Clean Jobs Cities 2018,” September 2018.
+estimators, pipefitters and more - will need to
+understand what a deep energy retrofit entails
+and become familiar with electric building
+systems, to allow buildings to reduce their
+emissions.
+To support and enhance the work of local and
+regional institutions, trade unions and non-profit
+partners, the City will also convene key players to
+develop a citywide strategy, coordinate the efforts
+of current workforce development programs, and
+ensure the building sector is ready to retrofit and
+operate carbon-neutral buildings.
+EXPECTED BENEFITS
+Creation of local, well-paying, highquality jobs
+Local economic investment
+Enhanced employment security
+(through new trade skills development)
+Increasingly diverse workforce in the
+building professions
+Improved building performance and
+sharing of best practices as industry
+knowledge and workforce for net zero
+carbon buildings advances
+6 EXPAND WORKFORCE DEVELOPMENT
+PROGRAMS FOR BUILDING
+DECARBONIZATION
+48 2019 Boston CAP Update | Buildings
+DESIGNING FOR EQUITY
+› The City of Boston will continue to build a
+diverse, inclusive workforce of people of color,
+women, recent immigrants, veterans, and young
+professionals.
+› Job training programs should be designed to
+accommodate different skill sets and educational
+levels and should be financially accessible to all
+Boston residents.
+› High-quality job opportunities in this field
+need to be accessible and fairly distributed.
+Living wages and appropriate benefits should
+be provided, as well as opportunities for career
+advancement. Wherever possible, employers
+should give workers a voice in formulating
+policies, enforcing wage and hour rules, and
+protecting against wage theft.
+METRICS FOR SUCCESS
+› Construction work hours on public and large
+private projects performed by:
+• Boston residents: 51 percent
+• Women: 12 percent
+• People of color: 40 percent
+› 50 percent of individuals who begin training go
+on to graduate from or complete training
+› 75 percent placement rate into jobs or additional
+training for individuals who complete training
+STEPS TIMELINE IMPLEMENTERS AND PARTNERS
+1. Regularly convene an internal City working group
+on workforce development for energy efficiency
+and green buildings to:
+• Coordinate citywide programming
+• Develop an equitable workforce development
+strategy that builds on the Regional Infrastructure
+Jobs Plan, including marketing and outreach
+• Convene stakeholder and community roundtables
+around specific topics as needed
+• Collaborate with industry partners and
+stakeholders to advertise and scale training
+programs
+• Coordinate with local municipalities, regional
+agencies and Mass Save
+Starting
+2019
+City and stakeholders, including
+trade unions, construction
+companies, community colleges,
+regional partners, universities,
+non-profit and community-based
+organizations.
+2.Estimate baseline and future construction labor
+needs to meet carbon neutrality goals
+• Inventory career ladder and training programs for
+union and open shop workers, including for those
+without a high school diploma
+• Identify labor and training gaps
+2019-2020 City, technical experts
+3.Pilot and coordinate training programs and support
+partner-led programs, including:
+• A training course to develop the capacity of
+MWDBE contractors to bid on municipal and
+large-scale projects
+• Building Operator Certification training programs
+Starting
+2019
+City, in partnership with local and
+regional non-profits and industry
+associations
+2019 Boston CAP Update | Buildings 49
+STEPS TIMELINE IMPLEMENTERS AND PARTNERS
+4.Develop facilities management training and job
+opportunities for municipal building staff
+• Explore adding a facilities management track to
+City Academy
+• Increase the number of municipal building
+operators with Building Operator Certification
+• Develop training and advancement opportunities
+for incumbent maintenance staff
+2020-2021 City
+5.Expand technical offerings and career pathways in
+Boston Public Schools
+• Support and enhance existing programs at career
+and technical education (CTE) high schools
+• Apply for state grant to offer a new pre-college
+green building innovation pathway at nontechnical schools
+• Expand access to technical courses (e.g., afterschool carpentry program accessible to all
+students)
+• Expand summer internship opportunities through
+the Building Boston’s Future program
+Starting in
+2020
+City, in partnership with local
+non-profits, training programs and
+industry associations
+EXISTING TOOLS AND EFFORTS
+Boston’s schools and academic institutions are
+preparing students and mid-career professionals
+for careers in the green building sector:
+› Several Boston public schools have career and
+technical education (CTE) programs that support
+green buildings. Madison Park High School
+serves approximately 10,000 students, with
+certification programs for carpentry, electrical,
+facilities management, plumbing and sheet metal.
+The John D. O’Bryant School of Mathematics and
+Science offers computer science and engineering
+pathways. The Boston Green Academy has an
+environmental science and technology program.
+Boston Public Schools is also developing an afterschool carpentry program that will be open to
+students across the district.
+› Many higher education institutions in Boston
+offer certificates and degrees that prepare their
+students for careers in facilities management
+or in the trades. These institutions include
+Benjamin Franklin Institute of Technology,
+Bunker Hill Community College, Mass Maritime,
+Northeastern University, Roxbury Community
+College, and Wentworth Institute of Technology,
+among many others.
+50 2019 Boston CAP Update | Buildings
+The City of Boston is investing in workforce
+development:
+› The Neighborhood Jobs Trust collects fees from
+developers of large commercial projects to fund
+jobs, job training and other related services.
+The Trust funds programs like the Tuition-Free
+Community College Plan, Roxbury Community
+College Center for Smart Building Technology,
+and Youth Options Unlimited (YOU) Boston, a
+workforce development organization that works
+with young people who are court-involved or
+gang-affiliated, re-entering the community from
+incarceration, or seeking refuge from poverty or
+violence.
+The City and its partners operate training programs
+for youth and incumbent professionals to access
+training:
+› The Tuition-Free Community College Plan
+covers tuition and other expenses for eligible
+Boston residents who have completed high
+school. Participating colleges include Bunker
+Hill Community College, Roxbury Community
+College, MassBay Community College, and the
+Benjamin Franklin Institute of Technology.
+Students can also transfer to tuition-free fouryear colleges through the Boston Bridge from the
+state’s Commonwealth Commitment program.
+› In 2018, the City hosted Building Operator
+Certification (BOC) training to ensure municipal
+operators can make City-owned buildings
+perform at the highest level. Building off of
+that success, A Better City and Local Initiatives
+Support Corporation (LISC) Boston have hosted
+additional training sessions in 2019. The City of
+Boston will partner to carry out at least four more
+rounds of training before the end of 2020.
+› Trade unions also offer training programs to their
+incumbent workers. Many City- and partner-led
+programs recruit Boston residents to train and
+place them in careers in the building industry.
+› The Mayor’s Office of Workforce Development’s
+City Academy is a training pipeline for Boston
+residents to access entry-level City positions.
+There are currently free training tracks for
+Commercial Driver’s License (CDL) and Hoisting
+and Emergency Medical Training. The CDL and
+Hoisting training partners with the Public Works
+Department, Parks and Recreation Department,
+and Boston Water and Sewer Commission, as well
+as Suffolk Construction, a private construction
+industry partner.
+Mayor Martin J. Walsh joins members of YouthBuild Boston, the Dudley Street Neighborhood Initiative and Madison Park
+High School students, and lends a hand in installing siding onto one of the City of Boston's Neighborhood Home Initiative
+homes being built at 31-33 Woodville Street in Dudley Square.
+© Don Harney
+2019 Boston CAP Update | Buildings 51
+› YouthBuild Boston is a job training organization
+that works to prepare under-served community
+members in the Boston area for jobs in the
+building trades. As part of the Office of Workforce
+Development’s Greater Boston American
+Apprenticeship Initiative, WinnResidential
+and Wentworth Institute of Technology have
+partnered with YouthBuild Boston to offer
+a paid Facilities Maintenance Technician
+apprenticeship. Participants are paid a living
+wage and receive a certificate upon completion.
+› The Economic Mobility Lab tests ideas to
+economically empower low- and moderateincome Bostonians. Its programs include
+Building Boston’s Future, a Boston Center for
+Youth and Families (BCYF) program to place high
+school students in workplaces for paid 7-week
+internships.
+› Operation Exit is a re-entry program that
+provides participants with the career readiness
+and occupational skills training needed to
+apply for state-registered Building Trades
+apprenticeship programs.
+› Building Pathways is a Boston-based non-profit
+organization that operates the Building Trades
+Pre-Apprenticeship Program, which prepares
+under-represented, disadvantaged or low-skilled
+Boston metro area residents to enter a union
+apprenticeship program.
+The programs listed above are just a few of the
+many programs connecting Boston’s youth, people
+of color, women, and other residents to careers
+in construction and facilities management. The
+Mayor’s Office of Workforce Development works
+to connect residents and companies to appropriate
+programs and opportunities.
+WHAT IS THE BOSTON RESIDENT
+JOBS POLICY?
+The Boston Resident Jobs Policy (BRJP) is an
+ordinance passed in 1983 and updated most recently
+in 2017. Private development projects over 50,000
+square feet and any public development project must
+meet the following employment standards for the
+total work hours of journey people and apprentices
+in each trade:
+› at least 51 percent must go to Boston residents;
+› at least 40 percent must go to people of color; and
+› at least 12 percent must go to women.
+The BRJP office and the Boston Planning &
+Development Agency (BPDA) monitor projects
+for BRJP compliance. The Boston Employment
+Commission also reviews projects and makes
+recommendations to the BRJP office and the BPDA
+to strengthen compliance.
+52 2019 Boston CAP Update | Buildings
+While the City of Boston is taking steps to mitigate
+emissions from large buildings, we also need higher
+energy efficiency and renewable energy standards
+across the entire building sector. Continued
+advocacy by the City and its partners for statewide
+building codes and utility incentive programs
+that align with carbon neutrality will allow
+municipalities across Massachusetts to construct
+buildings that not only support our climate
+goals, but also ensure that Bostonians and other
+Baystaters can live and work in better buildings.
+In parallel with updating zoning requirements,
+the City of Boston is advocating for updating the
+Massachusetts Stretch Energy Code to a Zero
+Net Carbon (ZNC) standard. In Massachusetts,
+the state-level Board of Building Regulations
+and Standards (BBRS) sets energy performance
+standards for building construction and renovation.
+In 2009, the BBRS developed a Stretch Energy Code
+for the first time, allowing municipalities to adopt
+a higher performance standard than that of the
+Base Energy Code. At the time, the Stretch Code
+represented a roughly 20 percent improvement
+in energy performance over the Base Code.
+But as of March 2019, the Base Code has effectively
+caught up to the Stretch Code. Updating the
+Stretch Code to a ZNC standard is key to reaching
+Boston’s carbon neutrality goals.
+In order to carry out deep energy retrofits and
+electrification at scale, building owners need access
+to a more robust suite of incentives and financing
+mechanisms. The City of Boston will work with
+state and regional partners to advocate for changes
+to Mass Save and other state programs that better
+support whole building approaches and encourage
+fuel-switching from fossil fuels to electric or other
+carbon-free technologies. The Energy Efficiency
+Advisory Council (EEAC) guides Mass Save,
+the ratepayer-funded utility energy efficiency
+incentive program. With utility incentive programs
+structured to encourage deep decarbonization of
+buildings, building owners will be better equipped
+to develop capital plans that significantly improve
+the carbon performance of their buildings over time.
+The City of Boston will continue to advocate, as
+part of the Mayor’s legislative agenda, for state
+legislation and regulatory changes that align with
+our goals for a carbon-neutral and climate-ready
+Boston.
+METRICS FOR SUCCESS
+› The BBRS approves a ZNC Stretch Code, or
+comparable policies or programs, that allows
+municipalities in Massachusetts to adopt ZNC
+requirements for all new construction.
+DESIGNING FOR EQUITY
+› Creating consistent net-zero building standards
+ensures that all housing is built to the same, higher
+level of energy efficiency and comfort, reducing
+the energy cost burden of owners or tenants.
+7 ADVOCATE FOR STATE BUILDING
+POLICIES THAT ALIGN WITH
+CARBON NEUTRALITY BY 2050
+2019 Boston CAP Update | Buildings 53
+EXPECTED BENEFITS
+Up to 300,000 tons of annual avoided
+carbon emissions from business as usual
+Lower energy bills for Boston homes,
+businesses and institutions
+Removing harmful air pollution and
+improving indoor air quality
+Creating green jobs and boosting real
+estate values
+EXISTING TOOLS AND EFFORTS
+› Mayor Martin J. Walsh sent a joint letter with
+the City Manager of Cambridge and the Mayor of
+Somerville to the BBRS requesting a discussion of
+a ZNC Stretch Code at their June 2019 meeting.
+The Board discussed the proposal and sent it to
+the Energy Advisory Committee for review.
+› The City of Boston is enrolled as a member of the
+International Code Council. We will strengthen
+our advocacy for changes to the International
+Energy Conservation Code (IECC). The IECC
+provides the basis for updates to the Base Energy
+Code every three years, per the directive of the
+2008 Green Communities Act
+STEPS TIMELINE IMPLEMENTERS & PARTNERS
+1. Provide public comment and support as part of
+the BBRS process to study a ZNC update to the
+Stretch Code
+A. Share the City’s efforts with residents and
+local organizations to increase awareness and
+support for a ZNC Stretch Code
+Ongoing City of Boston, neighboring
+cities, regional partners, industry
+associations, academic institutions,
+energy utilities, energy-focused
+community groups
+2.Advocate for energy efficiency programming that
+supports whole-building deep energy retrofits
+at the Massachusetts Energy Efficiency Advisory
+Council (EEAC)
+• Provide comment on draft three-year plans,
+and advocate to add measures on an ongoing
+basis (e.g., air-to-water heat pumps)
+• Support equity-based frameworks for incentive
+structures
+• Advocate to change the Green Communities Act
+to allow ratepayer-funded incentive programs to
+include societal benefits in the cost-effectiveness
+assessment, or remove the requirement entirely
+Ongoing City, regional partners, EEAC,
+utilities
+3.Advocate for state policy changes that support
+residential energy efficiency including scorecards
+and energy disclosure requirements at points of
+turnover (e.g., time of sale, time of lease)
+Ongoing City, regional partners, state
+representatives, local and
+statewide environment- and
+energy-focused organizations
+4.Participate in ECC to cast votes in favor of energy
+efficiency proposals
+Ongoing City
+54 2019 Boston CAP Update | Transportation
+TRANSPORTATION
+In a carbon-neutral Boston, many more people will travel to and around the city by using public transit,
+biking, or walking, all of which release little to no carbon per trip compared with cars. Go Boston 2030,
+Mayor Walsh’s long-term transportation vision, lays out 58 transportation projects and policies that
+expand access to connected transportation options, improve traffic-related safety on Boston's streets,
+and ensure reliability of service for the City's residents, commuters and visitors. The City’s targets
+include cutting drive-alone trips by more than half, increasing public transit ridership by more than a
+third, increasing biking rates fourfold, and doubling walking rates.
+2019 Boston CAP Update | Transportation 55
+The Go Boston 2030 projects and policies will
+reduce vehicle miles traveled and carbon emissions
+from transportation. Transportation accounts for
+nearly a third of Boston’s total carbon emissions,
+most of that from private vehicles that run on
+gasoline. As a regional hub, Boston draws hundreds
+of thousands of commuters daily. Because of
+this dynamic, three-quarters of transportation
+emissions come from travel between Boston and its
+suburbs. As we shift as many travelers as possible
+out of personal vehicles, we also have to ensure
+that any vehicles left on the road become zeroemissions vehicles (ZEVs), such as electric vehicles.
+Replacing gas and diesel vehicles with electric
+or other zero-emissions alternatives will reduce
+Boston’s remaining transportation emissions, as
+well as remove harmful air pollution. As prices
+continue to decline, EVs will become increasingly
+affordable. Most current car owners in Boston
+are “garage orphans” - renters and street parkers
+who do not control their parking space and cannot
+install EV chargers at home. To expand access
+to charging and ZEV technologies, the City will
+develop a roadmap for public EV charging and
+carshare, install EV charging stations in municipal
+lots and at select curb locations, and develop
+vehicle replacement strategies for municipal fleets.
+This is in addition to the City's EV policy requires
+charging infrastructure in many new developments.
+To achieve the mode shift and carbon reduction
+goals of Go Boston 2030, this Plan details five key
+strategies to accelerate emissions reductions from
+Boston’s transportation system.
+8. Advocate for Boston’s priority transit projects
+within regional plans
+9. Improve and expand active transportation
+infrastructure
+10. Encourage mode shift through transportation
+demand management
+and sustainable parking policies
+11. Accelerate citywide zero-emission vehicle
+deployment
+12. Accelerate municipal fleet transition
+to zero- and low-emission vehicles
+2030 Targets
+Up by a third Up by almost
+a half
+Increases
+fourfold
+Declines
+marginally
+Down by half Slight increase in
+Work from Home
+PUBLIC TRANSIT
+34%
+WALK
+14%
+BIKE
+2%
+CARPOOL
+6%
+DRIVE ALONE
+39%
+Today
+OTHER/WORK
+FROM HOME
+5%
+Go Boston 2030 Mode Shift Targets
+56 2019 Boston CAP Update | Transportation
+Malden
+Chelsea
+Revere
+Medford
+Everett
+Arlington
+Cambridge
+Boston
+Somerville
+Service Layer Credits:
+of total transportation emissions
+came from passenger vehicles
+of total transportation emissions from
+travel to and from the Boston metro area
+Electric Vehicle Zero Emission Vehicle
+We need people who drive alone to take transit, carpool, bike or
+walk to work instead
+Any remaining vehicles must be
+electric or zero-emission vehicles
+Estimated total emmissions from
+Boston’s transportation system in 2017
+CO2
+e
+1.8MMT
+65%
+75%
+2019 Boston CAP Update | Transportation 57
+The residents of Boston deserve high-quality,
+subway-like service across our rail and transit
+network. As part of the implementation strategy
+for Go Boston 2030, our long-term transportation
+plan, the City of Boston will continue to advocate
+for and advance the urban rail and rapid bus
+projects prioritized by the community. This
+includes increasing service on the Fairmount
+commuter rail line, advancing bus priority
+infrastructure installation, and working with
+Massachusetts Bay Transportation Authority
+(MBTA) officials to create a vision and timeline
+for a Red-Blue Line connector.
+The City of Boston will also contribute to regional
+planning efforts, such as the ongoing Rail Vision
+process to improve the existing commuter rail
+system led by the Massachusetts Department
+of Transportation (MassDOT). The Boston
+Transportation Department (BTD) now has a
+dedicated team to advocate and design for public
+transportation expansion and improvements in
+underserved neighborhoods in the city. These new
+resources will contribute to achieving the Go Boston
+2030 goals of improving mobility and economic
+outcomes for Bostonians, as well as residents of the
+Greater Boston region, while encouraging mode
+shift away from single occupancy vehicles toward
+healthier, more sustainable modes.
+METRICS FOR SUCCESS
+› 25 miles of new bus priority lanes by 2030
+› Increase public transit commuter rates by a
+third by 2030
+EXPECTED BENEFITS
+55,000 ton reduction in annual carbon
+emissions from business as usual
+Reduce vehicle-miles traveled (VMT)
+by 7 percent
+Improved air quality and quality of life
+Improved mobility and economic
+competitiveness in the Greater Boston
+region
+DESIGNING FOR EQUITY
+› Participate in ongoing MBTA feasibility
+assessment in support of low-income fares
+› Hire organizers from within the community
+to build support for new transit projects in
+underserved neighborhoods
+› Use social vulnerability metrics to guide the
+formation of the City’s new Bus Priority Network
+› Build on the successful model of the Roslindale
+bus project, using partnerships with local
+organizations and advocacy groups, including
+student groups to build community support for
+bus priority projects
+› Coordinate with the Regional Housing
+Partnership to increase affordable housing
+supply along regional transit lines across the
+Boston metro area
+8 ADVOCATE FOR BOSTON’S PRIORITY
+TRANSIT PROJECTS WITHIN REGIONAL
+PLANS
+58 2019 Boston CAP Update | Transportation
+STEPS TIMELINE IMPLEMENTERS & PARTNERS
+1. Advance a service enhancement proposal for the
+Fairmount Line
+2019 City, MBTA, Transit Matters,
+Fairmount Indigo Transit Coalition
+2.Create Boston’s first Bus Priority Network map
+• Implement three or more bus priority projects
+per year
+Starting
+2019
+City, MBTA, local merchants,
+community organizations, student
+groups, and advocacy groups
+3.Expand Inner Harbor ferry service from Lovejoy
+Wharf, Fan Pier, Lewis Mall, and other new local
+ferry routes
+Ongoing City, MassDOT, MBTA, Massport,
+transportation management
+associations (TMAs), community
+groups
+4.Support upgrading the Silver Line to provide
+better rapid bus service and terminal from
+downtown to Dudley
+2019 -
+2020
+City, MBTA
+5.Support technology improvements to increase
+Green Line speed and reliability, including safety
+systems, signal priority technologies, station
+improvements and stop consolidation
+2019 -
+2020
+City, MBTA
+6.Support flood protection and carbon reduction
+measures for at-risk MBTA stations
+Ongoing MBTA, City
+7. Create new transit hubs or carry out
+improvements at existing hubs in the Longwood
+Medical Area, at West Station, and in Sullivan
+Square
+Ongoing City, TMAs, MBTA, BPDA
+8.Increase sense of transit reliability through realtime information integration initiative, with 20
+pilot locations across the Boston area
+Starting
+2020
+MBTA, City
+9.Advocate for measures that reduce the cost and
+improve the quality of public transit in Boston
+• Support changes to gas taxes, vehicle subsidies
+and commuter tax incentives to deter driving
+and support transit
+• Support equitable transit investments in the
+Boston metro area as part of the Transportation
+and Climate Initiative
+Ongoing City
+DEDICATED RESOURCES
+› Financial agreement with the MBTA in which
+the MBTA funds the initial implementation of
+bus priority infrastructure within Boston along
+certain high priority corridors and the City funds
+maintenance
+› New transit-dedicated staff in the City's
+Transportation Department
+EXISTING TOOLS AND EFFORTS
+› Based on extensive public input, Go Boston 2030
+identifies regional-scale transit projects to be
+implemented near- and long-term that will improve
+mobility in and out of the City and connectivity
+across communities in the Boston area. The City is
+implementing the better bike corridors and rapid
+bus projects laid out in the plan.
+2019 Boston CAP Update | Transportation 59
+› Mayor Walsh’s 2019 legislative package includes
+An Act to Allow Regional Ballot Initiatives, An Act
+to Allow Parking Assessments for Infrastructure
+Investment, and An Act to Update Transportation
+Network Company Assessments. The Act Relative
+to Regional Transportation Ballot Initiatives
+would enable a municipality to raise local money
+through a ballot initiative to fund Boston’s priority
+transportation projects. The Act to Update
+Transportation Network Assessments would
+increase the price of solo rides booked through
+ride-hailing companies.
+› The MBTA Rail Vision Study is identifying costeffective strategies to improve mobility and
+economic competitiveness of the greater Boston
+region by transforming the existing commuter
+rail system.
+› The CharlieCard Access Initiative seeks to make
+transit use cheaper and more convenient for
+riders. CharlieCards—previously only available
+through one’s employer, via online order, or at
+Downtown Crossing—are now free and available
+at City Hall and at 15 branches of the Boston
+Public Library.
+› In addition to the rapid bus projects birthed
+from Go Boston 2030, the City has identified
+additional corridors where upgrades with bus
+priority treatments would have sizable, positive
+impacts on the city’s transit network. This network
+and the Go Boston 2030 rapid bus projects have
+been combined to form the Boston Bus Priority
+Network.
+› The Transportation and Climate Initiative
+(TCI) is a regional collaboration of 13 Northeast
+and Mid-Atlantic jurisdictions that seeks to
+develop the clean energy economy, improve
+transportation, and reduce carbon emissions
+in the transportation sector. TCI is currently
+exploring a regional cap-and-trade policy to
+reduce carbon emissions from the transportation
+sector.
+COMMUNICATION AND EDUCATION
+› The City's Transit Team will share project-specific
+information and engagement opportunities on
+its website.
+› The City will host "learn-a-thon" events
+across Boston’s neighborhoods to disseminate
+information about the many tools that comprise
+bus priority.
+› The City's Transit Team will participate in
+community events on an ongoing basis, as well
+those hosted by partner organizations such as the
+MBTA, MassDOT, BPDA, and community groups.
+Travel lanes that prioritize buses, like the bus lanes on
+Washington Street in Roslindale, help ensure faster and
+more reliable service for riders.
+Charlies Cards are available at City Hall, select MBTA
+stations, and 15 Boston Public Library locations.
+© Katherine Eshel
+60 2019 Boston CAP Update | Transportation
+An essential element of a carbon-neutral
+transportation strategy is the shift away from
+single-occupancy automobile trips. Public transit,
+walking, and biking release far smaller quantities
+of carbon than automobiles. A transportation
+system that emphasizes walking and bicycling
+burns less fuel, reduces air pollution, and makes
+streets less crowded, less stressful, and much safer.
+The City is implementing street design projects
+that prioritize walking and help create a connected,
+safe network of bike facilities, with the goal of
+increasing biking rates fourfold. The City is also
+prioritizing sidewalk repair and traffic-calming
+projects in areas most in need.
+Land use and development patterns have a major
+impact on residents’ ability to walk or bike for their
+everyday needs. The City will continue to integrate
+and expand active transportation infrastructure
+into neighborhood planning efforts and individual
+development projects, to advocate for improved
+walking and bicycling and to discourage new
+automobile trips.
+NEXT 5 YEARS
+The City will take the following steps to continue
+to improve and expand active transportation
+infrastructure:
+› Create a program to hire Boston non-profits and
+residents to implement outreach processes for
+walking and bicycling projects and to co-create
+neighborhood priorities for walking and bicycling
+improvements;
+› Deepen partnerships between City agencies, such
+as the Boston Public Health Department and the
+Department of Neighborhood Development, to
+ensure equitable outcomes from transportation
+investments;
+› Develop relevant materials in commonly-used
+languages to be shared at community events, by
+direct mail and online, to ensure that all residents
+are informed about projects and are able to
+participate;
+› Continue to expand incentives and accessibility
+initiatives around bike riding, particularly for
+young people, including bike-riding classes for
+youth and additional infrastructure near schools.
+9 IMPROVE AND EXPAND ACTIVE
+TRANSPORTATION INFRASTRUCTURE
+2019 Boston CAP Update | Transportation 61
+EXPECTED BENEFITS
+Reduced carbon emissions from
+avoided automobile trips
+Public health benefits
+Increased connectivity to jobs
+and educational opportunities
+Safer residential streets that encourage
+community gathering and play
+DESIGNED FOR EQUITY
+› The Neighborhood Slow Streets program ensures
+that traffic-calming requests are prioritized for
+the areas with the greatest need: where we have
+more children, older adults, and people with
+disabilities; where more crashes are happening
+per mile; and near public places and spaces
+including parks, schools, and libraries.
+› The publicly-owned bike share program is
+designed to complement bus and rail transit,
+providing a low-cost option for first- and lastmile trips. A discounted fare is available to
+households who qualify for a variety of public
+assistance programs or who have incomes below
+40 percent Area Median Income (AMI).
+› The Public Works Department and Mayor’s Office
+of New Urban Mechanics have partnered to
+develop the StreetCaster program, and create
+new networks of sidewalks in areas that need
+them most, while simultaneously improving the
+way that resident requests for repairs through
+the City’s 311 system are addressed.
+METRICS FOR SUCCESS
+› A fourfold increase in biking rates by 2030
+› 50 percent increase in walking rates by 2030
+› 100 percent of homes located within a 10-minute
+walk of a bike share station
+› 3-5 neighborhoods receive traffic-calming
+measures annually through the Neighborhood
+Slow Streets program
+EXISTING TOOLS AND EFFORTS
+› The City’s Neighborhood Slow Streets
+program partners with communities to develop
+appropriate and responsive traffic-calming plans
+for small, residential streets that suffer from high
+crash rates and are home to youth, elders, and
+those with disabilities.
+› Bluebikes is the City’s public bike share program.
+The regional network offers 3,500 bikes at more
+than 325 stations throughout Boston, Brookline,
+Cambridge, Everett, and Somerville. In 2018, the
+City of Boston added 51 new stations. As a result,
+85 percent of Boston households are now within
+a 5-7 minute walk of a Bluebikes station, up from
+67 percent in 2017. Mayor Walsh’s FY20 capital
+budget and financial support from Blue Cross
+and Blue Shield of Massachusetts mean
+another 50 stations will be installed in 2019.
+The expansion has included 25 stations in new
+neighborhoods and additional capacity in the
+existing service area.
+› The City’s Women Bike program offers free learnto-ride classes led by women for Boston residents
+who identify as female or gender-nonconforming.
+Classes are offered monthly between May and
+October each year.
+› The City’s Youth Cycling Program helps
+students from grades 2 to 12 learn bicycle safety.
+The Boston Bikes team brings bikes, helmets,
+instructors, and an active 2-week curriculum.
+Boston Public Schools can apply for the program
+in the fall and spring of each year. More than
+38,000 young Bostonians have participated in the
+program since 2009.
+62 2019 Boston CAP Update | Transportation
+The City of Boston will adopt transportation
+demand management (TDM) and parking
+programs and policies that support the mode shift
+goals of Go Boston 2030 and our carbon neutrality
+goals. Policies will incentivize the use of shared
+vehicles and public transit over single-occupancy
+vehicles, reducing congestion, air pollution, and
+carbon emissions in Boston’s busiest neighborhoods
+and promoting healthier communities and lifestyles.
+In fulfillment of its Go Boston 2030 commitment,
+the City is updating its TDM policies. The initiative
+is working with developers, employers, and state
+and City agencies to forge policy and programming
+that promote dramatic mode shift away from
+driving alone, reduce emissions, and improve
+multimodal connectivity. The updated TDM
+policies will include a points-based system that
+will allow developers to choose from a menu of
+TDM options as part of their Transportation Access
+Plan Agreement (TAPA), a zoning requirement for
+large projects in Boston. These TDM options aim to
+reduce the vehicle miles traveled generated by new
+projects. The TAPA process will also be brought
+online to make the agreements more publicly
+accessible and to further promote solutions like
+carshare fleets, bikeshare, transit access passes,
+teleworking, unbundled parking, daily rather than
+monthly parking passes, parking cash out programs
+and other transit benefits.
+The City will also update and expand parking
+programs and policies, in particular the parking
+freezes, to further reduce drive-alone rates. The
+parking freezes implement the federal Clean Air
+Act and are intended to reduce air pollution by
+restricting the availability of parking and thereby
+discouraging driving, especially by commuters.
+This is accomplished by establishing a cap on the
+number of certain types of off-street parking that
+is allowed.
+EXPECTED BENEFITS
+Up to a 62,000 ton reduction in annual
+carbon emissions from business as usual
+Reduce VMT by approximately 7 percent,
+particularly in new development
+Improved air quality, safety and
+wellbeing in new developments
+Commuter mode shift from drive alone
+to shared and active transportation
+modes
+Increased access to bikeshare, carshare,
+transit and EV charging
+DESIGNING FOR EQUITY
+› Weight TDM measures by neighborhood need
+› Focus guidelines for traffic impact analysis for
+new developments on pedestrians, cyclists and
+bus riders to prioritize moving people over
+moving vehicles
+10 ENCOURAGE MODE SHIFT THROUGH
+TRANSPORTATION DEMAND
+MANAGEMENT AND SUSTAINABLE
+PARKING POLICIES
+2019 Boston CAP Update | Transportation 63
+› Support equitable mode shift and air pollution
+reduction measures that prioritize benefits to
+EJ communities
+› Develop a program to allow implementation of
+community-based parking alternatives for use
+of the public right-of-way
+STEPS TIMELINE IMPLEMENTERS & PARTNERS
+1. Complete inventory of the Downtown Parking
+Freeze and develop priorities and timeline for
+other parking and curb use inventories
+2019 City, BPDA
+2.Release citywide TDM framework and new
+TAPA guidelines
+• Introduce points-based system
+• Redefine parking maximum ratios
+2020 City, BPDA, transportation
+management associations (TMAs),
+developers, regional planning
+organizations
+3.Update Downtown, South Boston and
+East Boston parking freeze regulations
+2020 City, BPDA
+4.Launch an online platform to streamline the
+TAPA process, including a points-based system
+for developers to select TDM measures
+2021 City
+5.Carry out parking inventories of priority areas and
+identify neighborhoods for tactical interventions
+(e.g., pick-up and drop-off areas, performancebased parking extension…)
+• Pilot flexible curbs with shifting functions
+based on time of day and demand (e.g., Bus
+Rapid Transit, passenger vehicles, bike and
+scooter parking)
+• Expand pick-up and drop-off areas to additional
+neighborhoods
+• Continue to expand performance-based parking
+2020 City, MassDOT, Massport, TMAs,
+private developers, advocacy groups
+6.Study transportation impact fee (a one-time fee
+paid by developers) that would be used to improve
+transportation networks outside of development
+projects
+2022 City
+7. Evaluate the impact of expanding the parking
+freeze to additional neighborhoods
+2021-2024 City, BPDA
+8.Assess additional programs and policies to deter
+single occupancy vehicles, including residential
+parking permits, parking cash-out and other
+commuter incentives
+Ongoing City
+METRICS FOR SUCCESS
+› Cut the drive alone rate in half by 2030
+› Increase public transit commuter rates by a third
+by 2030
+DEDICATED RESOURCES
+› As part of the implementation of Go Boston 2030,
+the Boston Transportation Department has hired
+a full-time staff member to oversee its TDM
+program.
+64 2019 Boston CAP Update | Transportation
+EXISTING TOOLS AND EFFORTS
+› The current process to integrate transportation
+demand management strategies occurs largely
+through the Transportation Access Plan
+Agreement (TAPA) as part of the large project
+review process for large developments over
+50,000 square feet.
+› The Downtown and South Boston parking
+freezes set caps on the number of off-street
+parking spaces to reduce air pollution. New
+developments seeking to build off-street parking
+must apply for parking freeze permits through
+the Air Pollution Control Commission.
+› The City set parking maximum parking
+requirements for new development in Access
+Boston 2000-2010, Boston’s transportation plan
+before Go Boston 2030. These requirements
+decrease the closer development is located to
+transit hubs.
+› Performance-based parking in Back Bay and
+the Seaport set dynamic metering rates (e.g.,
+charging more for parking at peak times) that
+reduced idling and cruising.
+› Mayor Walsh’s 2019 legislative package includes
+An Act to Allow Regional Ballot Initiatives, An Act
+to Allow Parking Assessments for Infrastructure
+Investment, and An Act to Update Transportation
+Network Company Assessments, including by
+increasing the price of solo rides.
+COMMUNICATION AND EDUCATION
+› Bring TAPAs online.
+› Work with employers and TMAs to host
+workshops and events that promote biking,
+walking and carpooling.
+› Distribute multilingual information for landlords
+and tenants citywide on TDM programs.
+› Public campaigns to demonstrate both benefits of
+limited parking and concerns associated with free
+private vehicle parking (e.g., use of public space
+for private purposes, percent of road use time
+allocated to private vehicles versus public).
+› Coordination with TMAs to generate awareness
+and excitement for tactical, localized pilot
+infrastructure.
+The City uses smart parking meters to calibrate parking prices according to the time of day and driver demand. This
+performance-based parking system has managed parking demand, improved safety, and decreased congestion.
+© Katherine Eshel
+2019 Boston CAP Update | Transportation 65
+The City of Boston will develop a ZEV Roadmap,
+which will lay out strategies to increase access
+to electric vehicle charging infrastructure and
+transition shared mobility and fleets to electric
+vehicles or other ZEVs. These strategies will
+address the lack of infrastructure and education
+around electric vehicles (EVs) and other ZEV
+technologies over the next five years, as well as
+issues around equity and accessibility.
+To reach carbon neutrality, Boston must transition
+all remaining vehicles on the roads to electric or
+other zero-emission vehicles over the next 30 years,
+inaddition to maximizing mode shift from single
+occupancy vehicles to shared and active modes.
+A ZEV is a vehicle that emits no tailpipe emissions
+from the onboard source of power, such as battery
+electric vehicles and hydrogen fuel cell vehicles.
+ZEVs generate fewer emissions than gas- and
+diesel-powered vehicles and do not produce
+tailpipe pollution. ZEV sales have grown rapidly in
+Massachusetts, nearly doubling between 2017 and
+2018 alone.
+DESIGNING FOR EQUITY
+› Prioritize deployment of EV charging
+infrastructure in municipal lots and other
+publicly-owned locations in environmental
+justice communities
+› Explore mechanisms to offer EV carshare and
+reduced price or free electric vehicle charging at
+City-owned stations for residents participating in
+a qualifying benefit program (e.g., Supplemental
+Nutrition Assistance Program (SNAP)
+beneficiaries
+› Evaluate and, when appropriate, promote
+financial mechanisms to make transitioning to
+ZEVs affordable, particularly for low-income
+residents, including lease-purchase models,
+zero-interest loans and vehicle trade-in programs
+› Create economic opportunity for low-income
+residents by partnering with transportation
+network companies and mobility on demand
+providers to electrify their fleets and provide
+low-cost leases on ZEVs for drivers
+› Carry out targeted education initiatives in
+low uptake neighborhoods to increase driver
+exposure and encourage drivers to choose EVs
+over internal combustion engines
+METRICS FOR SUCCESS
+› Public charging infrastructure available in every
+Boston neighborhood by 2023
+› 100 percent of residents within a 10-minute walk
+of a public EV charger or EV carshare facility
+EXPECTED BENEFITS
+Up to a 400,000 ton reduction in annual
+carbon emissions from business as usual
+Air pollution reductions of 3,400 kg
+PM2.5, 39,000 kg NOx from business as
+usual
+$300 savings in maintenance costs per
+vehicle per year
+Local employment from electric vehicle
+supply equipment installation
+11 SUPPORT CITYWIDE ZERO-EMISSION
+VEHICLE (ZEV) DEPLOYMENT
+66 2019 Boston CAP Update | Transportation
+STEPS TIMELINE IMPLEMENTERS & PARTNERS
+1. Convene an internal City working group to help
+develop and implement a citywide ZEV strategy,
+and to support transitioning municipal fleets to
+ZEVs
+Starting
+in 2019,
+ongoing
+City
+2.Develop a ZEV Roadmap to accelerate Boston’s
+transition to EVs and other ZEV
+• Set targets for deployment,
+• Install chargers in City-owned lots and public
+right of way,
+• Develop how-to guides, and
+• Employ strategies to increase public and private
+fleet adoption
+Starting
+2020
+City
+3.Pilot electric vehicle car share as an expansion of
+DriveBoston and in partnership with community
+organizations
+• Prioritize locations near transportation hubs and
+environmental justice communities
+• Explore sustainable business models for
+community-owned or -managed EV carshare
+Starting
+2020
+City, carshare providers,
+community groups, community
+development corporations (CDCs),
+technical and design consultants
+4.Install electric vehicle charging on 6 municipallyowned parking lots through the Eversource Make
+Ready program
+• Develop principles and timeline for roll-out in
+additional lots
+By 2020 City, Eversource, technical
+consultants
+5.Release how-to guides for installing EV chargers
+targeted at landlords, employers and residents
+By 2020 City, technical consultants
+6.Incorporate ZEV strategies into Boston’s travel
+demand management (TDM) programs, including:
+• Integrate EV requirements into the Transportation
+Access Plan Agreement (TAPA) process
+• Collaborate with Transportation Management
+Associations (TMAs) and TAPA holders to expand
+charging in existing developments, and adopt
+other EV strategies like reduced price charging
+for ZEV workplace or rideshare vehicles
+2020 City, BPDA, private developers,
+regional partners, TMAs
+7. Work with dealerships and other partners to
+highlight availability of ZEVs through ride and drive
+events and educational campaigns
+Ongoing City, Eversource, auto dealers,
+MassDEP, regional partners,
+RMV, Auto Original Equipment
+Manufacturers (OEMs)
+2019 Boston CAP Update | Transportation 67
+STEPS TIMELINE IMPLEMENTERS & PARTNERS
+8.Encourage uptake of electric vehicles in private
+fleets and third-party carshare systems, including
+through the updated TAPA process
+Ongoing City, BHA, CDCs and other
+community partners, carshare
+service providers, TMAs, large
+employers
+9.Consider additional transportation options through
+the permitting of shared micromobility such as
+e-scooters and e-bikes
+Starting
+2020
+City
+10.Study equipment replacement strategies for older
+or highly-polluting vehicles, including developing a
+used EV market
+Ongoing City
+EXISTING TOOLS AND EFFORTS
+› The City of Boston has an electric vehicle policy,
+which currently requires that 25 percent of offstreet parking in development undergoing Article
+80 review be serviced by EV charging and the
+remaining 75 percent be EV.
+› DriveBoston is the City’s program to provide
+public parking spaces in municipal lots and on
+City streets for carshare vehicles, increasing
+accessibility and public awareness of car sharing
+as an alternative to private vehicle ownership.
+› The Small Vehicle Sharing Business Advisory
+Committee is an internal City working group
+considering policies associated with permitting
+small vehicle sharing-businesses, including the
+potential of a shared e-scooter pilot program.
+› Mayor Walsh’s 2019 legislative agenda includes
+an Act Relative to Transportation Network
+Company Rider Assessments. The bill would
+provide a financial incentive for zero-emission
+vehicles, such as electric vehicles, with a reduced
+per-mile fee or an exemption in some cases.
+› The Eversource Make Ready program is helping
+increase access to electric vehicles by supporting
+100 percent of the infrastructure costs for new
+charging stations.
+› The Massachusetts Offers Rebates for Electric
+Vehicles (MOR-EV) program has issued rebates
+of up to $1,500 for the purchase or lease of battery
+EVs and fuel-cell electric vehicles and up to $450
+for zero-emission motorcycles.
+› As of 2019, individuals can receive up to $7,500
+in federal tax credits for buying an EV.
+› The Massachusetts Department of Environmental
+Protection manages the Massachusetts Electric
+Vehicle Incentive Program (MassEVIP), as well
+as Volkswagen Settlement funds. MassEVIP offers
+incentives for workplace, multi-unit dwelling and
+public access charging, and for fleet operators to
+acquire EVs and charging stations.
+COMMUNICATION AND EDUCATION
+› The City of Boston will maintain online resources
+for current and prospective electric vehicle
+drivers in the Boston area. This includes howto guides for property owners, residents, and
+employers, for EV infrastructure installation, as
+well as information about financial incentives and
+charging networks. The City will also partner with
+Eversource, auto dealerships, and other partners,
+to host ride and drives and engagement initiatives.
+68 2019 Boston CAP Update | Transportation
+Fuel used to power the City of Boston’s vehicle fleet
+accounts for 0.5 percent of Boston’s total emissions,
+and 25 percent of the local government emissions.
+The City will work to accelerate the deployment
+of zero- and low-emissions vehicles in municipal
+fleets. Zero-emission vehicles (ZEVs)—such as
+some plug-in hybrid vehicles, battery electric
+vehicles, hydrogen fuel cell vehicles—generate
+fewer emissions than gas- and diesel-powered
+vehicles and don’t produce tailpipe pollution. The
+2007 Executive Order on Climate Action ordered
+that City departments purchase alternative fuel,
+flexible fuel or hybrid vehicles, or the most fuelefficient vehicles within their class. Although costs
+have gone down, the City remains constrained by
+the high price of some electric and hybrid vehicles.
+Currently, 30 percent of municipal vehicles in the
+Central Fleet are electric vehicles or hybrids.
+EXPECTED BENEFITS
+Eliminate up to 25 percent of carbon
+emissions from municipal operations
+Improved air quality and reduced noise
+$300 savings in maintenance per vehicle
+per year
+METRICS FOR SUCCESS
+› All vehicles purchased for Central Fleet are
+electric or zero-emissions vehicles, or best in
+class if an appropriate ZEV is not available
+› 100 percent of passenger vehicles are
+emissions free by 2035
+› 100 percent of medium-duty vehicles are
+emissions free by 2050
+› 100 percent of heavy-duty vehicles are
+emissions free or low emissions by 2060
+12 ACCELERATE MUNICIPAL FLEET
+TRANSITION TO ZERO- AND LOWEMISSION VEHICLES
+The City has been adding electric vehicles to Fleet Hub,
+the vehicle-sharing program for municipal employees.
+© Katherine Eshel
+2019 Boston CAP Update | Transportation 69
+STEPS TIMELINE IMPLEMENTERS AND PARTNERS
+1. Convene a quarterly internal City Working Group
+to coordinate municipal fleet management and
+citywide ZEV strategy
+Starting in
+2019
+City
+2.Develop a vehicle replacement plan to convert the
+Central Fleet to 100 percent zero- and low-emission
+vehicles
+• Analyze telematics data from five Central Fleet
+vehicles to determine optimal EV replacements
+and charging sites as an initial test
+• Evaluate carrying out a full fleet assessment using
+telematics data
+2020 City, data experts
+3.Develop a plan and timeline to deploy electric
+vehicle charging infrastructure across municipal
+facilities and lots
+2020 City, Eversource
+4.Pilot electric, renewable diesel, and other carbonneutral technologies for heavy fleet vehicle
+replacement
+Starting
+2021
+City
+5.Develop vehicle replacement plans for non-Central
+Fleet vehicles
+2020-2023 City
+17 U.S. Department of Energy, “Case Study - Propane School Bus Fleets,” August 2014.
+EXISTING TOOLS AND EFFORTS
+› Four out of five vehicles in the City of Boston’s
+Central Fleet are equipped with telematics
+systems that provide information on vehicle and
+fuel usage, including idling.
+› Boston Public Schools is transitioning its bus fleet
+from diesel to propane. Propane buses are more
+efficient and can save nearly 50 percent per mile
+in fuel and maintenance costs relative to diesel.
+They are also cleaner, particularly when replacing
+older diesel buses, emitting fewer air pollutants
+and up to 15 percent fewer greenhouse gases.17
+› The City of Boston is receiving support on zeroemissions vehicle deployment as part of the
+Bloomberg American Cities Climate Challenge.
+This includes developing guidance for installing
+charging infrastructure in municipal parking lots,
+how-to guides, and EV incentive programs for
+residents, employers and auto-dealerships.
+COMMUNICATION AND EDUCATION
+› To support electric vehicle uptake and appropriate
+use, City staff will have access to training for
+electric vehicle operation and maintenance. The
+City will also offer test rides for City employees to
+familiarize themselves with electric vehicles.
+70 2019 Boston CAP Update | Energy Supply
+ENERGY SUPPLY
+Boston buildings, transportation and waste management systems must be powered by clean, renewable
+energy to achieve our carbon neutral goal. This means switching away from fossil fuels to clean and
+renewable electricity or other carbon-neutral energy sources. The sooner we make the shift, the sooner
+we will reduce carbon emissions from our buildings and transportation, and decrease Boston’s cumulative
+contribution to global climate change.
+Currently, Massachusetts has a statewide Clean
+Energy Standard that requires 80 percent clean
+energy sources by 2050 for the electricity sector.
+This means that Boston will need to go further than
+the State’s efforts in order to achieve 100 percent
+clean energy. Strategies to decarbonize Boston’s
+energy supply include:
+› Procuring renewable electricity for residents
+and businesses in Boston through municipal
+aggregation (Community Choice Energy);
+› Buying renewable energy generated by local solar,
+wind, and non-petroleum fuel sources
+(e.g., biofuel);
+› Buying Renewable Energy Certificates (RECs); and
+› Buying renewable energy from resources outside
+New England.
+Over the next five years, the City of Boston will
+implement three primary strategies to transition to
+a carbon-free and resilient energy supply:
+13. Implement and expand Community Choice Energy
+14. Plan for the deployment of carbon-neutral
+district energy microgrid systems
+15. Support state policies and programs that
+further decarbonize the region’s and Boston’s
+energy supply
+© Paulo Valdivieso
+2019 Boston CAP Update | Energy Supply 71
+Community Choice Energy (CCE), also known as
+municipal aggregation, is a way for cities and
+towns to purchase electricity on behalf of their
+residents. The CCE program will allow the City
+to harness the buying power of its residents and
+businesses to purchase electricity for Bostonians
+in bulk. The CCE program can increase the
+stability of electricity prices and deliver higher
+percentages of electricity produced by renewable
+resources. Eversource, the City’s electric utility,
+will continue to manage the distribution of
+electricity to residents and businesses, but the
+City will choose the companies that supply the
+electricity to CCE customers. For every kilowatthour of electricity used by CCE customers, the City
+will retain a fraction of a penny to cover the cost
+of the program’s development and administration.
+Boston’s CCE program will allow the City to
+purchase more renewable energy than the state
+requires utility companies to buy, and will give
+residents a trusted option to power their homes
+and businesses.
+METRICS FOR SUCCESS
+› New sources of renewable electricity added to
+the grid
+› Number of residents who become and remain
+CCE customers
+› Number of residents who opt to purchase
+100 percent renewable electricity
+› Number of low- and fixed-income residents
+whose energy bill becomes more predictable and
+affordable as a result of their participation in the
+program
+EXPECTED BENEFITS
+Reduced carbon emissions from
+electricity consumption by residents
+and businesses
+Electricity that has a higher percentage
+of renewable electricity than is required
+by state law
+Electricity prices that are more stable
+and vary less season by season
+Protection from the predatory practices
+of some retail electricity suppliers
+DESIGNED FOR EQUITY
+› Buy power based on principles and vision
+developed by the CCE community working group
+› Make participation in the CCE program optional
+for all residents at all times
+› Increase supply of renewable energy to lowincome residents, potentially by using the
+aggregation to invest directly in new, local
+renewable projects; Include a reduced cost,
+alternative for CCE customers with low or fixed
+incomes that provides them with electricity
+that meets the state-required percentage of
+renewable electricity
+› Educate residents about the predatory practices
+of some retail electricity suppliers, who often
+prey on the City’s elderly and low-income
+populations by offering low introductory rates
+that include hidden fees and price increases
+13 IMPLEMENT AND EXPAND
+COMMUNITY CHOICE ENERGY
+72 2019 Boston CAP Update | Energy Supply
+PROGRAM VALUES
+A community-based working group set the following
+principles and values to govern the CCE program:
+› Reduce carbon emissions;
+› Increase the amount of renewable energy
+generation on the grid;
+› Support local renewable energy;
+› Ensure affordability and price stability;
+› Strengthen consumer protection; and
+› Commitment to environmental justice.
+COMMUNICATION AND EDUCATION
+› The plan that the City submitted to the
+Department of Public Utilities for our
+CCE program includes a comprehensive
+communication campaign that relies on printed
+materials, online resources, community meetings,
+a customer service center, translation services,and
+other communication tools. The campaign has
+been designed to reach all of Boston’s residents
+and small businesses by taking demographics,
+language diversity, and other factors into account.
+STEPS TIMELINE IMPLEMENTERS & PARTNERS
+1. Launch CCE program, pending approval of
+Boston’s plan by the Department of Public Utilities
+2020
+(pending
+DPU
+approval)
+City, Colonial Power Group,
+Community Paradigm Associates
+2.Implement an opt-up engagement program in
+partnership with community organizations
+Starting
+2020
+City, community-based
+organizations and environmental
+groups
+3.Evaluate development of a municipal ratepayerfunded energy efficiency incentive program
+Starting
+2020
+City, local funders, technical
+consultants
+4.Develop a plan to carry out direct investment in
+renewables through CCE
+2020-2022 City, Colonial Power Group,
+Community Paradigm Associates,
+community advisory group
+5.Use data collected through the CCE program to
+find opportunities to support energy efficiency
+programs
+Starting
+2021
+City, utility partners, Mass Save
+The City is working with Colonial Power Group and Community Paradigm Associates to design and implement
+CCE in Boston. Colonial Power Group has helped more than 60 Massachusetts cities and towns launch and
+manage CCE programs. Community Paradigm Associates specializes in municipal law and process. They will
+also help us with collaborative decision-making and community engagement. The City launched a community
+working group made up of residents, experts, advocates, and community leaders in December 2018 to inform
+the design and implementation of the CCE program. As of September 2019, the CCE program is pending review
+and approval by the Department of Public Utilities.
+2019 Boston CAP Update | Energy Supply 73
+Adopted by the Boston Planning & Development
+Agency (BPDA) in 2018, the Smart Utilities Policy
+for Article 80 Large Project Development Review
+aims to integrate the resilience and efficiency
+benefits of district energy and microgrids into
+the planning and design process for large new
+developments.
+The Smart Utilities Policy calls for the incorporation
+of five Smart Utility Technologies (SUTs) into new
+Article 80 developments based on different size
+thresholds and criteria. Two SUTs apply only to
+projects over 1.5 million square feet:
+› District energy microgrid; and
+› Telecom utilidor (an accessible underground
+duct bank that consolidates assets for telecom
+services, reducing the need for street openings to
+install telecom services)
+District energy systems can produce steam, hot
+water and chilled water (“thermal services”) at a
+central plant and provide these thermal services to
+multiple buildings, usually via underground pipes.
+District energy systems can produce these thermal
+services from both renewable energy sources
+and fossil fuels. Depending on the energy sources
+used, these systems can also provide electricity
+(“electrical services”). A system that provides both
+thermal and electrical services can be referred to as
+a district energy microgrid.
+18 Boston University Institute of Sustainable Energy, “Carbon Free Boston: Summary Report,” January 2019, pp. 88-91.
+Due to better energy efficiency and economies
+of scale, district energy provides opportunities
+to reduce energy use, energy cost, and carbon
+emissions when compared to individual building
+systems. District energy may also improve
+community resilience by providing energy services
+even when the regional grid cannot deliver
+electricity due to an emergency.
+Current district energy microgrid systems in
+Boston provide secure heating and electricity to
+approximately 10 percent of total floorspace in
+the city; however, many of these systems rely on
+natural gas.18 While compared to the electric grid
+of today these district energy systems result in
+higher efficiency and fewer carbon emissions, as
+the regional electric grid gets cleaner, the emission
+reduction benefits of fossil fuel-based district
+energy microgrids will no longer be outweighed.
+While district energy systems that use natural
+gas can reduce emissions until 2032, by 2050 the
+Carbon Free Boston analysis found that equipping
+large new buildings with natural gas cogenerationbased district energy systems may add 4,000 tons
+of carbon per year.
+14 PLAN FOR THE DEPLOYMENT
+OF CARBON-NEUTRAL DISTRICT
+ENERGY MICROGRID SYSTEMS
+74 2019 Boston CAP Update | Energy Supply
+While many existing systems rely on natural gas,
+some new projects are deploying district energy
+microgrid systems that are compatible with a
+carbon-neutral energy future:
+› As a result of the Smart Utilities Policy, some
+developers are adopting district energy
+microgrid-ready design when their energy
+models indicate that a natural gas-based district
+energy microgrid has no clean emissions
+reduction benefit over the current grid. A district
+energy microgrid-ready design allows developers
+and property owners to integrate carbon-neutral
+and resilient energy options as they emerge.
+› The new Harvard District Energy Facility (DEF)
+in Allston uses an efficient low temperature hot
+water distribution system that can be converted
+to emerging carbon-neutral technologies in
+the future. The facility also includes the largest
+thermal storage tank in Massachusetts, which can
+supply the campus with chilled water during the
+daytime to lower the burden on the power grid
+during peak times, potentially reducing carbon
+emissions and saving money. Harvard University
+has set goals to be fossil fuel-neutral by 2026 and
+fossil fuel-free by 2050.
+› HEET, a local non-profit, commissioned
+BuroHappold Engineering to assess the feasibility
+of replacing leakprone gas infrastructure with
+interconnected street-segment geothermal to
+deliver renewable thermal to all. HEET expects to
+develop pilot projects with local gas companies
+over the next few years.
+In the next five years, the City of Boston and the
+BPDA will take the following actions:
+› Continue to align the Smart Utilities Policy with
+carbon neutrality goals by emphasizing carbonneutral district energy systems using renewable
+and all-electric sources; and
+› Develop a strategy to prioritize where, if at all,
+natural gas-based systems would still be needed
+in the future, including hospitals.
+Energy-efficient & Renewable or highly-efficient net-zero buildings on-site electric and/or
+thermal generation*
+District energy
+microgrid
+*Includes:
+› Thermal energy storage systems to reduce
+peak energy demand;
+› Ground source heat pumps and geothermal
+district energy
+› Co-generation systems for life-preserving
+facilities such as hospitals and emergency
+shelters.
+2019 Boston CAP Update | Energy Supply 75
+The City of Boston can take steps to decarbonize
+the energy supply for local government operations,
+but in order to become carbon-neutral, every
+sector needs access to clean, renewable energy and
+smart energy systems. The City will build on its
+record of leadership on energy through the Mayor’s
+legislative agenda and public advocacy on key
+issues at the state level.
+SUPPORT FOR A 100 PERCENT CLEAN GRID
+The Massachusetts Clean Energy Standard (CES)
+set a target of 80 percent of electricity sales
+that energy suppliers must procure from clean
+sources by 2050. However, a 100 percent clean,
+renewable energy supply is a baseline condition
+for reaching carbon neutrality. As a member of
+the Implementation Advisory Committee for the
+Global Warming Solutions Act, the City of Boston
+will support inclusion of scenarios that examine a
+100 percent clean grid in the state’s 80x50 study
+and plans. The City will also continue to support
+policies and incentive programs for expanded
+energy storage, solar and wind generation, and
+other distributed energy resources.
+FUEL-SWITCHING IN ENERGY EFFICIENCY
+INCENTIVE PROGRAMS
+The Massachusetts Energy Efficiency Advisory
+Council (EEAC) oversees utility-operated energy
+efficiency programs. These programs, under the
+umbrella brand of Mass Save, operate in accordance
+with three-year plans developed with the EEAC and
+approved by the Department of Public Utilities. The
+2019-2021 three-year plan is the first that does not
+prohibit the use of energy efficiency incentives to
+switch heating system fuels. The City of Boston will
+work with the Metropolitan Area Planning Council
+and other partners on the EEAC to ensure that
+Mass Save incentives are structured to encourage
+systematic fuel-switching away from fuel oil and
+natural gas to electricity or other clean energy
+sources.
+NATURAL GAS INFRASTRUCTURE AND
+DEMAND RESPONSE
+Natural gas use and leaks from natural gas pipes
+accounted for 29 percent of Boston’s communitywide emissions in 2017. As part of his 2019
+legislative agenda, Mayor Walsh has introduced an
+Act to Modernize Our Natural Gas Infrastructure/
+Reduce Gas Leaks. This legislation would give the
+Massachusetts Department of Public Utilities the
+authority to fine natural gas distribution companies
+for the total volume of all gas leaks. This policy
+change would incentivize the utility companies
+to update their infrastructure, provide revenue to
+reduce communities’ exposure to gas leaks, and
+fund projects to replace trees and other resources
+harmed by gas leaks.
+In order to encourage efficiency in natural gas
+use, the City will support the development of a
+framework to encourage demand response among
+commercial natural gas users, for instance by
+drawing from on-site energy storage systems. In
+the electricity sector, ISO New England, the agency
+that operates our regional electric transmission
+grid, compensates large electricity users for
+reducing consumption when demand or market
+prices are high. By encouraging customers to
+SUPPORT STATE POLICIES AND
+PROGRAMS THAT FURTHER
+DECARBONIZE THE REGION'S AND
+BOSTON’S ENERGY SUPPLY
+15
+76 2019 Boston CAP Update | Energy Supply
+reduce consumption, ISO-NE avoids putting the
+grid under too much stress. The natural gas sector
+can similarly optimize investments in grid capacity
+by using demand response. National Grid has
+piloted a demand response program for commercial
+customers in New York; a similar framework could
+be tested in the Boston area.
+CONNECTING RESILIENCE AND ENERGY
+EFFICIENCY
+The state is currently developing the Clean Peak
+Energy Standard, which will provide incentives to
+clean energy providers that can supply electricity
+or reduce demand during seasonal peak demand
+periods. Currently, when electricity demand
+peaks, energy suppliers have to power up fossil
+fuel generators to meet the need and prevent
+grid outages. The Clean Peak Energy Standard
+will encourage suppliers to meet peak electricity
+demand with cleaner power and reduce the need
+for back-up fossil fuel generators.
+One of the features under consideration is a
+general resilience multiplier that would reward
+facilities that can continue to provide power during
+grid outages. The Clean Peak Standard should
+also consider an added social equity multiplier
+that rewards facilities that serve low-income
+communities during grid outages.
+Chris Cook, Chief of Environment, Energy, and Open Space, inspects the geothermal test well site for the Boston
+University Center for Computing & Data Sciences.
+Street trees provide shade and cooling, but methane leaks
+from natural gas pipes can suffocate them by depriving
+their roots of oxygen. Mayor Walsh introduced legislation
+in 2019 to give cities more resources to replace trees and
+generally reduce communities' exposure to gas leaks.
+© Aaron Ye for Boston University Photography
+© Katherine Eshel
+2019 Boston CAP Update | A Carbon-Free Community 77
+A CARBON-FREE
+COMMUNITY
+While the strategies laid out in this Update will achieve significant progress toward carbon neutrality as
+we currently measure our emissions, in the long run we will need to take a larger view of what it means to
+become a carbon-neutral Boston. Beyond the energy that powers our buildings and transportation, our
+economic decisions as consumers, businesses and institutions can also result in significant carbon
+emissions and support industries that contribute to global climate change.
+© Katherine Eshel
+78 2019 Boston CAP Update | A Carbon-Free Community
+The Zero Waste Boston plan lays out strategies to
+divert 90 percent of Boston’s waste, and includes a
+strong focus on source reduction, which can reduce
+waste emissions by 40 percent in 2050.
+The Carbon Free Boston analysis found that
+the incineration of Boston’s waste in waste-toenergy facilities, as well as waste collection and
+composting, generated about 393,000 tons of CO2
+e
+in 2017. Zero Waste Boston strategies may reduce
+direct emissions from waste by 60 percent.
+In addition to the emissions generated by waste
+disposal, consumption by the Boston community
+gives rise to the generation of carbon emissions
+outside city borders to produce goods and services
+for Boston residents. According to the C40 Cities
+report Consumption-based GHG emissions of C40
+cities, upstream emissions may represent more
+than double the emissions from local energy use in
+buildings, transportation and waste management.19
+19 C40 Cities, “Consumption-based GHG emissions of C40 cities,” March 2018.
+In the next five years, the City will take steps to
+reduce consumption-based emissions:
+› Conduct a consumption-based emissions
+inventory;
+› Promote sustainable consumption and help the
+public shift to goods and services with lower
+emissions;
+› Explore embodied carbon and actions to increase
+material reuse and use of carbonsequestering materials; and
+› Encourage land use and economic development
+policies that support neighborhood retail and
+Boston-based startups, to build a local, circular
+economy that allows residents to meet all of their
+basic needs close to home and to live car-free.
+16 DECARBONIZE THE CONSUMPTION OF
+BOSTON RESIDENTS AND BUSINESSES
+Buying used is one of many ways to reduce our personal carbon impact. A consumption-based inventory can
+improve our understanding of how to best reduce emissions from the items we use in our everyday lives.
+© Katherine Eshel
+2019 Boston CAP Update | A Carbon-Free Community 79
+The City of Boston has prioritized making
+responsible investments that reflect our values
+and benefit our neighborhoods. In February 2019,
+Mayor Walsh launched the Environmental, Social,
+Governance (ESG) Investment Initiative to invest
+up to $150 million of City operating funds in the
+short-term fixed income securities of companies
+that maintain strong corporate ESG practices.
+The City of Boston also joined the Ceres Investor
+Network as a means to facilitate corporate
+engagement around environmental practices.
+In the next five years, the City will also take
+the following steps to continue to decarbonize
+municipal operations:
+› Monitor the performance of the ESG Investment
+Initiative;
+› Update our guidelines for environmentally
+preferable procurement (EPP), also
+sometimes called “green purchasing”; and
+› Explore incorporating ESG principles into
+management of the City of Boston pension and
+trust funds.
+17 GREEN MUNICIPAL INVESTMENTS
+The Carbon Free Boston analysis estimated that
+Boston is able to reduce emissions by more than
+90 percent by 2050. But 10 percent of emissions
+may remain from fuel use or processes that are too
+costly or difficult to decarbonize with current-day
+technology. Our ability to address this remainder
+will probably improve in the next 30 years, but we
+still need to think about offsets.
+Carbon offsets are certificates that represent a
+metric ton of carbon that is permanently reduced,
+avoided, or removed from the atmosphere. An
+independent third party verifies the offset, which
+may then be sold or retired. By retiring an offset, an
+emitter can claim to have negated a ton of carbon.
+In the next five years, the City of Boston will take
+steps to:
+› Develop guidelines for carbon offsets for future
+City policies and programs;
+› Explore a local carbon offsets market in
+partnership with neighboring municipalities and
+regional partners; and
+› Evaluate the role of urban forestry and resilience
+benefits of local carbon offsets.
+18 DEVELOP A VALUES-BASED
+FRAMEWORK FOR CARBON OFFSETS
+80 2019 Boston CAP Update | A Carbon-Free Community
+© Marco Verch
+2019 Boston CAP Update | Acknowledgments 81
+ACKNOWLEDGMENTS
+The 2019 Climate Action Plan Update was made possible by the contributions of dedicated City staff,
+community, non-profit and private sector organizations, and Boston residents.
+WORKING GROUP PARTICIPANTS
+Alexandra Smith
+128 Business Council
+Kathryn Carlson
+A Better City
+Yve Torrie
+A Better City
+Amelia Youngstrom
+Action for Boston Community
+Development
+James Collins
+Action for Boston Community
+Development
+Lisa Frantzis
+Advanced Energy Economy
+Gabe Shapiro
+All In Energy
+Anna Leslie
+Allston-Brighton Health Collaborative
+Ashley Tibett
+Alternatives for Community &
+Environment
+Hajar Logan
+Alternatives for Community &
+Environment
+Mela Miles
+Alternatives for Community &
+Environment
+Richard Juang
+Alternatives for Community &
+Environment
+Lisa Jacobson
+Barr Foundation
+Shanna Cleveland
+Barr Foundation
+Rickie Harvey
+Boston Clean Energy Coalition and
+West Roxbury Saves Energy
+Andrew Wells-Bean
+Boston Climate Action Network
+George Henderson
+Boston Climate Action Network
+Linda Hirsch
+Boston Climate Action Network
+Michael Prokosch
+Boston Climate Action Network
+Christopher Donnelly
+Boston Green Academy
+Jacqueline Novicki
+Boston Green Academy
+Kayla Arreaga
+Boston Green Academy
+Litsch Prinston
+Boston Green Academy
+Simon Chernow
+Boston Green Academy
+Alice Brown
+Boston Harbor Now
+Alice Brown
+Boston Harbor Now
+Magdalena Ayed
+Boston Harborkeepers
+Andrea Love
+Boston Society of Architects
+Ahria Ilyas
+Boston Student Advisory Council
+Ebun Osinubi
+Boston Student Advisory Council
+Henry Swiman
+Boston Student Advisory Council
+Henry Swiman
+Boston Student Advisory Council
+Malik Bullock
+Boston Student Advisory Council
+Stanley Aneke
+Boston Student Advisory Council
+Wellington Matos
+Boston Student Advisory Council
+Scott Palmer
+Builders and Remodelers Association
+of Greater Boston
+Mary Vogel
+Building Pathways
+Lisa Owens
+City Life/Vida Urbana
+Oliver Sellers Garcia
+City of Somerville
+Michael Green
+Climate Xchange
+Bronwyn Cooke
+City of Cambridge
+Stephanie Groll
+City of Cambridge
+Seth Federspiel
+City of Cambridge
+Hannah Payne
+City of Somerville
+Danilo Morales
+Codman Square Neighborhood
+Development Council
+Collique Williams
+Community Labor United
+Staci Rubin
+Conservation Law Foundation
+Gokce Akin-Olcum
+Environmental Defense Fund
+Liz Delaney
+Environmental Defense Fund
+82 2019 Boston CAP Update | Acknowledgments
+Eric Wilkinson
+Environmental League of
+Massachusetts
+William Stack
+Eversource
+Jon Coleman
+Ford
+Matthew Raifman
+Ford
+Meredith Outterson
+Greater Boston Interfaith
+Organization
+Patricia Baumer
+Greater Boston Real Estate Board
+Loie Hayes
+Green Energy Consumers Alliance
+Amy Longsworth
+Green Ribbon Commission
+Magdalena Ayed
+Harborkeepers
+Caroleen Verly
+Harvard University Office of
+Sustainability
+Heather Henriksen
+Harvard University Office of
+Sustainability
+Jaclyn Olsen
+Harvard University Office of
+Sustainability
+Hubert Murray
+Health Care Without Harm
+Scott Mullen
+Lime
+Stacy Thompson
+LiveableStreets Alliance
+Emily Jones
+Local Initiatives Support Corporation
+(LISC) Boston
+Ben Sisko
+Lyft
+Jan Henderson
+MASCO
+Betsy Harper
+Massachusetts Department of Housing
+and Community Development
+Simone Early
+Massachusetts Department of Housing
+and Community Development
+Daniel Sullivan
+Massachusetts Department of
+Transportation
+Katherine Fichter
+Massachusetts Department of
+Transportation
+Hong-Hanh Chu
+Massachusetts Executive Office of
+Energy and Environmental Affairs
+Nerali Patel
+Massport
+Brian Doherty
+Metro Boston Trades Council
+Cameron Peterson
+Metropolitan Area Planning Council
+Kasia Hart
+Metropolitan Area Planning Council
+Megan Aki
+Metropolitan Area Planning Council
+Jeff Rosenblum
+MIT Urban Mobility Lab
+Andee Krasner
+Mothers Out Front
+Edith Buhs
+Mothers Out Front
+Anastasia Nicolaou
+NAIOP Massachusetts
+Stephanie Kruel
+NAIOP Massachusetts
+Tamara Small
+NAIOP Massachusetts
+Philip Giffee
+Neighborhood of Affordable Housing
+Lauren Baumann
+New Ecology
+Mariama White-Hammond
+New Roots AME
+John Balfe
+Northeast Energy Efficiency
+Partnerships
+Maria Meijburg
+nuTonomy
+Julie Klump
+Preservation of Affordable Housing
+Frank Mruk
+Roxbury Community College
+Kevin Hepner
+Roxbury Community College
+Patricia Puszko
+Seaport TMA
+Jacob Walther
+Sierra Club
+Michele Brooks
+Sierra Club
+Veena Dharmaraj
+Sierra Club
+Emily Lewis
+Sociedad Latina
+Harvey Michaels
+Temple Israel
+Norm Lamonde
+Turner Construction Company
+Meredith Elbaum
+USGBC - MA Chapter
+Justin Hank
+Veolia
+Ned Bartlett
+Veolia
+Adi Nochur
+Walk Boston
+Lisa Cunningham
+Warner Cunningham
+Aajia Hall
+Youth On Board
+Jen Wishnie
+Youth On Board
+Jenny Sazama
+Youth On Board
+Carlota Melo
+Zipcar
+2019 Boston CAP Update | Acknowledgments 83
+STEERING COMMITTEE
+Christopher Cook
+Office of Environment, Energy and
+Open Space
+Kristopher Carter
+Office of New Urban Mechanics
+Adam Cederbaum
+Law Department
+Katie Choe
+Public Works Department
+John Feuerbach
+Department of Neighborhood
+Development
+Jonathan Greeley
+Boston Planning & Development
+Agency
+Vineet Gupta
+Boston Transportation Department
+Dion Irish
+Inspectional Services Department
+Tricia Lyons
+Public Facilities Department
+Richard McGuiness
+Boston Planning and Development
+Agency
+Midori Morikawa
+Office of Economic Development
+Gregory Rooney
+Boston Transportation Department
+David Urkevich
+Budget Office
+CITY OF BOSTON DEPARTMENTS
+Age Strong Commission
+Boston Planning & Development
+Agency
+Boston Public Schools
+Boston Transportation
+Department
+Department of Neighborhood
+Development
+Environment Department
+Public Facilities Department
+Public Works Department
+Office of Budget and
+Management
+Office of Environment, Energy
+and Open Space
+Office of Equity and Inclusion
+Office of New Urban Mechanics
+Office of Policy
+Office of Resilience and Racial
+Equity
+Office of Workforce Development
+Operations
+CITY OF BOSTON STAFF
+ENVIRONMENT DEPARTMENT
+Katherine Eshel (Lead)
+Alison Brizius
+Nicholas Armata
+Susan Cascino
+David Corbie
+Joseph Cornish
+Rory Cuddyer
+Rosanne Foley
+Christopher Kramer
+Joseph Larusso
+Lourdes Lopez
+Alex Mireku
+Nicholas Moreno
+David Musselman
+Brenda Pike
+Peyton Siler Jones
+Benjamin Silverman
+Carl Spector
+Bradford Swing
+Lauren Zingarelli
+Maura Zlody
+84 2019 Boston CAP Update | Acknowledgments
+CITY OF BOSTON STAFF (CONT.)
+PUBLIC FACILITIES DEPARTMENT
+Evan Brinkman Paul Donnelly Michael Soucy
+TRANSPORTATION DEPARTMENT
+Samantha Devine
+Tyler Lew
+Matthew Moran
+Alaa Mukahhal
+Lindiwe Rennert
+Stefanie Seskin
+Matthew Warfield
+BOSTON PLANNING & DEVELOPMENT AGENCY
+Michael Christopher
+John Dalzell
+Manuel Esquivel
+Richard McGuinness
+Kathleen Pedersen
+DEPARTMENT OF NEIGHBORHOOD DEVELOPMENT
+Joseph Backer
+Jessica Boatwright
+John Feuerbach
+Jay Lee
+OTHER DEPARTMENTS
+Matthew Bradley
+Sean Chen
+William Coughlin
+Sabrina Dorsainvil
+Naida Faria
+Nicholas O'Neill
+Stacia Sheputa
+Lexi Smith
+Kim Thai-Durrigan
+Natasha White
+CONSULTANT SUPPORT
+Vanasse Hangen Brustlin Kim Lundgren Associates Archipelago Strategies Group
+2019 Boston CAP Update | Acknowledgments 85
+APPENDIX
+The following reports are referenced in this Plan and may be found on the City of Boston website:
+› 2014 Climate Action Plan Update Progress Report
+› 2017 Community Greenhouse Gas Inventory Report
+ABBREVIATIONS
+APCC Air Pollution Control Commission
+BCYF Boston Center for Youth and Families
+BERDO Building Energy Reporting and Disclosure
+Ordinance
+BOC Building Operator Certification
+BPDA Boston Planning & Development Agency
+BPS Boston Public Schools
+BTD Boston Transportation Department
+BHA Boston Housing Authority
+CDC Community Development Corporation
+DoIT Department of Innovation and Technology
+E+ Energy positive
+EV Electric vehicle
+GWSA Global Warming Solutions Act
+MAPC Metropolitan Area Planning Council
+MassDEP Massachusetts Department of
+Environmental Protection
+MassDOT Massachusetts Department of
+Transportation
+MWDBE Minority, Women, and Disadvantaged
+Business Enterprise
+RFP Request for Proposals
+RMV Registry of Motor Vehicles
+TDM Travel Demand Management
+TMA Transportation Management Association
+ZEV Zero-Emission Vehicle
+ZNC Zero Net Carbon
+ZNE Zero Net Energy
+PHOTO CREDIT
+Cover photo by Vera Izrailit.
+Boston à l'heure bleue (p. 33) by Emmanuel
+Huybrechts. License.
+Joe Moakley Park in Boston (pg. 80) by Marco Verch.
+License.
+Aerial photography of Boston Common (pg. 86-87)
+by Marco Verch. License.
+86 2019 Boston CAP Update |
+2019 Boston CAP Update | 87
+2019 CLIMATE ACTION PLAN UPDATE
+City of Boston
+MAYOR MARTIN J. WALSH

@@ -25,7 +25,7 @@ This module goes over computational text analysis for a corpus of texts, specifi
 
 ### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/text-analysis/sp24-aldrich-pols2395-textanalysis/EnvironmentalPolitics_TextAnalysis_Slides.pdf)
 
-### [Corpus and Stopwords](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/text-analysis/sp22-aldrich-pols2395-textanalysis/Corpus)
+### [Corpus and Stopwords](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/main/text-analysis/sp24-aldrich-pols2395-textanalysis/Corpus)
 
 ### [Accessibility Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/general/Handout_%20Accessibility%20in%20Digital%20Content.pdf)
 

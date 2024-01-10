@@ -20,7 +20,7 @@ This module is an introduction to data interoperability, focusing on database an
 
 <h2>Documents for Module</h2>
 
-[Data Interoperability Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/digital-archiving/sp24-parr-hist7250-data-interoperability/Parr_HIST7250_Data_Interoperability_Slides.pdf)
+[Data Interoperability Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/digital-archiving/sp24-parr-hist7250-data-interoperability/SP24_Parr_HIST7250_Data_Interoperability_Slides.pdf)
 
 <h2>DITI Consultants</h2>
 

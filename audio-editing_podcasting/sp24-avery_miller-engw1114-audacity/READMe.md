@@ -28,7 +28,7 @@ This module will introduce students to the basics of Audacity and audio editing.
 <h2>Module Materials</h2>
 
 
-[Audacity for Podcasting Slides for ENGW1111]()
+[Audacity for Podcasting Slides for ENGW1114](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/audio-editing_podcasting/sp24-avery_miller-engw1114-audacity/Service%20Learning%20ENGW%201114%20Emily-Miller-AudacitySlides.pdf)
 
 [Handout: File Storage in Audacity]()
 

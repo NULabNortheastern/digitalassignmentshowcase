@@ -2,7 +2,7 @@
 
 <h2>Individual Class Info</h2>
 
-HIST 7250: The Digital Archive <br>
+HIST 7251: Topics in American History <br>
 Professor Jessica Parr<br>
 Spring 2024<br>
 
@@ -20,7 +20,7 @@ This module is an introduction to data interoperability, focusing on database an
 
 <h2>Documents for Module</h2>
 
-[Data Interoperability Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/digital-archiving/sp24-parr-hist7250-data-interoperability/SP24_Parr_HIST7250_Data_Interoperability_Slides.pdf)
+[Data Interoperability Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/digital-archiving/sp24-parr-hist7251-data-interoperability/SP24_Parr_HIST7251_Data_Interoperability_Slides.pdf)
 
 <h2>DITI Consultants</h2>
 

@@ -32,7 +32,7 @@ This module will introduce students to the basics of Audacity and audio editing.
 
 [Handout: File Storage in Audacity](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/audio-editing_podcasting/sp24-avery_miller-engw1114-audacity/Handout%20File%20Storage%20in%20Audacity.pdf)
 
-[Handout: Intro to Audacity](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/audio-editing_podcasting/fa23-avery_miller-engw1111-audacity/handout-intro_to_audacity.pdf)
+[Handout: Intro to Audacity](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/audio-editing_podcasting/Handout-Audacity.pdf)
 
 [Handout: Download Audacity](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/audio-editing_podcasting/fa23-avery_miller-engw1111-audacity/handout-install_audacity.pdf)
 

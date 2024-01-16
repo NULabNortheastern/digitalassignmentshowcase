@@ -2,7 +2,7 @@
 
 <h2>Individual Class Info</h2>
 
-HIST 7251: Topics in American History <br>
+HIST 7251: Digital Archives Seminar <br>
 Professor Jessica Parr<br>
 Spring 2024<br>
 

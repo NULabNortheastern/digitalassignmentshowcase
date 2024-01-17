@@ -33,4 +33,5 @@ This module goes over computational text analysis for a corpus of texts, specifi
 
 ## DTI Consultants
 Emily Sullivan
+<br>
 Hunter Moskowitz

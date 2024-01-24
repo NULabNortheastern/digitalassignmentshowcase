@@ -1,4 +1,4 @@
-<h1>Introduction to KnightLab StoryMaps</h1>
+<h1>Introduction to KnightLab StoryMap</h1>
 <h2>Individual Class Info</h2>
 
 SOCL2358: Issues in Cities and Suburbs

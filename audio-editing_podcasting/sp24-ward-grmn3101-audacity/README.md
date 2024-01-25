@@ -29,7 +29,7 @@ This module will go over the basics of Audacity, fair use, and podcasts. The sec
 
 <h2>Documents for Module</h2>
 
-[Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/1726b25f27aa1042ece5fb117652b6a568273695/audio-editing_podcasting/sp24-ward-grmn3101-audacity/SP24-Ward-AudacitySlides.pptx)
+[Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/audio-editing_podcasting/sp24-ward-grmn3101-audacity/SP24-Ward-AudacitySlides.pdf)
 
 [Introduction to Podcasting](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/audio-editing_podcasting/Handout-Audacity.pdf)
 

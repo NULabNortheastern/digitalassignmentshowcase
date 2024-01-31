@@ -36,7 +36,7 @@ This module will introduce students to the basics of Audacity and audio editing.
 
 [Handout: Download Audacity](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/audio-editing_podcasting/fa23-avery_miller-engw1111-audacity/handout-install_audacity.pdf)
 
-[Fair Use Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/general/Handout-Copyright_and_Fair_Use.pdf)
+[Fair Use Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/general/Copyright-Fair-Use.pdf)
 
 <h2>DITI Consultants</h2>
 

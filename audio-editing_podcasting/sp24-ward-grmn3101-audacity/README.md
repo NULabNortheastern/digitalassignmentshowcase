@@ -33,7 +33,7 @@ This module will go over the basics of Audacity, fair use, and podcasts. The sec
 
 [Introduction to Podcasting](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/audio-editing_podcasting/Handout-Audacity.pdf)
 
-[Handout: Copyright and Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/General/Copyright-Fair-Use.pdf)
+[Handout: Copyright and Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/general/Copyright-Fair-Use.pdf)
 
 <h2>DITI Consultations</h2>
 

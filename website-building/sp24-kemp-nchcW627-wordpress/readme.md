@@ -24,7 +24,7 @@ This module will cover creating and designing a website using WordPress. It demo
 ### [WordPress Website Building Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/website-building/Handout-WordPress.pdf)
 ### [HTML Basics Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/website-building/Handout-HTML_Introduction.pdf)
 ### [Introduction to Website Building & WordPress Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/website-building/sp24-kemp-nchcW627-wordpress/Kemp%20WordPress%20Slides.pdf)
-### [Fair Use Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/general/Handout-Copyright_and_Fair_Use.pdf)
+### [Fair Use Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/general/Handout-Copyright-Fair-Use.pdf)
 
 ## DITI Consultants
 Hunter Moskowitz, Claire Lavarreda, & Liam Maclean

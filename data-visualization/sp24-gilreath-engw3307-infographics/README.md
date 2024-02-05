@@ -3,7 +3,9 @@
 <h2>Individual Class Info</h2>
 
 ENGW3307: Advanced Writing in the Technical Professions
+
 Dr. Philip Gilreath
+
 Spring 2024
 
 <h2>Summary of Module</h2>
@@ -17,7 +19,9 @@ Students will learn how to use Canva to produce professional visualizations that
 <h2>Learning Objectives</h2>
 
 *Understand the design process of creating data visualizations.
+
 *Learn Canva terminology and understand design option on Canva to help display data.
+
 *Understand how design choices impact accessibility of data visualizations.
 
 <h2>Materials for Module</h2>

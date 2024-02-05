@@ -40,7 +40,7 @@ This module will go over components of storytelling and how these components may
 
 [Handout: Black Heritage Trail Demo](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/mapping/Handout-Black_Heritage_Trail.pdf)
 
-[Handout: Copyright & Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/Copyright-Fair-Use.pdf)
+[Handout: Copyright & Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/general/Copyright-Fair-Use.pdf)
 
 <h2>DITI Consultants</h2>
 

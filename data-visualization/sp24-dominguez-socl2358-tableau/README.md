@@ -26,4 +26,4 @@ Students will learn how to use spatial data in a powerful mapping software to pr
 
 [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-visualization/sp24-dominguez-socl2358-tableau/tableau-slides.pdf)
 
-[Data](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/master/data-visualization/sp24-dominguez-socl2358-tableau/data)
+[Data](https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/N4BL71/UZQ550&version=3.0)

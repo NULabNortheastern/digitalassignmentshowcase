@@ -27,7 +27,7 @@ Students will learn how to use Canva to produce professional visualizations that
 <h2>Materials for Module</h2>
 
 
-[Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/c54ab8118e17f3e957872eb4ed16c936e3a01dc3/data-visualization/sp24-gilreath-engw3307-infographics/SP24-Gilreath-Canva-Slides.pdf)
+[Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/f6c3945f8b9670be64c9b197befbb05f2f956fa7/data-visualization/sp24-gilreath-engw3302-infographics/SP24-Gilreath-Canva-Slides.pdf)
 
 
 <h1>DITI Consultants</h1>

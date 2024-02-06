@@ -32,15 +32,17 @@ This module will go over the basics of Audacity, fair use, and oral history rese
 
 [Handout: Audacity](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/audio-editing_podcasting/Handout-Audacity.pdf)
 
-[Handout: Accessibility](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/Handout_%20Accessibility%20in%20Digital%20Content.pdf)
+[Handout: Accessibility](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/general/Handout-Accessibility_in_Digital_Content.pdf)
 
-[Handout: Copyright and Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/Copyright-Fair-Use.pdf)
+[Handout: Copyright and Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/general/Copyright-Fair-Use.pdf)
 
 [Handout: Data Ethics](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/data-ethics/Handout-Data_Ethics.pdf)
 
 <h2>DITI Consultants</h2>
 
 Dipa Desai
+
 Claire Lavarreda
+
 Emily Sullivan
 

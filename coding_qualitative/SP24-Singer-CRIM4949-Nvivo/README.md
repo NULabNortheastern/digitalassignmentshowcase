@@ -9,7 +9,7 @@ Professor Singer
 <br>
 
 
-Fall 2023
+Spring 2024
 <br>
 
 ## Summary of Module
@@ -46,8 +46,8 @@ Qualitative Coding with NVivo
 [Copyright & Fair Use Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/Copyright-Fair-Use.pdf)
 
 ## DITI Consultants
-Taught by Dipa Desai and Sean Rogers
+Taught by Sean P. Rogers
 
 
-Created by Cara Marta Messina
+Created by Dipa Desai, Sean P. Rogers, and Cara Marta Messina
 

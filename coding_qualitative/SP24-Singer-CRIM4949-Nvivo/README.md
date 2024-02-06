@@ -39,9 +39,7 @@ Qualitative Coding with NVivo
 
 [Intro to NVivo for Qualitative Coding](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/coding_qualitative/Handout_%20NVivo.pdf)
 
-[Sample Interviw Transcript](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/coding_qualitative/fa23-singer-nvivo/California%20Prison%20Inmates%20Interview.pdf)  
-
-[Accessibility Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/Accessibility.pdf)
+ [Accessibility Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/Accessibility.pdf)
 
 [Copyright & Fair Use Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/Copyright-Fair-Use.pdf)
 

@@ -32,7 +32,7 @@ Qualitative Coding with NVivo
 
 ## Documents for Module
 
-### [Presentation](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/coding_qualitative/fa23-singer-nvivo/NVivo-Presentation.pdf)
+### [Presentation](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/coding_qualitative/SP24-Singer-CRIM4949-Nvivo/NVivo-Presentation.pptx.pdf)
 
 ### Handouts
 [Installing NVivo](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/coding_qualitative/Handout_%20Installing_NVivo.pdf)

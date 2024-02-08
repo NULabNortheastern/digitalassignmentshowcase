@@ -19,7 +19,7 @@ This module is an introduction to using Omeka S Sandbox and teaches basic termin
 
 <h2>Documents for Module</h2>
 
-[Omeka Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/digital-archiving/sp24-parr-hist7251-omeka/SP24%20Parr-HIST7251-Omeka.pdf)
+[Omeka Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/digital-archiving/sp24-parr-hist7251-omeka/SP24_Parr-HIST7251-Omeka.pdf)
 
 <h2>DITI Consultants</h2>
 

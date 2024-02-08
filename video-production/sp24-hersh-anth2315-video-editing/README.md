@@ -5,7 +5,9 @@ An introduction to the fundamentals of video production and video editing using 
 <h2>Individual Class Info</h2>
 
 ANTH 2315: Religion and Modernity
+<br>
 Professor Carie Hersh
+<br>
 Spring 2024
 
 <h2>Summary of Module</h2>

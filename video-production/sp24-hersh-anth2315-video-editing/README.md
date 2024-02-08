@@ -25,7 +25,7 @@ The first portion of this module will cover the fundamentals of video production
 
 [Video Editing Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/video-production/sp24-hersh-anth2315-video-editing/Hersh_VideoEditing_Vimeo_Slides_SP24.pdf)
 
-[Example Media](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/video-production/sp24-hersh-anth2315-video-editing/Vimeo_Example_Media)
+[Example Media](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/main/video-production/sp24-hersh-anth2315-video-editing/Vimeo-Example-Media)
 
 [Data Privacy Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/672f6915b864920a65d1617b0b48f57f7fe84295/handouts/general/Handout_%20Data%20Privacy.pdf)
 

@@ -3,7 +3,9 @@
 <h2>Individual Class Info</h2>
 
 POLS 7387 Global Governance 
+
 Prof. Denise Garcia 
+
 Spring 2024
 
 <h2>Summary of Module</h2>
@@ -23,22 +25,14 @@ This module demonstrates how to use Excel to retrieve and clean data from the Un
 
 <h2>Materials for Module</h2>
 
-[Data for Mapping Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/2dbcc2b36790e24fd5fca73927ace68cf378401f/mapping/sp24-garcia-pols7387-dataformapping/SP24-Garcia_DataManagement_Excel_Slides.pdf)
+[Data for Excel](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/a3cb838b6910f8ba08fefaf460711208c98d9e20/mapping/sp24-garcia-pols7387-dataformapping/data)
 
-[Handout: KnightLab StoryMap](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/mapping/Handout-StoryMap.pdf)
+[Handout: Data Prep for Excel](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/a3cb838b6910f8ba08fefaf460711208c98d9e20/mapping/sp24-garcia-pols7387-dataformapping/Handout-data_prep_excel.pdf)
 
-[Handout: Spreadsheet Template User Guide](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/mapping/Handout-StoryMap_Spreadsheet_Template.pdf)
+[Handout: Install Excel](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/a3cb838b6910f8ba08fefaf460711208c98d9e20/mapping/sp24-garcia-pols7387-dataformapping/handout-install_excel.pdf)
 
 [Handout: Copyright and Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/Copyright-Fair-Use.pdf)
 
-[Handout: Black Heritage Trail Demo](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/mapping/Handout-Black_Heritage_Trail.pdf)
-
-[Handout: Accessibility in StoryMap](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/mapping/Handout-Accessibility_StoryMap.pdf)
-
-[Spreadsheet Template](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/mapping/Handout-StoryMap_Spreadsheet_Template.pdf)
-
-[Handout: Introduction to HTML](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/HTML-Introduction.pdf)
-
-DITI's [Intro to StoryMap Video](https://youtu.be/X33ud7RYZFg)
-
 <h2>DITI Consultants</h2>
+
+Kasya O'Connor Grant and Hunter Moskowitz

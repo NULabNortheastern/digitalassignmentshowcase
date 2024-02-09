@@ -1,25 +1,25 @@
-<h1>Introduction to KnightLab StoryMap</h1>
+<h1>Introduction to Data Retrieval and Cleaning</h1>
 
 <h2>Individual Class Info</h2>
 
+POLS 7387 Global Governance 
+Prof. Denise Garcia 
+Spring 2024
 
 <h2>Summary of Module</h2>
 
-This module will go over components of storytelling and how these components may be integrated in maps. Specifically, this workshop will teach students how to use [KnightLab StoryMap](https://storymap.knightlab.com/) web-browser application by providing step-by-step instructions, a sample map, and sample data for students to use to practice building their own maps.
+This module demonstrates how to use Excel to retrieve and clean data from the United Nations Sustainable Goals database in preparation for mapping.
 
 <h2>Learning Goals</h2>
 
-* Understand components for compelling storytelling
-* Understanding the particular choices made when building a map
-* Understanding how to collect data for mapping
-* Understanding KnightLab StoryMap's interface and where it gathers its information
+* Understand how to collect, store, and clean data in Excel
+* Apply this to the UN Sustainable Development Goals 
+* Prepare data for GIS mapping
 
 <h2>Learning Objectives</h2>
 
-* Articulate particular choices made when telling a story using a map
-* Follow a step-by-step guide for creating, saving, and publishing maps using KnightLab StoryMap
-* Implement data into KnightLab StoryMap, including location information, images, and text
-* Navigate StoryMap's map markers and location-finding system
+* Be able to understand how to download specific datasets from the internet
+* Learn how to use Excel to filter, sort, and clean the data for use with analysis tools
 
 <h2>Materials for Module</h2>
 

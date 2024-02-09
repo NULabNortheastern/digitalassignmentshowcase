@@ -23,7 +23,7 @@ This module will go over components of storytelling and how these components may
 
 <h2>Materials for Module</h2>
 
-[KnightLab StoryMap Slides]()
+[Data for Mapping Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/2dbcc2b36790e24fd5fca73927ace68cf378401f/mapping/sp24-garcia-pols7387-dataformapping/SP24-Garcia_DataManagement_Excel_Slides.pdf)
 
 [Handout: KnightLab StoryMap](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/mapping/Handout-StoryMap.pdf)
 

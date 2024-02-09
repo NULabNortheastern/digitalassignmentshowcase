@@ -25,6 +25,8 @@ This module demonstrates how to use Excel to retrieve and clean data from the Un
 
 <h2>Materials for Module</h2>
 
+[Slides] (https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/dd7e12e186bbfed9cdc25a6185a45b5eb38ebf1d/mapping/sp24-garcia-pols7387-dataformapping/SP24-Garcia_DataManagement_Excel_Slides.pdf)
+
 [Data for Excel](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/a3cb838b6910f8ba08fefaf460711208c98d9e20/mapping/sp24-garcia-pols7387-dataformapping/data)
 
 [Handout: Data Prep for Excel](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/a3cb838b6910f8ba08fefaf460711208c98d9e20/mapping/sp24-garcia-pols7387-dataformapping/Handout-data_prep_excel.pdf)

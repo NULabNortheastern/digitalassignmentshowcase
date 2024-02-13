@@ -27,7 +27,7 @@ Students will learn how to use Canva to produce professional visualizations that
 <h2>Materials for Module</h2>
 
 
-[Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/f3dd72b2351156ef45b19a0c12a4b685de4cdf1f/data-visualization/sp24-gilreath-engw3302-infographics/SP24-Gilreath-Canva-Slides.pdf)
+[Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/f9d4f789f9cd72f349702b2db6bf660213a08f43/data-visualization/sp24-gilreath-engw3302-infographics/SP24-Gilreath-Canva-Slides.pdf)
 
 [Handout: Accessibility in Digital Content](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/f3dd72b2351156ef45b19a0c12a4b685de4cdf1f/data-visualization/sp24-gilreath-engw3302-infographics/Handout_%20Accessibility%20in%20Digital%20Content.pdf)
 

@@ -22,7 +22,15 @@ This module will introduce students to the fundamentals of coding in Python with
 
 
 ## Materials for Module
-[Google Collab Notebooks](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/text-analysis/Handout-Corpus_Building.pdf)
+[Google Folder with Student Access Colab Notebooks](https://drive.google.com/drive/folders/1kk86_ow8cCYoufZ412i5ebnwVI5bAlF-?usp=drive_link)
+
+[Colab&IntroToPythonPoetry Notebook](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/multi-domain-modules/sp24-linker-boeckeler-engl3340-python-poetry/Colab%26IntroToPythonPoetry.ipynb)
+
+[HouseOfDustExample Notebook](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/multi-domain-modules/sp24-linker-boeckeler-engl3340-python-poetry/HouseOfDustExample.ipynb)
+
+[PythonPoetry_Template Notebook](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/multi-domain-modules/sp24-linker-boeckeler-engl3340-python-poetry/PythonPoetry_Template.ipynb)
+
+[Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/multi-domain-modules/sp24-linker-boeckeler-engl3340-python-poetry/slides_sp24-linker-boeckeler-engl3340-python-poetry.pdf)
 
 ## DITI Consultants
 Sara Morrell

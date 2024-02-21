@@ -1,4 +1,4 @@
-<h1>Introduction to Omeka</h1>
+<h1>Metadata Standards: Dublin Core + DACS</h1>
 
 <h2>Individual Class Info</h2>
 

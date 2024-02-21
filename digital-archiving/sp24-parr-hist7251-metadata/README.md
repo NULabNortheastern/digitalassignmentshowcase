@@ -21,7 +21,7 @@ This module is an introduction to archival metadata standards and covers metadat
 
 <h2>Documents for Module</h2>
 
-[Metadata Standards Slides]()
+[Metadata Standards Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/digital-archiving/sp24-parr-hist7251-metadata/SP24-Parr-HIST7251-DACS.pdf)
 
 <h2>DITI Consultants</h2>
 

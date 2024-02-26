@@ -27,7 +27,7 @@ This module will cover creating and designing a website using Wix or WordPress. 
 
 [Wix Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/website-building/Handout-Wix.pdf)
 
-[Wix Slides]() 
+[Wix Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/website-building/sp24-fuchs-grmn1101-wix/SP24-Fuchs-WebsiteBuilding_slides.pptx.pdf) 
 
 [Handout: Copyright and Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/Copyright-Fair-Use.pdf)
 

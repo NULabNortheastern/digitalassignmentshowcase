@@ -2,7 +2,8 @@
 <h1>Introduction to KnightLab StoryMap</h1>
 
 <h2>Individual Class Info</h2>
-GRM 2102 Intermediate German 2
+GRM 2102 
+Intermediate German 2
 Carolin Fuchs
 Spring 2024
 
@@ -27,7 +28,7 @@ This module will go over components of storytelling and how these components may
 
 <h2>Materials for Module</h2>
 
-[KnightLab StoryMap Slides]()
+[KnightLab StoryMap Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/mapping/sp24-fuchs-grmn2102-storymap/SP24-Fuchs-Intro-to-StoryMap.pdf)
 
 [Handout: KnightLab StoryMap](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/mapping/Handout-StoryMap.pdf)
 

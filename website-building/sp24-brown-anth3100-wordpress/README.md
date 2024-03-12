@@ -24,7 +24,7 @@ This module will cover creating and designing a website using WordPress. It demo
 
 
 ## DITI Consultants:
-Emily Sullivan
-Claire Lavarreda 
-Dipa Desai
+## Emily Sullivan
+## Claire Lavarreda 
+## Dipa Desai
 

@@ -8,18 +8,18 @@ Spring 2024
 
 <h2>Summary of Module</h2>
 
-This module will cover creating and designing a website using Wix or WordPress. It demonstrates how to sign up for an account with the Wix or WordPress content management systems (CMS), create a website through your specific CMS's username, choose templates, and customize your website based on audience, project themes, media to be included, and more.
+This module will cover creating and designing a website using WordPress. It demonstrates how to sign up for an account with the WordPress content management systems (CMS), create a website through your specific CMS's username, choose templates, and customize your website based on audience, project themes, media to be included, and more.
 
 <h2>Learning Goals</h2>
 
-* Understand the layout and choices available through Wix or WordPress
+* Understand the layout and choices available through WordPress
 * Better articulate your intended audience and design choices to appeal to that audience
 
 <h2>Learning Objectives</h2>
 
 * Create a WordPress website
 * Use specific CMS features, like the "Add" function
-* Create a blog section on the Wix or WordPress website
+* Create a blog section on the WordPress website
 
 <h2>Materials for Module</h2>
 

@@ -27,4 +27,4 @@ This module will cover creating and designing a narrative using Twine. It demons
 
 [Handout: Data Ethics](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/0411a3a5138e78d07ac9b7980a79bc5b06f7bc22/handouts/data-ethics/Handout_%20Data%20Ethics.pdf) 
 
-[Handout: Introduction to HTML](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/HTML-Introduction.pdf)
+[Handout: Introduction to HTML](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/5a1f302d0bb03065ce969326b6a06165a16646dc/handouts/website-building/Handout-HTML_Introduction.pdf)

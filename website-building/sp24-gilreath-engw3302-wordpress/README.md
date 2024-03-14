@@ -3,7 +3,9 @@
 <h2>Individual Class Info</h2>
 
 ENGW3302: Advanced Writing in the Sciences
+
 Dr. Philip Gilreath
+
 Spring 2024
 
 <h2>Summary of Module</h2>

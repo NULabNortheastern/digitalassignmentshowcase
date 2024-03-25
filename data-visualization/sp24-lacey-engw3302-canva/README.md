@@ -24,7 +24,7 @@ Students will learn how to use Canva to produce professional visualizations that
 
 <h2>Materials for Module</h2>
 
-[Slides]()
+[Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/32bba4baaafdc50346affdc9ea07e6c660ac18a7/data-visualization/sp24-lacey-engw3302-canva/SP24-Lacey-Canva-Slides.pdf)
 
 <h1>DITI Consultants</h1>
 

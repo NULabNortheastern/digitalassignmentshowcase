@@ -4,7 +4,9 @@
 <h2>Individual Class Info</h2>
 
 ENGW 3302: Advanced Writing in the Technical Professions
+
 Professor Kristin Lacey
+
 Spring 2024
 
 <h2>Summary of Module</h2>

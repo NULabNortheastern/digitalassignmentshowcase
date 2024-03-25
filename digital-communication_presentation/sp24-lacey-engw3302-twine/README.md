@@ -26,13 +26,13 @@ This module will cover creating and designing a narrative using Twine. It demons
 
 <h2>Materials for Module</h2>
 
-[Twine Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/0411a3a5138e78d07ac9b7980a79bc5b06f7bc22/digital-communication_presentation/fa23-gilreath-engw3307-twine/Gilreath-Twine-Slides.pptx) 
+[Twine Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/3ae285b2f4ea9ac470797419940607c917221391/digital-communication_presentation/sp24-gilreath-engw3302-twine/Spring24-Gilreath-Twine-Slides.pdf) 
 
 [Handout: Data Ethics](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/0411a3a5138e78d07ac9b7980a79bc5b06f7bc22/handouts/data-ethics/Handout_%20Data%20Ethics.pdf) 
 
 [Handout: Introduction to HTML](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/HTML-Introduction.pdf)
 
-[Handout: Accessibility in Digital Content]([Handout: Introduction to HTML](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/0411a3a5138e78d07ac9b7980a79bc5b06f7bc22/Handout_%20Accessibility%20in%20Digital%20Content.pdf) 
+[Handout: Accessibility in Digital Content](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/0411a3a5138e78d07ac9b7980a79bc5b06f7bc22/Handout_%20Accessibility%20in%20Digital%20Content.pdf) 
 
 <h2>DITI Consultants</h2>
 

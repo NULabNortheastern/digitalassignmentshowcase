@@ -26,7 +26,7 @@ This module will cover creating and designing a narrative using Twine. It demons
 
 <h2>Materials for Module</h2>
 
-[Twine Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/3ae285b2f4ea9ac470797419940607c917221391/digital-communication_presentation/sp24-gilreath-engw3302-twine/Spring24-Gilreath-Twine-Slides.pdf) 
+[Twine Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/6a4eac3ea88067a5317d84c77c0573cabe3f6c2d/digital-communication_presentation/sp24-lacey-engw3302-twine/Spring24-Lacey-Twine-Slides.pdf) 
 
 [Handout: Data Ethics](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/0411a3a5138e78d07ac9b7980a79bc5b06f7bc22/handouts/data-ethics/Handout_%20Data%20Ethics.pdf) 
 

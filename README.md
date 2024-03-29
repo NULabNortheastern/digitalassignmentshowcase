@@ -1,4 +1,4 @@
-This repository collects the resources created by the [Digital Integration Teaching Initiative](https://cssh.northeastern.edu/nulab/program/diti/). Scroll up to the folders for a comprehensive list of modules, grouped by digital tool or skill.
+This repository collects the resources created by the [Digital Integration Teaching Initiative](https://cssh.northeastern.edu/nulab/program/diti/). Scroll up to the folders for a comprehensive list of modules, grouped by digital tool or skill. The DITI strives for inclusive and equitable teaching partnerships. For more information, please see our [Statement on Diversity, Equity, Inclusion, and Belonging](https://cssh.northeastern.edu/nulab/program/diti/inclusivity-statement/) and our [Faculty Partnership Guidelines](https://cssh.northeastern.edu/nulab/program/diti/partner-with-diti/guidelines/). For examples of student work from DITI partnerships, please visit our [Student Work Examples page](https://cssh.northeastern.edu/nulab/program/diti/student-work/).
 
 ### Contact Information
 

@@ -15,10 +15,10 @@ This module introduces students to the fundamentals of coding in Python with a f
 
 
 ## Learning Goals
-- Understand what Python is and how to use Python for manipulating text data.
-- Learn the basics of Python for writing computational poetry. 
-- Experiment with writing individual computational poems in Python.
-- Gain awareness of the basic concepts behind generative AI models. 
+- Understand what Python is and how to use Python for manipulating text data
+- Learn the basics of Python for writing computational poetry
+- Experiment with writing individual computational poems in Python
+- Gain awareness of the basic concepts behind generative AI models
 
 
 ## Materials for Module

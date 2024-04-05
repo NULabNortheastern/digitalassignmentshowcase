@@ -1,4 +1,4 @@
-# Technologies of Text
+# Python for Poetry
 
 
 

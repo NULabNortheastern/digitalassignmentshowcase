@@ -46,9 +46,9 @@ This module is an introduction to using Excel, including basic terminology, navi
 [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/data-management/Abi-Hassan_SP_24_MGSC_2301/sah_demo.Rmd)
 
 ### Data
-This Excel data has been provided by Sean Rogers as a teaching aid. 
+This Excel data has been provided by Sean Rogers from a portion of his twitter data as a teaching aid. 
 <br/>
-[Excel Data](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-management/fa20-prina-econ1291-excel/ECON1291exceltutoring.xlsx](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/data-management/Abi-Hassan_SP_24_MGSC_2301/SAH_sample.xlsx)
+[Excel Data](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/data-management/Abi-Hassan_SP_24_MGSC_2301/SAH_sample.xlsx)
 <br/>
 [R file](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/data-management/Abi-Hassan_SP_24_MGSC_2301/sah_demo.Rmd)
 

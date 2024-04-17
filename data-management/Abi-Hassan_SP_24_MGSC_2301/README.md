@@ -2,49 +2,55 @@
 This module will introduce students to Excel for statistical analysis.
 
 ## Individual Class Info
-ECON 1291 Development Economics
+MGSC 2301 Introduction to Business Statistics
 <br>
-Silvia Prina
+Sahar Abi-Hassan
 <br>
-Fall 2020
+Spring 2024
 <br>
-Number of students: Insert 15 and 19
-<br>
-1:35-3:15pm & 3:30-5:10
+Number of students: 25
 <br>
 Remote synchronous
 
 ## Summary of Module
-This module is an introduction to using Excel, including basic terminology, navigating the software, basic functions, and forms of data analysis like pivot tables and charts. This module also introduces some more advanced techniques, like creating a regression model using Excel’s LINEST function.
+This module is an introduction to using Excel, including basic terminology, navigating the software, basic functions, and forms of data analysis like pivot tables and charts. This module also introduces some more advanced techniques, like creating a regression model using Excel’s LINEST function. The students also learned how to recreate these advanced functions in the R programming language. 
 
 ## Learning Goals
 - Understand the basic terminology and anatomy of Excel
 - Learn how to use basic Excel functions, such as =ADD and =SUM
 - Understand how data can be analyzed using pivot tables and charts
-- Learn more advanced calculations like regression models
+- Learn more advanced calculations like regression models in R and Excel
 
 ## Learning Objectives
 - Use several different functions on a sample data structure
 - Create charts, pivot tables, and model calculations in Excel
+- Create scripts to perform statistical tests in R
 
 ## Documents for Module
 
 ### Handouts
 
-[Installing Excel and Using Northeastern University's License](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-management/fa20-prina-econ1291-excel/handout-install_excel.pdf)
+[Installing Excel and Using Northeastern University's License]([https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-management/fa20-prina-econ1291-excel/handout-install_excel.pdf](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/data-management/Abi-Hassan_SP_24_MGSC_2301/Handout_%20Installing%20Excel.pdf))
 <br/>
-[Excel basics](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-management/fa20-prina-econ1291-excel/handout.pdf)
+[Excel basics]([https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-management/fa20-prina-econ1291-excel/handout.pdf](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/data-management/Abi-Hassan_SP_24_MGSC_2301/Handout_%20Excel.pdf))
 <br/>
-[Problem set](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-management/fa20-prina-econ1291-excel/ECON1291_2020-excel_training.pdf)
+[Data Ethics](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/data-management/Abi-Hassan_SP_24_MGSC_2301/Handout_%20Data%20Ethics.pdf)
+<br/>
+[Data Cleaning in R](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/data-management/Abi-Hassan_SP_24_MGSC_2301/Handout_%20Data%20Cleaning%20in%20R.pdf)
+<br/>
+[Stats in R](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/data-management/Abi-Hassan_SP_24_MGSC_2301/Introduction%20to%20R%20for%20Statistics.pdf)
+<br/>
 
 ### Presentation Materials
 
-[Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-management/fa20-prina-econ1291-excel/prina-fall2020-slides.pdf)
+[Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/data-management/Abi-Hassan_SP_24_MGSC_2301/sah_demo.Rmd)
 
 ### Data
-This Excel data has been provided by Silvia Prina specifically to have students practice using Excel
+This Excel data has been provided by Sean Rogers as a teaching aid. 
 <br/>
-[Excel Data](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-management/fa20-prina-econ1291-excel/ECON1291exceltutoring.xlsx)
+[Excel Data](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-management/fa20-prina-econ1291-excel/ECON1291exceltutoring.xlsx](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/data-management/Abi-Hassan_SP_24_MGSC_2301/SAH_sample.xlsx)
+<br/>
+[R file](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/data-management/Abi-Hassan_SP_24_MGSC_2301/sah_demo.Rmd)
 
 ## DITI Consultants
-Created by Cara Marta Messina and Garrett Morrow
+Created by Sean Rogers and Sara Morrell. 

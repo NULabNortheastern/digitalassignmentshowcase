@@ -30,9 +30,9 @@ This module is an introduction to using Excel, including basic terminology, navi
 
 ### Handouts
 
-[Installing Excel and Using Northeastern University's License]([https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-management/fa20-prina-econ1291-excel/handout-install_excel.pdf](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/data-management/Abi-Hassan_SP_24_MGSC_2301/Handout_%20Installing%20Excel.pdf))
+[Installing Excel and Using Northeastern University's License](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/data-management/Abi-Hassan_SP_24_MGSC_2301/Handout_%20Installing%20Excel.pdf)
 <br/>
-[Excel basics]([https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-management/fa20-prina-econ1291-excel/handout.pdf](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/data-management/Abi-Hassan_SP_24_MGSC_2301/Handout_%20Excel.pdf))
+[Excel basics](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/data-management/Abi-Hassan_SP_24_MGSC_2301/Handout_%20Excel.pdf)
 <br/>
 [Data Ethics](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/data-management/Abi-Hassan_SP_24_MGSC_2301/Handout_%20Data%20Ethics.pdf)
 <br/>

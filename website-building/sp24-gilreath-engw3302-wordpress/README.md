@@ -2,7 +2,7 @@
 
 <h2>Individual Class Info</h2>
 
-ENGW3302: Advanced Writing in the Sciences
+ENGW3302: Advanced Writing in the Technical Professions
 
 Dr. Philip Gilreath
 

@@ -2,9 +2,11 @@
 
 <h2>Individual Class Info</h2>
 
-ENGW 3307: Advanced Writing in the Sciences
+ENGW 3307: Advanced Writing in the Technical Professions
+
 Professor Philip Gilreath
-Fall 2023
+
+Spring 2024
 
 <h2>Summary of Module</h2>
 

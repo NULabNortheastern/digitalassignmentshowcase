@@ -2,7 +2,7 @@
 
 <h2>Individual Class Info</h2>
 
-ENGW 3307: Advanced Writing in the Technical Professions
+ENGW 3302: Advanced Writing in the Technical Professions
 
 Professor Philip Gilreath
 

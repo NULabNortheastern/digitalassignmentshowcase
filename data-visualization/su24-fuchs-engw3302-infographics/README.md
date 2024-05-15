@@ -27,11 +27,13 @@ Students will learn how to use Canva to produce professional visualizations that
 <h2>Materials for Module</h2>
 
 
-[Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-visualization/su24-fuchs-engw3302-infographics/SU24-fuchs-infographics-slides.pdf)
+### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-visualization/su24-fuchs-engw3302-infographics/SU24-fuchs-infographics-slides.pdf)
 
-[Handout: Accessibility in Digital Content](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/f3dd72b2351156ef45b19a0c12a4b685de4cdf1f/data-visualization/su24-fuchs-engw3302-infographics/Handout_%20Accessibility%20in%20Digital%20Content.pdf)
+### [Infographics Tools Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/data-visualization/Handout-Infographics_Tools.pdf)
 
-[Handout: Web-Based Tools for Infographic Design](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/f3dd72b2351156ef45b19a0c12a4b685de4cdf1f/data-visualization/su24-fuchs-engw3302-infographics/Handout_%20Infographics.pdf)
+### [General Accessibility Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/Accessibility.pdf)
+
+### [Copyright and Fair Use Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/Copyright-Fair-Use.pdf)
 
 
 <h1>DITI Consultants</h1>

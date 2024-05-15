@@ -31,9 +31,6 @@ Students will learn how to use Canva to produce professional visualizations that
 
 ### [Infographics Tools Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/data-visualization/Handout-Infographics_Tools.pdf)
 
-### [General Accessibility Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/Accessibility.pdf)
-
-### [Copyright and Fair Use Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/Copyright-Fair-Use.pdf)
 
 
 <h1>DITI Consultants</h1>

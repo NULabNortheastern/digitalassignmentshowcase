@@ -26,7 +26,7 @@ Learn how to make creative and effective presentation slides to deliver a visual
 
 [PowerPoint Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/e9fbe0214f17fd0e50210e410635620f4be0511e/digital-communication_presentation/su24-fuchs-german3800-powerpoint/SU24_Fuchs_Powerpoint_Slides.pdf)
 
-[PowerPoint Handout]()
+[PowerPoint Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/efdb9083d1960fdc589c88c260adfe2b7868dacf/digital-communication_presentation/su24-fuchs-german3800-powerpoint/SU24_Fuchs_PowerPoint_Handout.pdf)
 
 
 # DITI Consultants

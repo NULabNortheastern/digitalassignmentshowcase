@@ -28,6 +28,11 @@ Learn how to make creative and effective presentation slides to deliver a visual
 
 [PowerPoint Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/e9fbe0214f17fd0e50210e410635620f4be0511e/digital-communication_presentation/su24-fuchs-german3800-powerpoint/SU24_Fuchs_PowerPoint_Handout.pdf)
 
+[Accessibility in Digital Content](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/a46737b7a981bba461a0193b4d04127dfad7029b/handouts/general/Handout-Accessibility_in_Digital_Content.pdf)
+
+[Copyright and Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/a46737b7a981bba461a0193b4d04127dfad7029b/handouts/general/Copyright-Fair-Use.pdf)
+
+[Data Privacy](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/a46737b7a981bba461a0193b4d04127dfad7029b/handouts/general/Handout_%20Data%20Privacy.pdf)
 
 # DITI Consultants
 - Ana Abraham

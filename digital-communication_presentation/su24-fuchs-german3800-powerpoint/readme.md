@@ -24,7 +24,7 @@ Learn how to make creative and effective presentation slides to deliver a visual
 
 # Materials for Module
 
-[PowerPoint Slides]()
+[PowerPoint Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/e9fbe0214f17fd0e50210e410635620f4be0511e/digital-communication_presentation/su24-fuchs-german3800-powerpoint/SU24_Fuchs_Powerpoint_Slides.pdf)
 
 [PowerPoint Handout]()
 

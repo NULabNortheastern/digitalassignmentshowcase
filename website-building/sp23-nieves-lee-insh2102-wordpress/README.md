@@ -25,5 +25,6 @@ This module will cover creating and designing a website using WordPress. It demo
 
 ## DITI Consultants:
 Juniper Johnson
+
 Benjamin Grey
 

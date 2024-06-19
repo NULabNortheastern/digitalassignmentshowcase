@@ -20,7 +20,7 @@ This module introduces students to the fundamentals of coding in Python with a f
 
 [PythonPoetry_ComputationalPoemTemplate.ipynb](https://colab.research.google.com/drive/10OPZXXEvy9ccqAi6DZ_2QKfvL17RM9a4?usp=sharing)
 
-[Slides]()
+[Introduction to Python and Poetry Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/multi-domain-modules/generalized-python-poetry/Introduction%20to%20Python%20and%20Poetry.pdf)
 
 Follow the above links to access the Google Colab notebooks for this module. You can save your changes by making a copy of the notebook to your Google Drive and saving the changes there. You can also download the notebooks from this GitHub folder. 
 

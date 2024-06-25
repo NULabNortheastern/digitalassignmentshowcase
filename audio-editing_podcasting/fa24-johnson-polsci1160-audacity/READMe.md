@@ -29,7 +29,7 @@ This module will introduce students to the basics of Audacity and audio editing.
 
 [Audacity for Podcasting Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/audio-editing_podcasting/fa24-johnson-polsci1160-audacity/Johnson-Audacity-Slides.pdf)
 
-[Handout: Intro to Audacity](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/audio-editing_podcasting/Handout_%20Audacity.pdf)
+[Handout: Intro to Audacity](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/audio-editing_podcasting/fa24-johnson-polsci1160-audacity/Intro-to-Audacity-handout.pdf)
 
 [Download Audacity](https://www.audacityteam.org/download/)
 

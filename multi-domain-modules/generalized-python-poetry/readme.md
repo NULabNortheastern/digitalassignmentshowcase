@@ -28,3 +28,7 @@ Follow the above links to access the Google Colab notebooks for this module. You
 Sara Morrell
 
 Kasya O'Connor Grant
+
+Avery Blankenship
+ 
+Claire Lavarreda

@@ -4,6 +4,8 @@
 <h2>Individual Class Info</h2>
 
 NCHCW627 Final Year Project
+Prof. Sam Kemp
+Fall 2024
 
 <h2>Summary of Module</h2>
 

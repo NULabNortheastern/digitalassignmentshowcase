@@ -2,7 +2,7 @@
 <h1>Introduction to KnightLab StoryMap</h1>
 
 <h2>Individual Class Info</h2>
-GRM 1102 
+GRMN 1102 
 Elementary German 2
 Ruth Sondermann
 Fall 2024

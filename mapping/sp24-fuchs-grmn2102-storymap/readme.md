@@ -40,7 +40,7 @@ This module will go over components of storytelling and how these components may
 
 [Handout: Accessibility in StoryMap](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/mapping/Handout-Accessibility_StoryMap.pdf)
 
-[Spreadsheet Template](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/mapping/Handout-StoryMap_Spreadsheet_Template.pdf)
+[Handout: Spreadsheet Template](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/mapping/Handout-StoryMap_Spreadsheet_Template.pdf)
 
 [Handout: Introduction to HTML](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/HTML-Introduction.pdf)
 

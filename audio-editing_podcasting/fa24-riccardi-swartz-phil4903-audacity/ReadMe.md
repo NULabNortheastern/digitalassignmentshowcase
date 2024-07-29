@@ -27,11 +27,15 @@ This module will go over the basics of Audacity and podcasts. It will allow stud
 
 <h2>Documents for Module</h2>
 
-[Slides]()
+[Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/1d414eee3ea6bbc545a951ba9426c71b15cb499f/audio-editing_podcasting/fa24-riccardi-swartz-phil4903-audacity/FA24-Audacity-Riccardi-Swartz-Slides.pdf)
 
-[Introduction to Podcasting](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/audio-editing_podcasting/Handout-Audacity.pdf)
+[Handout: Introduction to Podcasting](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/audio-editing_podcasting/Handout-Audacity.pdf)
 
-[Handout: Copyright and Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/Copyright-Fair-Use.pdf)
+[Handout: Copyright and Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/1d414eee3ea6bbc545a951ba9426c71b15cb499f/handouts/general/Copyright-Fair-Use.pdf)
+
+[Handout: Install Audacity](https://docs.google.com/document/d/1XGYg8iVtywRglmx7zDRwjmdEKvTLqc-rL6VSQdEzcb8/edit?usp=sharing)
+
+[Handout: File Organization in Audacity](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/1d414eee3ea6bbc545a951ba9426c71b15cb499f/handouts/audio-editing_podcasting/Handout-Audacity_Storage.pdf)
 
 <h2>DITI Consultants</h2>
 

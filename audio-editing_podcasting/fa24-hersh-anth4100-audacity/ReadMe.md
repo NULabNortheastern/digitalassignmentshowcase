@@ -27,7 +27,7 @@ This module will go over the basics of Audacity and podcasts. It will allow stud
 
 <h2>Documents for Module</h2>
 
-[Slides]()
+[Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/a55d8a6e79bb5bc321c2c266e24895e9619d6543/audio-editing_podcasting/fa24-hersh-anth4100-audacity/FA24-Audacity-Hersh-Slides.pdf)
 
 [Handout: Introduction to Podcasting](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/audio-editing_podcasting/Handout-Audacity.pdf)
 

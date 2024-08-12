@@ -4,7 +4,9 @@
 <h2>Individual Class Info</h2>
 
 ANTH 4100: Making Anthropology Public
+
 Prof. Carie Hersh
+
 Fall 2024
 
 <h2>Summary of Module</h2>

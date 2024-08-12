@@ -37,7 +37,7 @@ This module will go over the basics of Audacity and podcasts. It will allow stud
 
 [Handout: File Organization in Audacity](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/1d414eee3ea6bbc545a951ba9426c71b15cb499f/handouts/audio-editing_podcasting/Handout-Audacity_Storage.pdf)
 
-[Handout: Zoom Interview Recording]()
+[Handout: Zoom Interview Recording](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/126a1606200d50e3ef506c09e2791f86feb5a44e/audio-editing_podcasting/fa24-hersh-anth4100-audacity/Handout_%20Zoom%20Interview%20Recording.pdf)
 
 <h2>DITI Consultants</h2>
 

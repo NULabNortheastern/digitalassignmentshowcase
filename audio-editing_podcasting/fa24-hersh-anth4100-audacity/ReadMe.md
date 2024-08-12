@@ -35,7 +35,7 @@ This module will go over the basics of Audacity and podcasts. It will allow stud
 
 [Handout: Copyright and Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/1d414eee3ea6bbc545a951ba9426c71b15cb499f/handouts/general/Copyright-Fair-Use.pdf)
 
-[Handout: Install Audacity](https://docs.google.com/document/d/1XGYg8iVtywRglmx7zDRwjmdEKvTLqc-rL6VSQdEzcb8/edit?usp=sharing)
+[Handout: Install Audacity](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/d04cab8b59d14191f394645e73aa30c87d04627d/handouts/audio-editing_podcasting/Handout-Audacity_Installation.pdf)
 
 [Handout: File Organization in Audacity](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/1d414eee3ea6bbc545a951ba9426c71b15cb499f/handouts/audio-editing_podcasting/Handout-Audacity_Storage.pdf)
 

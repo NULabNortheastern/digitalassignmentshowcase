@@ -37,7 +37,7 @@ This module will go over the basics of Audacity and podcasts. It will allow stud
 
 [Handout: File Organization in Audacity](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/1d414eee3ea6bbc545a951ba9426c71b15cb499f/handouts/audio-editing_podcasting/Handout-Audacity_Storage.pdf)
 
-The slides are also available on [Google Slides](https://docs.google.com/presentation/d/1INpVrG7-5b99wLI7ak1dSIhHR1CUcKS1FDBIxSmEqcg/edit?usp=sharing). 
+The slides are also available as [Google Slides](https://docs.google.com/presentation/d/1INpVrG7-5b99wLI7ak1dSIhHR1CUcKS1FDBIxSmEqcg/edit?usp=sharing). 
 
 <h2>DITI Consultants</h2>
 

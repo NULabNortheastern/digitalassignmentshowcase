@@ -27,7 +27,9 @@ This module will go over the basics of Python. It will teach students how to int
 
 [Handout: Python Functions](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/0c3b66c39884071942da7ac761b0cf86ee7532c4/handouts/coding_quantitative/Handout_Python%20Functions.pdf)
 
-These module materials are also available in the Google Drive folder [FA24-Fallis-PHIL3050-Python-StudentAccess](https://drive.google.com/drive/folders/1RHist7LkN4D0v11MiI1nT-k4te8YjZwu?usp=sharing).
+[Introduction and Resources Slide PDF](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/bcfef8f8628c45ecc4f51361ff410a4c1f080179/coding_quantitative/fa24-fallis-phil3050-python/FA24_Intro%26ResourcesSlide.pdf)
+
+These module materials, including a Google Slides version of the Introduction and Resources Slide, are also available in the Google Drive folder [FA24-Fallis-PHIL3050-Python-StudentAccess](https://drive.google.com/drive/folders/1RHist7LkN4D0v11MiI1nT-k4te8YjZwu?usp=sharing).
 
 ## DITI Consultants
 Created by Avery Blankenship, Sara Morrell, Yunus Emre Tapan, and Dipa Desai

@@ -19,9 +19,15 @@ This module will go over the basics of Python. It will teach students how to int
 
 ## Documents for Module
 
-[Handout: Intro-to-Python]()
+[Google Colab Notebooks](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/0c3b66c39884071942da7ac761b0cf86ee7532c4/coding_quantitative/fa24-fallis-phil3050-python/Google_Colab_Notebooks)
 
-[Google Colab Notebooks]()
+[Handout: Python Concepts and Notebooks](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/0c3b66c39884071942da7ac761b0cf86ee7532c4/coding_quantitative/fa24-fallis-phil3050-python/FA24_Handout_Python%20Concepts%20and%20Notebooks.pdf)
 
-## DTI Consultants
+[Handout: Introduction to Algorithms](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/0c3b66c39884071942da7ac761b0cf86ee7532c4/coding_quantitative/fa24-fallis-phil3050-python/FA24_Handout_Algorithms.pdf)
+
+[Handout: Python Functions](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/0c3b66c39884071942da7ac761b0cf86ee7532c4/handouts/coding_quantitative/Handout_Python%20Functions.pdf)
+
+These module materials are also available in th Google Drie folder [FA24-Fallis-PHIL3050-Python-StudentAccess](https://drive.google.com/drive/folders/1RHist7LkN4D0v11MiI1nT-k4te8YjZwu?usp=sharing).
+
+## DITI Consultants
 Created by Avery Blankenship, Sara Morrell, Yunus Emre Tapan, and Dipa Desai

@@ -27,7 +27,7 @@ This module will go over the basics of Audacity and podcasts. It will allow stud
 
 <h2>Documents for Module</h2>
 
-[Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/1d414eee3ea6bbc545a951ba9426c71b15cb499f/audio-editing_podcasting/fa24-riccardi-swartz-phil4903-audacity/FA24-Audacity-Riccardi-Swartz-Slides.pdf)
+[Slides PDF](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/1d414eee3ea6bbc545a951ba9426c71b15cb499f/audio-editing_podcasting/fa24-riccardi-swartz-phil4903-audacity/FA24-Audacity-Riccardi-Swartz-Slides.pdf)
 
 [Handout: Introduction to Podcasting](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/audio-editing_podcasting/Handout-Audacity.pdf)
 
@@ -36,6 +36,8 @@ This module will go over the basics of Audacity and podcasts. It will allow stud
 [Handout: Install Audacity](https://docs.google.com/document/d/1XGYg8iVtywRglmx7zDRwjmdEKvTLqc-rL6VSQdEzcb8/edit?usp=sharing)
 
 [Handout: File Organization in Audacity](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/1d414eee3ea6bbc545a951ba9426c71b15cb499f/handouts/audio-editing_podcasting/Handout-Audacity_Storage.pdf)
+
+The slides are also available as [Google Slides](https://docs.google.com/presentation/d/1INpVrG7-5b99wLI7ak1dSIhHR1CUcKS1FDBIxSmEqcg/edit?usp=sharing). 
 
 <h2>DITI Consultants</h2>
 

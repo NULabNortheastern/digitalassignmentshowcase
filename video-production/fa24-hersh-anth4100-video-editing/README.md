@@ -23,15 +23,21 @@ The first portion of this module will cover the fundamentals of video production
 
 <h2>Documents for Module</h2>
 
-[Video Production Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/35bb682f48960890c7b4cdfc8ab6121376cf8b51/video-production/fa24-hersh-anth4100-video-editing/Hersh_VideoProductionIntro_Slides_FA24.pdf)
+[Video Production Slides PDF](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/35bb682f48960890c7b4cdfc8ab6121376cf8b51/video-production/fa24-hersh-anth4100-video-editing/Hersh_VideoProductionIntro_Slides_FA24.pdf)
 
-[Video Editing Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/35bb682f48960890c7b4cdfc8ab6121376cf8b51/video-production/fa24-hersh-anth4100-video-editing/Hersh_VideoEditing_Slides_FA24.pdf)
+[Video Editing Slides PDF](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/35bb682f48960890c7b4cdfc8ab6121376cf8b51/video-production/fa24-hersh-anth4100-video-editing/Hersh_VideoEditing_Slides_FA24.pdf)
 
 [Example Media](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/35bb682f48960890c7b4cdfc8ab6121376cf8b51/video-production/fa24-hersh-anth4100-video-editing/Vimeo-Example-Media)
 
 [Data Privacy Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/672f6915b864920a65d1617b0b48f57f7fe84295/handouts/general/Handout_%20Data%20Privacy.pdf)
 
 [Handout: Zoom Interview Recording](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/126a1606200d50e3ef506c09e2791f86feb5a44e/audio-editing_podcasting/fa24-hersh-anth4100-audacity/Handout_%20Zoom%20Interview%20Recording.pdf)
+
+Both slide sets are also available as Google Slides at the links below:
+
+[Video Production Google Slides](https://docs.google.com/presentation/d/1_r0b5jtfcOV3TsnXzGOAfJ6Nn1iNyuO1pGH0Bj6bxjY/edit?usp=sharing)
+
+[Video Editing Google Slides](https://docs.google.com/presentation/d/1EAXxn2sJwpD-iqx1LY9RqG3kLovx_CKdyItVGP36zVA/edit?usp=sharing)
 
 <h2>DITI Consultations</h2>
 

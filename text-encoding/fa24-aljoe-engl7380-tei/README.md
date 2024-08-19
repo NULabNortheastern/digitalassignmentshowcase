@@ -19,8 +19,8 @@ This module is an introduction to text encoding with TEI/XML as a research pract
 
 <h2>Documents for Module</h2>
 
-[TEI Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/text-encoding/fa24-aljoe-engl7380-tei/IntroTEI.pdf)
-
+[TEI Slides (PDF)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/text-encoding/fa24-aljoe-engl7380-tei/IntroTEI.pdf)
+[TEI Slides (Google Slides, includes alt text)](https://docs.google.com/presentation/d/1bSnjTQO4pjW8F500xCiWD15uL_UHYCo932bgKLjfenY/edit#slide=id.g5176e04a14_0_0)
 
 <h2>DITI Consultants</h2>
 

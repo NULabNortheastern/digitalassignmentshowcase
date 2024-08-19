@@ -25,7 +25,9 @@ Students will be able to use Omeka to curate items. Students will be able to suc
 
 <h2>Documents for Module</h2>
 
-[Omeka Presentation Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/digital-archiving/fa24-aljoe-engl7380-omeka/Fa24-Aljoe-Engl7380-Omeka-Slides.pdf)
+[Omeka Presentation Slides (PDF)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/digital-archiving/fa24-aljoe-engl7380-omeka/Fa24-Aljoe-Engl7380-Omeka-Slides.pdf)
+
+[Omeka Presentation Slides (Google Slides, includes alt text)](https://docs.google.com/presentation/d/11uybJTAiH9F6c2efk7FfaJQSMVmqYm3ZCHi-oq7cTFg/edit#slide=id.g5176e04a14_0_0)
 
 [Handout: Accessibility in Digital Content](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/Accessibility.pdf)
 

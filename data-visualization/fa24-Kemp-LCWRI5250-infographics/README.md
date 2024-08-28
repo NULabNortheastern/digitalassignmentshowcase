@@ -27,7 +27,9 @@ Students will learn how to use Canva to produce professional visualizations that
 <h2>Materials for Module</h2>
 
 
-### [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-visualization/fa24-Kemp-LCWRI5250-infographics/fa24-Kemp-infographics-slides.pdf)
+### [Infographics Slides (PDF)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-visualization/fa24-Kemp-LCWRI5250-infographics/fa24-Kemp-infographics-slides.pdf)
+
+### [Infographics Slides (Google Slides, includes alt text)](https://docs.google.com/presentation/d/1cjddSa44af6Y8InXRCKikEBx1nfgRBLGbLT06QtCqlc/edit#slide=id.g100a2ee2227_0_61)
 
 ### [Infographics Tools Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/data-visualization/Handout-Infographics_Tools.pdf)
 

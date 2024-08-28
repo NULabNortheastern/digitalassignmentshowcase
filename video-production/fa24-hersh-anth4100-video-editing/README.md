@@ -37,11 +37,6 @@ The first portion of this module will cover the fundamentals of video production
 
 [Handout: Zoom Interview Recording](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/126a1606200d50e3ef506c09e2791f86feb5a44e/audio-editing_podcasting/fa24-hersh-anth4100-audacity/Handout_%20Zoom%20Interview%20Recording.pdf)
 
-Both slide sets are also available as Google Slides at the links below:
-
-[Video Production Google Slides](https://docs.google.com/presentation/d/1_r0b5jtfcOV3TsnXzGOAfJ6Nn1iNyuO1pGH0Bj6bxjY/edit?usp=sharing)
-
-[Video Editing Google Slides](https://docs.google.com/presentation/d/1EAXxn2sJwpD-iqx1LY9RqG3kLovx_CKdyItVGP36zVA/edit?usp=sharing)
 
 <h2>DITI Consultations</h2>
 

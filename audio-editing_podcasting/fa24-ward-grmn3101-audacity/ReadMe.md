@@ -30,7 +30,7 @@ This module will go over the basics of Audacity, fair use, and podcasts. The sec
 
 [Audacity Slides (PDF)](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/main/audio-editing_podcasting/fa24-ward-grmn3101-audacity/Slides.pdf)
 
-[Audacity Slides (Google Slides, includes alt text)] (https://docs.google.com/presentation/d/1xdAhLjriMJ2tA_tYdQdnzhBwa868AmJPJnzmXo6jlGg/edit?usp=sharing)
+[Audacity Slides (Google Slides, includes alt text)](https://docs.google.com/presentation/d/1xdAhLjriMJ2tA_tYdQdnzhBwa868AmJPJnzmXo6jlGg/edit?usp=sharing)
 
 [Introduction to Podcasting](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/audio-editing_podcasting/Handout-Audacity.pdf)
 

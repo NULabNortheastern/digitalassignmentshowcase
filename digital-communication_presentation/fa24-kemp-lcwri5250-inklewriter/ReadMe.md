@@ -30,8 +30,7 @@ This module will cover creating and designing a narrative using inklewriter. It 
 
 [Handout: Data Ethics](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/0411a3a5138e78d07ac9b7980a79bc5b06f7bc22/handouts/data-ethics/Handout_%20Data%20Ethics.pdf) 
 
-[Handout: Accessibility in Digital Content]
-(https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/general/Handout-Accessibility_in_Digital_Content.pdf)
+[Handout: Accessibility in Digital Content](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/general/Handout-Accessibility_in_Digital_Content.pdf)
 
 [Handout: Copyright and Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/1d414eee3ea6bbc545a951ba9426c71b15cb499f/handouts/general/Copyright-Fair-Use.pdf)
 

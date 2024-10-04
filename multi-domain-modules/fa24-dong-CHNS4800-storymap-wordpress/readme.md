@@ -11,20 +11,20 @@ Professor Hua Dong
 This module will cover developing a StoryMap and creating and designing a website using WordPress. It covers best practices and questions to consider before creating your StoryMap and demonstrates steps for using Knight Lab’s StoryMap. It then covers how to create a website with WordPress and best practices in website creation.
 
 ## Learning Goals
--Understand the particular choices made when building a map
--Understand how to collect data for mapping
--Understand KnightLab StoryMap's interface and where it gathers its information
--Understand the layout and choices available through WordPress
--Articulate your intended audience and design choices to appeal to that audience
+- Understand the particular choices made when building a map
+- Understand how to collect data for mapping
+- Understand KnightLab StoryMap's interface and where it gathers its information
+- Understand the layout and choices available through WordPress
+- Articulate your intended audience and design choices to appeal to that audience
 
 ## Learning Objectives
--Articulate particular choices made when telling a story using a map
--Follow a step-by-step guide for creating, saving, and publishing maps using KnightLab StoryMap
--Implement data into KnightLab StoryMap, including location information, images, and text
--Navigate StoryMap's map markers and location-finding system
--Create a WordPress website
--Use specific CMS features, like the “Add” function
--Create a blog section on the WordPress website
+- Articulate particular choices made when telling a story using a map
+- Follow a step-by-step guide for creating, saving, and publishing maps using KnightLab StoryMap
+- Implement data into KnightLab StoryMap, including location information, images, and text
+- Navigate StoryMap's map markers and location-finding system
+- Create a WordPress website
+- Use specific CMS features, like the “Add” function
+- Create a blog section on the WordPress website
 
 ## Materials for Module
 

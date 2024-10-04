@@ -1,4 +1,4 @@
-#Introduction to StoryMap and WordPress
+# Introduction to StoryMap and WordPress
 
 ## Individual Class Info
 <br>

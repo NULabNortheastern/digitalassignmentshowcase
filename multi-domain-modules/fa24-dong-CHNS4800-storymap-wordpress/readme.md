@@ -1,4 +1,4 @@
-Introduction to StoryMap and WordPress
+#Introduction to StoryMap and WordPress
 
 ## Individual Class Info
 <br>
@@ -36,7 +36,9 @@ This module will cover developing a StoryMap and creating and designing a websit
 ### [Fair Use Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/general/Copyright-Fair-Use.pdf)
 ### [Accessibility in Digital Content](https://docs.google.com/document/d/1XAVk4nWyMzH2dEcxUuCb60kAogkYmLZ3nD0WiE0wFdo/edit?usp=sharing)
 ### [Data Privacy Handout](https://docs.google.com/document/d/1jeJUWeRzk4P9e7kNMehdyXmBn8Fdssj-AtKBV0xITN8/edit?usp=sharing)
-### [Introduction to StoryMap & WordPress Slides (PDF)]()
+
+
+### [Introduction to StoryMap & WordPress Slides (PDF)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/4de93e376ae98b9b8f39d08fd596c827c7d00a65/multi-domain-modules/fa24-dong-CHNS4800-storymap-wordpress/FA24-Hua-Dong-StoryMap%26WordPress.pdf)
 ### [Introduction to Website Building & WordPress Slides (Google Slides, includes alt text)](https://docs.google.com/presentation/d/1G7eAFb9ohYGhFjMagAsyrY1OebWVSvhZ1HL5MA9TLVw/edit?usp=sharing)
 
 

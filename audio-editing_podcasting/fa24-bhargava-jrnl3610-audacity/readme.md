@@ -33,11 +33,15 @@ This module will introduce students to the basics of Audacity and audio editing.
 
 ## Materials for Module
 
-### [Installing Audacity Handout](audio-editing_podcasting/fa24-bhargava-jrnl3610-audacity/handout-intro_to_audacity.pdf)
+### [Acessibility in Digital Content Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/audio-editing_podcasting/fa24-bhargava-jrnl3610-audacity/Handout_%20Accessibility%20in%20Digital%20Content.pdf)
 
-### [Introduction to Audacity Slides]()
+### [Introduction to Audacity Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/audio-editing_podcasting/fa24-bhargava-jrnl3610-audacity/FA24-Bhargava-JRNL3610-Audacity.pdf)
 
-### [Introduction to Audacity Handout]()
+### [Introduction to Audacity Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/audio-editing_podcasting/fa24-bhargava-jrnl3610-audacity/Handout_%20Audacity.pdf)
+
+### [Copyright and Fair Use Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/audio-editing_podcasting/fa24-bhargava-jrnl3610-audacity/Handout_%20Copyright%20and%20Fair%20Use.pdf)
+
+### [File Store in Audacity Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/audio-editing_podcasting/fa24-bhargava-jrnl3610-audacity/Handout_%20File%20Storage%20in%20Audacity.pdf)
 
 ## DITI Consultants
 

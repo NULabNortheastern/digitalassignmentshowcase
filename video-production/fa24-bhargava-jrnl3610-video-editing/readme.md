@@ -4,7 +4,7 @@
 
 Rahul Bhargava, JRNL3610 Digital Storytelling
 <br>
-Audacity
+Video Editing/Vimeo
 
 ## Summary of Module
 The first portion of this module will cover the fundamentals of video production. The second portion introduces Vimeo as an online video editing tool and provides example media for a hands-on activity editing video in Vimeo.

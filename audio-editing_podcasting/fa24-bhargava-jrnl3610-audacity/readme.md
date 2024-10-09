@@ -33,11 +33,11 @@ This module will introduce students to the basics of Audacity and audio editing.
 
 ## Materials for Module
 
-### [Installing Audacity Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/audio-editing_podcasting/fa23-kemp-nchcw627-audacity/handout-install_audacity.pdf)
+### [Installing Audacity Handout](audio-editing_podcasting/fa24-bhargava-jrnl3610-audacity/handout-intro_to_audacity.pdf)
 
-### [Introduction to Audacity Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/audio-editing_podcasting/fa23-kemp-nchcw627-audacity/FA23_Kemp_Audacity.pdf)
+### [Introduction to Audacity Slides]()
 
-### [Introduction to Audacity Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/audio-editing_podcasting/fa23-kemp-nchcw627-audacity/handout-intro_to_audacity.pdf)
+### [Introduction to Audacity Handout]()
 
 ## DITI Consultants
 

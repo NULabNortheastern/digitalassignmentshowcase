@@ -7,37 +7,22 @@ Rahul Bhargava, JRNL3610 Digital Storytelling
 Audacity
 
 ## Summary of Module
+The first portion of this module will cover the fundamentals of video production. The second portion introduces Vimeo as an online video editing tool and provides example media for a hands-on activity editing video in Vimeo.
 
-This module will introduce students to the basics of Audacity and audio editing.
+## Learning Goals and Objectives
+- Understand the steps in video production
+- Learn how to avoid common pitfalls in video production
+- Learn how to use Vimeo for basic video editing tasks
+- Gain awareness of other free video editing software
 
-## Learning Goals
-
--Understanding components for a compelling podcast
-
--Understanding the particular choices made when building a podcast
-
--Understanding how to use Audacity
-
--Understanding steps for recording and editing a podcast
-
--Getting familiar with different audio storage file formats
-
-## Learning Objectives
-
--Share proper techniques for writing, recording, editing, and saving podcasts Understand Audacity as an audio-editing tool
--Install and explore 
-
--Audacity as an audio-editing tool
-
--Learn best tips and practices for recording audio using Audacity 
 
 ## Materials for Module
 
-### [Installing Audacity Handout](audio-editing_podcasting/fa24-bhargava-jrnl3610-audacity/handout-intro_to_audacity.pdf)
+### [Copyright and Fair Use Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/video-production/fa24-bhargava-jrnl3610-video-editing/Handout_%20Copyright%20and%20Fair%20Use.pdf)
 
-### [Introduction to Audacity Slides]()
+### [Introduction to Video Editing](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/video-production/fa24-bhargava-jrnl3610-video-editing/FA24_Bhargava_VideoEditing.pdf)
 
-### [Introduction to Audacity Handout]()
+### [Digital Accessibility Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/video-production/fa24-bhargava-jrnl3610-video-editing/Handout_%20Accessibility%20in%20Digital%20Content.pdf)
 
 ## DITI Consultants
 

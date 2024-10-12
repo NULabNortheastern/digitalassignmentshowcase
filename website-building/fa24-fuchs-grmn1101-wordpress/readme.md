@@ -39,7 +39,7 @@ This module will cover creating and designing a website using WordPress. It demo
 <br>
 [Introduction to WordPress Slides PDF](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/website-building/fa24-fuchs-grmn1101-wordpress/FA24-Carolin-Fuchs-WordPress.pdf)
 <br>
-[Introduction to WordPress Slides (Google Slides, includes alt text](https://docs.google.com/presentation/d/1GdV_JhnsIgQNICfSO3Je7jsk2FcaVlmtse009urv14E/edit?usp=sharing))
+[Introduction to WordPress Slides (Google Slides, includes alt text)](https://docs.google.com/presentation/d/1GdV_JhnsIgQNICfSO3Je7jsk2FcaVlmtse009urv14E/edit?usp=sharing)
 
 
 ## DITI Consultants

@@ -8,20 +8,17 @@ Fall 2024<br>
 Professor Carolin Fuchs
 
 ## Summary of Module
-This module will cover creating and designing a website using WordPress. It demonstrates how to sign up for an account with WordPress and how to create a website with best practices. 
+This module will cover creating and designing a website using WordPress or Wix. It demonstrates how to sign up for an account with WordPress and how to create a website with best practices. 
 
 ## Learning Goals
-- Understand the particular choices made when building a map
-- Understand the layout and choices available through WordPress
 - Articulate your intended audience and design choices to appeal to that audience
 - Understand the layout and choices available through WordPress
-- Articulate your intended audience and design choices to appeal to that audience
 
 
 ## Learning Objectives
 - Create a WordPress website
-- Use specific CMS features, like the “Add” function
-- Create a blog section on the WordPress website
+- Use specific CMS features, like making menus and choosing themes
+- Publish a page or post on the WordPress website
 
 
 ## Materials for Module

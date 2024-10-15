@@ -32,7 +32,7 @@ This module will cover creating and designing a website using Wix or WordPress. 
 <br>
 [Data Privacy Handout](https://docs.google.com/document/d/1jeJUWeRzk4P9e7kNMehdyXmBn8Fdssj-AtKBV0xITN8/edit?usp=sharing)
 <br>
-[Introduction to Website Building Slides PDF](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/website-building/fa24-fuchs-grmn1101-wordpress/FA24-Carolin-Fuchs-WordPress%26Wix.pdf)
+[Introduction to Website Building Slides PDF](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/website-building/fa24-fuchs-grmn1101-wordpress-wix/FA24-Carolin-Fuchs-WordPress%26Wix.pdf)
 <br>
 [Introduction to Website Building Slides (Google Slides, includes alt text)](https://docs.google.com/presentation/d/1eCuauhm4sC0jUpSDhHOkl85fPIkNsdFI8Af9tFqh7xQ/edit?usp=sharing)
 

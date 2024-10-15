@@ -29,9 +29,7 @@ This module will go over the basics of Audacity and podcasts. It will allow stud
 
 <h2>Documents for Module</h2>
 
-[Slides ( PDF)]()
-
-[Slides (Google Slides, includes alt text)]([https://docs.google.com/presentation/d/11_FdrEAcGtewkLiTLhZ-aUn0nx4zcDi554ja5cvgjIk/edit#slide=id.p1](https://docs.google.com/presentation/d/1F0RzxvMDrvq_sTIkM_dmLbuTvivmlE8Nq5x2Hju5dzw/edit?usp=sharing))
+[Slides ( PDF)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/audio-editing_podcasting/fa24-bunting-engw-audacity/FA24-ENGW-Audacity-Bunting-Slides.pdf)
 
 [Handout: Introduction to Podcasting](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/audio-editing_podcasting/Handout-Audacity.pdf)
 

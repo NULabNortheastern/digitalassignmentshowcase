@@ -29,9 +29,9 @@ This module will go over the basics of Audacity and podcasts. It will allow stud
 
 <h2>Documents for Module</h2>
 
-[Slides ( PDF)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/adf63d33ea1010141d3cfb233f24140788c07b6d/audio-editing_podcasting/fa24-hersh-anth4100-audacity/FA24-Audacity-Hersh-Slides.pdf)
+[Slides ( PDF)]()
 
-[Slides (Google Slides, includes alt text)](https://docs.google.com/presentation/d/11_FdrEAcGtewkLiTLhZ-aUn0nx4zcDi554ja5cvgjIk/edit#slide=id.p1)
+[Slides (Google Slides, includes alt text)]([https://docs.google.com/presentation/d/11_FdrEAcGtewkLiTLhZ-aUn0nx4zcDi554ja5cvgjIk/edit#slide=id.p1](https://docs.google.com/presentation/d/1F0RzxvMDrvq_sTIkM_dmLbuTvivmlE8Nq5x2Hju5dzw/edit?usp=sharing))
 
 [Handout: Introduction to Podcasting](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/audio-editing_podcasting/Handout-Audacity.pdf)
 
@@ -43,7 +43,7 @@ This module will go over the basics of Audacity and podcasts. It will allow stud
 
 [Handout: Zoom Interview Recording](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/126a1606200d50e3ef506c09e2791f86feb5a44e/audio-editing_podcasting/fa24-hersh-anth4100-audacity/Handout_%20Zoom%20Interview%20Recording.pdf)
 
-The slides are also available as [Google Slides](https://docs.google.com/presentation/d/11_FdrEAcGtewkLiTLhZ-aUn0nx4zcDi554ja5cvgjIk/edit?usp=sharing). 
+The slides are also available as [Google Slides]([https://docs.google.com/presentation/d/11_FdrEAcGtewkLiTLhZ-aUn0nx4zcDi554ja5cvgjIk/edit?usp=sharing](https://docs.google.com/presentation/d/1F0RzxvMDrvq_sTIkM_dmLbuTvivmlE8Nq5x2Hju5dzw/edit?usp=sharing)). 
 
 <h2>DITI Consultants</h2>
 

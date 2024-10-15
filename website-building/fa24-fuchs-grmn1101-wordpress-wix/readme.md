@@ -8,24 +8,23 @@ Fall 2024<br>
 Professor Carolin Fuchs
 
 ## Summary of Module
-This module will cover creating and designing a website using WordPress or Wix. It demonstrates how to sign up for an account with WordPress and how to create a website with best practices. 
+This module will cover creating and designing a website using Wix or WordPress. It demonstrates how to sign up for an account with the Wix or WordPress content management systems (CMS), create a website through your specific CMS's username, choose templates, and customize your website based on audience, project themes, media to be included, and more.
 
 ## Learning Goals
 - Articulate your intended audience and design choices to appeal to that audience
-- Understand the layout and choices available through WordPress
+- Understand the layout and choices available through Wix
+- Understand the differences between WordPress and Wix
 
 
 ## Learning Objectives
-- Create a WordPress website
-- Use specific CMS features, like making menus and choosing themes
-- Publish a page or post on the WordPress website
+- Create a Wix website
+- Use specific CMS features, like the "Add" function
+- Make a page on the Wix website
 
 
 ## Materials for Module
 
-[WordPress Website Building Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/website-building/Handout-WordPress.pdf)
-<br>
-[HTML Basics Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/website-building/Handout-HTML_Introduction.pdf)
+[Wix Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/website-building/Handout-Wix.pdf)
 <br>
 [Fair Use Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/general/Copyright-Fair-Use.pdf)
 <br>

@@ -41,8 +41,7 @@ This module will go over the basics of Audacity and podcasts. It will allow stud
 
 [Handout: Zoom Interview Recording](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/126a1606200d50e3ef506c09e2791f86feb5a44e/audio-editing_podcasting/fa24-hersh-anth4100-audacity/Handout_%20Zoom%20Interview%20Recording.pdf)
 
-The slides are also available as [Google Slides]
-([https://docs.google.com/presentation/d/11_FdrEAcGtewkLiTLhZ-aUn0nx4zcDi554ja5cvgjIk/edit?usp=sharing)] 
+The slides are also available as [Google Slides](https://docs.google.com/presentation/d/11_FdrEAcGtewkLiTLhZ-aUn0nx4zcDi554ja5cvgjIk/edit?usp=sharing)
 
 <h2>DITI Consultants</h2>
 

@@ -33,7 +33,7 @@ This module will go over the basics of Audacity and podcasts. It will allow stud
 
 [Slides (Google Slides, includes alt text)](https://docs.google.com/presentation/d/11_FdrEAcGtewkLiTLhZ-aUn0nx4zcDi554ja5cvgjIk/edit#slide=id.p1)
 
-[Handout: Introduction to Podcasting](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/audio-editing_podcasting/Handout-Audacity.pdf)
+[Handout: Introduction to Audacity](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/audio-editing_podcasting/Handout-Audacity.pdf)
 
 [Handout: Copyright and Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/1d414eee3ea6bbc545a951ba9426c71b15cb499f/handouts/general/Copyright-Fair-Use.pdf)
 

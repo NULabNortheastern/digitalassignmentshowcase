@@ -40,4 +40,4 @@ The first portion of this module will cover the fundamentals of video production
 
 <h2>DITI Consultations</h2>
 
-Sara Morrell, Kasya O’Connor Grant, & Carlos Arriaga Serrano
+Sara Morrell, Halima Haruna, Kasya O’Connor Grant, & Carlos Arriaga Serrano

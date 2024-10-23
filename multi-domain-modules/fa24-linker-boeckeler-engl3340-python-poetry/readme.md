@@ -25,19 +25,20 @@ This module introduces students to the fundamentals of coding in Python with a f
 ## Materials for Module
 [Google Folder with Student Access Colab Notebooks](http://bit.ly/fa24-linker-boeckeler-python-poetry)
 
-[Colab&IntroToPythonPoetry Notebook]()
+[Colab&IntroToPythonPoetry Notebook](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/multi-domain-modules/fa24-linker-boeckeler-engl3340-python-poetry/FA24_Linker-Boeckeler_Colab%26IntroToPythonPoetry.ipynb)
 
-[HouseOfDustExample Notebook]()
+[HouseOfDustExample Notebook](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/multi-domain-modules/fa24-linker-boeckeler-engl3340-python-poetry/FA24_Linker-Boeckeler_HouseOfDustExample.ipynb)
 
-[PythonPoetry_Template Notebook]()
+[PythonPoetry_Template Notebook](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/multi-domain-modules/fa24-linker-boeckeler-engl3340-python-poetry/FA24_Linker-Boeckeler_PythonPoetry_ComputationalPoemTemplate.ipynb)
 
-[Slides PDF]()
+[Slides PDF](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/multi-domain-modules/fa24-linker-boeckeler-engl3340-python-poetry/slides_fa24-linker-boeckeler-engl3340-python-poetry.pdf)
 
-[Google Slides, includes alt text]()
+[Google Slides, includes alt text](https://docs.google.com/presentation/d/17aW9ZtOCUPzC1fLfMzEcP8loVPz72ZC44dtqQGZVcko/edit?usp=sharing)
 
 ## DITI Consultants
 Sara Morrell
 
+Avery Blankenship
+
 Kasya O'Connor Grant
 
-Avery Blankenship

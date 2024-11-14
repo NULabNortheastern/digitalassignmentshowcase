@@ -1,4 +1,4 @@
-##Introduction to WordPress
+Introduction to WordPress
 
 ## Individual Class Info
 <br>

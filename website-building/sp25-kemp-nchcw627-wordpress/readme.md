@@ -5,19 +5,19 @@
 NCHCW 627: Final Year Project
 <br>
 Spring 2025<br>
-Sam Kemp
+Professor Sam Kemp
 
 ## Summary of Module
 This module will cover creating and designing a website using WordPress. It demonstrates how to sign up for an account with the WordPress content       management systems (CMS), create a website through your specific CMS's username, choose templates, and customize your website based on audience, project themes, media to be included, and more. 
 
 ## Learning Goals
--Understand the layout and choices available through WordPress
--Better articulate your intended audience and design choices to appeal to that audience
+- Understand the layout and choices available through WordPress
+- Better articulate your intended audience and design choices to appeal to that audience
 
 ## Learning Objectives
--Create a WordPress website
--Use specific CMS features, like the “Add” function
--Create a blog section on the WordPress website
+- Create a WordPress website
+- Use specific CMS features, like the “Add” function
+- Create a blog section on the WordPress website
 
 ## Materials for Module
 
@@ -28,4 +28,4 @@ This module will cover creating and designing a website using WordPress. It demo
 ### [Fair Use Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/general/Copyright-Fair-Use.pdf)
 
 ## DITI Consultants
-Ayah Aboelela and
+Ayah Aboelela and Johan Arango-Quiroga

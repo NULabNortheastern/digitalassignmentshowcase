@@ -28,4 +28,4 @@ This module will cover creating and designing a website using WordPress. It demo
 ### [Fair Use Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/general/Copyright-Fair-Use.pdf)
 
 ## DITI Consultants
-Ayah Aboelela and Johan Arango-Quiroga
+Claire Lavarreda and Johan Arango-Quiroga

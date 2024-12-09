@@ -23,25 +23,25 @@ This module goes over computational text analysis for a corpus of texts. The mod
 
 ## Documents for Module
 
-### [Slides (PDF)]()
+### [Slides (PDF)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/text-analysis/sp25-aldrich-pols3482-textanalysis/SP25_Aldrich_East%20Asian%20Politics_Text%20Analysis_Slides.pdf)
 
-###[Slides (Google Slides, includes alt text)]()
+### [Slides (Google Slides, includes alt text)](https://docs.google.com/presentation/d/1J1IBtG-CXt9r_FS1UrpB4R9ZSyBdVEs0mQ_3PMaJn80/edit?usp=sharing)
 
-### [Corpus]()
+### [Corpus](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/main/text-analysis/sp25-aldrich-pols3482-textanalysis/Corpus)
 
-### [Accessibility Handout]()
+### [Accessibility Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/general/Handout-Accessibility_in_Digital_Content.pdf)
 
-### [Copyright & Fair Use Handout]()
+### [Copyright & Fair Use Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/general/Handout-Accessibility_in_Digital_Content.pdf)
 
-### [Corpus Building Handout]()
+### [Corpus Building Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/text-analysis/Handout-Corpus_Building.pdf)
 
-### [Links and Resources for Text Analysis Handout]()
+### [Links and Resources for Text Analysis Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/text-analysis/Handout-Links_Resources.pdf)
 
-### [Lexos Handout]()
+### [Lexos Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/text-analysis/Handout-Lexos.pdf)
 
-### [Voyant Handout]()
+### [Voyant Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/text-analysis/Handout-Voyant.pdf)
 
-### [DataBasic Suite Handout]()
+### [DataBasic Suite Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/text-analysis/Handout-DataBasic_Suite.pdf)
 
 
 

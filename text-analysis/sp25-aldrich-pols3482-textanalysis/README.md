@@ -31,7 +31,7 @@ This module goes over computational text analysis for a corpus of texts. The mod
 
 ### [Accessibility Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/general/Handout-Accessibility_in_Digital_Content.pdf)
 
-### [Copyright & Fair Use Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/general/Handout-Accessibility_in_Digital_Content.pdf)
+### [Copyright & Fair Use Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/general/Copyright-Fair-Use.pdf)
 
 ### [Corpus Building Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/text-analysis/Handout-Corpus_Building.pdf)
 

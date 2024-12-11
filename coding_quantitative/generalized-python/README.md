@@ -11,7 +11,8 @@ This module will go over the basics of Python. It will teach students how to int
 
 ## Documents for Module
 
-[Google Colab Notebooks](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/main/coding_quantitative/generalized-python/Google_Colab_Notebooks)
+[Google Colab Python Notebooks](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/main/coding_quantitative/generalized-python/Google_Colab_Notebooks)
+To run and edit the Google Colab Python Notebooks, download them onto your computer then upload them to Google Drive and open them using the [Google Colaboratory](https://colab.google/) app on Google Drive. Alternatively, you can open the notebooks in another integrated development environment of your choice. 
 
 [Handout: Python Functions](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/0c3b66c39884071942da7ac761b0cf86ee7532c4/handouts/coding_quantitative/Handout_Python%20Functions.pdf)
 

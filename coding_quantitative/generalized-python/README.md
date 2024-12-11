@@ -13,8 +13,6 @@ This module will go over the basics of Python. It will teach students how to int
 
 [Google Colab Notebooks]()
 
-[Handout: Introduction to Algorithms](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/0c3b66c39884071942da7ac761b0cf86ee7532c4/coding_quantitative/fa24-fallis-phil3050-python/FA24_Handout_Algorithms.pdf)
-
 [Handout: Python Functions](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/0c3b66c39884071942da7ac761b0cf86ee7532c4/handouts/coding_quantitative/Handout_Python%20Functions.pdf)
 
 ## References

@@ -1,13 +1,13 @@
-# Python for Poetry
+# Blender
 
 
 
 ## Individual Class Info
-ENGL/HIST 3340
+HIST 7250
 
-Jessica Linker and Erika Boeckeler 
+Jessica Parr
 
-Spring 2024
+Spring 2025
 
 
 ## Summary of Module
@@ -15,25 +15,17 @@ This module introduces students to the fundamentals of coding in Python with a f
 
 
 ## Learning Goals
-- Understand what Python is and how to use Python for writing computational poetry
-- Gain awareness of the basic concepts behind generative AI models
+- Understand what Blender is and how to use it to edit and refine 3D models
+- Gain awareness of the basic concepts behind 3D models in material culture heritage
 
 ## Learning Objectives
-- Understand basic concepts in Python including functions, variables, data types, conditional statements, and libraries and modules
-- Write code to: import a module, initialize variables containing lists and dictionaries of strings, access values in lists and dictionaries, call functions from a module, and print values in lists and dictionaries based on conditional statements
+- Understand basic concepts in Blender including its viewport, navigation, object mode and edit mode functions.
+- Use Blender functions to: import ab object file, refine the object, and export the object file.
 
 ## Materials for Module
-[Google Folder with Student Access Colab Notebooks](https://drive.google.com/drive/folders/1kk86_ow8cCYoufZ412i5ebnwVI5bAlF-?usp=drive_link)
-
-[Colab&IntroToPythonPoetry Notebook](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/multi-domain-modules/sp24-linker-boeckeler-engl3340-python-poetry/Colab%26IntroToPythonPoetry.ipynb)
-
-[HouseOfDustExample Notebook](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/multi-domain-modules/sp24-linker-boeckeler-engl3340-python-poetry/HouseOfDustExample.ipynb)
-
-[PythonPoetry_Template Notebook](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/multi-domain-modules/sp24-linker-boeckeler-engl3340-python-poetry/PythonPoetry_Template.ipynb)
-
-[Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/multi-domain-modules/sp24-linker-boeckeler-engl3340-python-poetry/slides_sp24-linker-boeckeler-engl3340-python-poetry.pdf)
+[Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/multi-domain-modules/sp25-parr-hist7250-blender/SP25-Parr-HIST7250-Blender-Slides.pdf)
 
 ## DITI Consultants
 Sara Morrell
 
-Kasya O'Connor Grant
+Halima Haruna

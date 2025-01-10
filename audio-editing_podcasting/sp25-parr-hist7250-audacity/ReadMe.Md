@@ -2,8 +2,8 @@
 
 <h2>Individual Class Info</h2>
 
-GRMN3101: Advanced German 1
-Professor Sandra Ward
+GRMN3101: Atlantic Objects, Commodities, and Empire
+Professor Jessica Parr
 Spring 2025
 
 <h2>Summary of Module</h2>
@@ -27,9 +27,9 @@ This module will go over the basics of Audacity, fair use, and podcasts. The sec
 
 <h2>Documents for Module</h2>
 
-[Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/audio-editing_podcasting/sp25-ward-grmn3101-audacity/Ward_Audacity_GRMN3101_SP25.pdf)
+[Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/audio-editing_podcasting/sp25-parr-hist7250-audacity/SP25-Parr-HIST7250-Audacity-Slides.pdf)
 
-[Audacity Slides (Google Slides, includes alt text)](https://docs.google.com/presentation/d/12j86O-384NoBEengIZYYFX9jBCmdBfSs5KrIEErldn0/edit?usp=sharing)
+[Audacity Slides (Google Slides, includes alt text)](https://docs.google.com/presentation/d/1EXvamTQbBmWMkrpCdyawA1toEZMc3QCOo2EWIzVpNBI/edit?usp=sharing)
 
 [Introduction to Podcasting](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/audio-editing_podcasting/Handout-Audacity.pdf)
 
@@ -44,5 +44,5 @@ This module will go over the basics of Audacity, fair use, and podcasts. The sec
 
 <h2>DITI Consultants</h2>
 
-Claire Lavarreda and Ayah Aboelela
+Halima Haruna and Sara Morrell
 

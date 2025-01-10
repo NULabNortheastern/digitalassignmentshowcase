@@ -2,7 +2,7 @@
 
 <h2>Individual Class Info</h2>
 
-GRMN3101: Atlantic Objects, Commodities, and Empire
+HIST 7250: Atlantic Objects, Commodities, and Empire
 Professor Jessica Parr
 Spring 2025
 

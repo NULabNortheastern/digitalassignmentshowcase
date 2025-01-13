@@ -27,7 +27,7 @@ This module goes over computational text analysis for a corpus of texts. The mod
 
 ### [Slides (Google Slides, includes alt text)](https://docs.google.com/presentation/d/1MYl2lK3QClQeiQoK6DQn0akG1gG0qn4rpdy9oqWkWnY/edit?usp=sharing)
 
-### [Corpus]()
+### [Corpus](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/main/text-analysis/sp25-aldrich-pols7346-textanalysis/Corpus)
 
 ### [Accessibility Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/general/Handout-Accessibility_in_Digital_Content.pdf)
 

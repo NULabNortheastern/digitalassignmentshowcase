@@ -23,7 +23,7 @@ This module goes over computational text analysis for a corpus of texts. The mod
 
 ## Documents for Module
 
-### [Slides (PDF)]()
+### [Slides (PDF)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/text-analysis/sp25-aldrich-pols7346-textanalysis/SP25_Aldrich_Resilient%20Cities_Text%20Analysis_Slides.pdf)
 
 ### [Slides (Google Slides, includes alt text)](https://docs.google.com/presentation/d/1MYl2lK3QClQeiQoK6DQn0akG1gG0qn4rpdy9oqWkWnY/edit?usp=sharing)
 

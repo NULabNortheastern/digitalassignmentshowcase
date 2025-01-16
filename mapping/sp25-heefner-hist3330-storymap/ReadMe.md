@@ -1,8 +1,11 @@
 <h1>Introduction to KnightLab StoryMap</h1>
 
 <h2>Individual Class Info</h2>
+
 Prof. Gretchen Heefner
+
 History 3330 The Global Cold War
+
 Spring 2025
 
 
@@ -21,7 +24,7 @@ This module will go over components of storytelling and how these components may
 
 * Articulate particular choices made when telling a story using a map
 * Follow a step-by-step guide for creating, saving, and publishing maps using KnightLab StoryMap
-* Implement data into KnightLab StoryMap, including location information, images, and text
+* Integrate data into KnightLab StoryMap, including location information, images, and text
 * Navigate StoryMap's map markers and location-finding system
 
 <h2>Materials for Module</h2>

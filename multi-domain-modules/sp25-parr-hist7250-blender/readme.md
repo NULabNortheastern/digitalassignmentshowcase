@@ -1,7 +1,6 @@
 # Blender
 
 
-
 ## Individual Class Info
 HIST 7250
 
@@ -9,9 +8,8 @@ Jessica Parr
 
 Spring 2025
 
-
 ## Summary of Module
-This module introduces students to the fundamentals of coding in Python with a focus on creating computational poetry. It covers relevant pre-defined functions; variables; various data types including strings, lists, and dictionaries and how to access and manipulate them; conditional statements; and libraries and modules and how to import and use functions from them. It also provides a high-level conceptual introduction to generating poetry using artificial intelligence (AI) models.
+This module introduces students to the fundamentals of 3D modeling in Blender with a focus on editing object files. It covers relevant vocabulary, how to install Blender, how to navigate in Blender, and how to edit an object file in Blender. It also provides a sample object file students can practice editing in class. 
 
 
 ## Learning Goals
@@ -24,6 +22,8 @@ This module introduces students to the fundamentals of coding in Python with a f
 
 ## Materials for Module
 [Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/multi-domain-modules/sp25-parr-hist7250-blender/SP25-Parr-HIST7250-Blender-Slides.pdf)
+
+[Google Slides, includes alt text](https://docs.google.com/presentation/d/1K5BcML0k9inMXexIcqCOayrh99seQaqiHZORgfKKatY/edit?usp=sharing)
 
 ## DITI Consultants
 Sara Morrell

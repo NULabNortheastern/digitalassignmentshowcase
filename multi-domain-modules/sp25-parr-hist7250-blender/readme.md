@@ -25,6 +25,8 @@ This module introduces students to the fundamentals of 3D modeling in Blender wi
 
 [Google Slides, includes alt text](https://docs.google.com/presentation/d/1K5BcML0k9inMXexIcqCOayrh99seQaqiHZORgfKKatY/edit?usp=sharing)
 
+[Example Object: Liberty Bell](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/multi-domain-modules/sp25-parr-hist7250-blender/Liberty_Bell.obj)
+
 ## DITI Consultants
 Sara Morrell
 

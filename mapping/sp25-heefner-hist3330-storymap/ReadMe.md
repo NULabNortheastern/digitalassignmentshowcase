@@ -41,6 +41,8 @@ This module will go over components of storytelling and how these components may
 
 [Handout: Black Heritage Trail Demo](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/mapping/Handout-Black_Heritage_Trail.pdf)
 
+[Handout: Accessibility in Digital Content](https://docs.google.com/document/d/1XAVk4nWyMzH2dEcxUuCb60kAogkYmLZ3nD0WiE0wFdo/edit?usp=sharing)
+
 [Handout: Accessibility in StoryMap](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/mapping/Handout-Accessibility_StoryMap.pdf)
 
 [Spreadsheet Template](https://docs.google.com/spreadsheets/d/1SlV0tuMyAus_XfedEGDDSPMlZPyrKiBd0-nPz4Kgrh8/edit?gid=0#gid=0)

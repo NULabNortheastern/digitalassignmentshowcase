@@ -29,7 +29,7 @@ The first portion of this module will cover the fundamentals of video production
 
 [Example Media](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/main/video-production/sp25-hersh-anth2302-video-editing/Example-Media)
 
-[Data Privacy Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/672f6915b864920a65d1617b0b48f57f7fe84295/handouts/general/Handout_%20Data%20Privacy.pdf)
+[Data Privacy Handout](https://docs.google.com/document/d/1jeJUWeRzk4P9e7kNMehdyXmBn8Fdssj-AtKBV0xITN8/edit?usp=sharing)
 
 <h2>DITI Consultations</h2>
 

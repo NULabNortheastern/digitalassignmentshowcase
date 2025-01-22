@@ -23,11 +23,11 @@ The first portion of this module will cover the fundamentals of video production
 
 <h2>Documents for Module</h2>
 
-[Slides (PDF)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/video-production/fa24-hersh-anth4100-video-editing/Hersh_VideoEditing_Slides_FA24.pdf)
+[Slides (PDF)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/video-production/sp25-hersh-anth2302-video-editing/SP25-Hersh-ANTH2302-Video-Editing-Slides.pdf)
 
 [Video Editing Slides (Google Slides, includes alt text)](https://docs.google.com/presentation/d/1hfSInbnakBKRERq1kHOYdaNb0OvqDRxismbROuMWO1U/edit?usp=sharing)
 
-[Example Media]()
+[Example Media](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/main/video-production/sp25-hersh-anth2302-video-editing/Example-Media)
 
 [Data Privacy Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/672f6915b864920a65d1617b0b48f57f7fe84295/handouts/general/Handout_%20Data%20Privacy.pdf)
 

@@ -23,7 +23,7 @@ This module goes over computational text analysis for a corpus of texts. The mod
 
 ## Documents for Module
 
-### [Slides (PDF)]()
+### [Slides (PDF)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/text-analysis/sp25-zimmerman-engw1111-textanalysis/Zimmerman-ENGW1111-Introduction%20to%20Computational%20Text%20Analysis.pdf)
 
 ### [Slides (Google Slides, includes alt text)](https://docs.google.com/presentation/d/1hntLiYDVx8hG67fForuJK8Zx2Y3Ay2my6BnmrSpdQm8/edit?usp=sharing)
 

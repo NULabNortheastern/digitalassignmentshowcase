@@ -48,6 +48,6 @@ DITI's [Intro to StoryMap Video](https://youtu.be/X33ud7RYZFg)
 <h2>DITI Consultants</h2>
 
 Developed by Claire Lavarreda and Mel Williams
-Taught by Avery Blankenship and [insert secondary]
+Taught by Avery Blankenship and Ayah Aboelela
 
 

@@ -3,7 +3,7 @@
 <h2>Individual Class Info</h2>
 
 AFCS 1113: Black Popular Culture 
-Professor Fedeke Castor 
+Professor Fadeke Castor 
 Spring 2025
 
 <h2>Summary of Module</h2>

@@ -27,7 +27,7 @@ This module will go over the basics of Audacity, fair use, and podcasts. The sec
 
 <h2>Documents for Module</h2>
 
-[Slides](audio-editing_podcasting/sp25-castor-afc1113-audacity/SP25-AFCS1113-Castor-Audacity.pdf)
+[Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/audio-editing_podcasting/sp25-castor-afc1113-audacity/SP25-AFCS1113-Castor-Audacity.pdf)
 
 [Audacity Slides (Google Slides, includes alt text)](https://docs.google.com/presentation/d/1rMumR76twKDZrvYBmp6c9ARTRvPN7Vfunhto3wRf4Zo/edit?usp=sharing)
 

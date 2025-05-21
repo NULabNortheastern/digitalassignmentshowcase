@@ -18,11 +18,11 @@ Students will learn how to use Canva to produce professional visualizations that
 
 <h2>Learning Objectives</h2>
 
-*Understand the design process of creating data visualizations.
+* Understand the design process of creating data visualizations
 
-*Learn Canva terminology and understand design option on Canva to help display data.
+* Learn Canva terminology and understand design option on Canva to help display data
 
-*Understand how design choices impact accessibility of data visualizations.
+* Understand how design choices impact accessibility of data visualizations
 
 <h2>Materials for Module</h2>
 
@@ -33,6 +33,7 @@ Students will learn how to use Canva to produce professional visualizations that
 
 ### [Infographics Tools Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/data-visualization/Handout-Infographics_Tools.pdf)
 
+### [Accessibility Handout](https://docs.google.com/document/d/1XAVk4nWyMzH2dEcxUuCb60kAogkYmLZ3nD0WiE0wFdo/edit?tab=t.0)
 
 
 <h1>DITI Consultants</h1>

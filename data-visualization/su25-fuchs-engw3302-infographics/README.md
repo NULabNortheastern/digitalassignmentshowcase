@@ -29,7 +29,7 @@ Students will learn how to use Canva to produce professional visualizations that
 
 ### [PDF Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-visualization/su25-fuchs-engw3302-infographics/SU25-fuchs-infographics-slides.pdf)
 
-### [Google Slides](insert link)
+### [Google Slides](https://docs.google.com/presentation/d/1driWlZy5sspGLrgTaLBXvBIfRVyZ_DCW7xYl2D3fgBs/edit?usp=sharing)
 
 ### [Infographics Tools Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/data-visualization/Handout-Infographics_Tools.pdf)
 
@@ -37,4 +37,4 @@ Students will learn how to use Canva to produce professional visualizations that
 
 <h1>DITI Consultants</h1>
 
-Emily Sullivan and Carlos Arriaga Serrano
+Ayah Aboelela and Johan Arango-Quiroga 

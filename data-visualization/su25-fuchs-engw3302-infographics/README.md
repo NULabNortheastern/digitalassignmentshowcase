@@ -35,6 +35,8 @@ Students will learn how to use Canva to produce professional visualizations that
 
 ### [Accessibility Handout](https://docs.google.com/document/d/1XAVk4nWyMzH2dEcxUuCb60kAogkYmLZ3nD0WiE0wFdo/edit?tab=t.0)
 
+### [Copy Right and Fair Use Handout](https://docs.google.com/document/d/1oU4Ma9yelOsQ6f8OM2NiQkDG5T5pAKzyS_B8PsThqIQ/edit?tab=t.0)
+
 
 <h1>DITI Consultants</h1>
 

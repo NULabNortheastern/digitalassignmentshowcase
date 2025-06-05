@@ -36,7 +36,7 @@ This module will go over components of storytelling and how these components may
 
 [Handout: Spreadsheet Template User Guide](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/mapping/Handout-StoryMap_Spreadsheet_Template.pdf)
 
-[Spreadsheet Template](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/mapping/su25-berkey-husv-envr2401-storymap/SU25Berkey_StoryMap%20Spreadsheet%20Template.xlsx) 
+[Spreadsheet Template](https://docs.google.com/spreadsheets/d/1SlV0tuMyAus_XfedEGDDSPMlZPyrKiBd0-nPz4Kgrh8/edit?gid=0#gid=0)
 
 [Handout: Copyright and Fair Use](https://docs.google.com/document/d/1oU4Ma9yelOsQ6f8OM2NiQkDG5T5pAKzyS_B8PsThqIQ/edit?usp=sharing)
 

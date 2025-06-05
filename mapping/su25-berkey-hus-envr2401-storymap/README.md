@@ -1,8 +1,11 @@
 <h1>Introduction to KnightLab StoryMap</h1>
 
 <h2>Individual Class Info</h2>
-HUS/ENVR 2401
-Becca Berkey
+
+HUSV/ENVR 2401: Food Justice and Community Development
+
+Prof. Becca Berkey
+
 Summer 2025
 
 

@@ -3,7 +3,7 @@
 <h2>Individual Class Info</h2>
 HUS/ENVR 2401
 Becca Berkey
-Summer 2024
+Summer 2025
 
 
 <h2>Summary of Module</h2>
@@ -26,7 +26,7 @@ This module will go over components of storytelling and how these components may
 
 <h2>Materials for Module</h2>
 
-[KnightLab StoryMap Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/mapping/su24-berkey-hus-envr2401-storymap/storymap-slides.pdf)
+[KnightLab StoryMap Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/mapping/su25-berkey-hus-envr2401-storymap/SU25-Berkey-HUS_ENVR2401-StoryMap.pdf)
 
 [Handout: KnightLab StoryMap](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/mapping/Handout-StoryMap.pdf)
 
@@ -45,4 +45,4 @@ This module will go over components of storytelling and how these components may
 DITI's [Intro to StoryMap Video](https://youtu.be/X33ud7RYZFg)
 
 <h2>DITI Consultants </h2>
-Claire Lavarreda and Ayah Aboelela
+Halima Haruna and Rhiannon Callahan

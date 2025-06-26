@@ -1,4 +1,4 @@
-<h1>Data Visualization using Canva</h1>
+<h1>Creating Business One Pagers using Canva</h1>
 
 <h2>Individual Class Info</h2>
 
@@ -20,9 +20,9 @@ Students will learn how to use Canva to produce professional one pagers that eas
 
 * Understand the design process of creating one pagers
 
-* Learn Canva terminology and understand design option on Canva to help display data
+* Learn Canva terminology and understand design options on Canva to help display research
 
-* Understand how design choices impact accessibility of data visualizations
+* Understand how design choices impact accessibility of research
 
 <h2>Materials for Module</h2>
 

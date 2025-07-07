@@ -28,7 +28,7 @@ This module will go over components of storytelling and how these components may
 
 <h2>Materials for Module</h2>
 
-[KnightLab StoryMap Slides (PDF)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/mapping/su25-berkey-hus-envr2401-storymap/SU25-Berkey-HUS_ENVR2401-StoryMap.pdf)
+[KnightLab StoryMap Slides (PDF)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/mapping/su25-berkey-husv-envr2401-storymap/SU25-Berkey-HUS_ENVR2401-StoryMap.pdf)
 
 [KnightLab StoryMap Slides (Google Slides)](https://docs.google.com/presentation/d/1lcHuvAQl9P2DI1vqnGq-DQ-YtQ7NaMEiL_FExeKdQyM/edit?usp=sharing)
 

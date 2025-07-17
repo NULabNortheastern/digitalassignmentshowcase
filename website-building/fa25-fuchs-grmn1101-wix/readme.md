@@ -23,7 +23,7 @@ Learn how to build a website with Wix
 
 ## Materials for Module
 ### [Introduction to Website Building Slides (Google Slides)](https://docs.google.com/presentation/d/13y095lzRm697onqcpbOvWLvxHAhEv56r8nfDw6AepfY/edit?usp=sharing)
-### [PDF Slides](TBD)
+### [PDF Slides - TBD](TBD)
 ### [Data Privacy](https://docs.google.com/document/d/1jeJUWeRzk4P9e7kNMehdyXmBn8Fdssj-AtKBV0xITN8/edit?tab=t.0)
 ### [WordPress Website Building Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/website-building/Handout-WordPress.pdf)
 ### [HTML Basics Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/website-building/Handout-HTML_Introduction.pdf)

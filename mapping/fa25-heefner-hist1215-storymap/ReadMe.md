@@ -55,4 +55,4 @@ DITI's [Intro to StoryMap Video](https://youtu.be/X33ud7RYZFg)
 
 Developed by Ayah Aboelela and Halima Haruna
 
-Taught by [TBD]
+Taught by Dipa Desai and Zhen Guo

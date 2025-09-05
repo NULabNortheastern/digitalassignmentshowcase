@@ -26,11 +26,11 @@ This module will cover managing and adding sources in Zotero, developing a Story
 
 ## Materials for Module
 
-[Introduction to Zotero Slides PDF](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/4de93e376ae98b9b8f39d08fd596c827c7d00a65/multi-domain-modules/fa24-dong-CHNS4800-storymap-wordpress/FA24-Hua-Dong-StoryMap%26WordPress.pdf)
+[Introduction to Zotero Slides PDF](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/multi-domain-modules/fa25-poiger-hist1232-multi/FA25-Poiger-HIST1232-Zotero.pdf)
 <br>
 [Introduction to Zotero Slides (Google Slides, includes alt text](https://docs.google.com/presentation/d/1CtB575W52THeESHYnKHosKkmCQiXfoqw5rYX_1747eU/edit?usp=sharing))
 <br>
-[Introduction to StoryMap & TimelineJS Slides PDF](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/4de93e376ae98b9b8f39d08fd596c827c7d00a65/multi-domain-modules/fa24-dong-CHNS4800-storymap-wordpress/FA24-Hua-Dong-StoryMap%26WordPress.pdf)
+[Introduction to StoryMap & TimelineJS Slides PDF](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/multi-domain-modules/fa25-poiger-hist1232-multi/FA25-Poiger-HIST1232-StoryMap%20%26%20Timeline.pdf)
 <br>
 [Introduction to StoryMap & TimelineJS (Google Slides, includes alt text](https://docs.google.com/presentation/d/17-3u1ftk_YapbQ8DSdgBpsJIe-9Dv-OHYpRxkSYp62U/edit?usp=sharing))
 <br>

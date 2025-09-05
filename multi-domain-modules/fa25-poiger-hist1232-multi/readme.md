@@ -1,53 +1,69 @@
-# Introduction to StoryMap and WordPress
+# Introduction to Zotero, StoryMap, and TimelineJS
 
 ## Individual Class Info
 <br>
-CHNS 4800: “Chinatown”
+HIST 1232: “History of Boston”
 <br>
-Fall 2024<br>
-Professor Hua Dong
+Fall 2025<br>
+Professor Uta Poiger
 
 ## Summary of Module
-This module will cover developing a StoryMap and creating and designing a website using WordPress. It covers best practices and questions to consider before creating your StoryMap and demonstrates steps for using Knight Lab’s StoryMap. It then covers how to create a website with WordPress and best practices in website creation.
+This module will cover managing and adding sources in Zotero, developing a StoryMap, and creating a chronological narrative with TimelineJS. It covers how to manage and adding sources with Zotero and best practices in collaborating within Group libraries. It then covers best practices and questions to consider before creating your StoryMap or Timeline and demonstrates steps for using each tool. 
 
 ## Learning Goals
-- Understand the particular choices made when building a map
-- Understand how to collect data for mapping
-- Understand KnightLab StoryMap's interface and where it gathers its information
-- Understand the layout and choices available through WordPress
-- Articulate your intended audience and design choices to appeal to that audience
+- Understand the layout and citation management options through Zotero
+- Collaborate within Zotero's Group libraries on projects
+- Understand the particular choices made when building a map or timeline
+- Understand how to collect data for mapping or creating a timeline
+- Understand KnightLab StoryMap and TimelineJS's interface 
 
 ## Learning Objectives
-- Articulate particular choices made when telling a story using a map
-- Follow a step-by-step guide for creating, saving, and publishing maps using KnightLab StoryMap
-- Implement data into KnightLab StoryMap, including location information, images, and text
-- Navigate StoryMap's map markers and location-finding system
-- Create a WordPress website
-- Use specific CMS features, like the “Add” function
-- Create a blog section on the WordPress website
+- Create a personal Zotero library 
+- Practice adding sources in Zotero either with a by identifier, by dragging and dropping PDFs, or manually entering bibliographic information
+- Articulate particular choices made when telling a story using a map or timeline
+- Follow a step-by-step guide for creating, saving, and publishing maps or timelines using KnightLab StoryMap and TimelineJS tools
+- Implement data into KnightLab StoryMap and TimelineJs templates, including location information, images, and text
 
 ## Materials for Module
 
-[StoryMap Handout](https://docs.google.com/document/d/17ZGYk_3u0vkzC3TBmEoStEZkEpA8RgbKiemRI2XlBbU/edit?usp=sharing)
+[Introduction to Zotero Slides PDF](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/4de93e376ae98b9b8f39d08fd596c827c7d00a65/multi-domain-modules/fa24-dong-CHNS4800-storymap-wordpress/FA24-Hua-Dong-StoryMap%26WordPress.pdf)
 <br>
-[StoryMap Data Gathering Spreadsheet Handout](https://docs.google.com/document/d/1OISI8oDo90YMOiLeAeq0wVaWksoBBiLig_XVHC2JThU/edit?usp=sharing)
+[Introduction to Zotero Slides (Google Slides, includes alt text](https://docs.google.com/presentation/d/1CtB575W52THeESHYnKHosKkmCQiXfoqw5rYX_1747eU/edit?usp=sharing))
 <br>
-[StoryMap and Accessibility Handout](https://docs.google.com/document/d/14Go6V1CFWoLGI3Nevbba8Led45fYclnA4B6ZjiMevD8/edit?usp=sharing)
+[Introduction to StoryMap & TimelineJS Slides PDF](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/4de93e376ae98b9b8f39d08fd596c827c7d00a65/multi-domain-modules/fa24-dong-CHNS4800-storymap-wordpress/FA24-Hua-Dong-StoryMap%26WordPress.pdf)
 <br>
-[WordPress Website Building Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/website-building/Handout-WordPress.pdf)
+[Introduction to StoryMap & TimelineJS (Google Slides, includes alt text](https://docs.google.com/presentation/d/17-3u1ftk_YapbQ8DSdgBpsJIe-9Dv-OHYpRxkSYp62U/edit?usp=sharing))
 <br>
-[HTML Basics Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/website-building/Handout-HTML_Introduction.pdf)
 <br>
-[Fair Use Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/general/Copyright-Fair-Use.pdf)
+[Handout: Introduction to Zotero](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/2a9de85fa077636dd19360ab5eceb3e6aacf8f53/handouts/citation-management/Handout-Zotero.pdf)
 <br>
-[Accessibility in Digital Content](https://docs.google.com/document/d/1XAVk4nWyMzH2dEcxUuCb60kAogkYmLZ3nD0WiE0wFdo/edit?usp=sharing)
+[Handout: Copyright and Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/1d414eee3ea6bbc545a951ba9426c71b15cb499f/handouts/general/Copyright-Fair-Use.pdf)
 <br>
-[Data Privacy Handout](https://docs.google.com/document/d/1jeJUWeRzk4P9e7kNMehdyXmBn8Fdssj-AtKBV0xITN8/edit?usp=sharing)
+[Spreadsheet Template](https://docs.google.com/spreadsheets/d/1IIGtxKKhjFVPRMK7mr6MiX3FE6fDH-QYekYvNPwthG8/edit#gid=0)
 <br>
-[Introduction to StoryMap & WordPress Slides PDF](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/4de93e376ae98b9b8f39d08fd596c827c7d00a65/multi-domain-modules/fa24-dong-CHNS4800-storymap-wordpress/FA24-Hua-Dong-StoryMap%26WordPress.pdf)
+[Handout: Spreadsheet Template User Guide](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/mapping/Handout-StoryMap_Spreadsheet_Template.pdf) 
 <br>
-[Introduction to StoryMap & WordPress Slides (Google Slides, includes alt text](https://docs.google.com/presentation/d/1G7eAFb9ohYGhFjMagAsyrY1OebWVSvhZ1HL5MA9TLVw/edit?usp=sharing))
+[Handout: Introduction to HTML](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/HTML-Introduction.pdf)
+<br>
+[Handout: KnightLab StoryMap](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/mapping/Handout-StoryMap.pdf)
+<br>
+[Handout: Accessibility in StoryMap](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/mapping/Handout-Accessibility_StoryMap.pdf)
+<br>
+[Handout: Accessibility in Digital Content](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/general/Handout-Accessibility_in_Digital_Content.pdf)
+<br>
+[Handout: Black Heritage Trail Example](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/2a9de85fa077636dd19360ab5eceb3e6aacf8f53/handouts/mapping/Handout-Black_Heritage_Trail.pdf)
+<br>
+[DITI’s Intro to StoryMap video](https://youtu.be/X33ud7RYZFg)
+<br>
+[Handout: Knightlab Timeline](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/2a9de85fa077636dd19360ab5eceb3e6aacf8f53/handouts/data-visualization/Handout-Timeline.pdf)
+<br>
+[Handout: Accessibility in Digital Content](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/general/Handout-Accessibility_in_Digital_Content.pdf)
+<br>
+[Handout: Data Privacy](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/general/Handout_%20Data%20Privacy.pdf)
+<br>
+[Handout: Copyright and Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/1d414eee3ea6bbc545a951ba9426c71b15cb499f/handouts/general/Copyright-Fair-Use.pdf)
+<br>
 
 
 ## DITI Consultants
-Claire Lavarreda & Ayah Aboelela
+Dipa Desai & Shannon Peifer

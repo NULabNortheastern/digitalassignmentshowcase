@@ -8,7 +8,7 @@ Fall 2025<br>
 Professor Uta Poiger
 
 ## Summary of Module
-This module will cover managing and adding sources in Zotero, developing a StoryMap, and creating a chronological narrative with TimelineJS. It covers how to manage and adding sources with Zotero and best practices in collaborating within Group libraries. It then covers best practices and questions to consider before creating your StoryMap or Timeline and demonstrates steps for using each tool. 
+This module will cover managing and adding sources in Zotero, developing a StoryMap, and creating a chronological narrative with TimelineJS. It covers how to manage and add sources with Zotero and best practices in collaborating within Group libraries. It then covers best practices and questions to consider before creating your StoryMap or Timeline and demonstrates steps for using each tool. 
 
 ## Learning Goals
 - Understand the layout and citation management options through Zotero

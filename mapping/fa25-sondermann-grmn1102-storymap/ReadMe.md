@@ -3,7 +3,9 @@
 <h2>Individual Class Info</h2>
 
 Prof. Ruth Sondermann
+
 German 1102
+
 Fall 2025
 
 

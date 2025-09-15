@@ -28,7 +28,7 @@ This module will review best practices for creating and publishing digital comic
 
 <h2>Documents for Module</h2>
 
-[Audacity Slides (PDF) - TBD]()
+[Audacity Slides (PDF)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/multi-domain-modules/FA25-Hersh-ANTH3441-digitalcomics/FA25-Hersh-ANTH%203441-Digital%20Comics.pdf)
 
 [Audacity Slides (Google Slides, includes alt text)](https://docs.google.com/presentation/d/1CfrnHoyL7J2lbdyXxNLOXujrVr3UAH-5y92zNshpw_0/edit?usp=sharing)
 

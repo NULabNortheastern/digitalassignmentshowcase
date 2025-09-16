@@ -33,13 +33,13 @@ Students will learn how to use Canva to produce visual poetry that effectively e
 
 ### [Infographics Slides (Google Slides, includes alt text)](https://docs.google.com/presentation/d/133Ss-D0pzD6Q30TK-5JshXI5ETnRLn0l95CUHykSUE0/edit?usp=sharing)
 
-[Handout: Web-based Tools for Infographics Design] (https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/data-visualization/Handout-Infographics_Tools.pdf)
+[Handout: Web-based Tools for Infographics Design](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/data-visualization/Handout-Infographics_Tools.pdf)
 
-[Handout: Accessibility in Digital Content] (https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/general/Handout-Accessibility_in_Digital_Content.pdf)
+[Handout: Accessibility in Digital Content](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/general/Handout-Accessibility_in_Digital_Content.pdf)
 
-[Handout: Data Privacy] (https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/general/Handout_%20Data%20Privacy.pdf)
+[Handout: Data Privacy](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/general/Handout_%20Data%20Privacy.pdf)
 
-[Handout: Copyright and Fair Use] (https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/1d414eee3ea6bbc545a951ba9426c71b15cb499f/handouts/general/Copyright-Fair-Use.pdf)
+[Handout: Copyright and Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/1d414eee3ea6bbc545a951ba9426c71b15cb499f/handouts/general/Copyright-Fair-Use.pdf)
 
 <h1>DITI Consultants</h1>
 

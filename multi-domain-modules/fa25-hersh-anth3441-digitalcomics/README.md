@@ -23,7 +23,7 @@ By the end of this session, students will be able to:
 * Using Pixton for basic comic construction.
 * Compare the strengths and limitations of each approach.
 
-<h2>Documents for Module/h2>
+<h2>Documents for Module</h2>
 
 [Introduction to Digital Comics Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/multi-domain-modules/fa25-hersh-anth3441-digitalcomics/FA25-Hersh-ANTH%203441-Digital%20Comics.pdf)
 

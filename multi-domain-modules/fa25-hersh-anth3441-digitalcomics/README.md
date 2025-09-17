@@ -6,8 +6,7 @@ Professors Carie Hersh and Laura Senier<br>
 Fall 2025
 
 <h2>Summary of Module</h2>
-
-This module will introduce digital comics as well as three approaches
+This module will introduce students to the fundamentals of digital comic creation, focusing on best practices for effective design and storytelling. Students will explore three primary approaches to making comics and understand the basics of Pixton.   
 
 <h2>Learning Goals</h2>
 * Develop an understanding of best practices in digital comic creation.

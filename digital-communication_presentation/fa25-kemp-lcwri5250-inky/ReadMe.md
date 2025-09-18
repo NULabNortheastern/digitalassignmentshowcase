@@ -1,9 +1,11 @@
-<h1>Introduction to inklewriter</h1>
+<h1>Introduction to Inky</h1>
 
 <h2>Individual Class Info</h2>
 
 LCWRI 5250: Electric Frontiers 
+
 Dr. Sam Kemp
+
 Fall 2025
 
 <h2>Summary of Module</h2>
@@ -36,5 +38,6 @@ This module will cover creating and designing a narrative using inklewriter. It 
 
 ### [Handout: Copyright and Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/1d414eee3ea6bbc545a951ba9426c71b15cb499f/handouts/general/Copyright-Fair-Use.pdf)
 
-<h2>DITI Consultants</h2>
+<h2>DITI Consultants</h2> 
+
 Emily Sullivan & Claire Lavarreda

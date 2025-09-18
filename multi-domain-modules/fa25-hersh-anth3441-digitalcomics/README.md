@@ -24,7 +24,7 @@ By the end of this session, students will be able to: <br><br>
 
 <h2>Documents for Module</h2>
 
-[Introduction to Digital Comics Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/multi-domain-modules/fa25-hersh-anth3441-digitalcomics/FA25-Hersh-ANTH%203441-Digital%20Comics.pdf)
+[Introduction to Digital Comics Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/multi-domain-modules/fa25-hersh-anth3441-digitalcomics/FA25-Hersh-ANTH%203441-Digital%20Comics%20(1).pdf)
 
 [Handout: Copyright and Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/1d414eee3ea6bbc545a951ba9426c71b15cb499f/handouts/general/Copyright-Fair-Use.pdf)
 

@@ -9,18 +9,18 @@ Fall 2025
 This module will introduce students to the fundamentals of digital comic creation, focusing on best practices for effective design and storytelling. Students will explore three primary approaches to making comics and understand the basics of Pixton.   
 
 <h2>Learning Goals</h2>
-* Develop an understanding of best practices in digital comic creation.
-* Explore and compare multiple approaches to making comics digitally.
-* Learn how to evaluate and select the most suitable comic creation method for goals. 
+* Develop an understanding of best practices in digital comic creation.<br>
+* Explore and compare multiple approaches to making comics digitally.<br>
+* Learn how to evaluate and select the most suitable comic creation method for goals. <br>
 
 <h2>Learning Objectives</h2>
-By the end of this session, students will be able to: 
-* Identify and describe best practices for creating digital comics.
-* Demonstrate knowledge of three different approaches:
-* Hand drawing & scanning with digital modifications.
-* Drawing on tablets using stylus pens.
-* Using Pixton for basic comic construction.
-* Compare the strengths and limitations of each approach.
+By the end of this session, students will be able to: <br><br>
+* Identify and describe best practices for creating digital comics.<br>
+* Demonstrate knowledge of three different approaches:<br>
+* Hand drawing & scanning with digital modifications.<br>
+* Drawing on tablets using stylus pens.<br>
+* Using Pixton for basic comic construction.<br>
+* Compare the strengths and limitations of each approach.<br>
 
 <h2>Documents for Module</h2>
 

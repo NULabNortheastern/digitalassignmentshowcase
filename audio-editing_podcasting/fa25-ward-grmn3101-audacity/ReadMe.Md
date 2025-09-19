@@ -27,7 +27,7 @@ This module will go over the basics of Audacity, fair use, and podcasts. The sec
 
 <h2>Documents for Module</h2>
 
-[Audacity Slides (PDF) - TBD]()
+[Audacity Slides (PDF)]()
 
 [Audacity Slides (Google Slides, includes alt text)](https://docs.google.com/presentation/d/1kJbOaWlgtXG5ULLfpL5-Jh8glMfipQN9_Qi0y-MYnI0/edit?usp=sharing)
 

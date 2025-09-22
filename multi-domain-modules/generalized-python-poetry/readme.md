@@ -24,7 +24,7 @@ Follow the above links to access the Google Colab notebooks for this module. You
 
 The slides are available in PDF format and as accessible Google slides at the links below. 
 
-[Introduction to Python and Poetry Slides PDF](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/multi-domain-modules/generalized-python-poetry/Introduction%20to%20Python%20and%20Poetry.pdf)
+[Introduction to Python and Poetry Slides PDF](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/multi-domain-modules/generalized-python-poetry/Introduction%20to%20Python%20and%20Poetry_Accessible.pdf)
 
 [Introduction to Python and Poetry Google Slides](https://docs.google.com/presentation/d/1Ctcb_cPeGyKsfCQMNFpNhcvxyekH6EXGWDhxmym6YZc/edit?usp=sharing)
 

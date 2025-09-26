@@ -23,6 +23,19 @@ This module introduces students to the fundamentals of coding in Python with a f
 - Use Python to remix/create prose and poetry
 
 ## Materials for Module
+
+Teaching Materials
+
+[Slides (PDF)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/multi-domain-modules/fa25-young-crwt1801-pythonlit/fa25-young-crwt1801-slides.pdf)
+
+[Google slides (with alt-text)](https://docs.google.com/presentation/d/17aW9ZtOCUPzC1fLfMzEcP8loVPz72ZC44dtqQGZVcko/edit?slide=id.gfae91b262e_0_316#slide=id.gfae91b262e_0_316)
+
+[Handout: Writing Functions in Python](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/0c3b66c39884071942da7ac761b0cf86ee7532c4/handouts/coding_quantitative/Handout_Python%20Functions.pdf)
+
+[Handout: Troubleshooting Python](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/a124dd98387440f5a221da56ccb659a5a1518aad/handouts/coding_quantitative/Handout_Troubleshooting_Python.pdf) 
+
+Coding Materials
+
 [Google Folder with Student Access Colab Notebooks](https://drive.google.com/drive/folders/1DJ1fjW42p93azYQzDUscRIuW0NECOzSY?usp=sharing)
 
 [Colab & Intro To Python Notebook](https://colab.research.google.com/drive/1r1EYsiPd_j0-Xzs6LuJiuBwhVQwkw285?usp=sharing)
@@ -32,12 +45,6 @@ This module introduces students to the fundamentals of coding in Python with a f
 [Funny Letter Example Notebook](https://colab.research.google.com/drive/1QZOcPS68qTF_vu_u4NrM3vvsDhS7N8C8?usp=drive_link)
 
 [Brontean Letter Example Notebook](https://colab.research.google.com/drive/1j6Gyk5FDWfc63OIxNq7OnK9P-7m79Thz?usp=drive_link)
-
-[Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/multi-domain-modules/fa25-young-crwt1801-pythonlit/fa25-young-crwt1801-slides.pdf)
-
-[Handout: Writing Functions in Python](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/0c3b66c39884071942da7ac761b0cf86ee7532c4/handouts/coding_quantitative/Handout_Python%20Functions.pdf)
-
-[Handout: Troubleshooting Python](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/a124dd98387440f5a221da56ccb659a5a1518aad/handouts/coding_quantitative/Handout_Troubleshooting_Python.pdf) 
 
 ## DITI Consultants
 Zhen Guo

@@ -33,7 +33,7 @@ This module introduces students to the fundamentals of coding in Python with a f
 
 [Slides PDF](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/multi-domain-modules/fa24-linker-boeckeler-engl3340-python-poetry/slides_fa24-linker-boeckeler-engl3340-python-poetry.pdf)
 
-[Google Slides, includes alt text](https://docs.google.com/presentation/d/17aW9ZtOCUPzC1fLfMzEcP8loVPz72ZC44dtqQGZVcko/edit?usp=sharing)
+[Google Slides, includes alt text](https://docs.google.com/presentation/d/1bCADnGBG3NjKQvwbnJB_BorDteupofumDtGAZD74G0I/edit?usp=sharing)
 
 ## DITI Consultants
 Sara Morrell

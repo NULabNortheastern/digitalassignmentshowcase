@@ -1,4 +1,4 @@
-# Python for Poetry
+# Computational Literature Using Python
 
 
 
@@ -11,7 +11,7 @@ Fall 2025
 
 
 ## Summary of Module
-This module introduces students to the fundamentals of coding in Python with a focus on creating computational literature. It covers relevant pre-defined functions; variables; various data types including strings, lists, and dictionaries and how to access and manipulate them; conditional statements; and libraries and modules and how to import and use functions from them. It also provides a high-level conceptual introduction to generating poetry using artificial intelligence (AI) models.
+This module introduces students to the fundamentals of coding in Python with a focus on creating computational literature. It covers relevant pre-defined functions; variables; various data types including strings and lists and how to access and manipulate them; conditional statements; and libraries and modules and how to import and use functions from them. It also provides a high-level conceptual introduction to generating poetry using artificial intelligence (AI) models.
 
 
 ## Learning Goals

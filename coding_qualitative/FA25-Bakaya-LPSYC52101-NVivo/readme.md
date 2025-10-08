@@ -38,13 +38,13 @@ Qualitative Coding with NVivo
 
 
 ### Handouts
-[Installing NVivo](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/coding_qualitative/Handout_%20Installing_NVivo.pdf)
+[Installing NVivo](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/coding_qualitative/Handout-Installing_NVivo.pdf)
 
-[Intro to NVivo for Qualitative Coding](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/coding_qualitative/Handout_%20NVivo.pdf)
+[Intro to NVivo for Qualitative Coding](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/coding_qualitative/Handout-NVivo.pdf)
 
-[Accessibility Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/Accessibility.pdf)
+[Accessibility Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/general/Handout-Accessibility_in_Digital_Content.pdf)
 
-[Copyright & Fair Use Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/Copyright-Fair-Use.pdf)
+[Copyright & Fair Use Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/general/Copyright-Fair-Use.pdf)
 
 ## DITI Consultants
 Taught by Zhen Guo, Sara Morrell, Ayah Aboelela

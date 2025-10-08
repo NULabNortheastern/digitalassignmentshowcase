@@ -1,15 +1,15 @@
 # Qualitative Coding with NVivo
 
 ## Individual Class Info
-INTP 3970
+LPSYC52101 Research Methods in Psychology
 <br>
 
 
-Professor Whynot
+Professor Bakaya
 <br>
 
 
-Fall 2024
+Fall 2025
 <br>
 
 ## Summary of Module
@@ -32,21 +32,22 @@ Qualitative Coding with NVivo
 
 ## Documents for Module
 
-### [Presentation](https://docs.google.com/presentation/d/1x5IvFIfmO5GyIA47ET6pebpJFg7GYQWa/edit#slide=id.g27c734d5e9e_0_277)
+### [Presentation](https://docs.google.com/presentation/d/1WSQWhpSWKT6dacKmyxMmhS3W4uyWrakx2QNoa0A7L7k/edit?usp=sharing)
+
 
 ### Handouts
 [Installing NVivo](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/coding_qualitative/Handout_%20Installing_NVivo.pdf)
 
 [Intro to NVivo for Qualitative Coding](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/coding_qualitative/Handout_%20NVivo.pdf)
 
- [Accessibility Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/Accessibility.pdf)
+[Accessibility Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/Accessibility.pdf)
 
 [Copyright & Fair Use Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/Copyright-Fair-Use.pdf)
 
 ## DITI Consultants
-Taught by Sean P. Rogers
+Taught by Zhen Guo, Sara Morrell, Ayah Aboelela
 
 
-Created by Dipa Desai, Sean P. Rogers, and Cara Marta Messina
+Created by Zhen Guo, Sara Morrell, Dipa Desai, Sean P. Rogers, and Cara Marta Messina
 
 

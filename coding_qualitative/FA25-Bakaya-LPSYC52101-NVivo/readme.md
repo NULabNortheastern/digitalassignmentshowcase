@@ -34,7 +34,7 @@ Qualitative Coding with NVivo
 
  [Introduction to NVivo Slides (Google Slides)](https://docs.google.com/presentation/d/1WSQWhpSWKT6dacKmyxMmhS3W4uyWrakx2QNoa0A7L7k/edit?usp=sharing)
 
- [Introduction to NVivo Slides (PDF)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/multi-domain-modules/fa25-dominguez-insh7102-multi/FA25-Dominguez-INSH7102-Nvivo.pdf)
+ [Introduction to NVivo Slides (PDF)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/coding_qualitative/FA25-Bakaya-LPSYC52101-NVivo/FA25-Bakaya-LPSYC52101-Nvivo.pdf)
 
 
 ### Handouts

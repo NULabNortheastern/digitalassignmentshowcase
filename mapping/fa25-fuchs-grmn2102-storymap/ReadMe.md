@@ -48,4 +48,5 @@ DITI's [Intro to StoryMap Video](https://youtu.be/X33ud7RYZFg)
 
 <h2>DITI Consultants</h2>
 
-[TBD]
+Claire Lavarreda
+Sara Morrell

@@ -30,4 +30,4 @@ Learn how to build a website with Wix
 ### [Fair Use Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/general/Copyright-Fair-Use.pdf)
 
 ## DITI Consultants
-[TBD]
+Ayah Aboelela and Shannon Peifer

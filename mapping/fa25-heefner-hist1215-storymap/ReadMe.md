@@ -39,15 +39,15 @@ This module will go over components of storytelling and how these components may
 
 [Spreadsheet Template](https://docs.google.com/spreadsheets/d/1SlV0tuMyAus_XfedEGDDSPMlZPyrKiBd0-nPz4Kgrh8/edit?gid=0#gid=0)
 
-[Handout: Copyright and Fair Use](https://docs.google.com/document/d/1oU4Ma9yelOsQ6f8OM2NiQkDG5T5pAKzyS_B8PsThqIQ/edit?usp=sharing)
+[Handout: Copyright and Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/1d414eee3ea6bbc545a951ba9426c71b15cb499f/handouts/general/Copyright-Fair-Use.pdf)
 
 [Handout: Black Heritage Trail Demo](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/mapping/Handout-Black_Heritage_Trail.pdf)
 
-[Handout: Accessibility in Digital Content](https://docs.google.com/document/d/1XAVk4nWyMzH2dEcxUuCb60kAogkYmLZ3nD0WiE0wFdo/edit?usp=sharing)
+[Handout: Accessibility in Digital Content](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/general/Handout-Accessibility_in_Digital_Content.pdf)
 
 [Handout: Accessibility in StoryMap](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/mapping/Handout-Accessibility_StoryMap.pdf)
 
-[Handout: Introduction to HTML](https://docs.google.com/document/d/1zoU6I4gFIbK8IqoDz9Pt8i45tFkyiqATho9D1_KATME/edit?tab=t.0)
+[Handout: Introduction to HTML](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/HTML-Introduction.pdf)
 
 DITI's [Intro to StoryMap Video](https://youtu.be/X33ud7RYZFg)
 
@@ -55,4 +55,4 @@ DITI's [Intro to StoryMap Video](https://youtu.be/X33ud7RYZFg)
 
 Developed by Ayah Aboelela and Halima Haruna
 
-Taught by [TBD]
+Taught by Dipa Desai and Zhen Guo

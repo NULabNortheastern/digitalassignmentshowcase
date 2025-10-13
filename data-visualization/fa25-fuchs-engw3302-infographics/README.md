@@ -40,5 +40,4 @@ Students will learn how to use Canva to produce professional visualizations that
 
 <h1>DITI Consultants</h1>
 
-Ayah Aboelela and Johan Arango-Quiroga 
-[To be confirmed]
+Ayah Aboelela and Claire Lavarreda

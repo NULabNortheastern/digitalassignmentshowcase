@@ -26,7 +26,7 @@ This module will go over components of storytelling and how these components may
 
 <h2>Materials for Module</h2>
 
-[KnightLab StoryMap Slides (PDF) - TBD]()
+[KnightLab StoryMap Slides (PDF)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/mapping/fa25-fuchs-grmn2102-storymap/Slides.pdf)
 
 [KnightLab StoryMap Slides (Google Slides, includes alt text)](https://docs.google.com/presentation/d/1fFE5oyXkv-6b6YGhnEa3EkJ3Rsy-QdQmIdmrMqH5_48/edit?usp=sharing)
 
@@ -48,4 +48,5 @@ DITI's [Intro to StoryMap Video](https://youtu.be/X33ud7RYZFg)
 
 <h2>DITI Consultants</h2>
 
-[TBD]
+Claire Lavarreda
+Sara Morrell

@@ -1,6 +1,6 @@
 <h1>AI For Literature Reviews</h1>
 
-This module will discuss data ethics, particularly around big data, algorithmic bias, and research best practices as well as give a general introduction to feminist data practices.
+This module will discuss what is AI, AI biases, and how to use AI responsively for literature review.
 
 <h2>Individual Class Info</h2>
 
@@ -25,13 +25,9 @@ This module will introduce ethics, including what big data is and how it works, 
 
 <h2>Materials for Module</h2>
 
-[AI For Literature Reviews](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/data-ethics/sp25-savit-mscr2505wmns2505-dataethics%2Bdatafeminism/Savit_%20Data%20Ethics_%20Understanding%20Big%20Data%20and%20Algorithmic%20Bias.pdf)
+[AI For Literature Reviews](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/data-ethics/fa25-bakaya-LPSYC4236-aiforlitrature/FA25-Bakaya-LPSYC52101-Nvivo.pdf)
 
 [AI For Literature Reviews](https://docs.google.com/presentation/d/1CzHVo9EqKe4gC9fdbGWu68wLuTuirLf3N-ZnDTbXSPo/edit?usp=sharing)
-
-[Introduction to Feminist Data (Google Slides, includes alt text)](https://docs.google.com/presentation/d/1xdISdoTkPgyykPlG87pEtzyOo2wwWiySauer7qKMKws/edit?usp=sharing)
-
-[Introduction to Feminist Data Slides (PDF)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/data-ethics/sp25-savit-mscr2505wmns2505-dataethics%2Bdatafeminism/Savit_Introduction%20To%20Feminist%20Data_Spring%202025.pdf)
 
 [Data Privacy Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/data-ethics/sp25-savit-mscr2505wmns2505-dataethics%2Bdatafeminism/Handout_%20Data%20Privacy.pdf)
 
@@ -41,6 +37,6 @@ This module will introduce ethics, including what big data is and how it works, 
 
 <h2>DITI Consultants</h2>
 
-Avery Blankenship
-
-Johan Arango-Quiroga
+Sarah Morrel
+Zhen Guo
+Ayah Aboelela

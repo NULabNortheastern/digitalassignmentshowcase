@@ -27,7 +27,7 @@ This module will introduce ethics, including what big data is and how it works, 
 
 [Data Ethics: Understanding Big Data and Algorithmic Bias Slides (PDF)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/data-ethics/sp25-savit-mscr2505wmns2505-dataethics%2Bdatafeminism/Savit_%20Data%20Ethics_%20Understanding%20Big%20Data%20and%20Algorithmic%20Bias.pdf)
 
-[Data Ethics: Understanding Big Data and Algorithmic Bias Slides (Google Slides, includes alt text)](https://docs.google.com/presentation/d/1l0nOTJ0yCERdEI6BwX0U0uJFAd0QV5L4wSH4quyQ6pk/edit?usp=sharing)
+[AI For Literature Reviews](https://docs.google.com/presentation/d/1CzHVo9EqKe4gC9fdbGWu68wLuTuirLf3N-ZnDTbXSPo/edit?usp=sharing)
 
 [Introduction to Feminist Data (Google Slides, includes alt text)](https://docs.google.com/presentation/d/1xdISdoTkPgyykPlG87pEtzyOo2wwWiySauer7qKMKws/edit?usp=sharing)
 

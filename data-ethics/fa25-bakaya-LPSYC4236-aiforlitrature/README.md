@@ -33,7 +33,7 @@ This module will introduce ethics, including what big data is and how it works, 
 
 [Data Ethics Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/data-ethics/sp25-savit-mscr2505wmns2505-dataethics%2Bdatafeminism/Handout_%20Data%20Ethics.pdf)
 
-[Fair Use Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/data-ethics/sp25-savit-mscr2505wmns2505-dataethics%2Bdatafeminism/Handout_%20Copyright%20and%20Fair%20Use.pdf)
+[Copy Right and Fair Use Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/data-ethics/sp25-savit-mscr2505wmns2505-dataethics%2Bdatafeminism/Handout_%20Copyright%20and%20Fair%20Use.pdf)
 
 <h2>DITI Consultants</h2>
 

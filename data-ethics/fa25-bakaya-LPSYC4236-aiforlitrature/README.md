@@ -17,10 +17,9 @@ This module will introduce ethics, including what big data is and how it works, 
 
 <h2>Workshop Objectives</h2>
 
-* Understand the ways data is being used in society as well as how algorithms impact and shape our daily lives.
-* Explore the ways in which privacy and security are being reshaped and redefined through the use of big data, algorithms, and policy.
-* Understand the ways in which data reflects and reinforces cultural, social, and political biases. 
-* Explore ways of interpreting and effectively utilizing data-based evidence in written arguments.
+* Understand the key terms of AI and how generative AI works.  
+* Identify the primary risks of using AI for research, including generating false information (hallucinations), perpetuating biases, and ethical issues related to copyright, labor, and the environment.  
+* Explore how to use various AI-powered tools (including ChatGPT, Claude, Elicit, and Litmaps) to assist in the process of conducting a literature review.  
 
 
 <h2>Materials for Module</h2>

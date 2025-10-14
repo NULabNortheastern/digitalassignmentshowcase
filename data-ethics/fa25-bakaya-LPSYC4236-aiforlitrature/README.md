@@ -13,13 +13,13 @@ Fall 2025
 
 <h2>Summary of Module</h2>
 
-This module will introduce ethics, including what big data is and how it works, algorithmic bias, and questions and guidelines for ethical research. Big data is the collection of mass amounts of data and the programmatic analysis of this data to categorize and re-categorize patterns of behavior. Algorithms can reinforce implicit and potentially harmful biases, including biases in the data used and collected for algorithms, the choices made in algorithm creation, and the impact of those choices on the people using and being affected by these algorithms in the real world. Particularly, this module looks at biases in academia and the use of non-traditional and non-academic sources in research and writing.
+This module will introduce AI for literature review, including what AI is and how it works, AI bias, and how to use AI-powered tools to assist literauture review. Artificial Intelligence(AI) is a technology that “learns” from datasets to solve problems and mimic human intelligence. The biased outputs due to human biases that existed in original training data or skew the AI algorithm could result in potential harms. Particularly, this module looks at AI biases in literature review summaries and how to counter the bias and use AI responsibly.
 
 <h2>Workshop Objectives</h2>
 
 * Understand the key terms of AI and how generative AI works.  
 * Identify the primary risks of using AI for research, including generating false information (hallucinations), perpetuating biases, and ethical issues related to copyright, labor, and the environment.  
-* Explore how to use various AI-powered tools (including ChatGPT, Claude, Elicit, and Litmaps) to assist in the process of conducting a literature review.  
+* Explore how to use various AI-powered tools (including ChatGPT, Claude, Elicit, and Litmaps) to assist literature review.  
 
 
 <h2>Materials for Module</h2>

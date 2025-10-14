@@ -1,15 +1,15 @@
-<h1>Data Ethics: Understanding Big Data, Algorithmic Bias, and Research Ethics and Introduction to Feminist Data</h1>
+<h1>AI For Literature Reviews</h1>
 
 This module will discuss data ethics, particularly around big data, algorithmic bias, and research best practices as well as give a general introduction to feminist data practices.
 
 <h2>Individual Class Info</h2>
 
-Digital Feminisms, Introduction to Feminist Data 
+Class LPSYC4236 Foundations of Psychology
 
 
-Lauren Savit 
+Professor Bakaya
 
-Spring 2025
+Fall 2025
 
 <h2>Summary of Module</h2>
 
@@ -25,7 +25,7 @@ This module will introduce ethics, including what big data is and how it works, 
 
 <h2>Materials for Module</h2>
 
-[Data Ethics: Understanding Big Data and Algorithmic Bias Slides (PDF)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/data-ethics/sp25-savit-mscr2505wmns2505-dataethics%2Bdatafeminism/Savit_%20Data%20Ethics_%20Understanding%20Big%20Data%20and%20Algorithmic%20Bias.pdf)
+[AI For Literature Reviews](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/data-ethics/sp25-savit-mscr2505wmns2505-dataethics%2Bdatafeminism/Savit_%20Data%20Ethics_%20Understanding%20Big%20Data%20and%20Algorithmic%20Bias.pdf)
 
 [AI For Literature Reviews](https://docs.google.com/presentation/d/1CzHVo9EqKe4gC9fdbGWu68wLuTuirLf3N-ZnDTbXSPo/edit?usp=sharing)
 

@@ -36,6 +36,4 @@ This module will introduce artificial intelligence (AI) for literature reviews, 
 
 <h2>DITI Consultants</h2>
 
-Sarah Morrel
-Zhen Guo
-Ayah Aboelela
+Sara Morrell, Zhen Guo, and Ayah Aboelela

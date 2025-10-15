@@ -1,11 +1,10 @@
-<h1>AI For Literature Reviews</h1>
+<h1>AI for Literature Reviews</h1>
 
-This module will discuss what is AI, AI biases, and how to use AI responsively for literature review.
+This module will discuss what AI is, AI biases, and how to responsibly use AI for writing literature reviews.
 
 <h2>Individual Class Info</h2>
 
 Class LPSYC4236 Foundations of Psychology
-
 
 Professor Bakaya
 
@@ -13,13 +12,14 @@ Fall 2025
 
 <h2>Summary of Module</h2>
 
-This module will introduce AI for literature review, including what AI is and how it works, AI bias, and how to use AI-powered tools to assist literauture review. Artificial Intelligence(AI) is a technology that “learns” from datasets to solve problems and mimic human intelligence. The biased outputs due to human biases that existed in original training data or skew the AI algorithm could result in potential harms. Particularly, this module looks at AI biases in literature review summaries and how to counter the bias and use AI responsibly.
+This module will introduce artificial intelligence (AI) for literature reviews, including what AI is and how it works, AI bias, and how to use AI-powered tools to assist in creating literature reviews. AI is a technology that “learns” from datasets to solve problems and mimic human intelligence. The biased outputs due to human biases that existed in the original training data or skew the AI algorithm could result in potential harms. Particularly, this module looks at AI biases in literature review summaries and how to counter the bias and use AI responsibly.
 
 <h2>Workshop Objectives</h2>
 
-* Understand the key terms of AI and how generative AI works.  
-* Identify the primary risks of using AI for research, including generating false information (hallucinations), perpetuating biases, and ethical issues related to copyright, labor, and the environment.  
-* Explore how to use various AI-powered tools (including ChatGPT, Claude, Elicit, and Litmaps) to assist literature review.  
+* Understand key terms regarding AI
+* Understand how generative AI works  
+* Identify the primary risks of using AI for research, including generating false information (hallucinations), perpetuating biases, and ethical issues related to copyright, labor, and the environment  
+* Explore how to use various AI-powered tools (including ChatGPT, Claude, Elicit, and Litmaps) to assist in creating a literature review  
 
 
 <h2>Materials for Module</h2>

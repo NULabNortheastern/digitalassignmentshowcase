@@ -24,9 +24,9 @@ This module will introduce artificial intelligence (AI) for literature reviews, 
 
 <h2>Materials for Module</h2>
 
-[AI For Literature Reviews](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/data-ethics/fa25-bakaya-LPSYC4236-aiforlitrature/FA25-Bakaya-LPSYC52101-Nvivo.pdf)
+[AI For Literature Reviews (PDF)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/data-ethics/fa25-bakaya-LPSYC4236-aiforliterature/FA25-Bakaya-AIForLiteratureReviews.pdf)
 
-[AI For Literature Reviews](https://docs.google.com/presentation/d/1CzHVo9EqKe4gC9fdbGWu68wLuTuirLf3N-ZnDTbXSPo/edit?usp=sharing)
+[AI For Literature Reviews (Google Slides, includes alt text)](https://docs.google.com/presentation/d/1CzHVo9EqKe4gC9fdbGWu68wLuTuirLf3N-ZnDTbXSPo/edit?usp=sharing)
 
 [Data Privacy Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/data-ethics/sp25-savit-mscr2505wmns2505-dataethics%2Bdatafeminism/Handout_%20Data%20Privacy.pdf)
 

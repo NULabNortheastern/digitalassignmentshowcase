@@ -48,7 +48,7 @@ Qualitative Coding with NVivo
 
 [Handout: Data Privacy](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/general/Handout_%20Data%20Privacy.pdf)
 
-[Handout: Screencastify](https://docs.google.com/document/d/1h8g1gLHQwW77jQNEdPxBZQ6o6po58E22ByKn7fwomQo/edit?usp=sharing)
+[Handout: Screencastify](https://docs.google.com/document/d/1clyW8zQolzqy3FXja1GLJdN5CEPhr8TDTtxQ54snCew/edit?usp=sharing)
 
 
 ## DITI Consultants

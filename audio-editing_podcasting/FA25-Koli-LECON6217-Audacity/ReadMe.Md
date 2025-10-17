@@ -27,7 +27,7 @@ This module will go over the basics of Audacity, fair use, and podcasts. The sec
 
 <h2>Documents for Module</h2>
 
-[Audacity Slides (PDF)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/audio-editing_podcasting//FA25-Koli-LECON6217-Audacity/FA25-Koli-LECON6217-Audacity-slides.pdf)
+[Audacity Slides (PDF)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/audio-editing_podcasting//fa25-Koli-LECON6217-Audacity/FA25-Koli-LECON6217-Audacity-slides.pdf)
 
 [Audacity Slides (Google Slides, includes alt text)](https://docs.google.com/presentation/d/1RatIbvQ7pXC4w0mk9ko7Na3W7WrWhs27Qff9XET33do/edit?usp=sharing)
 

@@ -1,11 +1,11 @@
 # Qualitative Coding with NVivo
 
 ## Individual Class Info
-LPSYC52101 Research Methods in Psychology
+INTP3970 Research Methods for ASL Majors
 <br>
 
 
-Professor Bakaya
+Professor Whynot
 <br>
 
 
@@ -32,7 +32,7 @@ Qualitative Coding with NVivo
 
 ## Documents for Module
 
- [Introduction to NVivo Slides (Google Slides)](https://docs.google.com/presentation/d/1WSQWhpSWKT6dacKmyxMmhS3W4uyWrakx2QNoa0A7L7k/edit?usp=sharing)
+ [Introduction to NVivo Slides (Google Slides)](https://docs.google.com/presentation/d/1stiOt9rj7P8_ZMqUW2vjcRthWb-F7L74JcvB7hM19RE/edit?usp=sharing)
 
  [Introduction to NVivo Slides (PDF)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/coding_qualitative/FA25-Bakaya-LPSYC52101-NVivo/FA25-Bakaya-LPSYC52101-Nvivo.pdf)
 
@@ -47,7 +47,7 @@ Qualitative Coding with NVivo
 [Copyright & Fair Use Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/general/Copyright-Fair-Use.pdf)
 
 ## DITI Consultants
-Taught by Zhen Guo, Sara Morrell, Ayah Aboelela
+Taught by Dipa Desai, Zhen Guo
 
 
 Created by Zhen Guo, Sara Morrell, Dipa Desai, Sean P. Rogers, and Cara Marta Messina

@@ -5,13 +5,13 @@
 ## Individual Class Info
 ENGL/HIST 3340
 
-Jessica Linker and Erika Boeckeler 
+Jessica Linker
 
-Fall 2024
+Fall 2025
 
 
 ## Summary of Module
-This module introduces students to the fundamentals of coding in Python with a focus on creating computational poetry. It covers relevant pre-defined functions; variables; various data types including strings, lists, and dictionaries and how to access and manipulate them; conditional statements; and libraries and modules and how to import and use functions from them. It also provides a high-level conceptual introduction to generating poetry using artificial intelligence (AI) models.
+This module introduces students to the fundamentals of coding in Python with a focus on creating computational poetry. It covers relevant pre-defined functions; variables; various data types including strings, lists, and dictionaries and how to access and manipulate them; conditional statements; and modules and how to import and use functions from them. It also provides a high-level conceptual introduction to generating poetry using artificial intelligence (AI) models and AI ethics.
 
 
 ## Learning Goals
@@ -19,26 +19,26 @@ This module introduces students to the fundamentals of coding in Python with a f
 - Gain awareness of the basic concepts behind generative AI models
 
 ## Learning Objectives
-- Understand basic concepts in Python including functions, variables, data types, conditional statements, and libraries and modules
+- Understand basic concepts in Python including functions, variables, data types, conditional statements, and modules
 - Write code to: import a module, initialize variables containing lists and dictionaries of strings, access values in lists and dictionaries, call functions from a module, and print values in lists and dictionaries based on conditional statements
 
 ## Materials for Module
-[Google Folder with Student Access Colab Notebooks](http://bit.ly/fa24-linker-boeckeler-python-poetry)
+[Google Folder with Student Access Colab Notebooks](https://drive.google.com/drive/folders/1_2Eo9OurHiwo7ZNvIBWyPu9OG6gju2SG)
 
-[Colab&IntroToPythonPoetry Notebook](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/multi-domain-modules/fa24-linker-boeckeler-engl3340-python-poetry/FA24_Linker-Boeckeler_Colab%26IntroToPythonPoetry.ipynb)
+[Colab & Introduction to Python Poetry Notebook](https://colab.research.google.com/drive/15s8hRfjYd0-GKY_PkEMH2Io36o0yHcV3?usp=drive_link)
 
-[HouseOfDustExample Notebook](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/multi-domain-modules/fa24-linker-boeckeler-engl3340-python-poetry/FA24_Linker-Boeckeler_HouseOfDustExample.ipynb)
+[House of Dust Example Notebook - Introductory](https://colab.research.google.com/drive/1pB6yzphmL2HE1HypeXlCyRANxH615Jv4?usp=drive_link)
 
-[PythonPoetry_Template Notebook](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/multi-domain-modules/fa24-linker-boeckeler-engl3340-python-poetry/FA24_Linker-Boeckeler_PythonPoetry_ComputationalPoemTemplate.ipynb)
+[House of Dust Example Notebook - Advanced](https://colab.research.google.com/drive/1282dwFFKllSp-bj0uegU4N1jvyFjJutv?usp=drive_link)
 
-[Slides PDF](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/multi-domain-modules/fa24-linker-boeckeler-engl3340-python-poetry/slides_fa24-linker-boeckeler-engl3340-python-poetry.pdf)
+[Computational Poem_Template Notebook](https://colab.research.google.com/drive/1ulpj24KTN3DBsEubgaxxCO65Q1VmxljM?usp=drive_link)
 
-[Google Slides, includes alt text](https://docs.google.com/presentation/d/1bCADnGBG3NjKQvwbnJB_BorDteupofumDtGAZD74G0I/edit?usp=sharing)
+[Slides PDF](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/multi-domain-modules/fa25-linker-hist3340-python-poetry/FA25_Linker_PythonPoetry.pdf)
+
+[Google Slides, includes alt text](https://docs.google.com/presentation/d/1Z2m6aqccGk2cUBafFZt64SeDXS8QTK-hFQv4NCTcU_g/edit?usp=sharing)
 
 ## DITI Consultants
 Sara Morrell
 
-Avery Blankenship
-
-Kasya O'Connor Grant
+Shannon Peifer
 

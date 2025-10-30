@@ -37,6 +37,8 @@ This module introduces students to the fundamentals of coding in Python with a f
 
 [Google Slides, includes alt text](https://docs.google.com/presentation/d/1Z2m6aqccGk2cUBafFZt64SeDXS8QTK-hFQv4NCTcU_g/edit?usp=sharing)
 
+[Python Fundamentals Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/multi-domain-modules/fa25-linker-hist3340-python-poetry/Handout_%20Python%20Fundamentals.pdf)
+
 ## DITI Consultants
 Sara Morrell
 

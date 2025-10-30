@@ -31,13 +31,17 @@ This module introduces students to the fundamentals of coding in Python with a f
 
 [House of Dust Example Notebook - Advanced](https://colab.research.google.com/drive/1282dwFFKllSp-bj0uegU4N1jvyFjJutv?usp=drive_link)
 
-[Computational Poem_Template Notebook](https://colab.research.google.com/drive/1ulpj24KTN3DBsEubgaxxCO65Q1VmxljM?usp=drive_link)
+[Computational Poem Template Notebook](https://colab.research.google.com/drive/1ulpj24KTN3DBsEubgaxxCO65Q1VmxljM?usp=drive_link)
 
 [Slides PDF](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/multi-domain-modules/fa25-linker-hist3340-python-poetry/FA25_Linker_PythonPoetry.pdf)
 
 [Google Slides, includes alt text](https://docs.google.com/presentation/d/1Z2m6aqccGk2cUBafFZt64SeDXS8QTK-hFQv4NCTcU_g/edit?usp=sharing)
 
 [Python Fundamentals Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/multi-domain-modules/fa25-linker-hist3340-python-poetry/Handout_%20Python%20Fundamentals.pdf)
+
+[Python Functions Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/coding_quantitative/Handout_Python%20Functions.pdf)
+
+[Troubleshooting Python Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/coding_quantitative/Handout_Troubleshooting_Python.pdf)
 
 ## DITI Consultants
 Sara Morrell

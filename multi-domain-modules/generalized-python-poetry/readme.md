@@ -1,7 +1,7 @@
 # Python for Poetry
 
 ## Summary of Module
-This module introduces students to the fundamentals of coding in Python with a focus on creating computational poetry. It covers relevant pre-defined functions; variables; various data types including strings, lists, and dictionaries and how to access and manipulate them; conditional statements; and libraries and modules and how to import and use functions from them. It also provides a high-level conceptual introduction to generating poetry using artificial intelligence (AI) models.
+This module introduces students to the fundamentals of coding in Python with a focus on creating computational poetry. It covers relevant pre-defined functions; variables; various data types including strings, lists, and dictionaries and how to access and manipulate them; conditional statements; and libraries and modules and how to import and use functions from them. It also provides a high-level conceptual introduction to generating poetry using artificial intelligence (AI) models and AI ethics.
 
 
 ## Learning Goals
@@ -14,19 +14,19 @@ This module introduces students to the fundamentals of coding in Python with a f
 
 ## Materials for Module
 
-[TheHouseOfDust_ExampleComputationalPoem.ipynb](https://colab.research.google.com/drive/1neKbXIrVadStKT5VfY3pSJGCyZ31wgPQ?usp=sharing)
+[TheHouseOfDust_ExampleComputationalPoem.ipynb](https://colab.research.google.com/drive/1neKbXIrVadStKT5VfY3pSJGCyZ31wgPQ?usp=drive_link)
 
-[Colab&IntroToPythonPoetry_Lesson.ipynb](https://colab.research.google.com/drive/1Gc30m3jQ4XoKBnEQKvk8S0Jr_L774afl?usp=sharing)
+[Colab&IntroToPythonPoetry_Lesson.ipynb](https://colab.research.google.com/drive/1Gc30m3jQ4XoKBnEQKvk8S0Jr_L774afl?usp=drive_link)
 
-[PythonPoetry_ComputationalPoemTemplate.ipynb](https://colab.research.google.com/drive/10OPZXXEvy9ccqAi6DZ_2QKfvL17RM9a4?usp=sharing)
+[PythonPoetry_ComputationalPoemTemplate.ipynb](https://colab.research.google.com/drive/1z6H79I7QpNfAOaGmvoVQC6PgzITOuez0?usp=drive_link)
 
 Follow the above links to access the Google Colab notebooks for this module. You can save your changes by making a copy of the notebook to your Google Drive and saving the changes there. You can also download the notebooks from this GitHub folder. 
 
 The slides are available in PDF format and as accessible Google slides at the links below. 
 
-[Introduction to Python and Poetry Slides PDF](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/multi-domain-modules/generalized-python-poetry/Introduction%20to%20Python%20and%20Poetry_Accessible.pdf)
+[Introduction to Python and Poetry Slides PDF](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/multi-domain-modules/generalized-python-poetry/Introduction%20to%20Python%20and%20Poetry.pdf)
 
-[Introduction to Python and Poetry Google Slides](https://docs.google.com/presentation/d/1Ctcb_cPeGyKsfCQMNFpNhcvxyekH6EXGWDhxmym6YZc/edit?usp=sharing)
+[Introduction to Python and Poetry Google Slides](https://docs.google.com/presentation/d/1Ctcb_cPeGyKsfCQMNFpNhcvxyekH6EXGWDhxmym6YZc/edit?usp=drive_link)
 
 ## DITI Consultants
 Sara Morrell

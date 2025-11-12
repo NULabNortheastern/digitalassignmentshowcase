@@ -3,7 +3,7 @@
 
 
 ## Individual Class Info
-ENGL/HIST 3340
+HIST 3340
 
 Jessica Linker
 

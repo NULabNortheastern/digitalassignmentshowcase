@@ -23,7 +23,7 @@ This module will cover creating and designing a website using WordPress. It demo
 
 ### [WordPress Website Building Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/website-building/Handout-WordPress.pdf)
 ### [HTML Basics Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/website-building/Handout-HTML_Introduction.pdf)
-### [Introduction to Website Building & WordPress Slides (PDF)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/website-building/fa25-kemp-lcwri5250-WordPress/slides.pdf)
+### [Introduction to Website Building & WordPress Slides (PDF)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/website-building/fa25-kemp-lcwri5250-wordpress/slides.pdf)
 ### [Introduction to Website Building & WordPress Slides (Google Slides, includes alt text)](https://docs.google.com/presentation/d/1vZN2evx4sSs1igAkfeg8Ord1hFs0tsuSkviphxH1ayk/edit?usp=sharing)
 ### [Fair Use Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/general/Copyright-Fair-Use.pdf)
 

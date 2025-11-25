@@ -26,7 +26,7 @@ This module introduces students to the fundamentals of coding in Python with a f
 
 Teaching Materials
 
-[Slides (PDF)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/multi-domain-modules/fa25-young-crwt1801-pythonlit/fa25-young-crwt1801-slides.pdf)
+[Slides (PDF)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/multi-domain-modules/fa25-young-crwt1801-pythonlit/slides_FA25-Young-CRWT1801-pythonlit.pdf)
 
 [Google slides (with alt-text)](https://docs.google.com/presentation/d/17aW9ZtOCUPzC1fLfMzEcP8loVPz72ZC44dtqQGZVcko/edit?slide=id.gfae91b262e_0_316#slide=id.gfae91b262e_0_316)
 

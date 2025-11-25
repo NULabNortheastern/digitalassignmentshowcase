@@ -6,7 +6,7 @@ Prof. Ruth Sondermann
 
 German 1102
 
-Fall 2025
+Spring 2026
 
 
 <h2>Summary of Module</h2>

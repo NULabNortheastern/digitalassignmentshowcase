@@ -35,7 +35,7 @@ This module will go over components of storytelling and how these components may
 
 [Handout: Copyright and Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/1d414eee3ea6bbc545a951ba9426c71b15cb499f/handouts/general/Copyright-Fair-Use.pdf)
 
-[Spreadsheet Template](https://docs.google.com/spreadsheets/d/1Fe8I8Qt1h2EpoNonEFowWAHfktSBOdjclLyPRR_njC4/edit?usp=drive_link)
+[Spreadsheet Template](https://docs.google.com/spreadsheets/d/1IIGtxKKhjFVPRMK7mr6MiX3FE6fDH-QYekYvNPwthG8/edit#gid=0)
 
 [Handout: Spreadsheet Template User Guide](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/mapping/Handout-StoryMap_Spreadsheet_Template.pdf) 
 
@@ -53,4 +53,6 @@ This module will go over components of storytelling and how these components may
 
 <h2>DITI Consultants</h2>
 
-Ayah Aboelela and Dipa Desai
+Ayah Aboelela & Dipa Desai
+
+

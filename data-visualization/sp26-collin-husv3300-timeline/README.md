@@ -2,9 +2,9 @@
 
 ### Individual Class Info
 
-HIST 2430: Digital Histories of Ethnic Boston
+HUSV3300 	Principles and Practices of Trauma Informed Care
 
-Nick Brown
+Cali Collin
 
 
 ### Summary of Module
@@ -26,7 +26,9 @@ This module will go over components of storytelling and how these components may
 
 <h2>Materials for Module</h2>
 
-[KnightLab Timeline Presentation Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-visualization/sp23-brown-hist2430-timeline/Brown-TimelineSlides.pdf)
+[KnightLab Timeline Presentation Slides](https://docs.google.com/presentation/d/1tfA9dFBK_hdtMiP8rM7FqZIRC5t2LyZ2zmaAVS4RyD4/edit?usp=sharing)
+
+[KnightLab Timeline Presentation Slides (pdf)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-visualization/sp23-brown-hist2430-timeline/Brown-TimelineSlides.pdf)
 
 [Handout: KnightLab Timeline](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/data-visualization/Handout-Timeline.pdf)
 
@@ -36,6 +38,8 @@ This module will go over components of storytelling and how these components may
 
 <h3>DITI Consultants</h3>
 
-Benjamin Grey
+Zhen Guo
 
-Chris McNulty
+Dipa Desai
+
+Emily Sullivan

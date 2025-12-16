@@ -23,7 +23,7 @@ This module goes over computational text analysis for a corpus of texts. The mod
 
 ## Documents for Module
 
-### [Slides (PDF)]()
+### [Slides (PDF)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/text-analysis/sp26-aldrich-pols3482-textanalysis/SP26_Aldrich_East%20Asian%20Politics_Text%20Analysis_Slides.pdf)
 
 ### [Slides (Google Slides, includes alt text)](https://docs.google.com/presentation/d/1CcqOo9DJDKipnE-cFISD2a2JYo404YD6LkROrP9jU3w/edit?usp=sharing)
 

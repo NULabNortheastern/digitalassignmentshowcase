@@ -9,7 +9,7 @@ Spring 2026
 <br>
 
 ## Summary of Module
-This module goes over computational text analysis for a corpus of texts. The module includes a brief discussion on big data, how computational text analysis is useful, the browser tools that can be used to do this method of analysis, and how to interpret the results. 
+This module goes over computational text analysis for a corpus of texts. The module includes a review of computational text analysis, how computational text analysis is useful, the browser tools that can be used to do this method of analysis, and how to interpret the results. 
 
 ## Learning Goals
 - Learn best practices for building a small textual corpus, some basic vocabulary, and steps for preparing a corpus.
@@ -23,7 +23,7 @@ This module goes over computational text analysis for a corpus of texts. The mod
 
 ## Documents for Module
 
-### [Slides (PDF)]()
+### [Slides (PDF)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/text-analysis/sp26-aldrich-pols7346-textanalysis/SP26_Aldrich_Resilient%20Cities_Text%20Analysis_Slides.pdf)
 
 ### [Slides (Google Slides, includes alt text)](https://docs.google.com/presentation/d/1dnFQKAqGuoWaXjv1EiN6AgdDb_mfdjV1CCZ5WynPRqs/edit?usp=sharing)
 

@@ -28,13 +28,13 @@ This module will go over components of storytelling and how these components may
 
 [KnightLab Timeline Presentation Slides](https://docs.google.com/presentation/d/1tfA9dFBK_hdtMiP8rM7FqZIRC5t2LyZ2zmaAVS4RyD4/edit?usp=sharing)
 
-[KnightLab Timeline Presentation Slides (pdf)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/data-visualization/sp23-brown-hist2430-timeline/Brown-TimelineSlides.pdf)
+[KnightLab Timeline Presentation Slides (pdf)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/data-visualization/sp26-collin-husv3300-timeline/SP26-Collin-HUSV3300-Timeline.pdf)
 
 [Handout: KnightLab Timeline](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/data-visualization/Handout-Timeline.pdf)
 
-[Handout: Copyright and Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/Copyright-Fair-Use.pdf)
+[Handout: Copyright and Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/general/Copyright-Fair-Use.pdf)
 
-[Handout: Accessibility Concerns](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/Accessibility.pdf)
+[Handout: Accessibility Concerns](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/general/Handout-Accessibility_in_Digital_Content.pdf)
 
 <h3>DITI Consultants</h3>
 

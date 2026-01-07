@@ -46,4 +46,4 @@ This module will go over the basics of Audacity, fair use, and podcasts. The sec
 
 <h2>DITI Consultants</h2>
 
-Claire Lavarreda & Mel Williams
+Claire Lavarreda & Ayah Aboelela

@@ -27,7 +27,7 @@ Students will learn how to use Canva to produce professional visualizations that
 <h2>Materials for Module</h2>
 
 
-### [PDF Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/data-visualization/sp26-fuchs-engw3302-infographics/sp26-Fuchs-ENGW3302-Infographics-slidess.pdf)
+### [PDF Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/data-visualization/sp26-fuchs-engw3302-infographics/sp26-Fuchs-ENGW3302-Infographics-slides.pdf)
 
 ### [Google Slides](https://docs.google.com/presentation/d/1rSjfUc-PvXC4PQzjpcJslisXft6n0QsK9y_wmgeK2xg/edit?usp=sharing)
 

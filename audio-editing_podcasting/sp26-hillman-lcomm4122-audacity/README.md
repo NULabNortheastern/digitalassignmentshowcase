@@ -3,7 +3,9 @@
 <h2>Individual Class Info</h2>
 
 LCOMM4122: Introduction to Public Speaking
+
 Professor Adrian Hillman & Professor Chunyan Wu 
+
 Spring 2026
 
 <h2>Summary of Module</h2>
@@ -27,7 +29,7 @@ This module will go over the basics of Audacity, fair use, and podcasts. The sec
 
 <h2>Documents for Module</h2>
 
-[Audacity Slides (PDF)]()
+[Audacity Slides (PDF)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/audio-editing_podcasting/sp26-hillman-lcomm4122-audacity/SP26-Hillman-LCOMM-Audacity.pdf)
 
 [Audacity Slides (Google Slides, includes alt text)](https://docs.google.com/presentation/d/1JNzqeLLTpm2oWWdGPBwP7p-vcJeLurIcP9ZHso9JlVk/edit?usp=sharing)
 

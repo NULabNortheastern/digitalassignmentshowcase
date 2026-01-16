@@ -2,7 +2,7 @@
 
 <h2>Individual Class Info</h2>
 
-LECON 6217: Political Economy in Action
+LCOMM4122: Introduction to Public Speaking
 Professor Adrian Hillman & Professor Chunyan Wu 
 Spring 2026
 

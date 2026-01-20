@@ -3,7 +3,9 @@
 <h2>Individual Class Info</h2>
 
 Prof. Malcolm Purinton
+
 History 2011: History of Capitalism and Business
+
 Spring 2026
 
 

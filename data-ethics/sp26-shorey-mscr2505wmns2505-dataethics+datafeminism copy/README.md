@@ -26,9 +26,9 @@ This module will introduce ethics, including what big data is and how it works, 
 
 <h2>Materials for Module</h2>
 
-[Health Data Ethics: Understanding Big Data, Algorithmic Bias, and GenAI Slides (PDF)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/data-ethics/sp25-savit-mscr2505wmns2505-dataethics%2Bdatafeminism/Savit_%20Data%20Ethics_%20Understanding%20Big%20Data%20and%20Algorithmic%20Bias.pdf)
+[Health Data Ethics: Understanding Big Data, Algorithmic Bias, and GenAI Slides (PDF)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/data-ethics/sp26-shorey-mscr2505wmns2505-dataethics%2Bdatafeminism%20copy/SP26-Shorey-PHIL1165-Health%20Data%20Ethics.pdf)
 
-[Health Data Ethics: Understanding Big Data, Algorithmic Bias, and GenAI Slides (Google Slides, includes alt text)](https://docs.google.com/presentation/d/1l0nOTJ0yCERdEI6BwX0U0uJFAd0QV5L4wSH4quyQ6pk/edit?usp=sharing)
+[Health Data Ethics: Understanding Big Data, Algorithmic Bias, and GenAI Slides (Google Slides, includes alt text)](https://docs.google.com/presentation/d/1qZuZjCU8fEkLEJELgIoHSIPNEoHi_LBnshFNos8F3Gc/edit?usp=sharing)
 
 [Data Privacy Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/data-ethics/sp25-savit-mscr2505wmns2505-dataethics%2Bdatafeminism/Handout_%20Data%20Privacy.pdf)
 

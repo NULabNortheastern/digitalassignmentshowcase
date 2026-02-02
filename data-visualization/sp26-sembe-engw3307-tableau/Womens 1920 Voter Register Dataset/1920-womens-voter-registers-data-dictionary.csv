@@ -1,0 +1,37 @@
+Fields,Description
+Ward Book,The ward number of the physical register in which the voter registered. Some Ward Books contain voter entries from multiple wards. 
+Volume,The volume number of the physical register in which the voter registered
+Page number,The page number on which the voter's entry can be found
+Date,The date on which the voter registered
+Ward ,The geographic ward in which the voter registered to vote. 
+Precinct,The geographic precinct in which the voter registered to vote
+Name,The name of the voter who registered
+Street of Residence on April 1,The street on which the voter resided on April 1 of the year they registered to vote
+Street number on April ,The street number at which the voter resided on April 1 of the year they registered to vote
+Unit,The unit number at which the voter resided on April 1 of the year they registered to vote
+Age,The age of the voter on the date they registered to vote
+Country of Birth,The country in which the voter was born. This field uses the country name as it was written on the date the voter registered rather than present-day country name
+State/Province of Birth,The state or province in which the voter was born. This field uses the state/province name as it was written on the date the voter registered rather than present-day state/province name
+County of Birth,The county in which the voter was born. This field uses the county name as it was written on the date the voter registered rather than present day county name
+Town of Birth,The town in which the voter was born. This field uses the town name as it was written on the date the voter registered and  not present day county name
+Occupation,The occupation of the voter as stated by the voter on the date they registered to vote. 
+Place of Business,The company name or address at which the voter works
+Court of Naturalization,"The court in which the voter was naturalized as a United States citizen. Since women typically received their citizenship through a husband, this field often denotes the voter's marital status. "
+Date of Naturalization,The date on which the voter was naturalized as a United States citizen
+Husband Name,The name of the voter's husband
+Husband Country of Birth,The country in which the voter's husband was born
+Husband State/Province of Birth,The state or province in which the voter's husband was born. This field uses the state/province name as it was written on the date the voter registered rather than present-day state/province name
+Husband County of Birth,The county in which the voter's husband was born. This field uses the county name as it was written on the date the voter registered rather than present day county name
+Husband Town of Birth,The town in which the voter's husband was born. This field uses the town name as it was written on the date the voter registered rather than present day county name
+Husband Date of Naturalization,The date on which the voter's husband was naturalized as a United States citizen
+Husband Court of Naturalization,The court in which the voter's husband was naturalized as a United States citizen
+Father Name,The name of the voter's father
+Father Country of Birth,The country in which the voter's father was born
+Father State or Province of Birth,The state or province in which the voter's father was born. This field uses the state/province name as it was written on the date the voter registered rather than present-day state or province name
+Father County of Birth,The county in which the voter's father was born. This field uses the county name as it was written on the date the voter registered rather than present day county name
+Father Town of Birth,The town in which the voter's father was born. This field uses the town name as it was written on the date the voter registered rather than the present day town name
+Present Residence,"The present residence of the voter. If the voter's residence is the same as their residence on April 1 of the year they registered, this field will read ""same"""
+Notes,Notes written by the Election Department worker who registered the voter. This field includes both notes written in the Notes field in the original physical register as well as notes written in the margins of the register
+Notes,
+Data Quality,All data was provided verbally by a voter to a city worker who then recorded the data. Some data may be incomplete or incorrect because of an error on the voter or the city worker's part
+Illegibile data,All data was originally handwritten in a physical register. Data that is partially illegible and may be an incorrect transcription is marked by brackets and question marks. 

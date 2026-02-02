@@ -24,12 +24,12 @@ Students will learn how to use Tableau to clean, manipulate, and visualize data.
 
 * Understand how to implement accessible design choices, such as adding alt text and using colorblind safe palettes
 
-* Understand the strengths and limitations of Tableau public and gain awareness of open-source alternatives 
+* Understand the strengths and limitations of Tableau Public and gain awareness of open-source alternatives 
 
 <h2>Materials for Module</h2>
 
 
-### [PDF Slides]()
+### [PDF Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/data-visualization/sp26-sembe-engw3307-tableau/SP26-Sembe-ENGW3307-Tableau-Slides.pdf)
 
 ### [Google Slides](https://docs.google.com/presentation/d/19WB0YjazTLnRKQJQqfJA81NxGpOGfXgPvprpnj3Ns3s/edit?usp=sharing)
 

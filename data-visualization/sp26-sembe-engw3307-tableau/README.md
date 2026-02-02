@@ -22,7 +22,7 @@ Students will learn how to use Tableau to clean, manipulate, and visualize data.
 
 * Learn how to import, format, clean, and visualize data using Tableau 
 
-* Understand how to implement accessible design choices, such as adding alt text and using colorblind safe pallets
+* Understand how to implement accessible design choices, such as adding alt text and using colorblind safe palettes
 
 * Understand the strengths and limitations of Tableau public and gain awareness of open-source alternatives 
 

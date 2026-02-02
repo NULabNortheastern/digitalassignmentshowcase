@@ -22,7 +22,7 @@ This module provides an introduction to performing computational text analysis a
 
 <h2>Documents for Module</h2>
 
-[Text Analysis and Infographic Slides (PDF)]()
+[Text Analysis and Infographic Slides (PDF)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/multi-domain-modules/sp26-sembe-engw3307-text-analysis-canva/SP26_Sembe_Text%20Analysis%26Infographics_Slides.pdf)
 
 [Text Analysis and Infographic Slides (Google Slides, includes alt text)](https://docs.google.com/presentation/d/1Tr4vTO2rESRyeRV3hNrQpIU7mdr_22rwtPoXwOiKf94/edit?usp=sharing)
 

@@ -41,6 +41,5 @@ This module will introduce ethics, including what big data is and how it works, 
 
 <h2>DITI Consultants</h2>
 
-Avery Blankenship
-
-Johan Arango-Quiroga
+Zhen Guo
+Sara Morrell

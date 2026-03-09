@@ -1,15 +1,15 @@
-<h1>Data Ethics: Understanding Big Data, Algorithmic Bias, and Research Ethics and Introduction to Feminist Data</h1>
+<h1>Introduction to Data Feminism and Data Ethics: Understanding Big Data, Algorithmic Bias, and Research Ethics</h1>
 
-This module will discuss data ethics, particularly around big data, algorithmic bias, and research best practices as well as give a general introduction to feminist data practices.
+This module will give a general introduction to feminist data practices as well as discuss data ethics, particularly around big data, algorithmic bias, and research best practices.
 
 <h2>Individual Class Info</h2>
 
-Digital Feminisms, Introduction to Feminist Data 
+Digital Feminisms
 
 
 Lauren Savit 
 
-Spring 2025
+Spring 2026
 
 <h2>Summary of Module</h2>
 
@@ -25,13 +25,13 @@ This module will introduce ethics, including what big data is and how it works, 
 
 <h2>Materials for Module</h2>
 
-[Data Ethics: Understanding Big Data and Algorithmic Bias Slides (PDF)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/data-ethics/sp25-savit-mscr2505wmns2505-dataethics%2Bdatafeminism/Savit_%20Data%20Ethics_%20Understanding%20Big%20Data%20and%20Algorithmic%20Bias.pdf)
-
-[Data Ethics: Understanding Big Data and Algorithmic Bias Slides (Google Slides, includes alt text)](https://docs.google.com/presentation/d/1l0nOTJ0yCERdEI6BwX0U0uJFAd0QV5L4wSH4quyQ6pk/edit?usp=sharing)
-
-[Introduction to Feminist Data (Google Slides, includes alt text)](https://docs.google.com/presentation/d/1xdISdoTkPgyykPlG87pEtzyOo2wwWiySauer7qKMKws/edit?usp=sharing)
+[Introduction to Feminist Data (Google Slides, includes alt text)](https://docs.google.com/presentation/d/1W2bhNdi-NhWjYiwWIGFjS0XJTtmpHtLY2jBrhV65RrY/edit?usp=sharing)
 
 [Introduction to Feminist Data Slides (PDF)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/data-ethics/sp25-savit-mscr2505wmns2505-dataethics%2Bdatafeminism/Savit_Introduction%20To%20Feminist%20Data_Spring%202025.pdf)
+
+[Data Ethics: Understanding Big Data and Algorithmic Bias Slides (Google Slides, includes alt text)](https://docs.google.com/presentation/d/14fEiS_BamX84JtEDIv0qLp7_Z88SAqr3LmuI0LPxwi0/edit?usp=sharing)
+
+[Data Ethics: Understanding Big Data and Algorithmic Bias Slides (PDF)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/data-ethics/sp25-savit-mscr2505wmns2505-dataethics%2Bdatafeminism/Savit_%20Data%20Ethics_%20Understanding%20Big%20Data%20and%20Algorithmic%20Bias.pdf)
 
 [Data Privacy Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/data-ethics/sp25-savit-mscr2505wmns2505-dataethics%2Bdatafeminism/Handout_%20Data%20Privacy.pdf)
 

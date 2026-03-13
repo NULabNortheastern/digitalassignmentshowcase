@@ -33,11 +33,11 @@ This module will introduce ethics, including what big data is and how it works, 
 
 [Data Ethics: Understanding Big Data and Algorithmic Bias Slides (PDF)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/data-ethics/sp25-savit-mscr2505wmns2505-dataethics%2Bdatafeminism/Savit_%20Data%20Ethics_%20Understanding%20Big%20Data%20and%20Algorithmic%20Bias.pdf)
 
-[Data Privacy Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/data-ethics/sp25-savit-mscr2505wmns2505-dataethics%2Bdatafeminism/Handout_%20Data%20Privacy.pdf)
+[Data Privacy Handout](https://docs.google.com/document/d/1WqcKhge0xII-FGEDmRf-DD6HDxDn5XvT0b8F6-munQ8/edit?usp=sharing)
 
-[Data Ethics Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/data-ethics/sp25-savit-mscr2505wmns2505-dataethics%2Bdatafeminism/Handout_%20Data%20Ethics.pdf)
+[Data Ethics Handout](https://docs.google.com/document/d/1uhng94nOSeGufr1ESIN1YIiGciFW01IPhK0Pd8LRfLY/edit?usp=sharing)
 
-[Fair Use Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/data-ethics/sp25-savit-mscr2505wmns2505-dataethics%2Bdatafeminism/Handout_%20Copyright%20and%20Fair%20Use.pdf)
+[Fair Use Handout](https://docs.google.com/document/d/1oU4Ma9yelOsQ6f8OM2NiQkDG5T5pAKzyS_B8PsThqIQ/edit?usp=sharing)
 
 <h2>DITI Consultants</h2>
 

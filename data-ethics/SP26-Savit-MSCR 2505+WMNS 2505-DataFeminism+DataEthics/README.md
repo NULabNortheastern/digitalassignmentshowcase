@@ -13,7 +13,7 @@ Spring 2026
 
 <h2>Summary of Module</h2>
 
-This module will introduce ethics, including what big data is and how it works, algorithmic bias, and questions and guidelines for ethical research. Big data is the collection of mass amounts of data and the programmatic analysis of this data to categorize and re-categorize patterns of behavior. Algorithms can reinforce implicit and potentially harmful biases, including biases in the data used and collected for algorithms, the choices made in algorithm creation, and the impact of those choices on the people using and being affected by these algorithms in the real world. Particularly, this module looks at biases in academia and the use of non-traditional and non-academic sources in research and writing.
+This module will introduce data ethics, including what big data is and how it works, algorithmic bias, and questions and guidelines for ethical research. Big data is the collection of mass amounts of data and the programmatic analysis of this data to categorize and re-categorize patterns of behavior. Algorithms can reinforce implicit and potentially harmful biases, including biases in the data used and collected for algorithms, the choices made in algorithm creation, and the impact of those choices on the people using and being affected by these algorithms in the real world. Particularly, this module looks at biases in academia and the use of non-traditional and non-academic sources in research and writing.
 
 <h2>Workshop Objectives</h2>
 
@@ -42,4 +42,5 @@ This module will introduce ethics, including what big data is and how it works, 
 <h2>DITI Consultants</h2>
 
 Zhen Guo
+
 Sara Morrell

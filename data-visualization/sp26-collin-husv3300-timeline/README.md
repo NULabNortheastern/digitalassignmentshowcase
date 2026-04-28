@@ -30,7 +30,7 @@ This module will go over components of storytelling and how these components may
 
 [KnightLab Timeline Presentation Slides (pdf)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/data-visualization/sp26-collin-husv3300-timeline/SP26-Collin-HUSV3300-Timeline.pdf)
 
-[Handout: KnightLab Timeline](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/data-visualization/Handout-Timeline.pdf)
+[Handout: KnightLab Timeline](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/data-visualization/Handout-Timeline.pdf)
 
 [Handout: Copyright and Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/general/Copyright-Fair-Use.pdf)
 

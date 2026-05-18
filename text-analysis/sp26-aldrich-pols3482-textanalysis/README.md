@@ -14,7 +14,7 @@ This module goes over computational text analysis for a corpus of texts. The mod
 ## Learning Goals
 - Learn best practices for building a small textual corpus, some basic vocabulary, and steps for preparing a corpus.
 - Understand computational text analysis methods.
-- Understand how to use a variety of tools for text analysis and interpret the results .
+- Understand how to use a variety of tools for text analysis and interpret the results.
 
 ## Learning Objectives
 - Know basic vocabulary around doing text analysis, such as corpus and stop words.

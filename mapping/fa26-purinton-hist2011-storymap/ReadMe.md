@@ -29,13 +29,13 @@ This module will go over components of storytelling and how these components may
 
 <h2>Materials for Module</h2>
 
-[KnightLab StoryMap Slides (PDF)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/mapping/sp26-purinton-hist2011-storymap/SP26-Purinton-HIST2011-StoryMap-Slides.pdf)
+[KnightLab StoryMap Slides (PDF)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/mapping/fa26-purinton-hist2011-storymap/FA26-Purinton-HIST2011-StoryMap-Slides.pdf)
 
 [KnightLab StoryMap Slides (Google Slides, includes alt text)](https://docs.google.com/presentation/d/1fdgs3yiP68PEpRFu_z1eWDCSdicke-Z1yLeTS14QHqs/edit?usp=sharing)
 
 [Handout: Copyright and Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/1d414eee3ea6bbc545a951ba9426c71b15cb499f/handouts/general/Copyright-Fair-Use.pdf)
 
-[Spreadsheet Template](https://docs.google.com/spreadsheets/d/1IIGtxKKhjFVPRMK7mr6MiX3FE6fDH-QYekYvNPwthG8/edit#gid=0)
+[Spreadsheet Template](https://docs.google.com/spreadsheets/d/11o_D82eQk773gHbWG2hyI85ug5d4Bx40OZB_WA0bMyk/edit?usp=sharing)
 
 [Handout: Spreadsheet Template User Guide](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/mapping/Handout-StoryMap_Spreadsheet_Template.pdf) 
 

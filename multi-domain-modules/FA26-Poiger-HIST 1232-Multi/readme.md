@@ -28,11 +28,11 @@ This module will cover managing and adding sources in Zotero, developing a Story
 
 [Introduction to Zotero Slides PDF]()
 <br>
-[Introduction to Zotero Slides (Google Slides, includes alt text](https://docs.google.com/presentation/d/1kbsyjdvbruBnUAcCtWv-Z73OM11eFGE_NtOFNXSBWF0/edit?usp=sharing)
+[Introduction to Zotero Slides (Google Slides, includes alt text](https://docs.google.com/presentation/d/1kbsyjdvbruBnUAcCtWv-Z73OM11eFGE_NtOFNXSBWF0/edit?usp=sharing))
 <br>
 [Introduction to StoryMap & TimelineJS Slides PDF]()
 <br>
-[Introduction to StoryMap & TimelineJS (Google Slides, includes alt text](https://docs.google.com/presentation/d/1LrZiQI9TBReLj_-HYdMkHNDI3zENQtUsGRs_IS3etIc/edit?usp=sharing)
+[Introduction to StoryMap & TimelineJS (Google Slides, includes alt text](https://docs.google.com/presentation/d/1LrZiQI9TBReLj_-HYdMkHNDI3zENQtUsGRs_IS3etIc/edit?usp=sharing))
 <br>
 <br>
 [Handout: Introduction to Zotero](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/2a9de85fa077636dd19360ab5eceb3e6aacf8f53/handouts/citation-management/Handout-Zotero.pdf)

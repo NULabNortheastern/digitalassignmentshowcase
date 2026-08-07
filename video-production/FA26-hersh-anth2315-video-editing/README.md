@@ -36,7 +36,7 @@ The first portion of this module will cover the fundamentals of video production
 
 [Data Privacy Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/672f6915b864920a65d1617b0b48f57f7fe84295/handouts/general/Handout_%20Data%20Privacy.pdf)
 
-[Handout: Zoom Interview Recording]()
+[Handout: Zoom Interview Recording](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/video-production/FA26-hersh-anth2315-video-editing/Handout_%20Zoom%20Interview%20Recording.pdf)
 
 
 <h2>DITI Consultations</h2>

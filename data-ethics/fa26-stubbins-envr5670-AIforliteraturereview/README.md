@@ -3,7 +3,9 @@
 <h2>Individual Class Info</h2>
 
 CHEM-CIVE-ENVR 5670
+
 Professor Aron Stubbins
+
 Fall 2026
 
 <h2>Summary of Module</h2>

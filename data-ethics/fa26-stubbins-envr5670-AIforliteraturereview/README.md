@@ -13,7 +13,9 @@ This module will introduce students to the functions of AI tools like ChatGPT an
 <h2>Learning Goals</h2>
 
 *Understand the basic functions of AI source searches, and how to evaluate results.
+
 *Learn how to craft searches to deliver the most useful and accurate results for your goals.
+
 *Gain an understanding of the ethical issues at play in the use of AI.
 
 <h2>Learning Objectives</h2>

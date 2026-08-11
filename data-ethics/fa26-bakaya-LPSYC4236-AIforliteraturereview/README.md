@@ -23,6 +23,7 @@ This module will introduce students to the functions of AI tools like ChatGPT an
 *Learn how to conduct efficient and useful searches with AI tools like Chat GPT and Claude, as well as Scite and Scopus AI.
 
 <h2>Documents for Module</h2>
+
 [AI Literature Review (PDF)](file:///C:/Users/emily/Downloads/FA26-Bakaya-AIForLiteratureReviews.pdf)
 
 [AI Literature Review (Slides, includes alt text)](https://docs.google.com/presentation/d/1q1UanefkzwYEkgB4D60MalVoKaS_KCpwiF_7QMYkjzE/edit?usp=sharing)

@@ -61,8 +61,6 @@ This module will cover creating a chronological narrative with TimelineJS, desig
 <br>
 [Handout: Accessibility in StoryMap](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/mapping/Handout-Accessibility_StoryMap.pdf)
 <br>
-[Handout: Introduction to HTML](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/HTML-Introduction.pdf)
-<br>
 [Handout: Accessibility in Digital Content](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/general/Handout-Accessibility_in_Digital_Content.pdf)
 <br>
 [Handout: Black Heritage Trail Example](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/2a9de85fa077636dd19360ab5eceb3e6aacf8f53/handouts/mapping/Handout-Black_Heritage_Trail.pdf)

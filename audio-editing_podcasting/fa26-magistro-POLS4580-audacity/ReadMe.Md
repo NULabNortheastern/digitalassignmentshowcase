@@ -3,8 +3,8 @@
 <h2>Individual Class Info</h2>
 
 POLS 4580: Special Topics: AI, Politics & The Economy 
-Professor Beatrice Magistro
-Fall 2026
+<br>Professor Beatrice Magistro
+<br>Fall 2026
 
 <h2>Summary of Module</h2>
 

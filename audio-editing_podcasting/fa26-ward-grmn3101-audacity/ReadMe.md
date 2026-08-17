@@ -1,15 +1,15 @@
-<h1>Introduction to Recording Oral Histories with Audacity</h1>
+## Introduction to Recording Oral Histories with Audacity
 
-<h2>Individual Class Info</h2>
+## Individual Class Info</h2>
 
 GRMN 3101: Advanced German 1
 Fall 2026
 
-<h2>Summary of Module</h2>
+## Summary of Module
 
 This module will go over the basics of Audacity, fair use, and podcasts. The second portion of this module will allow students to workshop some audio files to practice using Audacity.
 
-<h2>Learning Goals</h2>
+## Learning Goals
 
 * Understand components for a compelling podcast
 * Understand the particular choices made when building a podcast, including editing and script-writing
@@ -17,14 +17,14 @@ This module will go over the basics of Audacity, fair use, and podcasts. The sec
 * Understand how to use Audacity
 * Understand how to edit a podcast
 
-<h2>Learning Objectives</h2>
+## Learning Objectives
 
 * Understand and define podcasts/podcasting
 * Understand narrative devices used in podcasting
 * Share proper techniques for writing, recording, and editing podcasts
 * Install and explore Audacity as an audio-editing tool
 
-<h2>Documents for Module</h2>
+## Materials for Module
 
 [Audacity Slides (PDF)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/audio-editing_podcasting/fa26-ward-grmn3101-audacity/FA26-Ward-GRMN3101-Audacity.pdf)
 
@@ -44,6 +44,6 @@ This module will go over the basics of Audacity, fair use, and podcasts. The sec
 
 [Handout: Troubleshooting Audio Editing](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/21619b213a69bac57a359e4dc94ee508e950100a/handouts/audio-editing_podcasting/Handout_Troubleshooting_Audio_Editing.pdf) 
 
-<h2>DITI Consultants</h2>
+## DITI Consultants
 
 Developed by: Emily Sullivan and Emily Sandercock 

@@ -26,7 +26,7 @@ This module will introduce students to the functions of AI tools like ChatGPT an
 
 <h2>Documents for Module</h2>
 
-[AI for Policy Memos (PDF)](file:///C:/Users/emily/Downloads/FA26-Diamanti-Karanou-AIForPolicyMemos.pdf)
+[AI for Policy Memos (PDF)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/data-ethics/fa26-diamanti-karanou-intl3400-AIforpolicymemos/FA26-Diamanti-Karanou-AIForPolicyMemos%20(1).pdf)
 
 [AI for Policy Memos (Slides, includes alt text)](https://docs.google.com/presentation/d/1YxCJWCErSzuZORnjU93lkMNh8psutPyR4OxH9IL1bxk/edit?usp=sharing)
 
@@ -39,3 +39,7 @@ This module will introduce students to the functions of AI tools like ChatGPT an
 [Handout: Scite](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/citation-management/Handout-Scite.pdf)
 
 [Handout: Scopus AI](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/citation-management/Handout-Scite.pdf)
+
+<h2>DITI Consultants</h2>
+
+Emily Sandercock and Mel Williams

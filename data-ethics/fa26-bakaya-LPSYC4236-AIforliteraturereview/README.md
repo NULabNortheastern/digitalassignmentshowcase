@@ -24,7 +24,7 @@ This module will introduce students to the functions of AI tools like ChatGPT an
 
 <h2>Documents for Module</h2>
 
-[AI Literature Review (PDF)](file:///C:/Users/emily/Downloads/FA26-Bakaya-AIForLiteratureReviews.pdf)
+[AI Literature Review (PDF)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/data-ethics/fa26-bakaya-LPSYC4236-AIforliteraturereview/FA26-Bakaya-AIForLiteratureReviews%20(1).pdf)
 
 [AI Literature Review (Slides, includes alt text)](https://docs.google.com/presentation/d/1q1UanefkzwYEkgB4D60MalVoKaS_KCpwiF_7QMYkjzE/edit?usp=sharing)
 

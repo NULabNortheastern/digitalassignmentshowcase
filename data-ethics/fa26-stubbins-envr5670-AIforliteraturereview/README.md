@@ -25,7 +25,8 @@ This module will introduce students to the functions of AI tools like ChatGPT an
 *Learn how to conduct efficient and useful searches with AI tools like Chat GPT and Claude, as well as Scite and Scopus AI.
 
 <h2>Documents for Module</h2>
-[AI Literature Review (PDF)](file:///C:/Users/emily/Downloads/FA26-Stubbins-AIForLiteratureReviews.pdf)
+
+[AI Literature Review (PDF)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/data-ethics/fa26-stubbins-envr5670-AIforliteraturereview/FA26-Stubbins-AIForLiteratureReviews%20(1).pdf)
 
 [AI Literature Review (Slides, includes alt text)](https://docs.google.com/presentation/d/1-8Q3Mc1m9BlOyfwxjJ2s8cmf28VVl72tJoLq4h4NA_c/edit?usp=sharing)
 
@@ -38,3 +39,7 @@ This module will introduce students to the functions of AI tools like ChatGPT an
 [Handout: Scite](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/citation-management/Handout-Scite.pdf)
 
 [Handout: Scopus AI](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/citation-management/Handout-Scite.pdf)
+
+<h2>DITI Consultants</h2>
+
+Emily Sandercock and Sayyara Poliferno

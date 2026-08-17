@@ -26,11 +26,11 @@ This module will cover managing and adding sources in Zotero, developing a Story
 
 ## Materials for Module
 
-[Introduction to Zotero Slides PDF]()
+[Introduction to Zotero Slides PDF](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/a356c5625f51954423ffe125a39dce60248eb92c/multi-domain-modules/FA26-Poiger-HIST%201232-Multi/FA26-Poiger-HIST1232-Zotero.pdf)
 <br>
 [Introduction to Zotero Slides (Google Slides, includes alt text](https://docs.google.com/presentation/d/1kbsyjdvbruBnUAcCtWv-Z73OM11eFGE_NtOFNXSBWF0/edit?usp=sharing))
 <br>
-[Introduction to StoryMap & TimelineJS Slides PDF]()
+[Introduction to StoryMap & TimelineJS Slides PDF](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/a356c5625f51954423ffe125a39dce60248eb92c/multi-domain-modules/FA26-Poiger-HIST%201232-Multi/FA26-Poiger-HIST1232-StoryMap%20%26%20Timeline.pdf)
 <br>
 [Introduction to StoryMap & TimelineJS (Google Slides, includes alt text](https://docs.google.com/presentation/d/1LrZiQI9TBReLj_-HYdMkHNDI3zENQtUsGRs_IS3etIc/edit?usp=sharing))
 <br>

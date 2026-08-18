@@ -32,7 +32,7 @@ Qualitative Coding with NVivo
 
 ## Documents for Module
 
-### [Presentation PDF](file:///C:/Users/emily/Downloads/FA26-Bakaya-NVivo-Review.pdf)
+### [Presentation PDF](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/data-ethics/fa26-bakaya-LPSYC4236-AIforliteraturereview/FA26-Bakaya-AIForLiteratureReviews%20(1).pdf)
 
 ### [Presentation, Slides](https://docs.google.com/presentation/d/1GIt0PTIb2XU6MxIKW1RHwbIOhg559AHRUEA9SQ9VIyI/edit?usp=sharing)
 

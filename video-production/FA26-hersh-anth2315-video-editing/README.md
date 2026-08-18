@@ -13,7 +13,7 @@ Fall 2026
 
 <h2>Summary of Module</h2>
 
-The first portion of this module will cover the fundamentals of video production. The second portion introduces CapCut as an online video editing tool and provides example media for a hands-on activity editing video in CapCut. 
+The first portion of this module will cover the fundamentals of video production. The second portion introduces CapCut as an online video editing tool and provides sample media for a hands-on activity editing video in CapCut. 
 
 <h2>Learning Goals and Objectives</h2>
 
@@ -24,20 +24,17 @@ The first portion of this module will cover the fundamentals of video production
 
 <h2>Documents for Module</h2>
 
-[Video Production Slides (PDF)]()
+[Video Production Slides (PDF)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/65f38e9fcbbe5aeb3d961832e3ab065d256bd04d/video-production/FA26-hersh-anth2315-video-editing/Hersh_VideoProductionIntro_Slides_FA26.pdf)
 
 [Video Production Slides (Google Slides, includes alt text)](https://docs.google.com/presentation/d/1Hu-vzqmmnkDsaYscldKsezHFLwVdp2mz2ZG3J3HinP4/edit?usp=sharing)
 
-[Video Editing Slides (PDF)]()
+[Video Editing Slides (PDF)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/65f38e9fcbbe5aeb3d961832e3ab065d256bd04d/video-production/FA26-hersh-anth2315-video-editing/Hersh_VideoEditingIntro_Slides_FA26.pdf)
 
 [Video Editing Slides (Google Slides, includes alt text)](https://docs.google.com/presentation/d/130H0pjeA5cod3DV7nnvHyTRBPHgwo_yEVEsbl3FZdyA/edit?usp=sharing)
 
-[Example Media]()
+[Example Media](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/65f38e9fcbbe5aeb3d961832e3ab065d256bd04d/video-production/FA26-hersh-anth2315-video-editing/Sample%20Media)
 
 [Data Privacy Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/672f6915b864920a65d1617b0b48f57f7fe84295/handouts/general/Handout_%20Data%20Privacy.pdf)
-
-[Handout: Zoom Interview Recording](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/video-production/FA26-hersh-anth2315-video-editing/Handout_%20Zoom%20Interview%20Recording.pdf)
-
 
 <h2>DITI Consultations</h2>
 

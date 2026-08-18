@@ -29,7 +29,7 @@ This module will go over components of storytelling and how these components may
 
 <h2>Materials for Module</h2>
 
-[KnightLab StoryMap Slides (PDF)](\)
+[KnightLab StoryMap Slides (PDF)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/mapping/fa26-fuchs-grmn2102-storymap/Slides.pdf)
 
 [KnightLab StoryMap Slides (Google Slides, includes alt text)](https://docs.google.com/presentation/d/1-Z6O56DGMFXfoAiJREDjpKuhDglIoSINUWtsz9sOEh8/edit?usp=sharing)
 

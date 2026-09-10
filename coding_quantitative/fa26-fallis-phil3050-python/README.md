@@ -5,7 +5,7 @@ PHIL 3050: Information and Uncertainty
 <br>
 Don Fallis
 <br>
-Fall 2024
+Fall 2026
 <br>
 
 ## Summary of Module
@@ -19,17 +19,15 @@ This module will go over the basics of Python. It will teach students how to int
 
 ## Documents for Module
 
-[Google Colab Notebooks](https://github.com/NULabNortheastern/digitalassignmentshowcase/tree/0c3b66c39884071942da7ac761b0cf86ee7532c4/coding_quantitative/fa24-fallis-phil3050-python/Google_Colab_Notebooks)
+[Google Colab Notebooks](https://drive.google.com/drive/folders/1_ljcJuxaLUizia5vmvYkl4EDasBXGOka?usp=sharing)
 
-[Handout: Python Concepts and Notebooks](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/0c3b66c39884071942da7ac761b0cf86ee7532c4/coding_quantitative/fa24-fallis-phil3050-python/FA24_Handout_Python%20Concepts%20and%20Notebooks.pdf)
+[Handout: Introduction to Algorithms](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/coding_quantitative/fa26-fallis-phil3050-python/FA24_Handout_%20Algorithms.pdf)
 
-[Handout: Introduction to Algorithms](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/0c3b66c39884071942da7ac761b0cf86ee7532c4/coding_quantitative/fa24-fallis-phil3050-python/FA24_Handout_Algorithms.pdf)
+[Handout: Python Functions](https://docs.google.com/document/d/1Zg6VEL-KarA4ULbPtmhLkajU77caLUV2Qc6vJ1try2U/edit?usp=sharing)
 
-[Handout: Python Functions](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/0c3b66c39884071942da7ac761b0cf86ee7532c4/handouts/coding_quantitative/Handout_Python%20Functions.pdf)
+[Introduction and Resources Slide PDF](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/coding_quantitative/fa26-fallis-phil3050-python/FA26_Introduction%20to%20Python%20resources.pdf)
 
-[Introduction and Resources Slide PDF](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/bcfef8f8628c45ecc4f51361ff410a4c1f080179/coding_quantitative/fa24-fallis-phil3050-python/FA24_Intro%26ResourcesSlide.pdf)
-
-These module materials, including a Google Slides version of the Introduction and Resources Slide, are also available in the Google Drive folder [FA24-Fallis-PHIL3050-Python-StudentAccess](https://drive.google.com/drive/folders/1RHist7LkN4D0v11MiI1nT-k4te8YjZwu?usp=sharing).
+These module materials, including a Google Slides version of the Introduction and Resources Slide, are also available in the Google Drive folder [FA26-Fallis-PHIL3050-Python-StudentAccess](https://drive.google.com/drive/u/0/folders/1_ljcJuxaLUizia5vmvYkl4EDasBXGOka).
 
 ## DITI Consultants
-Created by Avery Blankenship, Sara Morrell, Yunus Emre Tapan, and Dipa Desai
+Created by Avery Blankenship, Sara Morrell, Yunus Emre Tapan, Dipa Desai and Sayyara Poliferno

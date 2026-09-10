@@ -30,7 +30,7 @@ This module will introduce students to the functions of AI tools like ChatGPT an
 
 [AI Literature Review (Slides, includes alt text)](https://docs.google.com/presentation/d/1-8Q3Mc1m9BlOyfwxjJ2s8cmf28VVl72tJoLq4h4NA_c/edit?usp=sharing)
 
-[Handout: Copyright and Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/1d414eee3ea6bbc545a951ba9426c71b15cb499f/handouts/general/Copyright-Fair-Use.pdf)
+[Handout: Copyright and Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/general/Copyright-Fair-Use.pdf)
 
 [Handout: Data Ethics](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/data-ethics/Handout-Data_Ethics.pdf) 
 

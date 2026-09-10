@@ -38,7 +38,7 @@ This module will introduce students to the functions of AI tools like ChatGPT an
 
 [Handout: Scite](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/citation-management/Handout-Scite.pdf)
 
-[Handout: Scopus AI](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/citation-management/Handout-Scite.pdf)
+[Handout: Scopus AI](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/citation-management/Handout-ScopusAI.pdf)
 
 <h2>DITI Consultants</h2>
 

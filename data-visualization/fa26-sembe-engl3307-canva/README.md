@@ -1,10 +1,11 @@
-<h1>Creating Instapoetry with Canva</h1>
+<h1>Creating Infographics
+with Canva</h1>
 
 <h2>Individual Class Info</h2>
 
-LCWRI5250: Electric Frontiers
+ENGL3307:  
 
-Dr. Sam Kemp
+Dr. Karina Sembe
 
 Fall 2026
 

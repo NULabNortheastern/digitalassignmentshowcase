@@ -10,7 +10,7 @@ Prof. Silvia Prina
 <br>
 Fall 2026
 <br>
-Taught by Sean Rogers, DITI Research and Teaching Fellows
+Taught by Sean P. Rogers, DITI Research and Teaching Fellows
 <br>
 
 ## Summary of Module

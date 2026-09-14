@@ -3,7 +3,7 @@ with Canva</h1>
 
 <h2>Individual Class Info</h2>
 
-ENGW3307:  
+ENGW3307: Advanced Writing in the Science Professions
 
 Dr. Karina Sembe
 

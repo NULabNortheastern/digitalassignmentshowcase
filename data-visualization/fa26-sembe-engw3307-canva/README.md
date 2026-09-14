@@ -30,7 +30,7 @@ Students will learn how to use Canva to produce visual poetry that effectively e
 <h2>Materials for Module</h2>
 
 
-### [Infographics Slides (PDF)](data-visualization/fa26-sembe-engw3307-canva/FA26-Sembe-ENGW3307-Canva.pdf)
+### [Infographics Slides (PDF)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/data-visualization/fa26-sembe-engw3307-canva/FA26-Sembe-ENGW3307-Canva.pdf)
 
 ### [Infographics Slides (Google Slides, includes alt text)](https://docs.google.com/presentation/d/15eoZNpp4fFu8poE9UJzdo2AhqOrAD5MzgGDPMUIBFZQ/edit?usp=sharing)
 

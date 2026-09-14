@@ -3,7 +3,7 @@ with Canva</h1>
 
 <h2>Individual Class Info</h2>
 
-ENGL3307:  
+ENGW3307:  
 
 Dr. Karina Sembe
 

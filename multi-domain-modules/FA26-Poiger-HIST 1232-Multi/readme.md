@@ -66,4 +66,4 @@ This module will cover managing and adding sources in Zotero, developing a Story
 
 
 ## DITI Consultants
-Tiffany Cruz & 
+Tiffany Cruz & Mel Williams 

@@ -14,19 +14,19 @@ This module will introduce students to the functions of AI tools like ChatGPT an
 
 <h2>Learning Goals</h2>
 
-*Understand the basic functions of AI source searches, and how to evaluate results.
+* Understand the basic functions of AI source searches, and how to evaluate results.
 
-*Learn how to craft searches to deliver the most useful and accurate results for your goals.
+* Learn how to craft searches to deliver the most useful and accurate results for your goals.
 
-*Gain an understanding of the ethical issues at play in the use of AI.
+* Gain an understanding of the ethical issues at play in the use of AI.
 
 <h2>Learning Objectives</h2>
 
-*Learn how to conduct efficient and useful searches with AI tools like Chat GPT and Claude, as well as Scite and Scopus AI.
+* Learn how to conduct efficient and useful searches with AI tools like Chat GPT and Claude, as well as Scite and Scopus AI.
 
 <h2>Documents for Module</h2>
 
-[AI for Policy Memos (PDF)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/data-ethics/fa26-diamanti-karanou-intl3400-AIforpolicymemos/FA26-Diamanti-Karanou-AIForPolicyMemos%20(1).pdf)
+[AI for Policy Memos (PDF)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/data-ethics/fa26-diamanti-karanou-intl3400-AIforpolicymemos/FA26-Diamanti-Karanou-AIForPolicyMemos.pdf)
 
 [AI for Policy Memos (Slides, includes alt text)](https://docs.google.com/presentation/d/1YxCJWCErSzuZORnjU93lkMNh8psutPyR4OxH9IL1bxk/edit?usp=sharing)
 
@@ -42,4 +42,4 @@ This module will introduce students to the functions of AI tools like ChatGPT an
 
 <h2>DITI Consultants</h2>
 
-Emily Sandercock and Mel Williams
+Emily Sandercock, Mel Williams, Sayyara Huseynli, and Sara Morrell

@@ -37,4 +37,4 @@ The first portion of this module will cover the fundamentals of video production
 
 <h2>DITI Consultations</h2>
 
-Tiffany Cruz and 
+Tiffany Cruz and Reba Dickson

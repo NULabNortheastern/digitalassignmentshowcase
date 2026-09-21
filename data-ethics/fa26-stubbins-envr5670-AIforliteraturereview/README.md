@@ -26,7 +26,7 @@ This module will introduce students to the functions of AI tools like ChatGPT an
 
 <h2>Documents for Module</h2>
 
-[AI Literature Review (PDF)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/data-ethics/fa26-stubbins-envr5670-AIforliteraturereview/FA26-Stubbins-AIForLiteratureReviews%20(1).pdf)
+[AI Literature Review (PDF)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/data-ethics/fa26-stubbins-envr5670-AIforliteraturereview/FA26-Stubbins-AIForLiteratureReviews.pdf)
 
 [AI Literature Review (Slides, includes alt text)](https://docs.google.com/presentation/d/1-8Q3Mc1m9BlOyfwxjJ2s8cmf28VVl72tJoLq4h4NA_c/edit?usp=sharing)
 

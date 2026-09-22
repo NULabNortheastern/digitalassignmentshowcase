@@ -24,7 +24,7 @@ This module will go over the basics of Audacity, fair use, and podcasts. The sec
 
 <h2>Documents for Module</h2>
 
-[Audacity Slides (PDF)]()
+[Audacity Slides (PDF)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/audio-editing_podcasting/fa26-wolf-pols1150-audacity/FA26-Wolf-POLS1150-Audacity-Slides.pdf)
 
 [Audacity Slides (Google Slides, includes alt text)](https://docs.google.com/presentation/d/1lwTGuMTjgHvw7L-PQ11rK6v_4VS28r1V5jw1Gq5oHQ8/edit?usp=sharing)
 

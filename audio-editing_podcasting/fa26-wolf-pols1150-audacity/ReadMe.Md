@@ -30,15 +30,15 @@ This module will go over the basics of Audacity, fair use, and podcasts. The sec
 
 [Handout: Introduction to Podcasting](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/audio-editing_podcasting/Handout-Audacity.pdf)
 
-[Handout: Copyright and Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/1d414eee3ea6bbc545a951ba9426c71b15cb499f/handouts/general/Copyright-Fair-Use.pdf)
+[Handout: Copyright and Fair Use](https://docs.google.com/document/d/1oU4Ma9yelOsQ6f8OM2NiQkDG5T5pAKzyS_B8PsThqIQ/edit?usp=sharing)
 
 [Handout: Accessibility in Digital Content](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/general/Handout-Accessibility_in_Digital_Content.pdf)
 
 [Handout: Data Ethics](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/data-ethics/Handout-Data_Ethics.pdf)
 
-[Handout: Install Audacity](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/d04cab8b59d14191f394645e73aa30c87d04627d/handouts/audio-editing_podcasting/Handout-Audacity_Installation.pdf)
+[Handout: Audacity](https://docs.google.com/document/d/14r5cU25ELijq4J-10l3M1s4tP-fwFzAj9XgiPGAhemg/edit?usp=sharing)
 
-[Handout: File Organization in Audacity](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/1d414eee3ea6bbc545a951ba9426c71b15cb499f/handouts/audio-editing_podcasting/Handout-Audacity_Storage.pdf)
+[Handout: File Organization in Audacity](https://docs.google.com/document/d/1Ep0cigX97rBMw-XlXYNAYy0vfXvm0mBHsO6wxBQJXok/edit?usp=sharing)
 
 [Handout: Troubleshooting Audio Editing](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/21619b213a69bac57a359e4dc94ee508e950100a/handouts/audio-editing_podcasting/Handout_Troubleshooting_Audio_Editing.pdf) 
 

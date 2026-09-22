@@ -22,7 +22,7 @@ This module will introduce students to the functions of AI tools like ChatGPT an
 
 <h2>Learning Objectives</h2>
 
-* Learn how to conduct efficient and useful searches with AI tools like Chat GPT and Claude, as well as Scite and Scopus AI.
+* Learn how to conduct efficient and useful searches with AI tools like Chat GPT and Claude.
 
 <h2>Documents for Module</h2>
 

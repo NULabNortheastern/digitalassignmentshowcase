@@ -22,11 +22,11 @@ This module will introduce students to the functions of AI tools like ChatGPT an
 
 <h2>Learning Objectives</h2>
 
-* Learn how to conduct efficient and useful searches with AI tools like Chat GPT and Claude, as well as Scite and Scopus AI.
+* Learn how to conduct efficient and useful searches with AI tools like Chat GPT and Claude.
 
 <h2>Documents for Module</h2>
 
-[AI Literature Review (PDF)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/data-ethics/fa26-stubbins-envr5670-AIforliteraturereview/FA26-Stubbins-AIForLiteratureReviews%20(1).pdf)
+[AI Literature Review (PDF)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/data-ethics/fa26-stubbins-envr5670-AIforliteraturereview/FA26-Stubbins-AIForLiteratureReviews.pdf)
 
 [AI Literature Review (Slides, includes alt text)](https://docs.google.com/presentation/d/1-8Q3Mc1m9BlOyfwxjJ2s8cmf28VVl72tJoLq4h4NA_c/edit?usp=sharing)
 
@@ -35,8 +35,6 @@ This module will introduce students to the functions of AI tools like ChatGPT an
 [Handout: Data Ethics](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/data-ethics/Handout-Data_Ethics.pdf) 
 
 [Handout: Data Privacy](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/general/Handout_%20Data%20Privacy.pdf)
-
-[Handout: Scite](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/citation-management/Handout-Scite.pdf)
 
 [Handout: Scopus AI](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/citation-management/Handout-ScopusAI.pdf)
 

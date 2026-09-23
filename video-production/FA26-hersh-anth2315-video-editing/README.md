@@ -23,11 +23,11 @@ The first portion of this module will cover the fundamentals of video production
 
 <h2>Documents for Module</h2>
 
-[Video Production Slides (PDF)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/65f38e9fcbbe5aeb3d961832e3ab065d256bd04d/video-production/FA26-hersh-anth2315-video-editing/Hersh_VideoProductionIntro_Slides_FA26.pdf)
+[Video Production Slides (PDF)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/video-production/FA26-hersh-anth2315-video-editing/Hersh_VideoProductionIntro_Slides_FA26.pdf)
 
 [Video Production Slides (Google Slides, includes alt text)](https://docs.google.com/presentation/d/1Hu-vzqmmnkDsaYscldKsezHFLwVdp2mz2ZG3J3HinP4/edit?usp=sharing)
 
-[Video Editing Slides (PDF)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/65f38e9fcbbe5aeb3d961832e3ab065d256bd04d/video-production/FA26-hersh-anth2315-video-editing/Hersh_VideoEditingIntro_Slides_FA26.pdf)
+[Video Editing Slides (PDF)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/video-production/FA26-hersh-anth2315-video-editing/Hersh_VideoEditingIntro_Slides_FA26.pdf)
 
 [Video Editing Slides (Google Slides, includes alt text)](https://docs.google.com/presentation/d/130H0pjeA5cod3DV7nnvHyTRBPHgwo_yEVEsbl3FZdyA/edit?usp=sharing)
 

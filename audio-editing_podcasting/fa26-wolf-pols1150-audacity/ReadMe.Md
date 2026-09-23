@@ -38,6 +38,8 @@ This module will go over the basics of Audacity, fair use, and podcasts. The sec
 
 [Handout: Audacity](https://docs.google.com/document/d/14r5cU25ELijq4J-10l3M1s4tP-fwFzAj9XgiPGAhemg/edit?usp=sharing)
 
+[Handout: Audacity Installation](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/audio-editing_podcasting/Handout_%20Audacity%20Installation.pdf)
+
 [Handout: File Organization in Audacity](https://docs.google.com/document/d/1Ep0cigX97rBMw-XlXYNAYy0vfXvm0mBHsO6wxBQJXok/edit?usp=sharing)
 
 [Handout: Troubleshooting Audio Editing](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/21619b213a69bac57a359e4dc94ee508e950100a/handouts/audio-editing_podcasting/Handout_Troubleshooting_Audio_Editing.pdf) 

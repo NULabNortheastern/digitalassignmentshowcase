@@ -34,7 +34,7 @@ This workshop will teach students about functions of AI tools like ChatGPT and C
 
 ## Materials for Module
 
-[AI Literature Review (PDF)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/multi-domain-modules/fa26-scott-insh6300-multi/fa26-scott-insh6300_AI_for_Lit_Reviews.pdf)
+[AI Literature Review (PDF)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/multi-domain-modules/fa26-scott-insh6300-multi/FA26-Scott-INSH6300-AI%20for%20Lit%20Reviews.pdf)
 
 [Survey Design with Qualtrics(PDF)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/multi-domain-modules/fa26-scott-insh6300-multi/fa26-scott-insh6300-survey-slides.pdf)
 

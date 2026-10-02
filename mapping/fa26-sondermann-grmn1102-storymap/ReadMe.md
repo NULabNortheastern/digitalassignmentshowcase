@@ -33,15 +33,15 @@ This module will go over components of storytelling and how these components may
 
 [KnightLab StoryMap Slides (Google Slides, includes alt text)](https://docs.google.com/presentation/d/1-Z6O56DGMFXfoAiJREDjpKuhDglIoSINUWtsz9sOEh8/edit?usp=sharing)
 
-[Handout: Copyright and Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/1d414eee3ea6bbc545a951ba9426c71b15cb499f/handouts/general/Copyright-Fair-Use.pdf)
+[Handout: Copyright and Fair Use](https://docs.google.com/document/d/1oU4Ma9yelOsQ6f8OM2NiQkDG5T5pAKzyS_B8PsThqIQ/edit?usp=sharing)
 
 [Spreadsheet Template](https://docs.google.com/spreadsheets/d/1IIGtxKKhjFVPRMK7mr6MiX3FE6fDH-QYekYvNPwthG8/edit#gid=0)
 
 [Handout: Spreadsheet Template User Guide](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/mapping/Handout-StoryMap_Spreadsheet_Template.pdf) 
 
-[Handout: Introduction to HTML](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/HTML-Introduction.pdf)
+[Handout: Introduction to HTML](https://docs.google.com/document/d/1zoU6I4gFIbK8IqoDz9Pt8i45tFkyiqATho9D1_KATME/edit?usp=sharing)
 
-[Handout: KnightLab StoryMap](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/mapping/Handout-StoryMap.pdf)
+[Handout: KnightLab StoryMap](https://docs.google.com/document/d/17ZGYk_3u0vkzC3TBmEoStEZkEpA8RgbKiemRI2XlBbU/edit?usp=sharing)
 
 [Handout: Accessibility in StoryMap](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/mapping/Handout-Accessibility_StoryMap.pdf)
 

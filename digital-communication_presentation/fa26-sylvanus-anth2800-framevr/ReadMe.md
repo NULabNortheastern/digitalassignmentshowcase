@@ -1,4 +1,4 @@
-# PowerPoint Presentation
+# Introduction to FrameVR
 
 Creating digital exhibitions with FrameVR
 

@@ -26,7 +26,7 @@ This module introduces three digital resources from the Women Writers Project fo
 
 ### [Slides (PDF)]()
 
-### [Slides (Google Slides, includes alt text)](https://docs.google.com/presentation/d/1UNE_K919Wpk7M1L4de1fcRZBKxSEN1IThagDOYjYPS8/edit?usp=sharing)
+### [Slides (Google Slides)](https://docs.google.com/presentation/d/1UNE_K919Wpk7M1L4de1fcRZBKxSEN1IThagDOYjYPS8/edit?usp=sharing)
 
 
 

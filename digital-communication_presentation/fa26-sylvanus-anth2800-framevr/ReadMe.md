@@ -21,7 +21,7 @@ Learn how to use FrameVR to create a small digital exhibit.
 # Learning Objectives
 
 * Learn the how to get started with FrameVR
-* Learn how to import and position different types of assests, such as images, audio, video, and 3D models.
+* Learn how to import and position different types of assets, such as images, audio, video, and 3D models.
 * Understand how to add textual data to describe the imported assets.
 * Gain awareness of how to organize objects thematically in a virtual environment.
 

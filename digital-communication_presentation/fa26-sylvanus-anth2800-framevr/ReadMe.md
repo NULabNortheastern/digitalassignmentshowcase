@@ -12,7 +12,7 @@ Fall 2026
 
 # Summary of Module
 
-This module covers the introduction to FrameVR, covering its key features and functionalities. It also includes a step-by-step guideline on importing different types of assets, such as images, audio, video, and 3D models and their spacial organization. This in-class workshop also addresses the usage of textual data such as object titles and descriptions to describe the imported assets in the exhibition space.
+This module covers the introduction to FrameVR, covering its key features and functionalities. It also includes a step-by-step guideline on importing different types of assets, such as images, audio, video, and 3D models and their spatial organization. This in-class workshop also addresses the usage of textual data such as object titles and descriptions to describe the imported assets in the exhibition space.
 
 # Learning Goal
 

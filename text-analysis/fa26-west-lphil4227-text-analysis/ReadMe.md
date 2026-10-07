@@ -24,11 +24,10 @@ This module introduces three digital resources from the Women Writers Project fo
 
 ## Documents for Module
 
-### [Slides (PDF)]()
-
-### [Slides (Google Slides)](https://docs.google.com/presentation/d/1UNE_K919Wpk7M1L4de1fcRZBKxSEN1IThagDOYjYPS8/edit?usp=sharing)
-
-
+## [Slides (PDF)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/text-analysis/fa26-west-lphil4227-text-analysis/FA26-West-LPHIL4227.pdf)
+## [Slides (Google Slides)](https://docs.google.com/presentation/d/1UNE_K919Wpk7M1L4de1fcRZBKxSEN1IThagDOYjYPS8/edit?usp=sharing)
+## [Handout: Data Privacy](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/general/Handout_%20Data%20Privacy.pdf)
+## [Handout: Troubleshooting Text Analysis](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/text-analysis/Handout_Troubleshooting_Text_Analysis.pdf)
 
 
 ## DITI Consultants

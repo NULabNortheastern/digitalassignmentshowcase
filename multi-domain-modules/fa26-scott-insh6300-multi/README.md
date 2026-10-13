@@ -27,14 +27,14 @@ This workshop will teach students about functions of AI tools like ChatGPT and C
 * Learn how to craft searches to deliver the most useful and accurate results for your goals. 
 * Gain an understanding of the ethical issues at play in the use of AI.
 * Articulate particular choices made when designing a survey
-* llow a step-by-step guide for creating, saving, and distributing surveys using Qualtrics
+* Follow a step-by-step guide for creating, saving, and distributing surveys using Qualtrics
 * Collect, export and process survey results in Qualtrics 
 
 <br/>
 
 ## Materials for Module
 
-[AI Literature Review (PDF)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/multi-domain-modules/fa26-scott-insh6300-multi/fa26-scott-insh6300_AI_for_Lit_Reviews.pdf)
+[AI Literature Review (PDF)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/multi-domain-modules/fa26-scott-insh6300-multi/FA26-Scott-INSH6300-AI%20for%20Lit%20Reviews.pdf)
 
 [Survey Design with Qualtrics(PDF)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/multi-domain-modules/fa26-scott-insh6300-multi/fa26-scott-insh6300-survey-slides.pdf)
 

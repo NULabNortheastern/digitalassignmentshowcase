@@ -27,8 +27,7 @@ Students will be able to use Omeka S to curate items. Students will learn how to
 
 [Omeka S Presentation Slides (PDF)]()
 
-
-[Omeka S Presentation Slides (Google Slides, includes alt text)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/digital-archiving/sp26-parr-hist5237-omeka/FA26_Parr_Digital%20Archiving%20with%20Omeka%20Classic_Slides.pdf)
+[Omeka S Presentation Slides (Google Slides, includes alt text)](https://docs.google.com/presentation/d/1O6ZtMehn2-_8EKnNM1ZnVHcan5a-10a4FT8UsrJeVuM/edit?slide=id.g20fb44c9d8b_0_202#slide=id.g20fb44c9d8b_0_202)
 [Handout: Accessibility in Digital Content](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/Accessibility.pdf)
 
 [Handout: Copyright & Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/Copyright-Fair-Use.pdf)

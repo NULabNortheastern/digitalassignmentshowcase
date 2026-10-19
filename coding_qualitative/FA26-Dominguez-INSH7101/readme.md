@@ -1,7 +1,7 @@
 # Qualitative Coding with NVivo & Video Production with Screencastify
 
 ## Individual Class Info
-INSH 7101: Qualitative Data Analysis
+INSH 7102: Qualitative Data Analysis
 <br>
 
 Professor Dominguez

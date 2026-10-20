@@ -32,7 +32,7 @@ Qualitative Coding with NVivo
 
 [Introduction to NVivo Slides (Google Slides)](https://docs.google.com/presentation/d/1DTCsRASusJ6leRaoPk3lB-PcPlYxRhf4Z1hT53o0aYI/edit?usp=sharing)
 
- [Introduction to NVivo Slides (PDF)](https://drive.google.com/file/d/1GtGKJv2bAi3LoZhIzmooHmDZ_7xB65qS/view?usp=sharing)
+ [Introduction to NVivo Slides (PDF)](https://drive.google.com/file/d/1xHXT9buL1IP13OmuljES6IrOwgGnBTVD/view?usp=drive_link)
 
 ### Handouts
 
@@ -40,7 +40,7 @@ Qualitative Coding with NVivo
 
 [Handout: Coding with NVivo](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/2a9de85fa077636dd19360ab5eceb3e6aacf8f53/handouts/coding_qualitative/Handout-NVivo.pdf)
 
-[Handout: Copyright and Fair Use](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/1d414eee3ea6bbc545a951ba9426c71b15cb499f/handouts/general/Copyright-Fair-Use.pdf)
+[Handout: Copyright and Fair Use](https://docs.google.com/document/d/1oU4Ma9yelOsQ6f8OM2NiQkDG5T5pAKzyS_B8PsThqIQ/edit?usp=sharing)
 
 [Handout: Accessibility in Digital Content](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/general/Handout-Accessibility_in_Digital_Content.pdf)
 
@@ -52,7 +52,7 @@ Qualitative Coding with NVivo
 
 
 ## DITI Consultants
-Sean P. Rogers and Yutong Ji
+Sean P. Rogers and Yuntong Ji
 
 
 

@@ -1,4 +1,4 @@
-# Qualitative Coding with NVivo & Video Production with Screencastify
+# Qualitative Coding with NVivo
 
 ## Individual Class Info
 INSH 7102: Qualitative Data Analysis
@@ -11,12 +11,11 @@ Fall 2026
 <br>
 
 ## Summary of Module
-This module will go over the basics of how to install NVivo and use the software as a research tool, as well as how to produce videos with Screencastify. Students will be introduced to the basic concepts of NVivo and then taught how to import documents, create codes, and basic analytical visualizations and queries in the NVivo module, and how to record and edit videos using Screencastify.
+This module will go over the basics of how to install NVivo and use the software as a research tool. Students will be introduced to the basic concepts of NVivo and then taught how to import documents, create codes, and basic analytical visualizations and queries in the NVivo module.
 
 ## Learning Goals
 Qualitative Coding with NVivo
 * Understand the purpose of NVivo’s qualitative toolset and how to apply it to documents
-* Understand the basics of video recording and editing using Screencastify
 * Apply the skills they learn to their own research projects
 
 ## Learning Objectives
@@ -25,7 +24,6 @@ Qualitative Coding with NVivo
 * Understand the mechanics creating an NVivo project and the layout of the user interface
 * Know how to import files, create codes, create analysis cases, code documents, and create annotations
 * Use their codes to create visualizations and perform analytical queries like word frequency or cross-tabulation
-* Understand how to install Screencastify, record and edit videos, and export finished videos
 
 
 ## Documents for Module
@@ -48,7 +46,6 @@ Qualitative Coding with NVivo
 
 [Handout: Data Privacy](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/general/Handout_%20Data%20Privacy.pdf)
 
-[Handout: Screencastify](https://docs.google.com/document/d/1clyW8zQolzqy3FXja1GLJdN5CEPhr8TDTtxQ54snCew/edit?usp=sharing)
 
 
 ## DITI Consultants

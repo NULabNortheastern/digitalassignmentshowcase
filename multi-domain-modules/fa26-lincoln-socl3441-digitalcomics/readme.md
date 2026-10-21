@@ -4,7 +4,9 @@
 <h2>Individual Class Information</h2>
 
 SOCL3441: Sociology of Health and Illness 
+
 Professor Alisa Lincoln
+
 Fall 2026
 
 <h2>Summary of Module</h2>

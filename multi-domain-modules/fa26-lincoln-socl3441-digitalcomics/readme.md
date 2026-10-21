@@ -28,7 +28,7 @@ Learn how to choose the most appropriate method based on your artistic goals, ti
 <h2>Documents for Module</h2>
 
 
-[Intro to Digital Comics Slide(PDF)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/multi-domain-modules/fa26-lincoln-socl3441-digitalcomics/FA26-Lincoln-SOCL3441-DigitalComics.pdf)
+[Intro to Digital Comics Slide (PDF)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/multi-domain-modules/fa26-lincoln-socl3441-digitalcomics/FA26-Lincoln-SOCL3441-DigitalComics.pdf)
 
 
 [Slide Deck (Google Slides, includes alt text)](https://docs.google.com/presentation/d/1RediypTmPHQYlG4Nx7rQmT2Eo9kClcUZc9UCTRkbxSs/edit?usp=sharing)

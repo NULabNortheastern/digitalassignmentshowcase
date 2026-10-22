@@ -20,7 +20,13 @@ This module introduces artificial intelligence (AI) for literature reviews, incl
 
 [AI For Literature Reviews (Google Slides, includes alt text)](https://docs.google.com/presentation/d/1vsfEwJRi4rn9gcCxwE_TyXmEoyn8xbVkNMvQMZKTh6E/edit?usp=sharing)
 
-[Scite Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/citation-management/Handout-Scite.pdf)
+[Introduction to AI Handout](https://docs.google.com/document/d/135osXuUaLjRBMQsebAMjDmLye4gEe908Ixr-MaLENvc/edit?usp=sharing)
+
+[Introduction to AI Ethics Handout](https://docs.google.com/document/d/18CuWKXYr7WdhsIFzknHCxd_1Ko2TO_tymBmytCXEG84/edit?usp=sharing)
+
+[Scopus AI Handout](https://docs.google.com/document/d/1HffHyVT3CbL6jPbg9Ws912zDHLFxR_ihst3DCYwn20w/edit?usp=sharing)
+
+[Scite Handout](https://docs.google.com/document/d/1_j9RLd8AnPxsHlsYWtOPwPXiO5Gnx6a-BQ-DDdXo6dI/edit?usp=sharing)
 
 [Data Privacy Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/data-ethics/sp25-savit-mscr2505wmns2505-dataethics%2Bdatafeminism/Handout_%20Data%20Privacy.pdf)
 

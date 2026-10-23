@@ -2,11 +2,11 @@
 
 <h2>Individual Class Info</h2>
 
-ENGW 3302
+CRIM4949
 
-Dr. Carolin Fuchs
+Prof. Kevin Drakulich
 
-Summer 2026
+Fall 2026
 
 <h2>Summary of Module</h2>
 
@@ -27,9 +27,9 @@ Students will learn how to use Canva to produce professional visualizations that
 <h2>Materials for Module</h2>
 
 
-### [PDF Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/data-visualization/su26-fuchs-engw3302-infographics/su26-Fuchs-ENGW3302-Infographics-slides.pdf)
+### [PDF Slides](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/data-visualization/fa26-drakulich-crim4949-infographics/FA26-Drakulich-CRIM4949-Infographics.pdf)
 
-### [Google Slides](https://docs.google.com/presentation/d/1K_nCBH-E_dUPOZr0NMmyAQKhHHjT8zSqPAZYL26Tgqw/edit?usp=sharing)
+### [Google Slides](https://docs.google.com/presentation/d/1z-NVdDQ4mSQzJwQ3fK1DRSDnb8YDZVcPUyIXw8YGLyE/edit?usp=drive_link)
 
 ### [Infographics Tools Handout](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/handouts/data-visualization/Handout-Infographics_Tools.pdf)
 
@@ -40,4 +40,4 @@ Students will learn how to use Canva to produce professional visualizations that
 
 <h1>DITI Consultants</h1>
 
-Ayah Aboelela and Mel Williams
+Sara Morrell and Yuntong Ji

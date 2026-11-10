@@ -30,9 +30,9 @@ Students will learn how to use Canva to produce visual poetry that effectively e
 <h2>Materials for Module</h2>
 
 
-### [Infographics Slides (PDF)](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/data-visualization/fa26-sembe-engw3307-canva/FA26-Sembe-ENGW3307-Canva.pdf)
+### [Infographics Slides (PDF)]()
 
-### [Infographics Slides (Google Slides, includes alt text)](https://docs.google.com/presentation/d/15eoZNpp4fFu8poE9UJzdo2AhqOrAD5MzgGDPMUIBFZQ/edit?usp=sharing)
+### [Infographics Slides (Google Slides with alt text)](https://docs.google.com/presentation/d/1iTTEkPsXjbWpky7-UH5d-9GRDG1qASioHzV0SlTihbQ/edit?slide=id.g3f3cf889a53_0_837#slide=id.g3f3cf889a53_0_837)
 
 ### [Handout: Web-based Tools for Infographics Design](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/main/handouts/data-visualization/Handout-Infographics_Tools.pdf)
 
@@ -44,4 +44,4 @@ Students will learn how to use Canva to produce visual poetry that effectively e
 
 <h1>DITI Consultants</h1>
 
-Emily Sullivan & Claire Lavarreda
+Sayyara Poliferno and Tiffany Cruz

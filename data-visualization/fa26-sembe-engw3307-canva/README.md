@@ -9,23 +9,18 @@ Dr. Karina Sembe
 
 Fall 2026
 
-<h2>Summary of Module</h2>
-
-This module demonstrates how to use the Canva digital online tool to create visual poetry. It is a one-day module. The module will go over a tutorial and introduction to Canva to teach students how to use the tool, design and accessibility considerations, and how to create an instapoem. 
-
 <h2>Learning Goals</h2>
 
-Students will learn how to use Canva to produce visual poetry that effectively engages textual and graphical components in meaningful and accessible ways.
+Students will learn how to produce effective visualizations in Canva utilizing textual and graphical components in meaningful and accessible ways.
 
 <h2>Learning Objectives</h2>
 
-* Learn about the basics of instapoetry
-
-* Review some best practices and examples of instapoetry
-
-* Explore how to make instapoetry using Canva, a free online tool
+* Learn about best practices to create effective visualizations.
 
 * Understand how design choices impact accessibility in designing textual and graphical material.
+
+* Explore how to use Canva, a free online tool, to create data driven infographics and other forms of data visualizations.
+
 
 <h2>Materials for Module</h2>
 
